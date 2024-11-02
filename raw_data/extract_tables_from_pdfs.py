@@ -450,7 +450,6 @@ def process_beilage_8(pdf_path):
         return total_df
 
 
-
 def process_beilage_7(pdf_path):
     total_df = pd.DataFrame([])
     # Read the PDF with pdfplumber
@@ -832,9 +831,10 @@ def save_csv(save_dir, base_filename, combined_table):
 
 def extract_tables_from_pdf(pdf_path, output_dir):
     """Extract tables from a PDF and process them"""
-    if 0:
-        # Extract all tables from the PDF
+    if pdf_path.endswith("_1.pdf"):
+        # beilage 1 used another package
         tables = tabula.read_pdf(pdf_path, pages="all", multiple_tables=True)
+        return tables
 
     tables = []
 
@@ -849,8 +849,6 @@ def extract_tables_from_pdf(pdf_path, output_dir):
                     tables.append(df)
     return tables
 
-    process_beilage_tables(tables, pdf_path, output_dir)
-
 
 def main():
     # Directory containing the PDFs
@@ -859,8 +857,15 @@ def main():
     # Directory for saving extracted data
     output_directory = "extracted_data"
 
-    # Process all PDF files in the directory
-    for pdf_path in glob.glob(os.path.join(pdf_directory, "*_12.pdf")):
+    # Process the following PDF files in the directory
+    # only files ending with _1.pdf through _12.pdf and 5a, 6a and 7a.pdf
+    # other files are handled manually (copy pasting etc)
+    pdf_paths = (
+        glob.glob(os.path.join(pdf_directory, "*_[1-9].pdf"))
+        + glob.glob(os.path.join(pdf_directory, "*_1[0-2].pdf"))
+        + glob.glob(os.path.join(pdf_directory, "*_[5-7]a.pdf"))
+    )
+    for pdf_path in pdf_paths:
         print(f"Processing: {pdf_path}")
         tables = extract_tables_from_pdf(pdf_path, output_directory)
         process_beilage_tables(tables, pdf_path, output_directory)
