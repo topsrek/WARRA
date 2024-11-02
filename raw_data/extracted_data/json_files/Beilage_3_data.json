@@ -1,0 +1,2933 @@
+{
+    "metadata": {
+        "question": "Wie viele Anträge zur Wahlarztkostenrefundierung wurden seit 2023 eingebracht? (Darstellungje KV-Träger/ÖGK-Landestelle, nach Monat und Antragsart postalich/online, sowie Fachrichtungen)18726/AB XXVII. GP - Anfragebeantwortung - Beilage 3 1 von 12 www.parlament.gv.at",
+        "units": {
+            "postal": "Anzahl",
+            "online": "Anzahl",
+            "Gesamt": "Anzahl"
+        },
+        "year": "2023",
+        "description": {
+            "postal": "postalische Anträge nach Monat und Fachrichtung",
+            "online": "online Anträge nach Monat und Fachrichtung"
+        }
+    },
+    "data": [
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 5.0,
+            "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
+            "postal": 17461.0,
+            "online": 15099.0,
+            "Gesamt": 32560.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 6.0,
+            "Fachrichtung": "FA für Frauenheilkunde und Geburtshilfe",
+            "postal": 32647.0,
+            "online": 32114.0,
+            "Gesamt": 64761.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 7.0,
+            "Fachrichtung": "FA für Innere Medizin",
+            "postal": 18795.0,
+            "online": 13721.0,
+            "Gesamt": 32516.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 8.0,
+            "Fachrichtung": "FA für Kinder- und Jugendheilkunde",
+            "postal": 11806.0,
+            "online": 26126.0,
+            "Gesamt": 37932.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 9.0,
+            "Fachrichtung": "FA für Hals-, Nasen- und Ohrenerkrankungen",
+            "postal": 6278.0,
+            "online": 5656.0,
+            "Gesamt": 11934.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 10.0,
+            "Fachrichtung": "FA für Lungenkrankheiten",
+            "postal": 1136.0,
+            "online": 1541.0,
+            "Gesamt": 2677.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 11.0,
+            "Fachrichtung": "FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie",
+            "postal": 1281.0,
+            "online": 479.0,
+            "Gesamt": 1760.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 12.0,
+            "Fachrichtung": "FA für Orthopädie und orthopädische Chirurgie",
+            "postal": 17310.0,
+            "online": 12148.0,
+            "Gesamt": 29458.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 13.0,
+            "Fachrichtung": "FA für Physikalische Medizin",
+            "postal": 1083.0,
+            "online": 976.0,
+            "Gesamt": 2059.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 14.0,
+            "Fachrichtung": "FA für Radiologie",
+            "postal": 1587.0,
+            "online": 885.0,
+            "Gesamt": 2472.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 15.0,
+            "Fachrichtung": "FA für Unfallchirurgie",
+            "postal": 4093.0,
+            "online": 3305.0,
+            "Gesamt": 7398.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 16.0,
+            "Fachrichtung": "FA für Urologie",
+            "postal": 5713.0,
+            "online": 3983.0,
+            "Gesamt": 9696.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 18.0,
+            "Fachrichtung": "FA für Neurochirurgie",
+            "postal": 967.0,
+            "online": 518.0,
+            "Gesamt": 1485.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 19.0,
+            "Fachrichtung": "FA für Neurologie",
+            "postal": 5213.0,
+            "online": 2658.0,
+            "Gesamt": 7871.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 20.0,
+            "Fachrichtung": "FA für Psychiatrie",
+            "postal": 7960.0,
+            "online": 6599.0,
+            "Gesamt": 14559.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 21.0,
+            "Fachrichtung": "FA für Plastische Chirurgie",
+            "postal": 492.0,
+            "online": 377.0,
+            "Gesamt": 869.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 22.0,
+            "Fachrichtung": "FA für Kinderchirurgie",
+            "postal": 72.0,
+            "online": 140.0,
+            "Gesamt": 212.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 23.0,
+            "Fachrichtung": "FA für Mund., Kiefer- und Gesichtschirurgie",
+            "postal": 897.0,
+            "online": 468.0,
+            "Gesamt": 1365.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 24.0,
+            "Fachrichtung": "FA für Nuklearmedizin",
+            "postal": 1295.0,
+            "online": 1607.0,
+            "Gesamt": 2902.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 26.0,
+            "Fachrichtung": "FA für Strahlentherapie - Radioonkologie",
+            "postal": 13.0,
+            "online": 6.0,
+            "Gesamt": 19.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 29.0,
+            "Fachrichtung": "FA für Immunologie",
+            "postal": 2.0,
+            "online": 22.0,
+            "Gesamt": 24.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 32.0,
+            "Fachrichtung": "FA für Kinder- und Jugendpsychiatrie",
+            "postal": 311.0,
+            "online": 313.0,
+            "Gesamt": 624.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 34.0,
+            "Fachrichtung": "FA für medizinische Biologie",
+            "postal": NaN,
+            "online": NaN,
+            "Gesamt": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 50.0,
+            "Fachrichtung": "FA für medizinische und chemische Labordiagnostik",
+            "postal": 81.0,
+            "online": 74.0,
+            "Gesamt": 155.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 53.0,
+            "Fachrichtung": "FA für Pathologie und Histologie",
+            "postal": 58.0,
+            "online": 51.0,
+            "Gesamt": 109.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 55.0,
+            "Fachrichtung": "FA für Hygiene und Mikrobiologie bzw. Labordiagnostik",
+            "postal": 9.0,
+            "online": 14.0,
+            "Gesamt": 23.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": NaN,
+            "Fachrichtung": "Gesamt",
+            "postal": 183996.0,
+            "online": 173941.0,
+            "Gesamt": 357937.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 5.0,
+            "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
+            "postal": 18464.0,
+            "online": 13634.0,
+            "Gesamt": 32098.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 6.0,
+            "Fachrichtung": "FA für Frauenheilkunde und Geburtshilfe",
+            "postal": 32120.0,
+            "online": 27441.0,
+            "Gesamt": 59561.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 7.0,
+            "Fachrichtung": "FA für Innere Medizin",
+            "postal": 19579.0,
+            "online": 11677.0,
+            "Gesamt": 31256.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 8.0,
+            "Fachrichtung": "FA für Kinder- und Jugendheilkunde",
+            "postal": 11724.0,
+            "online": 22814.0,
+            "Gesamt": 34538.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 9.0,
+            "Fachrichtung": "FA für Hals-, Nasen- und Ohrenerkrankungen",
+            "postal": 5479.0,
+            "online": 5138.0,
+            "Gesamt": 10617.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 10.0,
+            "Fachrichtung": "FA für Lungenkrankheiten",
+            "postal": 970.0,
+            "online": 1355.0,
+            "Gesamt": 2325.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 11.0,
+            "Fachrichtung": "FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie",
+            "postal": 1106.0,
+            "online": 611.0,
+            "Gesamt": 1717.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 12.0,
+            "Fachrichtung": "FA für Orthopädie und orthopädische Chirurgie",
+            "postal": 16600.0,
+            "online": 11274.0,
+            "Gesamt": 27874.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 13.0,
+            "Fachrichtung": "FA für Physikalische Medizin",
+            "postal": 1000.0,
+            "online": 894.0,
+            "Gesamt": 1894.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 14.0,
+            "Fachrichtung": "FA für Radiologie",
+            "postal": 1613.0,
+            "online": 714.0,
+            "Gesamt": 2327.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 15.0,
+            "Fachrichtung": "FA für Unfallchirurgie",
+            "postal": 3551.0,
+            "online": 2645.0,
+            "Gesamt": 6196.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 16.0,
+            "Fachrichtung": "FA für Urologie",
+            "postal": 4961.0,
+            "online": 3234.0,
+            "Gesamt": 8195.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 18.0,
+            "Fachrichtung": "FA für Neurochirurgie",
+            "postal": 931.0,
+            "online": 413.0,
+            "Gesamt": 1344.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 19.0,
+            "Fachrichtung": "FA für Neurologie",
+            "postal": 4558.0,
+            "online": 2267.0,
+            "Gesamt": 6825.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 20.0,
+            "Fachrichtung": "FA für Psychiatrie",
+            "postal": 6530.0,
+            "online": 6326.0,
+            "Gesamt": 12856.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 21.0,
+            "Fachrichtung": "FA für Plastische Chirurgie",
+            "postal": 402.0,
+            "online": 330.0,
+            "Gesamt": 732.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 22.0,
+            "Fachrichtung": "FA für Kinderchirurgie",
+            "postal": 86.0,
+            "online": 127.0,
+            "Gesamt": 213.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 23.0,
+            "Fachrichtung": "FA für Mund., Kiefer- und Gesichtschirurgie",
+            "postal": 748.0,
+            "online": 448.0,
+            "Gesamt": 1196.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 24.0,
+            "Fachrichtung": "FA für Nuklearmedizin",
+            "postal": 1381.0,
+            "online": 1449.0,
+            "Gesamt": 2830.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 26.0,
+            "Fachrichtung": "FA für Strahlentherapie - Radioonkologie",
+            "postal": 22.0,
+            "online": 10.0,
+            "Gesamt": 32.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 29.0,
+            "Fachrichtung": "FA für Immunologie",
+            "postal": 16.0,
+            "online": 21.0,
+            "Gesamt": 37.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 32.0,
+            "Fachrichtung": "FA für Kinder- und Jugendpsychiatrie",
+            "postal": 287.0,
+            "online": 353.0,
+            "Gesamt": 640.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 34.0,
+            "Fachrichtung": "FA für medizinische Biologie",
+            "postal": NaN,
+            "online": NaN,
+            "Gesamt": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 50.0,
+            "Fachrichtung": "FA für medizinische und chemische Labordiagnostik",
+            "postal": 90.0,
+            "online": 68.0,
+            "Gesamt": 158.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 53.0,
+            "Fachrichtung": "FA für Pathologie und Histologie",
+            "postal": 56.0,
+            "online": 32.0,
+            "Gesamt": 88.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 55.0,
+            "Fachrichtung": "FA für Hygiene und Mikrobiologie bzw. Labordiagnostik",
+            "postal": 18.0,
+            "online": 10.0,
+            "Gesamt": 28.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": NaN,
+            "Fachrichtung": "Gesamt",
+            "postal": 181441.0,
+            "online": 151840.0,
+            "Gesamt": 333281.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 5.0,
+            "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
+            "postal": 21490.0,
+            "online": 18497.0,
+            "Gesamt": 39987.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 6.0,
+            "Fachrichtung": "FA für Frauenheilkunde und Geburtshilfe",
+            "postal": 38812.0,
+            "online": 38101.0,
+            "Gesamt": 76913.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 7.0,
+            "Fachrichtung": "FA für Innere Medizin",
+            "postal": 23793.0,
+            "online": 16071.0,
+            "Gesamt": 39864.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 8.0,
+            "Fachrichtung": "FA für Kinder- und Jugendheilkunde",
+            "postal": 15035.0,
+            "online": 30141.0,
+            "Gesamt": 45176.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 9.0,
+            "Fachrichtung": "FA für Hals-, Nasen- und Ohrenerkrankungen",
+            "postal": 7656.0,
+            "online": 7153.0,
+            "Gesamt": 14809.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 10.0,
+            "Fachrichtung": "FA für Lungenkrankheiten",
+            "postal": 1258.0,
+            "online": 1611.0,
+            "Gesamt": 2869.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 11.0,
+            "Fachrichtung": "FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie",
+            "postal": 1309.0,
+            "online": 683.0,
+            "Gesamt": 1992.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 12.0,
+            "Fachrichtung": "FA für Orthopädie und orthopädische Chirurgie",
+            "postal": 20010.0,
+            "online": 15082.0,
+            "Gesamt": 35092.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 13.0,
+            "Fachrichtung": "FA für Physikalische Medizin",
+            "postal": 1190.0,
+            "online": 1165.0,
+            "Gesamt": 2355.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 14.0,
+            "Fachrichtung": "FA für Radiologie",
+            "postal": 2274.0,
+            "online": 1103.0,
+            "Gesamt": 3377.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 15.0,
+            "Fachrichtung": "FA für Unfallchirurgie",
+            "postal": 4632.0,
+            "online": 3840.0,
+            "Gesamt": 8472.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 16.0,
+            "Fachrichtung": "FA für Urologie",
+            "postal": 6374.0,
+            "online": 4479.0,
+            "Gesamt": 10853.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 18.0,
+            "Fachrichtung": "FA für Neurochirurgie",
+            "postal": 1120.0,
+            "online": 601.0,
+            "Gesamt": 1721.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 19.0,
+            "Fachrichtung": "FA für Neurologie",
+            "postal": 5653.0,
+            "online": 3384.0,
+            "Gesamt": 9037.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 20.0,
+            "Fachrichtung": "FA für Psychiatrie",
+            "postal": 7892.0,
+            "online": 8706.0,
+            "Gesamt": 16598.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 21.0,
+            "Fachrichtung": "FA für Plastische Chirurgie",
+            "postal": 435.0,
+            "online": 449.0,
+            "Gesamt": 884.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 22.0,
+            "Fachrichtung": "FA für Kinderchirurgie",
+            "postal": 92.0,
+            "online": 213.0,
+            "Gesamt": 305.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 23.0,
+            "Fachrichtung": "FA für Mund., Kiefer- und Gesichtschirurgie",
+            "postal": 953.0,
+            "online": 507.0,
+            "Gesamt": 1460.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 24.0,
+            "Fachrichtung": "FA für Nuklearmedizin",
+            "postal": 1491.0,
+            "online": 2044.0,
+            "Gesamt": 3535.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 26.0,
+            "Fachrichtung": "FA für Strahlentherapie - Radioonkologie",
+            "postal": 38.0,
+            "online": 17.0,
+            "Gesamt": 55.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 29.0,
+            "Fachrichtung": "FA für Immunologie",
+            "postal": 2.0,
+            "online": 32.0,
+            "Gesamt": 34.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 32.0,
+            "Fachrichtung": "FA für Kinder- und Jugendpsychiatrie",
+            "postal": 368.0,
+            "online": 529.0,
+            "Gesamt": 897.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 34.0,
+            "Fachrichtung": "FA für medizinische Biologie",
+            "postal": NaN,
+            "online": NaN,
+            "Gesamt": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 50.0,
+            "Fachrichtung": "FA für medizinische und chemische Labordiagnostik",
+            "postal": 95.0,
+            "online": 106.0,
+            "Gesamt": 201.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 53.0,
+            "Fachrichtung": "FA für Pathologie und Histologie",
+            "postal": 57.0,
+            "online": 57.0,
+            "Gesamt": 114.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 55.0,
+            "Fachrichtung": "FA für Hygiene und Mikrobiologie bzw. Labordiagnostik",
+            "postal": 14.0,
+            "online": 18.0,
+            "Gesamt": 32.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": NaN,
+            "Fachrichtung": "Gesamt",
+            "postal": 219078.0,
+            "online": 207407.0,
+            "Gesamt": 426485.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 5.0,
+            "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
+            "postal": 18646.0,
+            "online": 15866.0,
+            "Gesamt": 34512.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 6.0,
+            "Fachrichtung": "FA für Frauenheilkunde und Geburtshilfe",
+            "postal": 31079.0,
+            "online": 29867.0,
+            "Gesamt": 60946.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 7.0,
+            "Fachrichtung": "FA für Innere Medizin",
+            "postal": 20314.0,
+            "online": 13676.0,
+            "Gesamt": 33990.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 8.0,
+            "Fachrichtung": "FA für Kinder- und Jugendheilkunde",
+            "postal": 10865.0,
+            "online": 24952.0,
+            "Gesamt": 35817.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 9.0,
+            "Fachrichtung": "FA für Hals-, Nasen- und Ohrenerkrankungen",
+            "postal": 6084.0,
+            "online": 5695.0,
+            "Gesamt": 11779.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 10.0,
+            "Fachrichtung": "FA für Lungenkrankheiten",
+            "postal": 825.0,
+            "online": 1385.0,
+            "Gesamt": 2210.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 11.0,
+            "Fachrichtung": "FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie",
+            "postal": 1086.0,
+            "online": 488.0,
+            "Gesamt": 1574.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 12.0,
+            "Fachrichtung": "FA für Orthopädie und orthopädische Chirurgie",
+            "postal": 18163.0,
+            "online": 12587.0,
+            "Gesamt": 30750.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 13.0,
+            "Fachrichtung": "FA für Physikalische Medizin",
+            "postal": 936.0,
+            "online": 989.0,
+            "Gesamt": 1925.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 14.0,
+            "Fachrichtung": "FA für Radiologie",
+            "postal": 2016.0,
+            "online": 950.0,
+            "Gesamt": 2966.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 15.0,
+            "Fachrichtung": "FA für Unfallchirurgie",
+            "postal": 3962.0,
+            "online": 3302.0,
+            "Gesamt": 7264.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 16.0,
+            "Fachrichtung": "FA für Urologie",
+            "postal": 5123.0,
+            "online": 3519.0,
+            "Gesamt": 8642.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 18.0,
+            "Fachrichtung": "FA für Neurochirurgie",
+            "postal": 928.0,
+            "online": 506.0,
+            "Gesamt": 1434.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 19.0,
+            "Fachrichtung": "FA für Neurologie",
+            "postal": 4489.0,
+            "online": 2507.0,
+            "Gesamt": 6996.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 20.0,
+            "Fachrichtung": "FA für Psychiatrie",
+            "postal": 7057.0,
+            "online": 6913.0,
+            "Gesamt": 13970.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 21.0,
+            "Fachrichtung": "FA für Plastische Chirurgie",
+            "postal": 451.0,
+            "online": 425.0,
+            "Gesamt": 876.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 22.0,
+            "Fachrichtung": "FA für Kinderchirurgie",
+            "postal": 95.0,
+            "online": 192.0,
+            "Gesamt": 287.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 23.0,
+            "Fachrichtung": "FA für Mund., Kiefer- und Gesichtschirurgie",
+            "postal": 938.0,
+            "online": 440.0,
+            "Gesamt": 1378.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 24.0,
+            "Fachrichtung": "FA für Nuklearmedizin",
+            "postal": 1341.0,
+            "online": 1813.0,
+            "Gesamt": 3154.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 26.0,
+            "Fachrichtung": "FA für Strahlentherapie - Radioonkologie",
+            "postal": 18.0,
+            "online": 10.0,
+            "Gesamt": 28.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 29.0,
+            "Fachrichtung": "FA für Immunologie",
+            "postal": 14.0,
+            "online": 10.0,
+            "Gesamt": 24.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 32.0,
+            "Fachrichtung": "FA für Kinder- und Jugendpsychiatrie",
+            "postal": 322.0,
+            "online": 375.0,
+            "Gesamt": 697.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 34.0,
+            "Fachrichtung": "FA für medizinische Biologie",
+            "postal": 1.0,
+            "online": NaN,
+            "Gesamt": 1.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 50.0,
+            "Fachrichtung": "FA für medizinische und chemische Labordiagnostik",
+            "postal": 93.0,
+            "online": 64.0,
+            "Gesamt": 157.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 53.0,
+            "Fachrichtung": "FA für Pathologie und Histologie",
+            "postal": 64.0,
+            "online": 35.0,
+            "Gesamt": 99.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 55.0,
+            "Fachrichtung": "FA für Hygiene und Mikrobiologie bzw. Labordiagnostik",
+            "postal": 12.0,
+            "online": 6.0,
+            "Gesamt": 18.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": NaN,
+            "Fachrichtung": "Gesamt",
+            "postal": 180159.0,
+            "online": 170481.0,
+            "Gesamt": 350640.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 5.0,
+            "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
+            "postal": 19102.0,
+            "online": 16098.0,
+            "Gesamt": 35200.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 6.0,
+            "Fachrichtung": "FA für Frauenheilkunde und Geburtshilfe",
+            "postal": 32651.0,
+            "online": 32475.0,
+            "Gesamt": 65126.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 7.0,
+            "Fachrichtung": "FA für Innere Medizin",
+            "postal": 19546.0,
+            "online": 14529.0,
+            "Gesamt": 34075.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 8.0,
+            "Fachrichtung": "FA für Kinder- und Jugendheilkunde",
+            "postal": 12519.0,
+            "online": 24724.0,
+            "Gesamt": 37243.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 9.0,
+            "Fachrichtung": "FA für Hals-, Nasen- und Ohrenerkrankungen",
+            "postal": 5993.0,
+            "online": 6458.0,
+            "Gesamt": 12451.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 10.0,
+            "Fachrichtung": "FA für Lungenkrankheiten",
+            "postal": 1038.0,
+            "online": 1418.0,
+            "Gesamt": 2456.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 11.0,
+            "Fachrichtung": "FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie",
+            "postal": 995.0,
+            "online": 502.0,
+            "Gesamt": 1497.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 12.0,
+            "Fachrichtung": "FA für Orthopädie und orthopädische Chirurgie",
+            "postal": 18126.0,
+            "online": 13199.0,
+            "Gesamt": 31325.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 13.0,
+            "Fachrichtung": "FA für Physikalische Medizin",
+            "postal": 1004.0,
+            "online": 915.0,
+            "Gesamt": 1919.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 14.0,
+            "Fachrichtung": "FA für Radiologie",
+            "postal": 1894.0,
+            "online": 970.0,
+            "Gesamt": 2864.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 15.0,
+            "Fachrichtung": "FA für Unfallchirurgie",
+            "postal": 3899.0,
+            "online": 3181.0,
+            "Gesamt": 7080.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 16.0,
+            "Fachrichtung": "FA für Urologie",
+            "postal": 6575.0,
+            "online": 3877.0,
+            "Gesamt": 10452.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 18.0,
+            "Fachrichtung": "FA für Neurochirurgie",
+            "postal": 880.0,
+            "online": 538.0,
+            "Gesamt": 1418.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 19.0,
+            "Fachrichtung": "FA für Neurologie",
+            "postal": 5063.0,
+            "online": 2536.0,
+            "Gesamt": 7599.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 20.0,
+            "Fachrichtung": "FA für Psychiatrie",
+            "postal": 6846.0,
+            "online": 7120.0,
+            "Gesamt": 13966.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 21.0,
+            "Fachrichtung": "FA für Plastische Chirurgie",
+            "postal": 483.0,
+            "online": 428.0,
+            "Gesamt": 911.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 22.0,
+            "Fachrichtung": "FA für Kinderchirurgie",
+            "postal": 48.0,
+            "online": 185.0,
+            "Gesamt": 233.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 23.0,
+            "Fachrichtung": "FA für Mund., Kiefer- und Gesichtschirurgie",
+            "postal": 767.0,
+            "online": 463.0,
+            "Gesamt": 1230.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 24.0,
+            "Fachrichtung": "FA für Nuklearmedizin",
+            "postal": 1522.0,
+            "online": 1759.0,
+            "Gesamt": 3281.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 26.0,
+            "Fachrichtung": "FA für Strahlentherapie - Radioonkologie",
+            "postal": 11.0,
+            "online": 9.0,
+            "Gesamt": 20.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 29.0,
+            "Fachrichtung": "FA für Immunologie",
+            "postal": 31.0,
+            "online": 25.0,
+            "Gesamt": 56.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 32.0,
+            "Fachrichtung": "FA für Kinder- und Jugendpsychiatrie",
+            "postal": 352.0,
+            "online": 301.0,
+            "Gesamt": 653.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 34.0,
+            "Fachrichtung": "FA für medizinische Biologie",
+            "postal": NaN,
+            "online": NaN,
+            "Gesamt": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 50.0,
+            "Fachrichtung": "FA für medizinische und chemische Labordiagnostik",
+            "postal": 86.0,
+            "online": 71.0,
+            "Gesamt": 157.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 53.0,
+            "Fachrichtung": "FA für Pathologie und Histologie",
+            "postal": 49.0,
+            "online": 28.0,
+            "Gesamt": 77.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 55.0,
+            "Fachrichtung": "FA für Hygiene und Mikrobiologie bzw. Labordiagnostik",
+            "postal": 13.0,
+            "online": 14.0,
+            "Gesamt": 27.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": NaN,
+            "Fachrichtung": "Gesamt",
+            "postal": 189108.0,
+            "online": 175311.0,
+            "Gesamt": 364419.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 5.0,
+            "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
+            "postal": 20720.0,
+            "online": 16316.0,
+            "Gesamt": 37036.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 6.0,
+            "Fachrichtung": "FA für Frauenheilkunde und Geburtshilfe",
+            "postal": 33918.0,
+            "online": 32484.0,
+            "Gesamt": 66402.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 7.0,
+            "Fachrichtung": "FA für Innere Medizin",
+            "postal": 23767.0,
+            "online": 14424.0,
+            "Gesamt": 38191.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 8.0,
+            "Fachrichtung": "FA für Kinder- und Jugendheilkunde",
+            "postal": 12762.0,
+            "online": 23428.0,
+            "Gesamt": 36190.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 9.0,
+            "Fachrichtung": "FA für Hals-, Nasen- und Ohrenerkrankungen",
+            "postal": 7232.0,
+            "online": 6331.0,
+            "Gesamt": 13563.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 10.0,
+            "Fachrichtung": "FA für Lungenkrankheiten",
+            "postal": 1020.0,
+            "online": 1433.0,
+            "Gesamt": 2453.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 11.0,
+            "Fachrichtung": "FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie",
+            "postal": 1085.0,
+            "online": 456.0,
+            "Gesamt": 1541.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 12.0,
+            "Fachrichtung": "FA für Orthopädie und orthopädische Chirurgie",
+            "postal": 19980.0,
+            "online": 13099.0,
+            "Gesamt": 33079.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 13.0,
+            "Fachrichtung": "FA für Physikalische Medizin",
+            "postal": 1108.0,
+            "online": 944.0,
+            "Gesamt": 2052.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 14.0,
+            "Fachrichtung": "FA für Radiologie",
+            "postal": 2134.0,
+            "online": 966.0,
+            "Gesamt": 3100.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 15.0,
+            "Fachrichtung": "FA für Unfallchirurgie",
+            "postal": 4192.0,
+            "online": 3018.0,
+            "Gesamt": 7210.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 16.0,
+            "Fachrichtung": "FA für Urologie",
+            "postal": 6633.0,
+            "online": 3587.0,
+            "Gesamt": 10220.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 18.0,
+            "Fachrichtung": "FA für Neurochirurgie",
+            "postal": 1038.0,
+            "online": 482.0,
+            "Gesamt": 1520.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 19.0,
+            "Fachrichtung": "FA für Neurologie",
+            "postal": 5550.0,
+            "online": 2714.0,
+            "Gesamt": 8264.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 20.0,
+            "Fachrichtung": "FA für Psychiatrie",
+            "postal": 7399.0,
+            "online": 6725.0,
+            "Gesamt": 14124.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 21.0,
+            "Fachrichtung": "FA für Plastische Chirurgie",
+            "postal": 568.0,
+            "online": 392.0,
+            "Gesamt": 960.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 22.0,
+            "Fachrichtung": "FA für Kinderchirurgie",
+            "postal": 75.0,
+            "online": 162.0,
+            "Gesamt": 237.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 23.0,
+            "Fachrichtung": "FA für Mund., Kiefer- und Gesichtschirurgie",
+            "postal": 760.0,
+            "online": 374.0,
+            "Gesamt": 1134.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 24.0,
+            "Fachrichtung": "FA für Nuklearmedizin",
+            "postal": 1806.0,
+            "online": 1644.0,
+            "Gesamt": 3450.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 26.0,
+            "Fachrichtung": "FA für Strahlentherapie - Radioonkologie",
+            "postal": 22.0,
+            "online": 9.0,
+            "Gesamt": 31.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 29.0,
+            "Fachrichtung": "FA für Immunologie",
+            "postal": 15.0,
+            "online": 18.0,
+            "Gesamt": 33.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 32.0,
+            "Fachrichtung": "FA für Kinder- und Jugendpsychiatrie",
+            "postal": 477.0,
+            "online": 398.0,
+            "Gesamt": 875.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 34.0,
+            "Fachrichtung": "FA für medizinische Biologie",
+            "postal": NaN,
+            "online": 1.0,
+            "Gesamt": 1.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 50.0,
+            "Fachrichtung": "FA für medizinische und chemische Labordiagnostik",
+            "postal": 117.0,
+            "online": 57.0,
+            "Gesamt": 174.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 53.0,
+            "Fachrichtung": "FA für Pathologie und Histologie",
+            "postal": 66.0,
+            "online": 35.0,
+            "Gesamt": 101.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": 55.0,
+            "Fachrichtung": "FA für Hygiene und Mikrobiologie bzw. Labordiagnostik",
+            "postal": 12.0,
+            "online": 9.0,
+            "Gesamt": 21.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.23",
+            "FG-Code": NaN,
+            "Fachrichtung": "Gesamt",
+            "postal": 209201.0,
+            "online": 171909.0,
+            "Gesamt": 381110.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 5.0,
+            "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
+            "postal": 22538.0,
+            "online": 17731.0,
+            "Gesamt": 40269.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 6.0,
+            "Fachrichtung": "FA für Frauenheilkunde und Geburtshilfe",
+            "postal": 36951.0,
+            "online": 33128.0,
+            "Gesamt": 70079.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 7.0,
+            "Fachrichtung": "FA für Innere Medizin",
+            "postal": 22384.0,
+            "online": 13952.0,
+            "Gesamt": 36336.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 8.0,
+            "Fachrichtung": "FA für Kinder- und Jugendheilkunde",
+            "postal": 13245.0,
+            "online": 25138.0,
+            "Gesamt": 38383.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 9.0,
+            "Fachrichtung": "FA für Hals-, Nasen- und Ohrenerkrankungen",
+            "postal": 7381.0,
+            "online": 6383.0,
+            "Gesamt": 13764.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 10.0,
+            "Fachrichtung": "FA für Lungenkrankheiten",
+            "postal": 1214.0,
+            "online": 1338.0,
+            "Gesamt": 2552.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 11.0,
+            "Fachrichtung": "FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie",
+            "postal": 1217.0,
+            "online": 468.0,
+            "Gesamt": 1685.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 12.0,
+            "Fachrichtung": "FA für Orthopädie und orthopädische Chirurgie",
+            "postal": 20950.0,
+            "online": 14708.0,
+            "Gesamt": 35658.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 13.0,
+            "Fachrichtung": "FA für Physikalische Medizin",
+            "postal": 1258.0,
+            "online": 1000.0,
+            "Gesamt": 2258.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 14.0,
+            "Fachrichtung": "FA für Radiologie",
+            "postal": 1976.0,
+            "online": 1020.0,
+            "Gesamt": 2996.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 15.0,
+            "Fachrichtung": "FA für Unfallchirurgie",
+            "postal": 4372.0,
+            "online": 3353.0,
+            "Gesamt": 7725.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 16.0,
+            "Fachrichtung": "FA für Urologie",
+            "postal": 6811.0,
+            "online": 3775.0,
+            "Gesamt": 10586.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 18.0,
+            "Fachrichtung": "FA für Neurochirurgie",
+            "postal": 1117.0,
+            "online": 583.0,
+            "Gesamt": 1700.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 19.0,
+            "Fachrichtung": "FA für Neurologie",
+            "postal": 5315.0,
+            "online": 2697.0,
+            "Gesamt": 8012.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 20.0,
+            "Fachrichtung": "FA für Psychiatrie",
+            "postal": 7467.0,
+            "online": 7333.0,
+            "Gesamt": 14800.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 21.0,
+            "Fachrichtung": "FA für Plastische Chirurgie",
+            "postal": 477.0,
+            "online": 406.0,
+            "Gesamt": 883.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 22.0,
+            "Fachrichtung": "FA für Kinderchirurgie",
+            "postal": 88.0,
+            "online": 188.0,
+            "Gesamt": 276.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 23.0,
+            "Fachrichtung": "FA für Mund., Kiefer- und Gesichtschirurgie",
+            "postal": 1085.0,
+            "online": 442.0,
+            "Gesamt": 1527.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 24.0,
+            "Fachrichtung": "FA für Nuklearmedizin",
+            "postal": 1687.0,
+            "online": 1645.0,
+            "Gesamt": 3332.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 26.0,
+            "Fachrichtung": "FA für Strahlentherapie - Radioonkologie",
+            "postal": 7.0,
+            "online": 9.0,
+            "Gesamt": 16.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 29.0,
+            "Fachrichtung": "FA für Immunologie",
+            "postal": 19.0,
+            "online": 29.0,
+            "Gesamt": 48.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 32.0,
+            "Fachrichtung": "FA für Kinder- und Jugendpsychiatrie",
+            "postal": 290.0,
+            "online": 385.0,
+            "Gesamt": 675.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 34.0,
+            "Fachrichtung": "FA für medizinische Biologie",
+            "postal": NaN,
+            "online": NaN,
+            "Gesamt": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 50.0,
+            "Fachrichtung": "FA für medizinische und chemische Labordiagnostik",
+            "postal": 112.0,
+            "online": 63.0,
+            "Gesamt": 175.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 53.0,
+            "Fachrichtung": "FA für Pathologie und Histologie",
+            "postal": 55.0,
+            "online": 24.0,
+            "Gesamt": 79.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": 55.0,
+            "Fachrichtung": "FA für Hygiene und Mikrobiologie bzw. Labordiagnostik",
+            "postal": 13.0,
+            "online": 8.0,
+            "Gesamt": 21.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.23",
+            "FG-Code": NaN,
+            "Fachrichtung": "Gesamt",
+            "postal": 210404.0,
+            "online": 181310.0,
+            "Gesamt": 391714.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 5.0,
+            "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
+            "postal": 21130.0,
+            "online": 17978.0,
+            "Gesamt": 39108.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 6.0,
+            "Fachrichtung": "FA für Frauenheilkunde und Geburtshilfe",
+            "postal": 32649.0,
+            "online": 33583.0,
+            "Gesamt": 66232.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 7.0,
+            "Fachrichtung": "FA für Innere Medizin",
+            "postal": 19547.0,
+            "online": 14854.0,
+            "Gesamt": 34401.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 8.0,
+            "Fachrichtung": "FA für Kinder- und Jugendheilkunde",
+            "postal": 11157.0,
+            "online": 26664.0,
+            "Gesamt": 37821.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 9.0,
+            "Fachrichtung": "FA für Hals-, Nasen- und Ohrenerkrankungen",
+            "postal": 6453.0,
+            "online": 7087.0,
+            "Gesamt": 13540.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 10.0,
+            "Fachrichtung": "FA für Lungenkrankheiten",
+            "postal": 1062.0,
+            "online": 1323.0,
+            "Gesamt": 2385.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 11.0,
+            "Fachrichtung": "FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie",
+            "postal": 926.0,
+            "online": 524.0,
+            "Gesamt": 1450.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 12.0,
+            "Fachrichtung": "FA für Orthopädie und orthopädische Chirurgie",
+            "postal": 20501.0,
+            "online": 15000.0,
+            "Gesamt": 35501.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 13.0,
+            "Fachrichtung": "FA für Physikalische Medizin",
+            "postal": 1033.0,
+            "online": 985.0,
+            "Gesamt": 2018.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 14.0,
+            "Fachrichtung": "FA für Radiologie",
+            "postal": 1713.0,
+            "online": 1075.0,
+            "Gesamt": 2788.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 15.0,
+            "Fachrichtung": "FA für Unfallchirurgie",
+            "postal": 3474.0,
+            "online": 3691.0,
+            "Gesamt": 7165.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 16.0,
+            "Fachrichtung": "FA für Urologie",
+            "postal": 5809.0,
+            "online": 3673.0,
+            "Gesamt": 9482.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 18.0,
+            "Fachrichtung": "FA für Neurochirurgie",
+            "postal": 924.0,
+            "online": 544.0,
+            "Gesamt": 1468.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 19.0,
+            "Fachrichtung": "FA für Neurologie",
+            "postal": 5584.0,
+            "online": 3146.0,
+            "Gesamt": 8730.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 20.0,
+            "Fachrichtung": "FA für Psychiatrie",
+            "postal": 7044.0,
+            "online": 7899.0,
+            "Gesamt": 14943.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 21.0,
+            "Fachrichtung": "FA für Plastische Chirurgie",
+            "postal": 449.0,
+            "online": 431.0,
+            "Gesamt": 880.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 22.0,
+            "Fachrichtung": "FA für Kinderchirurgie",
+            "postal": 84.0,
+            "online": 206.0,
+            "Gesamt": 290.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 23.0,
+            "Fachrichtung": "FA für Mund., Kiefer- und Gesichtschirurgie",
+            "postal": 940.0,
+            "online": 426.0,
+            "Gesamt": 1366.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 24.0,
+            "Fachrichtung": "FA für Nuklearmedizin",
+            "postal": 1551.0,
+            "online": 1790.0,
+            "Gesamt": 3341.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 26.0,
+            "Fachrichtung": "FA für Strahlentherapie - Radioonkologie",
+            "postal": 15.0,
+            "online": 9.0,
+            "Gesamt": 24.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 29.0,
+            "Fachrichtung": "FA für Immunologie",
+            "postal": 21.0,
+            "online": 45.0,
+            "Gesamt": 66.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 32.0,
+            "Fachrichtung": "FA für Kinder- und Jugendpsychiatrie",
+            "postal": 308.0,
+            "online": 505.0,
+            "Gesamt": 813.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 34.0,
+            "Fachrichtung": "FA für medizinische Biologie",
+            "postal": NaN,
+            "online": 1.0,
+            "Gesamt": 1.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 50.0,
+            "Fachrichtung": "FA für medizinische und chemische Labordiagnostik",
+            "postal": 95.0,
+            "online": 75.0,
+            "Gesamt": 170.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 53.0,
+            "Fachrichtung": "FA für Pathologie und Histologie",
+            "postal": 44.0,
+            "online": 35.0,
+            "Gesamt": 79.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": 55.0,
+            "Fachrichtung": "FA für Hygiene und Mikrobiologie bzw. Labordiagnostik",
+            "postal": 15.0,
+            "online": 15.0,
+            "Gesamt": 30.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.23",
+            "FG-Code": NaN,
+            "Fachrichtung": "Gesamt",
+            "postal": 189325.0,
+            "online": 187506.0,
+            "Gesamt": 376831.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 5.0,
+            "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
+            "postal": 18173.0,
+            "online": 19335.0,
+            "Gesamt": 37508.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 6.0,
+            "Fachrichtung": "FA für Frauenheilkunde und Geburtshilfe",
+            "postal": 33883.0,
+            "online": 35308.0,
+            "Gesamt": 69191.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 7.0,
+            "Fachrichtung": "FA für Innere Medizin",
+            "postal": 19570.0,
+            "online": 15784.0,
+            "Gesamt": 35354.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 8.0,
+            "Fachrichtung": "FA für Kinder- und Jugendheilkunde",
+            "postal": 11014.0,
+            "online": 25318.0,
+            "Gesamt": 36332.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 9.0,
+            "Fachrichtung": "FA für Hals-, Nasen- und Ohrenerkrankungen",
+            "postal": 5387.0,
+            "online": 7525.0,
+            "Gesamt": 12912.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 10.0,
+            "Fachrichtung": "FA für Lungenkrankheiten",
+            "postal": 802.0,
+            "online": 1240.0,
+            "Gesamt": 2042.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 11.0,
+            "Fachrichtung": "FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie",
+            "postal": 989.0,
+            "online": 527.0,
+            "Gesamt": 1516.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 12.0,
+            "Fachrichtung": "FA für Orthopädie und orthopädische Chirurgie",
+            "postal": 19032.0,
+            "online": 15904.0,
+            "Gesamt": 34936.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 13.0,
+            "Fachrichtung": "FA für Physikalische Medizin",
+            "postal": 927.0,
+            "online": 1066.0,
+            "Gesamt": 1993.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 14.0,
+            "Fachrichtung": "FA für Radiologie",
+            "postal": 1687.0,
+            "online": 1084.0,
+            "Gesamt": 2771.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 15.0,
+            "Fachrichtung": "FA für Unfallchirurgie",
+            "postal": 4162.0,
+            "online": 3765.0,
+            "Gesamt": 7927.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 16.0,
+            "Fachrichtung": "FA für Urologie",
+            "postal": 4630.0,
+            "online": 4082.0,
+            "Gesamt": 8712.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 18.0,
+            "Fachrichtung": "FA für Neurochirurgie",
+            "postal": 1012.0,
+            "online": 588.0,
+            "Gesamt": 1600.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 19.0,
+            "Fachrichtung": "FA für Neurologie",
+            "postal": 4901.0,
+            "online": 3627.0,
+            "Gesamt": 8528.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 20.0,
+            "Fachrichtung": "FA für Psychiatrie",
+            "postal": 6613.0,
+            "online": 8239.0,
+            "Gesamt": 14852.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 21.0,
+            "Fachrichtung": "FA für Plastische Chirurgie",
+            "postal": 474.0,
+            "online": 345.0,
+            "Gesamt": 819.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 22.0,
+            "Fachrichtung": "FA für Kinderchirurgie",
+            "postal": 70.0,
+            "online": 193.0,
+            "Gesamt": 263.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 23.0,
+            "Fachrichtung": "FA für Mund., Kiefer- und Gesichtschirurgie",
+            "postal": 666.0,
+            "online": 285.0,
+            "Gesamt": 951.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 24.0,
+            "Fachrichtung": "FA für Nuklearmedizin",
+            "postal": 1198.0,
+            "online": 2117.0,
+            "Gesamt": 3315.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 26.0,
+            "Fachrichtung": "FA für Strahlentherapie - Radioonkologie",
+            "postal": 16.0,
+            "online": 14.0,
+            "Gesamt": 30.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 29.0,
+            "Fachrichtung": "FA für Immunologie",
+            "postal": 10.0,
+            "online": 40.0,
+            "Gesamt": 50.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 32.0,
+            "Fachrichtung": "FA für Kinder- und Jugendpsychiatrie",
+            "postal": 321.0,
+            "online": 397.0,
+            "Gesamt": 718.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 34.0,
+            "Fachrichtung": "FA für medizinische Biologie",
+            "postal": NaN,
+            "online": NaN,
+            "Gesamt": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 50.0,
+            "Fachrichtung": "FA für medizinische und chemische Labordiagnostik",
+            "postal": 69.0,
+            "online": 83.0,
+            "Gesamt": 152.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 53.0,
+            "Fachrichtung": "FA für Pathologie und Histologie",
+            "postal": 55.0,
+            "online": 57.0,
+            "Gesamt": 112.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": 55.0,
+            "Fachrichtung": "FA für Hygiene und Mikrobiologie bzw. Labordiagnostik",
+            "postal": 10.0,
+            "online": 16.0,
+            "Gesamt": 26.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.23",
+            "FG-Code": NaN,
+            "Fachrichtung": "Gesamt",
+            "postal": 185272.0,
+            "online": 194985.0,
+            "Gesamt": 380257.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 5.0,
+            "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
+            "postal": 19212.0,
+            "online": 20867.0,
+            "Gesamt": 40079.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 6.0,
+            "Fachrichtung": "FA für Frauenheilkunde und Geburtshilfe",
+            "postal": 40286.0,
+            "online": 38663.0,
+            "Gesamt": 78949.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 7.0,
+            "Fachrichtung": "FA für Innere Medizin",
+            "postal": 22135.0,
+            "online": 16736.0,
+            "Gesamt": 38871.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 8.0,
+            "Fachrichtung": "FA für Kinder- und Jugendheilkunde",
+            "postal": 14703.0,
+            "online": 26783.0,
+            "Gesamt": 41486.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 9.0,
+            "Fachrichtung": "FA für Hals-, Nasen- und Ohrenerkrankungen",
+            "postal": 7215.0,
+            "online": 7810.0,
+            "Gesamt": 15025.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 10.0,
+            "Fachrichtung": "FA für Lungenkrankheiten",
+            "postal": 767.0,
+            "online": 1484.0,
+            "Gesamt": 2251.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 11.0,
+            "Fachrichtung": "FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie",
+            "postal": 959.0,
+            "online": 530.0,
+            "Gesamt": 1489.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 12.0,
+            "Fachrichtung": "FA für Orthopädie und orthopädische Chirurgie",
+            "postal": 16359.0,
+            "online": 17323.0,
+            "Gesamt": 33682.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 13.0,
+            "Fachrichtung": "FA für Physikalische Medizin",
+            "postal": 842.0,
+            "online": 986.0,
+            "Gesamt": 1828.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 14.0,
+            "Fachrichtung": "FA für Radiologie",
+            "postal": 1786.0,
+            "online": 891.0,
+            "Gesamt": 2677.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 15.0,
+            "Fachrichtung": "FA für Unfallchirurgie",
+            "postal": 4063.0,
+            "online": 3349.0,
+            "Gesamt": 7412.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 16.0,
+            "Fachrichtung": "FA für Urologie",
+            "postal": 5257.0,
+            "online": 4255.0,
+            "Gesamt": 9512.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 18.0,
+            "Fachrichtung": "FA für Neurochirurgie",
+            "postal": 943.0,
+            "online": 498.0,
+            "Gesamt": 1441.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 19.0,
+            "Fachrichtung": "FA für Neurologie",
+            "postal": 4962.0,
+            "online": 3553.0,
+            "Gesamt": 8515.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 20.0,
+            "Fachrichtung": "FA für Psychiatrie",
+            "postal": 7207.0,
+            "online": 8977.0,
+            "Gesamt": 16184.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 21.0,
+            "Fachrichtung": "FA für Plastische Chirurgie",
+            "postal": 449.0,
+            "online": 425.0,
+            "Gesamt": 874.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 22.0,
+            "Fachrichtung": "FA für Kinderchirurgie",
+            "postal": 81.0,
+            "online": 218.0,
+            "Gesamt": 299.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 23.0,
+            "Fachrichtung": "FA für Mund., Kiefer- und Gesichtschirurgie",
+            "postal": 884.0,
+            "online": 144.0,
+            "Gesamt": 1028.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 24.0,
+            "Fachrichtung": "FA für Nuklearmedizin",
+            "postal": 1358.0,
+            "online": 2095.0,
+            "Gesamt": 3453.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 26.0,
+            "Fachrichtung": "FA für Strahlentherapie - Radioonkologie",
+            "postal": 14.0,
+            "online": 12.0,
+            "Gesamt": 26.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 29.0,
+            "Fachrichtung": "FA für Immunologie",
+            "postal": 17.0,
+            "online": 45.0,
+            "Gesamt": 62.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 32.0,
+            "Fachrichtung": "FA für Kinder- und Jugendpsychiatrie",
+            "postal": 308.0,
+            "online": 471.0,
+            "Gesamt": 779.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 34.0,
+            "Fachrichtung": "FA für medizinische Biologie",
+            "postal": NaN,
+            "online": NaN,
+            "Gesamt": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 50.0,
+            "Fachrichtung": "FA für medizinische und chemische Labordiagnostik",
+            "postal": 69.0,
+            "online": 80.0,
+            "Gesamt": 149.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 53.0,
+            "Fachrichtung": "FA für Pathologie und Histologie",
+            "postal": 45.0,
+            "online": 34.0,
+            "Gesamt": 79.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": 55.0,
+            "Fachrichtung": "FA für Hygiene und Mikrobiologie bzw. Labordiagnostik",
+            "postal": 24.0,
+            "online": 11.0,
+            "Gesamt": 35.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.23",
+            "FG-Code": NaN,
+            "Fachrichtung": "Gesamt",
+            "postal": 204762.0,
+            "online": 205409.0,
+            "Gesamt": 410171.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 5.0,
+            "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
+            "postal": 21877.0,
+            "online": 20056.0,
+            "Gesamt": 41933.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 6.0,
+            "Fachrichtung": "FA für Frauenheilkunde und Geburtshilfe",
+            "postal": 37321.0,
+            "online": 42281.0,
+            "Gesamt": 79602.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 7.0,
+            "Fachrichtung": "FA für Innere Medizin",
+            "postal": 28640.0,
+            "online": 17226.0,
+            "Gesamt": 45866.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 8.0,
+            "Fachrichtung": "FA für Kinder- und Jugendheilkunde",
+            "postal": 10055.0,
+            "online": 29327.0,
+            "Gesamt": 39382.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 9.0,
+            "Fachrichtung": "FA für Hals-, Nasen- und Ohrenerkrankungen",
+            "postal": 5116.0,
+            "online": 8041.0,
+            "Gesamt": 13157.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 10.0,
+            "Fachrichtung": "FA für Lungenkrankheiten",
+            "postal": 995.0,
+            "online": 1622.0,
+            "Gesamt": 2617.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 11.0,
+            "Fachrichtung": "FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie",
+            "postal": 2249.0,
+            "online": 597.0,
+            "Gesamt": 2846.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 12.0,
+            "Fachrichtung": "FA für Orthopädie und orthopädische Chirurgie",
+            "postal": 22196.0,
+            "online": 17145.0,
+            "Gesamt": 39341.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 13.0,
+            "Fachrichtung": "FA für Physikalische Medizin",
+            "postal": 1109.0,
+            "online": 961.0,
+            "Gesamt": 2070.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 14.0,
+            "Fachrichtung": "FA für Radiologie",
+            "postal": 2753.0,
+            "online": 1094.0,
+            "Gesamt": 3847.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 15.0,
+            "Fachrichtung": "FA für Unfallchirurgie",
+            "postal": 4955.0,
+            "online": 3780.0,
+            "Gesamt": 8735.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 16.0,
+            "Fachrichtung": "FA für Urologie",
+            "postal": 7069.0,
+            "online": 4669.0,
+            "Gesamt": 11738.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 18.0,
+            "Fachrichtung": "FA für Neurochirurgie",
+            "postal": 1287.0,
+            "online": 612.0,
+            "Gesamt": 1899.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 19.0,
+            "Fachrichtung": "FA für Neurologie",
+            "postal": 6436.0,
+            "online": 3463.0,
+            "Gesamt": 9899.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 20.0,
+            "Fachrichtung": "FA für Psychiatrie",
+            "postal": 9485.0,
+            "online": 7907.0,
+            "Gesamt": 17392.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 21.0,
+            "Fachrichtung": "FA für Plastische Chirurgie",
+            "postal": 580.0,
+            "online": 444.0,
+            "Gesamt": 1024.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 22.0,
+            "Fachrichtung": "FA für Kinderchirurgie",
+            "postal": 97.0,
+            "online": 185.0,
+            "Gesamt": 282.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 23.0,
+            "Fachrichtung": "FA für Mund., Kiefer- und Gesichtschirurgie",
+            "postal": 983.0,
+            "online": 216.0,
+            "Gesamt": 1199.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 24.0,
+            "Fachrichtung": "FA für Nuklearmedizin",
+            "postal": 1510.0,
+            "online": 1927.0,
+            "Gesamt": 3437.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 26.0,
+            "Fachrichtung": "FA für Strahlentherapie - Radioonkologie",
+            "postal": 17.0,
+            "online": 8.0,
+            "Gesamt": 25.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 29.0,
+            "Fachrichtung": "FA für Immunologie",
+            "postal": 12.0,
+            "online": 38.0,
+            "Gesamt": 50.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 32.0,
+            "Fachrichtung": "FA für Kinder- und Jugendpsychiatrie",
+            "postal": 392.0,
+            "online": 483.0,
+            "Gesamt": 875.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 34.0,
+            "Fachrichtung": "FA für medizinische Biologie",
+            "postal": NaN,
+            "online": NaN,
+            "Gesamt": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 50.0,
+            "Fachrichtung": "FA für medizinische und chemische Labordiagnostik",
+            "postal": 93.0,
+            "online": 47.0,
+            "Gesamt": 140.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 53.0,
+            "Fachrichtung": "FA für Pathologie und Histologie",
+            "postal": 53.0,
+            "online": 33.0,
+            "Gesamt": 86.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": 55.0,
+            "Fachrichtung": "FA für Hygiene und Mikrobiologie bzw. Labordiagnostik",
+            "postal": 19.0,
+            "online": 25.0,
+            "Gesamt": 44.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.23",
+            "FG-Code": NaN,
+            "Fachrichtung": "Gesamt",
+            "postal": 215424.0,
+            "online": 216762.0,
+            "Gesamt": 432186.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 5.0,
+            "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
+            "postal": 16696.0,
+            "online": 17841.0,
+            "Gesamt": 34537.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 6.0,
+            "Fachrichtung": "FA für Frauenheilkunde und Geburtshilfe",
+            "postal": 27123.0,
+            "online": 33921.0,
+            "Gesamt": 61044.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 7.0,
+            "Fachrichtung": "FA für Innere Medizin",
+            "postal": 18675.0,
+            "online": 15688.0,
+            "Gesamt": 34363.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 8.0,
+            "Fachrichtung": "FA für Kinder- und Jugendheilkunde",
+            "postal": 7785.0,
+            "online": 26342.0,
+            "Gesamt": 34127.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 9.0,
+            "Fachrichtung": "FA für Hals-, Nasen- und Ohrenerkrankungen",
+            "postal": 4183.0,
+            "online": 6638.0,
+            "Gesamt": 10821.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 10.0,
+            "Fachrichtung": "FA für Lungenkrankheiten",
+            "postal": 775.0,
+            "online": 1389.0,
+            "Gesamt": 2164.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 11.0,
+            "Fachrichtung": "FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie",
+            "postal": 916.0,
+            "online": 388.0,
+            "Gesamt": 1304.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 12.0,
+            "Fachrichtung": "FA für Orthopädie und orthopädische Chirurgie",
+            "postal": 16588.0,
+            "online": 14179.0,
+            "Gesamt": 30767.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 13.0,
+            "Fachrichtung": "FA für Physikalische Medizin",
+            "postal": 898.0,
+            "online": 851.0,
+            "Gesamt": 1749.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 14.0,
+            "Fachrichtung": "FA für Radiologie",
+            "postal": 1758.0,
+            "online": 1053.0,
+            "Gesamt": 2811.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 15.0,
+            "Fachrichtung": "FA für Unfallchirurgie",
+            "postal": 3555.0,
+            "online": 3503.0,
+            "Gesamt": 7058.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 16.0,
+            "Fachrichtung": "FA für Urologie",
+            "postal": 4698.0,
+            "online": 4362.0,
+            "Gesamt": 9060.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 18.0,
+            "Fachrichtung": "FA für Neurochirurgie",
+            "postal": 764.0,
+            "online": 597.0,
+            "Gesamt": 1361.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 19.0,
+            "Fachrichtung": "FA für Neurologie",
+            "postal": 5017.0,
+            "online": 2798.0,
+            "Gesamt": 7815.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 20.0,
+            "Fachrichtung": "FA für Psychiatrie",
+            "postal": 6940.0,
+            "online": 6322.0,
+            "Gesamt": 13262.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 21.0,
+            "Fachrichtung": "FA für Plastische Chirurgie",
+            "postal": 512.0,
+            "online": 470.0,
+            "Gesamt": 982.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 22.0,
+            "Fachrichtung": "FA für Kinderchirurgie",
+            "postal": 74.0,
+            "online": 213.0,
+            "Gesamt": 287.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 23.0,
+            "Fachrichtung": "FA für Mund., Kiefer- und Gesichtschirurgie",
+            "postal": 594.0,
+            "online": 303.0,
+            "Gesamt": 897.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 24.0,
+            "Fachrichtung": "FA für Nuklearmedizin",
+            "postal": 1190.0,
+            "online": 1860.0,
+            "Gesamt": 3050.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 26.0,
+            "Fachrichtung": "FA für Strahlentherapie - Radioonkologie",
+            "postal": 13.0,
+            "online": 8.0,
+            "Gesamt": 21.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 29.0,
+            "Fachrichtung": "FA für Immunologie",
+            "postal": 22.0,
+            "online": 49.0,
+            "Gesamt": 71.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 32.0,
+            "Fachrichtung": "FA für Kinder- und Jugendpsychiatrie",
+            "postal": 261.0,
+            "online": 341.0,
+            "Gesamt": 602.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 34.0,
+            "Fachrichtung": "FA für medizinische Biologie",
+            "postal": NaN,
+            "online": NaN,
+            "Gesamt": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 50.0,
+            "Fachrichtung": "FA für medizinische und chemische Labordiagnostik",
+            "postal": 71.0,
+            "online": 61.0,
+            "Gesamt": 132.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 53.0,
+            "Fachrichtung": "FA für Pathologie und Histologie",
+            "postal": 39.0,
+            "online": 39.0,
+            "Gesamt": 78.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": 55.0,
+            "Fachrichtung": "FA für Hygiene und Mikrobiologie bzw. Labordiagnostik",
+            "postal": 20.0,
+            "online": 3.0,
+            "Gesamt": 23.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.23",
+            "FG-Code": NaN,
+            "Fachrichtung": "Gesamt",
+            "postal": 158142.0,
+            "online": 188260.0,
+            "Gesamt": 346402.0
+        }
+    ]
+}

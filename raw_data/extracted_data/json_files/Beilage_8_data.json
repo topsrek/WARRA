@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "question": "Wie hoch waren in den vergangenen drei Jahren die Refundierungen für Behandlungseinheiten bei Angehörigen der MTD-Berufe, die im ASVG sowie Parallelgesetzen inkludiert sind, in den einzelnen KV- Trägern? (Darstellung je KV-Träger/ÖGK Landesstelle/MTD-Beruf)18726/AB XXVII. GP - Anfragebeantwortung - Beilage 8 1 von 1 www.parlament.gv.at",
+        "units": {
+            "Refundierungen": "EUR",
+            "Rechnungsbeträge": "EUR"
+        },
+        "year": "2023",
+        "description": {
+            "Refundierungen": "Wahlarztkostenrefundierungen nach Fachrichtung",
+            "Rechnungsbeträge": "Wahlarztkostenrechnungsbeträge nach Fachrichtung"
+        }
+    },
+    "data": [
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "2021",
+            "FG-Code": 63.0,
+            "Fachrichtung": "Physiotherapie",
+            "Refundierungen": 111700686.2,
+            "Rechnungsbeträge": 241871296.87
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "2021",
+            "FG-Code": 66.0,
+            "Fachrichtung": "Logopäde",
+            "Refundierungen": 6456933.48,
+            "Rechnungsbeträge": 12412564.96
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "2021",
+            "FG-Code": 75.0,
+            "Fachrichtung": "Ergotherapeut",
+            "Refundierungen": 7642355.8,
+            "Rechnungsbeträge": 14774703.18
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Durchschnitt 21",
+            "FG-Code": NaN,
+            "Fachrichtung": "Gesamt",
+            "Refundierungen": 125799975.48,
+            "Rechnungsbeträge": 269058565.01
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "2022",
+            "FG-Code": 63.0,
+            "Fachrichtung": "Physiotherapie",
+            "Refundierungen": 130596636.88,
+            "Rechnungsbeträge": 255234135.63
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "2022",
+            "FG-Code": 66.0,
+            "Fachrichtung": "Logopäde",
+            "Refundierungen": 7307387.07,
+            "Rechnungsbeträge": 13211171.36
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "2022",
+            "FG-Code": 75.0,
+            "Fachrichtung": "Ergotherapeut",
+            "Refundierungen": 9003491.13,
+            "Rechnungsbeträge": 15872737.01
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Durchschnitt 22",
+            "FG-Code": NaN,
+            "Fachrichtung": "Gesamt",
+            "Refundierungen": 146907515.08,
+            "Rechnungsbeträge": 284318044.0
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "2023",
+            "FG-Code": 63.0,
+            "Fachrichtung": "Physiotherapie",
+            "Refundierungen": 167172933.01,
+            "Rechnungsbeträge": 288698196.57
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "2023",
+            "FG-Code": 66.0,
+            "Fachrichtung": "Logopäde",
+            "Refundierungen": 9020224.53,
+            "Rechnungsbeträge": 14922973.67
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "2023",
+            "FG-Code": 75.0,
+            "Fachrichtung": "Ergotherapeut",
+            "Refundierungen": 11120567.05,
+            "Rechnungsbeträge": 18522676.09
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Durchschnitt 23",
+            "FG-Code": NaN,
+            "Fachrichtung": "Gesamt",
+            "Refundierungen": 187313724.59,
+            "Rechnungsbeträge": 322143846.33
+        }
+    ]
+}

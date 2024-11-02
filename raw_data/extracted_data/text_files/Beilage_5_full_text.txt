@@ -1,0 +1,433 @@
+ÖGK-LS Monat FG-Code FG-Bezeichnungpostalische 
+Anträgeonline 
+Anträge Gesamt
+ÖGK Jän.23 1Arzt für Allgemeinmedizin 23.753                 26.864             50.617        
+ÖGK Jän.23 2FA für Anästhesiologie und Intensivmedizin 842                      549                  1.391          
+ÖGK Jän.23 3FA für Augenheilkunde und Optometrie 15.618                 12.112             27.730        
+ÖGK Jän.23 4FA für Chirurgie 4.166                   2.730               6.896          
+ÖGK Jän.23 5FA für Haut- und Geschlechtskrankheiten 16.167                 14.238             30.405        
+ÖGK Jän.23 6FA für Frauenheilkunde und Geburtshilfe 30.425                 29.366             59.791        
+ÖGK Jän.23 7FA für Innere Medizin 17.943                 12.602             30.545        
+ÖGK Jän.23 8FA für Kinder- und Jugendheilkunde 10.896                 25.493             36.389        
+ÖGK Jän.23 9FA für Hals-, Nasen- und Ohrenerkrankungen 5.991                   5.213               11.204        
+ÖGK Jän.23 10FA für Lungenkrankheiten 1.064                   1.357               2.421          
+ÖGK Jän.23 11FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie 1.140                   479                  1.619          
+ÖGK Jän.23 12FA für Orthopädie und orthopädische Chirurgie 16.135                 11.223             27.358        
+ÖGK Jän.23 13FA für Physikalische Medizin 1.018                   989                  2.007          
+ÖGK Jän.23 14FA für Radiologie 1.453                   860                  2.313          
+ÖGK Jän.23 15FA für Unfallchirurgie 3.868                   3.155               7.023          
+ÖGK Jän.23 16FA für Urologie 5.327                   3.702               9.029          
+ÖGK Jän.23 18FA für Neurochirurgie 913                      473                  1.386          
+ÖGK Jän.23 19FA für Neurologie 4.785                   2.442               7.227          
+ÖGK Jän.23 20FA für Psychiatrie 8.234                   6.256               14.490        
+ÖGK Jän.23 21FA für Plastische Chirurgie 442                      371                  813             
+ÖGK Jän.23 22FA für Kinderchirurgie 62                        140                  202             
+ÖGK Jän.23 23FA für Mund., Kiefer- und Gesichtschirurgie 823                      424                  1.247          
+ÖGK Jän.23 24FA für Nuklearmedizin 1.223                   1.524               2.747          
+ÖGK Jän.23 26FA für Strahlentherapie - Radioonkologie 11                        7                      18               
+ÖGK Jän.23 29FA für Immunologie 3                          20                    23               
+ÖGK Jän.23 32FA für Kinder- und Jugendpsychiatrie 294                      285                  579             
+ÖGK Jän.23 34FA für medizinische Biologie -                       -                  -              
+ÖGK Jän.23 50FA für medizinische und chemische Labordiagnostik 75                        74                    149             
+ÖGK Jän.23 53FA für Pathologie und Histologie 56                        51                    107             
+ÖGK Jän.23 55FA für Hygiene und Mikrobiologie bzw. Labordiagnostik 8                          14                    22               
+Gesamt 172.735               163.013           335.748      4. Wie viele Anträge zur Wahlarztkostenrefundierung wurden seit 2022 abgearbeitet
+(Darstellungje KV-Träger/ÖGK-Landestelle, nach Monat und Antragsart postalich/online, sowie Fachrichtungen)18726/AB XXVII. GP - Anfragebeantwortung - Beilage 5 1 von 12
+www.parlament.gv.at
+
+ÖGK-LS Monat FG-Code FG-Bezeichnungpostalische 
+Anträgeonline 
+Anträge Gesamt
+ÖGK Feb.23 1 Arzt für Allgemeinmedizin 25.094                 22.401             47.495        
+ÖGK Feb.23 2 FA für Anästhesiologie und Intensivmedizin 837                      376                  1.213          
+ÖGK Feb.23 3 FA für Augenheilkunde und Optometrie 16.808                 12.931             29.739        
+ÖGK Feb.23 4 FA für Chirurgie 4.488                   2.373               6.861          
+ÖGK Feb.23 5 FA für Haut- und Geschlechtskrankheiten 17.428                 13.425             30.853        
+ÖGK Feb.23 6 FA für Frauenheilkunde und Geburtshilfe 30.524                 26.999             57.523        
+ÖGK Feb.23 7 FA für Innere Medizin 18.537                 11.437             29.974        
+ÖGK Feb.23 8 FA für Kinder- und Jugendheilkunde 11.010                 22.037             33.047        
+ÖGK Feb.23 9 FA für Hals-, Nasen- und Ohrenerkrankungen 5.143                   5.119               10.262        
+ÖGK Feb.23 10 FA für Lungenkrankheiten 964                      1.336               2.300          
+ÖGK Feb.23 11 FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie 1.011                   519                  1.530          
+ÖGK Feb.23 12 FA für Orthopädie und orthopädische Chirurgie 15.523                 11.006             26.529        
+ÖGK Feb.23 13 FA für Physikalische Medizin 965                      871                  1.836          
+ÖGK Feb.23 14 FA für Radiologie 1.506                   715                  2.221          
+ÖGK Feb.23 15 FA für Unfallchirurgie 3.377                   2.710               6.087          
+ÖGK Feb.23 16 FA für Urologie 4.845                   3.214               8.059          
+ÖGK Feb.23 18 FA für Neurochirurgie 917                      417                  1.334          
+ÖGK Feb.23 19 FA für Neurologie 4.471                   2.188               6.659          
+ÖGK Feb.23 20 FA für Psychiatrie 7.467                   6.252               13.719        
+ÖGK Feb.23 21 FA für Plastische Chirurgie 367                      332                  699             
+ÖGK Feb.23 22 FA für Kinderchirurgie 58                        125                  183             
+ÖGK Feb.23 23 FA für Mund., Kiefer- und Gesichtschirurgie 765                      451                  1.216          
+ÖGK Feb.23 24 FA für Nuklearmedizin 1.338                   1.471               2.809          
+ÖGK Feb.23 26 FA für Strahlentherapie - Radioonkologie 21                        10                    31               
+ÖGK Feb.23 29 FA für Immunologie 16                        21                    37               
+ÖGK Feb.23 32 FA für Kinder- und Jugendpsychiatrie 214                      350                  564             
+ÖGK Feb.23 34 FA für medizinische Biologie -                       -                  -              
+ÖGK Feb.23 50 FA für medizinische und chemische Labordiagnostik 89                        66                    155             
+ÖGK Feb.23 53 FA für Pathologie und Histologie 55                        32                    87               
+ÖGK Feb.23 55 FA für Hygiene und Mikrobiologie bzw. Labordiagnostik 18                        10                    28               
+Gesamt 173.856               149.194           323.050      18726/AB XXVII. GP - Anfragebeantwortung - Beilage 5 2 von 12
+www.parlament.gv.at
+
+ÖGK-LS Monat FG-Code FG-Bezeichnungpostalische 
+Anträgeonline 
+Anträge Gesamt
+ÖGK Mär.23 1Arzt für Allgemeinmedizin 29.332                 29.075             58.407        
+ÖGK Mär.23 2FA für Anästhesiologie und Intensivmedizin 1.007                   474                  1.481          
+ÖGK Mär.23 3FA für Augenheilkunde und Optometrie 19.392                 19.512             38.904        
+ÖGK Mär.23 4FA für Chirurgie 5.113                   3.318               8.431          
+ÖGK Mär.23 5FA für Haut- und Geschlechtskrankheiten 19.956                 18.151             38.107        
+ÖGK Mär.23 6FA für Frauenheilkunde und Geburtshilfe 35.712                 37.617             73.329        
+ÖGK Mär.23 7FA für Innere Medizin 22.875                 15.919             38.794        
+ÖGK Mär.23 8FA für Kinder- und Jugendheilkunde 14.845                 29.873             44.718        
+ÖGK Mär.23 9FA für Hals-, Nasen- und Ohrenerkrankungen 7.198                   6.953               14.151        
+ÖGK Mär.23 10FA für Lungenkrankheiten 1.175                   1.643               2.818          
+ÖGK Mär.23 11FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie 1.149                   716                  1.865          
+ÖGK Mär.23 12FA für Orthopädie und orthopädische Chirurgie 18.467                 15.020             33.487        
+ÖGK Mär.23 13FA für Physikalische Medizin 1.194                   1.152               2.346          
+ÖGK Mär.23 14FA für Radiologie 2.164                   1.092               3.256          
+ÖGK Mär.23 15FA für Unfallchirurgie 4.437                   3.752               8.189          
+ÖGK Mär.23 16FA für Urologie 6.055                   4.384               10.439        
+ÖGK Mär.23 18FA für Neurochirurgie 1.088                   590                  1.678          
+ÖGK Mär.23 19FA für Neurologie 5.540                   3.300               8.840          
+ÖGK Mär.23 20FA für Psychiatrie 8.944                   8.540               17.484        
+ÖGK Mär.23 21FA für Plastische Chirurgie 430                      436                  866             
+ÖGK Mär.23 22FA für Kinderchirurgie 89                        210                  299             
+ÖGK Mär.23 23FA für Mund., Kiefer- und Gesichtschirurgie 937                      489                  1.426          
+ÖGK Mär.23 24FA für Nuklearmedizin 1.396                   2.026               3.422          
+ÖGK Mär.23 26FA für Strahlentherapie - Radioonkologie 31                        17                    48               
+ÖGK Mär.23 29FA für Immunologie 2                          33                    35               
+ÖGK Mär.23 32FA für Kinder- und Jugendpsychiatrie 368                      505                  873             
+ÖGK Mär.23 34FA für medizinische Biologie -                       -                  -              
+ÖGK Mär.23 50FA für medizinische und chemische Labordiagnostik 85                        106                  191             
+ÖGK Mär.23 53FA für Pathologie und Histologie 61                        54                    115             
+ÖGK Mär.23 55FA für Hygiene und Mikrobiologie bzw. Labordiagnostik 14                        18                    32               
+Gesamt 209.056               204.975           414.031      18726/AB XXVII. GP - Anfragebeantwortung - Beilage 5 3 von 12
+www.parlament.gv.at
+
+ÖGK-LS Monat FG-Code FG-Bezeichnungpostalische 
+Anträgeonline 
+Anträge Gesamt
+ÖGK Apr.23 1 Arzt für Allgemeinmedizin 21.089                 25.588             46.677        
+ÖGK Apr.23 2 FA für Anästhesiologie und Intensivmedizin 787                      356                  1.143          
+ÖGK Apr.23 3 FA für Augenheilkunde und Optometrie 14.986                 14.039             29.025        
+ÖGK Apr.23 4 FA für Chirurgie 4.821                   2.912               7.733          
+ÖGK Apr.23 5 FA für Haut- und Geschlechtskrankheiten 16.976                 15.852             32.828        
+ÖGK Apr.23 6 FA für Frauenheilkunde und Geburtshilfe 29.603                 28.861             58.464        
+ÖGK Apr.23 7 FA für Innere Medizin 19.030                 13.492             32.522        
+ÖGK Apr.23 8 FA für Kinder- und Jugendheilkunde 10.696                 24.559             35.255        
+ÖGK Apr.23 9 FA für Hals-, Nasen- und Ohrenerkrankungen 5.624                   5.713               11.337        
+ÖGK Apr.23 10 FA für Lungenkrankheiten 780                      1.315               2.095          
+ÖGK Apr.23 11 FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie 1.031                   531                  1.562          
+ÖGK Apr.23 12 FA für Orthopädie und orthopädische Chirurgie 16.854                 12.558             29.412        
+ÖGK Apr.23 13 FA für Physikalische Medizin 915                      967                  1.882          
+ÖGK Apr.23 14 FA für Radiologie 1.902                   945                  2.847          
+ÖGK Apr.23 15 FA für Unfallchirurgie 3.735                   3.343               7.078          
+ÖGK Apr.23 16 FA für Urologie 4.702                   3.417               8.119          
+ÖGK Apr.23 18 FA für Neurochirurgie 913                      506                  1.419          
+ÖGK Apr.23 19 FA für Neurologie 4.228                   2.506               6.734          
+ÖGK Apr.23 20 FA für Psychiatrie 7.441                   6.851               14.292        
+ÖGK Apr.23 21 FA für Plastische Chirurgie 431                      427                  858             
+ÖGK Apr.23 22 FA für Kinderchirurgie 87                        185                  272             
+ÖGK Apr.23 23 FA für Mund., Kiefer- und Gesichtschirurgie 915                      422                  1.337          
+ÖGK Apr.23 24 FA für Nuklearmedizin 1.256                   1.805               3.061          
+ÖGK Apr.23 26 FA für Strahlentherapie - Radioonkologie 16                        10                    26               
+ÖGK Apr.23 29 FA für Immunologie 12                        10                    22               
+ÖGK Apr.23 32 FA für Kinder- und Jugendpsychiatrie 321                      399                  720             
+ÖGK Apr.23 34 FA für medizinische Biologie 1                          -                  1                 
+ÖGK Apr.23 50 FA für medizinische und chemische Labordiagnostik 89                        64                    153             
+ÖGK Apr.23 53 FA für Pathologie und Histologie 59                        35                    94               
+ÖGK Apr.23 55 FA für Hygiene und Mikrobiologie bzw. Labordiagnostik 11                        6                      17               
+Gesamt 169.311               167.674           336.985      18726/AB XXVII. GP - Anfragebeantwortung - Beilage 5 4 von 12
+www.parlament.gv.at
+
+ÖGK-LS Monat FG-Code FG-Bezeichnungpostalische 
+Anträgeonline 
+Anträge Gesamt
+ÖGK Mai.23 1 Arzt für Allgemeinmedizin 23.333                 23.712             47.045        
+ÖGK Mai.23 2 FA für Anästhesiologie und Intensivmedizin 787                      372                  1.159          
+ÖGK Mai.23 3 FA für Augenheilkunde und Optometrie 16.984                 14.942             31.926        
+ÖGK Mai.23 4 FA für Chirurgie 4.499                   2.720               7.219          
+ÖGK Mai.23 5 FA für Haut- und Geschlechtskrankheiten 18.141                 14.922             33.063        
+ÖGK Mai.23 6 FA für Frauenheilkunde und Geburtshilfe 31.385                 29.086             60.471        
+ÖGK Mai.23 7 FA für Innere Medizin 18.605                 13.169             31.774        
+ÖGK Mai.23 8 FA für Kinder- und Jugendheilkunde 11.959                 23.427             35.386        
+ÖGK Mai.23 9 FA für Hals-, Nasen- und Ohrenerkrankungen 5.393                   5.959               11.352        
+ÖGK Mai.23 10 FA für Lungenkrankheiten 979                      1.219               2.198          
+ÖGK Mai.23 11 FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie 876                      494                  1.370          
+ÖGK Mai.23 12 FA für Orthopädie und orthopädische Chirurgie 16.718                 12.006             28.724        
+ÖGK Mai.23 13 FA für Physikalische Medizin 922                      811                  1.733          
+ÖGK Mai.23 14 FA für Radiologie 1.811                   947                  2.758          
+ÖGK Mai.23 15 FA für Unfallchirurgie 3.680                   3.067               6.747          
+ÖGK Mai.23 16 FA für Urologie 6.112                   3.517               9.629          
+ÖGK Mai.23 18 FA für Neurochirurgie 852                      517                  1.369          
+ÖGK Mai.23 19 FA für Neurologie 4.915                   2.297               7.212          
+ÖGK Mai.23 20 FA für Psychiatrie 7.297                   6.621               13.918        
+ÖGK Mai.23 21 FA für Plastische Chirurgie 441                      408                  849             
+ÖGK Mai.23 22 FA für Kinderchirurgie 48                        180                  228             
+ÖGK Mai.23 23 FA für Mund., Kiefer- und Gesichtschirurgie 759                      447                  1.206          
+ÖGK Mai.23 24 FA für Nuklearmedizin 1.480                   1.630               3.110          
+ÖGK Mai.23 26 FA für Strahlentherapie - Radioonkologie 12                        8                      20               
+ÖGK Mai.23 29 FA für Immunologie 30                        25                    55               
+ÖGK Mai.23 32 FA für Kinder- und Jugendpsychiatrie 328                      289                  617             
+ÖGK Mai.23 34 FA für medizinische Biologie -                       -                  -              
+ÖGK Mai.23 50 FA für medizinische und chemische Labordiagnostik 87                        69                    156             
+ÖGK Mai.23 53 FA für Pathologie und Histologie 45                        26                    71               
+ÖGK Mai.23 55 FA für Hygiene und Mikrobiologie bzw. Labordiagnostik 13                        14                    27               
+Gesamt 178.491               162.901           341.392      18726/AB XXVII. GP - Anfragebeantwortung - Beilage 5 5 von 12
+www.parlament.gv.at
+
+ÖGK-LS Monat FG-Code FG-Bezeichnungpostalische 
+Anträgeonline 
+Anträge Gesamt
+ÖGK Jun.23 1 Arzt für Allgemeinmedizin 27.625                 23.821             51.446        
+ÖGK Jun.23 2 FA für Anästhesiologie und Intensivmedizin 1.056                   316                  1.372          
+ÖGK Jun.23 3 FA für Augenheilkunde und Optometrie 20.839                 17.285             38.124        
+ÖGK Jun.23 4 FA für Chirurgie 5.883                   2.965               8.848          
+ÖGK Jun.23 5 FA für Haut- und Geschlechtskrankheiten 20.139                 16.808             36.947        
+ÖGK Jun.23 6 FA für Frauenheilkunde und Geburtshilfe 32.210                 35.299             67.509        
+ÖGK Jun.23 7 FA für Innere Medizin 22.405                 14.868             37.273        
+ÖGK Jun.23 8 FA für Kinder- und Jugendheilkunde 12.582                 24.804             37.386        
+ÖGK Jun.23 9 FA für Hals-, Nasen- und Ohrenerkrankungen 7.104                   6.436               13.540        
+ÖGK Jun.23 10 FA für Lungenkrankheiten 1.003                   1.562               2.565          
+ÖGK Jun.23 11 FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie 958                      445                  1.403          
+ÖGK Jun.23 12 FA für Orthopädie und orthopädische Chirurgie 19.709                 13.566             33.275        
+ÖGK Jun.23 13 FA für Physikalische Medizin 1.108                   934                  2.042          
+ÖGK Jun.23 14 FA für Radiologie 2.021                   979                  3.000          
+ÖGK Jun.23 15 FA für Unfallchirurgie 4.063                   3.100               7.163          
+ÖGK Jun.23 16 FA für Urologie 6.403                   3.980               10.383        
+ÖGK Jun.23 18 FA für Neurochirurgie 1.006                   516                  1.522          
+ÖGK Jun.23 19 FA für Neurologie 5.527                   2.864               8.391          
+ÖGK Jun.23 20 FA für Psychiatrie 8.316                   7.219               15.535        
+ÖGK Jun.23 21 FA für Plastische Chirurgie 543                      402                  945             
+ÖGK Jun.23 22 FA für Kinderchirurgie 72                        165                  237             
+ÖGK Jun.23 23 FA für Mund., Kiefer- und Gesichtschirurgie 751                      384                  1.135          
+ÖGK Jun.23 24 FA für Nuklearmedizin 1.739                   1.743               3.482          
+ÖGK Jun.23 26 FA für Strahlentherapie - Radioonkologie 20                        10                    30               
+ÖGK Jun.23 29 FA für Immunologie 16                        18                    34               
+ÖGK Jun.23 32 FA für Kinder- und Jugendpsychiatrie 491                      401                  892             
+ÖGK Jun.23 34 FA für medizinische Biologie -                       1                      1                 
+ÖGK Jun.23 50 FA für medizinische und chemische Labordiagnostik 112                      56                    168             
+ÖGK Jun.23 53 FA für Pathologie und Histologie 65                        35                    100             
+ÖGK Jun.23 55 FA für Hygiene und Mikrobiologie bzw. Labordiagnostik 12                        9                      21               
+Gesamt 203.778               180.991           384.769      18726/AB XXVII. GP - Anfragebeantwortung - Beilage 5 6 von 12
+www.parlament.gv.at
+
+ÖGK-LS Monat FG-Code FG-Bezeichnungpostalische 
+Anträgeonline 
+Anträge Gesamt
+ÖGK Jul.23 1 Arzt für Allgemeinmedizin 25.880                 25.585             51.465        
+ÖGK Jul.23 2 FA für Anästhesiologie und Intensivmedizin 956                      376                  1.332          
+ÖGK Jul.23 3 FA für Augenheilkunde und Optometrie 19.111                 15.129             34.240        
+ÖGK Jul.23 4 FA für Chirurgie 5.708                   2.874               8.582          
+ÖGK Jul.23 5 FA für Haut- und Geschlechtskrankheiten 21.828                 16.986             38.814        
+ÖGK Jul.23 6 FA für Frauenheilkunde und Geburtshilfe 36.556                 30.899             67.455        
+ÖGK Jul.23 7 FA für Innere Medizin 22.011                 13.585             35.596        
+ÖGK Jul.23 8 FA für Kinder- und Jugendheilkunde 12.702                 24.970             37.672        
+ÖGK Jul.23 9 FA für Hals-, Nasen- und Ohrenerkrankungen 7.173                   6.239               13.412        
+ÖGK Jul.23 10 FA für Lungenkrankheiten 1.190                   1.272               2.462          
+ÖGK Jul.23 11 FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie 1.114                   451                  1.565          
+ÖGK Jul.23 12 FA für Orthopädie und orthopädische Chirurgie 21.612                 14.524             36.136        
+ÖGK Jul.23 13 FA für Physikalische Medizin 1.237                   1.037               2.274          
+ÖGK Jul.23 14 FA für Radiologie 1.886                   1.007               2.893          
+ÖGK Jul.23 15 FA für Unfallchirurgie 4.263                   3.260               7.523          
+ÖGK Jul.23 16 FA für Urologie 6.594                   3.767               10.361        
+ÖGK Jul.23 18 FA für Neurochirurgie 1.106                   552                  1.658          
+ÖGK Jul.23 19 FA für Neurologie 5.082                   2.596               7.678          
+ÖGK Jul.23 20 FA für Psychiatrie 7.936                   7.172               15.108        
+ÖGK Jul.23 21 FA für Plastische Chirurgie 458                      390                  848             
+ÖGK Jul.23 22 FA für Kinderchirurgie 76                        188                  264             
+ÖGK Jul.23 23 FA für Mund., Kiefer- und Gesichtschirurgie 1.041                   396                  1.437          
+ÖGK Jul.23 24 FA für Nuklearmedizin 1.726                   1.460               3.186          
+ÖGK Jul.23 26 FA für Strahlentherapie - Radioonkologie 6                          9                      15               
+ÖGK Jul.23 29 FA für Immunologie 19                        29                    48               
+ÖGK Jul.23 32 FA für Kinder- und Jugendpsychiatrie 261                      383                  644             
+ÖGK Jul.23 34 FA für medizinische Biologie -                       -                  -              
+ÖGK Jul.23 50 FA für medizinische und chemische Labordiagnostik 108                      59                    167             
+ÖGK Jul.23 53 FA für Pathologie und Histologie 56                        25                    81               
+ÖGK Jul.23 55 FA für Hygiene und Mikrobiologie bzw. Labordiagnostik 13                        8                      21               
+Gesamt 207.709               175.228           382.937      18726/AB XXVII. GP - Anfragebeantwortung - Beilage 5 7 von 12
+www.parlament.gv.at
+
+ÖGK-LS Monat FG-Code FG-Bezeichnungpostalische 
+Anträgeonline 
+Anträge Gesamt
+ÖGK Aug.23 1 Arzt für Allgemeinmedizin 22.963                 24.234             47.197        
+ÖGK Aug.23 2 FA für Anästhesiologie und Intensivmedizin 848                      395                  1.243          
+ÖGK Aug.23 3 FA für Augenheilkunde und Optometrie 19.870                 15.254             35.124        
+ÖGK Aug.23 4 FA für Chirurgie 4.617                   3.011               7.628          
+ÖGK Aug.23 5 FA für Haut- und Geschlechtskrankheiten 22.351                 17.047             39.398        
+ÖGK Aug.23 6 FA für Frauenheilkunde und Geburtshilfe 32.962                 31.457             64.419        
+ÖGK Aug.23 7 FA für Innere Medizin 19.705                 13.646             33.351        
+ÖGK Aug.23 8 FA für Kinder- und Jugendheilkunde 10.933                 25.293             36.226        
+ÖGK Aug.23 9 FA für Hals-, Nasen- und Ohrenerkrankungen 6.870                   6.430               13.300        
+ÖGK Aug.23 10 FA für Lungenkrankheiten 1.131                   1.093               2.224          
+ÖGK Aug.23 11 FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie 1.035                   491                  1.526          
+ÖGK Aug.23 12 FA für Orthopädie und orthopädische Chirurgie 20.957                 13.440             34.397        
+ÖGK Aug.23 13 FA für Physikalische Medizin 1.016                   1.008               2.024          
+ÖGK Aug.23 14 FA für Radiologie 1.613                   1.065               2.678          
+ÖGK Aug.23 15 FA für Unfallchirurgie 3.599                   3.625               7.224          
+ÖGK Aug.23 16 FA für Urologie 6.213                   3.385               9.598          
+ÖGK Aug.23 18 FA für Neurochirurgie 899                      562                  1.461          
+ÖGK Aug.23 19 FA für Neurologie 5.229                   2.887               8.116          
+ÖGK Aug.23 20 FA für Psychiatrie 7.546                   7.182               14.728        
+ÖGK Aug.23 21 FA für Plastische Chirurgie 437                      437                  874             
+ÖGK Aug.23 22 FA für Kinderchirurgie 76                        212                  288             
+ÖGK Aug.23 23 FA für Mund., Kiefer- und Gesichtschirurgie 952                      447                  1.399          
+ÖGK Aug.23 24 FA für Nuklearmedizin 1.517                   1.773               3.290          
+ÖGK Aug.23 26 FA für Strahlentherapie - Radioonkologie 15                        9                      24               
+ÖGK Aug.23 29 FA für Immunologie 21                        45                    66               
+ÖGK Aug.23 32 FA für Kinder- und Jugendpsychiatrie 323                      453                  776             
+ÖGK Aug.23 34 FA für medizinische Biologie -                       1                      1                 
+ÖGK Aug.23 50 FA für medizinische und chemische Labordiagnostik 94                        75                    169             
+ÖGK Aug.23 53 FA für Pathologie und Histologie 40                        33                    73               
+ÖGK Aug.23 55 FA für Hygiene und Mikrobiologie bzw. Labordiagnostik 15                        15                    30               
+Gesamt 193.847               175.005           368.852      18726/AB XXVII. GP - Anfragebeantwortung - Beilage 5 8 von 12
+www.parlament.gv.at
+
+ÖGK-LS Monat FG-Code FG-Bezeichnungpostalische 
+Anträgeonline 
+Anträge Gesamt
+ÖGK Sep.23 1 Arzt für Allgemeinmedizin 25.037                 25.468             50.505        
+ÖGK Sep.23 2 FA für Anästhesiologie und Intensivmedizin 802                      464                  1.266          
+ÖGK Sep.23 3 FA für Augenheilkunde und Optometrie 20.130                 16.194             36.324        
+ÖGK Sep.23 4 FA für Chirurgie 4.849                   2.921               7.770          
+ÖGK Sep.23 5 FA für Haut- und Geschlechtskrankheiten 18.509                 18.490             36.999        
+ÖGK Sep.23 6 FA für Frauenheilkunde und Geburtshilfe 34.304                 34.272             68.576        
+ÖGK Sep.23 7 FA für Innere Medizin 19.839                 14.715             34.554        
+ÖGK Sep.23 8 FA für Kinder- und Jugendheilkunde 10.912                 24.975             35.887        
+ÖGK Sep.23 9 FA für Hals-, Nasen- und Ohrenerkrankungen 5.610                   7.396               13.006        
+ÖGK Sep.23 10 FA für Lungenkrankheiten 834                      1.008               1.842          
+ÖGK Sep.23 11 FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie 1.062                   497                  1.559          
+ÖGK Sep.23 12 FA für Orthopädie und orthopädische Chirurgie 19.079                 15.296             34.375        
+ÖGK Sep.23 13 FA für Physikalische Medizin 964                      1.064               2.028          
+ÖGK Sep.23 14 FA für Radiologie 1.746                   1.078               2.824          
+ÖGK Sep.23 15 FA für Unfallchirurgie 4.116                   3.655               7.771          
+ÖGK Sep.23 16 FA für Urologie 4.911                   3.965               8.876          
+ÖGK Sep.23 18 FA für Neurochirurgie 1.014                   579                  1.593          
+ÖGK Sep.23 19 FA für Neurologie 5.157                   3.344               8.501          
+ÖGK Sep.23 20 FA für Psychiatrie 7.994                   8.163               16.157        
+ÖGK Sep.23 21 FA für Plastische Chirurgie 459                      335                  794             
+ÖGK Sep.23 22 FA für Kinderchirurgie 75                        186                  261             
+ÖGK Sep.23 23 FA für Mund., Kiefer- und Gesichtschirurgie 645                      276                  921             
+ÖGK Sep.23 24 FA für Nuklearmedizin 1.243                   1.918               3.161          
+ÖGK Sep.23 26 FA für Strahlentherapie - Radioonkologie 14                        14                    28               
+ÖGK Sep.23 29 FA für Immunologie 10                        39                    49               
+ÖGK Sep.23 32 FA für Kinder- und Jugendpsychiatrie 274                      388                  662             
+ÖGK Sep.23 34 FA für medizinische Biologie -                       -                  -              
+ÖGK Sep.23 50 FA für medizinische und chemische Labordiagnostik 71                        80                    151             
+ÖGK Sep.23 53 FA für Pathologie und Histologie 52                        56                    108             
+ÖGK Sep.23 55 FA für Hygiene und Mikrobiologie bzw. Labordiagnostik 10                        16                    26               
+Gesamt 189.722               186.852           376.574      18726/AB XXVII. GP - Anfragebeantwortung - Beilage 5 9 von 12
+www.parlament.gv.at
+
+ÖGK-LS Monat FG-Code FG-Bezeichnungpostalische 
+Anträgeonline 
+Anträge Gesamt
+ÖGK Okt.23 1 Arzt für Allgemeinmedizin 29.162                 26.247             55.409        
+ÖGK Okt.23 2 FA für Anästhesiologie und Intensivmedizin 897                      389                  1.286          
+ÖGK Okt.23 3 FA für Augenheilkunde und Optometrie 20.773                 18.101             38.874        
+ÖGK Okt.23 4 FA für Chirurgie 4.380                   2.870               7.250          
+ÖGK Okt.23 5 FA für Haut- und Geschlechtskrankheiten 19.319                 19.301             38.620        
+ÖGK Okt.23 6 FA für Frauenheilkunde und Geburtshilfe 40.861                 35.080             75.941        
+ÖGK Okt.23 7 FA für Innere Medizin 22.783                 15.310             38.093        
+ÖGK Okt.23 8 FA für Kinder- und Jugendheilkunde 14.331                 25.891             40.222        
+ÖGK Okt.23 9 FA für Hals-, Nasen- und Ohrenerkrankungen 7.488                   7.089               14.577        
+ÖGK Okt.23 10 FA für Lungenkrankheiten 742                      1.540               2.282          
+ÖGK Okt.23 11 FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie 1.017                   523                  1.540          
+ÖGK Okt.23 12 FA für Orthopädie und orthopädische Chirurgie 16.620                 15.936             32.556        
+ÖGK Okt.23 13 FA für Physikalische Medizin 840                      1.009               1.849          
+ÖGK Okt.23 14 FA für Radiologie 1.712                   867                  2.579          
+ÖGK Okt.23 15 FA für Unfallchirurgie 4.152                   3.193               7.345          
+ÖGK Okt.23 16 FA für Urologie 5.408                   3.905               9.313          
+ÖGK Okt.23 18 FA für Neurochirurgie 941                      485                  1.426          
+ÖGK Okt.23 19 FA für Neurologie 4.827                   3.546               8.373          
+ÖGK Okt.23 20 FA für Psychiatrie 8.198                   8.574               16.772        
+ÖGK Okt.23 21 FA für Plastische Chirurgie 443                      407                  850             
+ÖGK Okt.23 22 FA für Kinderchirurgie 91                        212                  303             
+ÖGK Okt.23 23 FA für Mund., Kiefer- und Gesichtschirurgie 909                      139                  1.048          
+ÖGK Okt.23 24 FA für Nuklearmedizin 1.371                   1.922               3.293          
+ÖGK Okt.23 26 FA für Strahlentherapie - Radioonkologie 13                        12                    25               
+ÖGK Okt.23 29 FA für Immunologie 15                        42                    57               
+ÖGK Okt.23 32 FA für Kinder- und Jugendpsychiatrie 319                      461                  780             
+ÖGK Okt.23 34 FA für medizinische Biologie -                       -                  -              
+ÖGK Okt.23 50 FA für medizinische und chemische Labordiagnostik 65                        74                    139             
+ÖGK Okt.23 53 FA für Pathologie und Histologie 48                        34                    82               
+ÖGK Okt.23 55 FA für Hygiene und Mikrobiologie bzw. Labordiagnostik 23                        11                    34               
+Gesamt 207.748               193.170           400.918      18726/AB XXVII. GP - Anfragebeantwortung - Beilage 5 10 von 12
+www.parlament.gv.at
+
+ÖGK-LS Monat FG-Code FG-Bezeichnungpostalische 
+Anträgeonline 
+Anträge Gesamt
+ÖGK Nov.23 1 Arzt für Allgemeinmedizin 25.834                 30.006             55.840        
+ÖGK Nov.23 2 FA für Anästhesiologie und Intensivmedizin 1.131                   354                  1.485          
+ÖGK Nov.23 3 FA für Augenheilkunde und Optometrie 18.576                 20.970             39.546        
+ÖGK Nov.23 4 FA für Chirurgie 5.782                   3.401               9.183          
+ÖGK Nov.23 5 FA für Haut- und Geschlechtskrankheiten 22.310                 20.347             42.657        
+ÖGK Nov.23 6 FA für Frauenheilkunde und Geburtshilfe 38.336                 42.615             80.951        
+ÖGK Nov.23 7 FA für Innere Medizin 29.240                 17.616             46.856        
+ÖGK Nov.23 8 FA für Kinder- und Jugendheilkunde 10.005                 28.818             38.823        
+ÖGK Nov.23 9 FA für Hals-, Nasen- und Ohrenerkrankungen 5.296                   7.896               13.192        
+ÖGK Nov.23 10 FA für Lungenkrankheiten 986                      1.484               2.470          
+ÖGK Nov.23 11 FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie 2.186                   443                  2.629          
+ÖGK Nov.23 12 FA für Orthopädie und orthopädische Chirurgie 22.400                 17.290             39.690        
+ÖGK Nov.23 13 FA für Physikalische Medizin 1.104                   937                  2.041          
+ÖGK Nov.23 14 FA für Radiologie 2.802                   1.062               3.864          
+ÖGK Nov.23 15 FA für Unfallchirurgie 4.957                   3.820               8.777          
+ÖGK Nov.23 16 FA für Urologie 7.362                   4.654               12.016        
+ÖGK Nov.23 18 FA für Neurochirurgie 1.314                   591                  1.905          
+ÖGK Nov.23 19 FA für Neurologie 6.477                   3.377               9.854          
+ÖGK Nov.23 20 FA für Psychiatrie 10.861                 7.428               18.289        
+ÖGK Nov.23 21 FA für Plastische Chirurgie 560                      419                  979             
+ÖGK Nov.23 22 FA für Kinderchirurgie 97                        176                  273             
+ÖGK Nov.23 23 FA für Mund., Kiefer- und Gesichtschirurgie 966                      189                  1.155          
+ÖGK Nov.23 24 FA für Nuklearmedizin 1.514                   2.116               3.630          
+ÖGK Nov.23 26 FA für Strahlentherapie - Radioonkologie 18                        8                      26               
+ÖGK Nov.23 29 FA für Immunologie 14                        36                    50               
+ÖGK Nov.23 32 FA für Kinder- und Jugendpsychiatrie 368                      490                  858             
+ÖGK Nov.23 34 FA für medizinische Biologie -                       -                  -              
+ÖGK Nov.23 50 FA für medizinische und chemische Labordiagnostik 87                        48                    135             
+ÖGK Nov.23 53 FA für Pathologie und Histologie 53                        32                    85               
+ÖGK Nov.23 55 FA für Hygiene und Mikrobiologie bzw. Labordiagnostik 19                        25                    44               
+Gesamt 220.655               216.648           437.303      18726/AB XXVII. GP - Anfragebeantwortung - Beilage 5 11 von 12
+www.parlament.gv.at
+
+ÖGK-LS Monat FG-Code FG-Bezeichnungpostalische 
+Anträgeonline 
+Anträge Gesamt
+ÖGK Dez.23 1 Arzt für Allgemeinmedizin 21.193                 26.644             47.837        
+ÖGK Dez.23 2 FA für Anästhesiologie und Intensivmedizin 561                      360                  921             
+ÖGK Dez.23 3 FA für Augenheilkunde und Optometrie 14.071                 16.580             30.651        
+ÖGK Dez.23 4 FA für Chirurgie 4.129                   3.150               7.279          
+ÖGK Dez.23 5 FA für Haut- und Geschlechtskrankheiten 17.059                 18.009             35.068        
+ÖGK Dez.23 6 FA für Frauenheilkunde und Geburtshilfe 27.581                 34.370             61.951        
+ÖGK Dez.23 7 FA für Innere Medizin 19.389                 15.141             34.530        
+ÖGK Dez.23 8 FA für Kinder- und Jugendheilkunde 7.937                   25.951             33.888        
+ÖGK Dez.23 9 FA für Hals-, Nasen- und Ohrenerkrankungen 4.151                   6.231               10.382        
+ÖGK Dez.23 10 FA für Lungenkrankheiten 814                      1.274               2.088          
+ÖGK Dez.23 11 FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie 1.069                   422                  1.491          
+ÖGK Dez.23 12 FA für Orthopädie und orthopädische Chirurgie 16.573                 14.467             31.040        
+ÖGK Dez.23 13 FA für Physikalische Medizin 920                      855                  1.775          
+ÖGK Dez.23 14 FA für Radiologie 1.717                   1.057               2.774          
+ÖGK Dez.23 15 FA für Unfallchirurgie 3.646                   3.580               7.226          
+ÖGK Dez.23 16 FA für Urologie 4.699                   4.402               9.101          
+ÖGK Dez.23 18 FA für Neurochirurgie 800                      593                  1.393          
+ÖGK Dez.23 19 FA für Neurologie 5.158                   2.750               7.908          
+ÖGK Dez.23 20 FA für Psychiatrie 8.241                   6.348               14.589        
+ÖGK Dez.23 21 FA für Plastische Chirurgie 503                      473                  976             
+ÖGK Dez.23 22 FA für Kinderchirurgie 59                        222                  281             
+ÖGK Dez.23 23 FA für Mund., Kiefer- und Gesichtschirurgie 613                      285                  898             
+ÖGK Dez.23 24 FA für Nuklearmedizin 1.188                   1.848               3.036          
+ÖGK Dez.23 26 FA für Strahlentherapie - Radioonkologie 13                        8                      21               
+ÖGK Dez.23 29 FA für Immunologie 22                        50                    72               
+ÖGK Dez.23 32 FA für Kinder- und Jugendpsychiatrie 293                      324                  617             
+ÖGK Dez.23 34 FA für medizinische Biologie -                       -                  -              
+ÖGK Dez.23 50 FA für medizinische und chemische Labordiagnostik 75                        61                    136             
+ÖGK Dez.23 53 FA für Pathologie und Histologie 33                        36                    69               
+ÖGK Dez.23 55 FA für Hygiene und Mikrobiologie bzw. Labordiagnostik 20                        3                      23               
+Gesamt 162.527               185.494           348.021      18726/AB XXVII. GP - Anfragebeantwortung - Beilage 5 12 von 12
+www.parlament.gv.at
+

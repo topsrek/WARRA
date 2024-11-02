@@ -1,0 +1,69 @@
+{
+    "metadata": {
+        "question": "Wie hoch waren 2023 die Wahlarztkostenrefundierungen in den einzelnen KV-Trägern? (Darstellung je KV-Träger/ÖGK-Landestelle) 202318726/AB XXVII. GP - Anfragebeantwortung - Beilage 1 1 von 1 www.parlament.gv.at",
+        "units": {
+            "Refundierungen": "EUR",
+            "Rechnungsbeträge": "EUR"
+        },
+        "year": "2023",
+        "original_headers": {
+            "columns": [
+                "LST",
+                "Wahlarztkostenrefundierungen",
+                "Wahlarztkostenrechnungsbeträge"
+            ]
+        }
+    },
+    "data": [
+        {
+            "LST": "ÖGK-W",
+            "Refundierungen": 44992965.36,
+            "Rechnungsbeträge": 134065655.76
+        },
+        {
+            "LST": "ÖGK-N",
+            "Refundierungen": 31938943.74,
+            "Rechnungsbeträge": 89851098.22
+        },
+        {
+            "LST": "ÖGK-B",
+            "Refundierungen": 4715404.08,
+            "Rechnungsbeträge": 14315993.59
+        },
+        {
+            "LST": "ÖGK-O",
+            "Refundierungen": 29930360.88,
+            "Rechnungsbeträge": 77534663.23
+        },
+        {
+            "LST": "ÖGK-ST",
+            "Refundierungen": 25873975.82,
+            "Rechnungsbeträge": 70452229.91
+        },
+        {
+            "LST": "ÖGK-K",
+            "Refundierungen": 13275161.86,
+            "Rechnungsbeträge": 33248460.11
+        },
+        {
+            "LST": "ÖGK-S",
+            "Refundierungen": 14181165.4,
+            "Rechnungsbeträge": 35399464.56
+        },
+        {
+            "LST": "ÖGK-T",
+            "Refundierungen": 24978998.33,
+            "Rechnungsbeträge": 73278714.99
+        },
+        {
+            "LST": "ÖGK-V",
+            "Refundierungen": 8405751.09,
+            "Rechnungsbeträge": 25446840.66
+        },
+        {
+            "LST": "Gesamt",
+            "Refundierungen": 198292726.56,
+            "Rechnungsbeträge": 553593121.03
+        }
+    ]
+}

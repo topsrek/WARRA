@@ -1,0 +1,308 @@
+{
+    "breadcrumbs": [
+        {
+            "title": "Start",
+            "url": "/"
+        },
+        {
+            "title": "Anfragen & Beantwortungen",
+            "url": "/recherchieren/gegenstaende/anfragen-und-beantwortungen/"
+        },
+        {
+            "title": "Nationalrat - XXVII. GP",
+            "url": "/recherchieren/gegenstaende/anfragen-und-beantwortungen/?NRBR=NR&GP=XXVII"
+        },
+        {
+            "title": "Beantwortungen",
+            "url": "/recherchieren/gegenstaende/anfragen-und-beantwortungen/?NRBR=NR&GP=XXVII&JMAB=AB_ABPR_ABM&VHG2=ABMIN"
+        },
+        {
+            "title": "18726/AB"
+        }
+    ],
+    "type": "Anfragebeantwortung",
+    "sntype": "Anfragebeantwortung",
+    "title": "Refundierung von Wahlarztkosten und Hilfsmitteln 2023",
+    "zitation": "18726/AB",
+    "description": "Anfragebeantwortung durch den Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz Johannes Rauch zu der schriftlichen Anfrage (19363/J) der Abgeordneten Fiona Fiedler, BEd, Kolleginnen und Kollegen an den Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz betreffend Refundierung von Wahlarztkosten und Hilfsmitteln 2023",
+    "gp_code": "XXVII",
+    "ityp": "AB",
+    "inr": 18726,
+    "doktyp": "AB",
+    "update": "2024-09-21T00:46:30",
+    "nr_gp_code": "XXVII",
+    "intranet": "N",
+    "group": "1",
+    "deleted": false,
+    "einlangen": "2024-09-19T00:00:00",
+    "history_ind": 1.1,
+    "vhg_fertig": "J",
+    "vhg_fertig_docs": "J",
+    "process": "N",
+    "statementsstate": "9 Keine Begutachtung bei dem Doktyp \"AB\" möglich",
+    "approvalstate": "9 Keine Zustimmung bei dem Doktyp \"AB\" möglich",
+    "stages": [
+        {
+            "date": "19.09.2024",
+            "text": "Einlangen im Nationalrat",
+            "priority": 1
+        }
+    ],
+    "documents": [
+        {
+            "title": "Anfragebeantwortung",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/AB/18726/imfname_1655210.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Beilage 1",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/AB/18726/imfname_1655211.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Beilage 2",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/AB/18726/imfname_1655212.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Beilage 3",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/AB/18726/imfname_1655213.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Beilage 4",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/AB/18726/imfname_1655214.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Beilage 5",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/AB/18726/imfname_1655215.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Beilage 5a",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/AB/18726/imfname_1655216.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Beilage 6",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/AB/18726/imfname_1655217.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Beilage 6a",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/AB/18726/imfname_1655218.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Beilage 7",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/AB/18726/imfname_1655219.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Beilage 7a",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/AB/18726/imfname_1655220.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Beilage 8",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/AB/18726/imfname_1655221.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Beilage 9",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/AB/18726/imfname_1655222.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Beilage 10",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/AB/18726/imfname_1655223.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Beilage 11",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/AB/18726/imfname_1655224.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Beilage 12",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/AB/18726/imfname_1655225.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Beilage 13",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/AB/18726/imfname_1655226.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Beilage 14",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/AB/18726/imfname_1655227.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Beilage 15",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/AB/18726/imfname_1655228.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Beilage 16",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/AB/18726/imfname_1655229.pdf",
+                    "type": "PDF"
+                }
+            ]
+        }
+    ],
+    "names": [
+        {
+            "funktext": "Beantwortet durch",
+            "name": "Johannes Rauch",
+            "frak_code": "G",
+            "ltext": "Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz",
+            "url": "/person/21029",
+            "portrait": {
+                "rendertype": "image",
+                "data": {
+                    "src": "/dokument/bild/200775/20077540_384.jpg",
+                    "alt": "Portraitfoto von Johannes Rauch",
+                    "bildId": 20077540,
+                    "copyright": "BMSGPK/Marcel Kulhanek"
+                }
+            }
+        }
+    ],
+    "reference": [
+        {
+            "text": "Beantwortet",
+            "subject": "Refundierung von Wahlarztkosten und Hilfsmitteln 2023",
+            "zitation": "19363/J",
+            "url": "/gegenstand/XXVII/J/19363",
+            "art": "BA"
+        }
+    ],
+    "topics": {
+        "rendertype": "bubbles",
+        "data": {
+            "title": "",
+            "bubbles": [
+                {
+                    "label": "Gesundheit und Ernährung",
+                    "link": "/recherchieren/gegenstaende/?GP_CODE=XXVII&VHG=AB_ABPR_ABM&THEMEN=Gesundheit und Ernährung"
+                },
+                {
+                    "label": "Soziales",
+                    "link": "/recherchieren/gegenstaende/?GP_CODE=XXVII&VHG=AB_ABPR_ABM&THEMEN=Soziales"
+                }
+            ]
+        }
+    },
+    "headwords": {
+        "rendertype": "bubbles",
+        "data": {
+            "title": "",
+            "bubbles": [
+                {
+                    "label": "Gesundheit",
+                    "link": "/recherchieren/gegenstaende/?NRBR=NR&GP_CODE=XXVII&SW=Gesundheit"
+                },
+                {
+                    "label": "Sozialversicherung VI. Sonstiges",
+                    "link": "/recherchieren/gegenstaende/?NRBR=NR&GP_CODE=XXVII&SW=Sozialversicherung VI. Sonstiges"
+                }
+            ]
+        }
+    },
+    "eurovoc": {
+        "rendertype": "bubbles",
+        "data": {
+            "title": "",
+            "bubbles": [
+                {
+                    "label": "Gesundheit",
+                    "link": "/recherchieren/gegenstaende/?NRBR=NR&GP_CODE=XXVII&VHG=AB_ABPR_ABM&EUROVOC=Gesundheit"
+                },
+                {
+                    "label": "soziale Sicherheit",
+                    "link": "/recherchieren/gegenstaende/?NRBR=NR&GP_CODE=XXVII&VHG=AB_ABPR_ABM&EUROVOC=soziale Sicherheit"
+                }
+            ]
+        }
+    }
+}

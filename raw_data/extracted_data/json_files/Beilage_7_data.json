@@ -1,0 +1,837 @@
+{
+    "metadata": {
+        "question": "Mit welcher durchschnittlichen Bearbeitungszeit waren die Versicherten dabei konfrontiert? (Darstellung je KV-Träger/ÖGK-Landestelle, nach Monat und Antragsart postalisch/online) Bearbeitungszeit - Arztbereich Burgenland Vor Mai 2023 keine zentralen (einheitlichen) Daten vorhanden! Seite 1 von 918726/AB XXVII. GP - Anfragebeantwortung - Beilage 7 1 von 9 www.parlament.gv.at",
+        "units": {
+            "postal": "Kalendertage",
+            "OnlineMeine": "Kalendertage",
+            "OnlineWAH": "Kalendertage"
+        },
+        "year": "2023",
+        "description": {
+            "postal": "postalische Anträge nach Monat",
+            "OnlineMeine": "online Anträge nach Monat",
+            "OnlineWAH": "online Anträge nach Monat"
+        }
+    },
+    "data": [
+        {
+            "ÖGK-LS": "ÖGK-B",
+            "Monat.Jahr": "Jän.23",
+            "Postal": 29,
+            "OnlineMeine": 39,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-B",
+            "Monat.Jahr": "Feb.23",
+            "Postal": 48,
+            "OnlineMeine": 56,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-B",
+            "Monat.Jahr": "Mär.23",
+            "Postal": 45,
+            "OnlineMeine": 41,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-B",
+            "Monat.Jahr": "Apr.23",
+            "Postal": 78,
+            "OnlineMeine": 70,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-B",
+            "Monat.Jahr": "Mai.23",
+            "Postal": 95,
+            "OnlineMeine": 95,
+            "OnlineWAH": 48.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-B",
+            "Monat.Jahr": "Jun.23",
+            "Postal": 105,
+            "OnlineMeine": 98,
+            "OnlineWAH": 27.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-B",
+            "Monat.Jahr": "Jul.23",
+            "Postal": 102,
+            "OnlineMeine": 97,
+            "OnlineWAH": 15.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-B",
+            "Monat.Jahr": "Aug.23",
+            "Postal": 108,
+            "OnlineMeine": 123,
+            "OnlineWAH": 17.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-B",
+            "Monat.Jahr": "Sep.23",
+            "Postal": 112,
+            "OnlineMeine": 105,
+            "OnlineWAH": 24.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-B",
+            "Monat.Jahr": "Okt.23",
+            "Postal": 64,
+            "OnlineMeine": 64,
+            "OnlineWAH": 20.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-B",
+            "Monat.Jahr": "Nov.23",
+            "Postal": 48,
+            "OnlineMeine": 48,
+            "OnlineWAH": 34.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-B",
+            "Monat.Jahr": "Dez.23",
+            "Postal": 39,
+            "OnlineMeine": 39,
+            "OnlineWAH": 50.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-B",
+            "Monat.Jahr": "Durchschnitt",
+            "Postal": 73,
+            "OnlineMeine": 73,
+            "OnlineWAH": 29.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-K",
+            "Monat.Jahr": "Jän.23",
+            "Postal": 72,
+            "OnlineMeine": 45,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-K",
+            "Monat.Jahr": "Feb.23",
+            "Postal": 85,
+            "OnlineMeine": 53,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-K",
+            "Monat.Jahr": "Mär.23",
+            "Postal": 84,
+            "OnlineMeine": 69,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-K",
+            "Monat.Jahr": "Apr.23",
+            "Postal": 87,
+            "OnlineMeine": 80,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-K",
+            "Monat.Jahr": "Mai.23",
+            "Postal": 92,
+            "OnlineMeine": 97,
+            "OnlineWAH": 42.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-K",
+            "Monat.Jahr": "Jun.23",
+            "Postal": 84,
+            "OnlineMeine": 83,
+            "OnlineWAH": 27.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-K",
+            "Monat.Jahr": "Jul.23",
+            "Postal": 63,
+            "OnlineMeine": 78,
+            "OnlineWAH": 35.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-K",
+            "Monat.Jahr": "Aug.23",
+            "Postal": 58,
+            "OnlineMeine": 68,
+            "OnlineWAH": 34.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-K",
+            "Monat.Jahr": "Sep.23",
+            "Postal": 60,
+            "OnlineMeine": 63,
+            "OnlineWAH": 18.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-K",
+            "Monat.Jahr": "Okt.23",
+            "Postal": 47,
+            "OnlineMeine": 46,
+            "OnlineWAH": 13.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-K",
+            "Monat.Jahr": "Nov.23",
+            "Postal": 25,
+            "OnlineMeine": 25,
+            "OnlineWAH": 13.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-K",
+            "Monat.Jahr": "Dez.23",
+            "Postal": 20,
+            "OnlineMeine": 20,
+            "OnlineWAH": 13.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-K",
+            "Monat.Jahr": "Durchschnitt",
+            "Postal": 65,
+            "OnlineMeine": 61,
+            "OnlineWAH": 24.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-N",
+            "Monat.Jahr": "Jän.23",
+            "Postal": 42,
+            "OnlineMeine": 17,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-N",
+            "Monat.Jahr": "Feb.23",
+            "Postal": 41,
+            "OnlineMeine": 17,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-N",
+            "Monat.Jahr": "Mär.23",
+            "Postal": 49,
+            "OnlineMeine": 17,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-N",
+            "Monat.Jahr": "Apr.23",
+            "Postal": 50,
+            "OnlineMeine": 28,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-N",
+            "Monat.Jahr": "Mai.23",
+            "Postal": 61,
+            "OnlineMeine": 28,
+            "OnlineWAH": 14.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-N",
+            "Monat.Jahr": "Jun.23",
+            "Postal": 60,
+            "OnlineMeine": 35,
+            "OnlineWAH": 14.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-N",
+            "Monat.Jahr": "Jul.23",
+            "Postal": 55,
+            "OnlineMeine": 35,
+            "OnlineWAH": 14.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-N",
+            "Monat.Jahr": "Aug.23",
+            "Postal": 76,
+            "OnlineMeine": 42,
+            "OnlineWAH": 14.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-N",
+            "Monat.Jahr": "Sep.23",
+            "Postal": 81,
+            "OnlineMeine": 42,
+            "OnlineWAH": 14.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-N",
+            "Monat.Jahr": "Okt.23",
+            "Postal": 103,
+            "OnlineMeine": 72,
+            "OnlineWAH": 14.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-N",
+            "Monat.Jahr": "Nov.23",
+            "Postal": 78,
+            "OnlineMeine": 78,
+            "OnlineWAH": 14.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-N",
+            "Monat.Jahr": "Dez.23",
+            "Postal": 89,
+            "OnlineMeine": 89,
+            "OnlineWAH": 14.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-N",
+            "Monat.Jahr": "Durchschnitt",
+            "Postal": 65,
+            "OnlineMeine": 42,
+            "OnlineWAH": 14.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-O",
+            "Monat.Jahr": "Jän.23",
+            "Postal": 25,
+            "OnlineMeine": 21,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-O",
+            "Monat.Jahr": "Feb.23",
+            "Postal": 25,
+            "OnlineMeine": 29,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-O",
+            "Monat.Jahr": "Mär.23",
+            "Postal": 26,
+            "OnlineMeine": 20,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-O",
+            "Monat.Jahr": "Apr.23",
+            "Postal": 28,
+            "OnlineMeine": 15,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-O",
+            "Monat.Jahr": "Mai.23",
+            "Postal": 32,
+            "OnlineMeine": 23,
+            "OnlineWAH": 0.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-O",
+            "Monat.Jahr": "Jun.23",
+            "Postal": 27,
+            "OnlineMeine": 28,
+            "OnlineWAH": 4.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-O",
+            "Monat.Jahr": "Jul.23",
+            "Postal": 24,
+            "OnlineMeine": 29,
+            "OnlineWAH": 11.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-O",
+            "Monat.Jahr": "Aug.23",
+            "Postal": 28,
+            "OnlineMeine": 30,
+            "OnlineWAH": 17.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-O",
+            "Monat.Jahr": "Sep.23",
+            "Postal": 35,
+            "OnlineMeine": 18,
+            "OnlineWAH": 18.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-O",
+            "Monat.Jahr": "Okt.23",
+            "Postal": 32,
+            "OnlineMeine": 32,
+            "OnlineWAH": 28.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-O",
+            "Monat.Jahr": "Nov.23",
+            "Postal": 38,
+            "OnlineMeine": 38,
+            "OnlineWAH": 14.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-O",
+            "Monat.Jahr": "Dez.23",
+            "Postal": 43,
+            "OnlineMeine": 43,
+            "OnlineWAH": 19.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-O",
+            "Monat.Jahr": "Durchschnitt",
+            "Postal": 30,
+            "OnlineMeine": 27,
+            "OnlineWAH": 14.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-S",
+            "Monat.Jahr": "Jän.23",
+            "Postal": 27,
+            "OnlineMeine": 26,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-S",
+            "Monat.Jahr": "Feb.23",
+            "Postal": 25,
+            "OnlineMeine": 25,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-S",
+            "Monat.Jahr": "Mär.23",
+            "Postal": 23,
+            "OnlineMeine": 21,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-S",
+            "Monat.Jahr": "Apr.23",
+            "Postal": 21,
+            "OnlineMeine": 24,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-S",
+            "Monat.Jahr": "Mai.23",
+            "Postal": 27,
+            "OnlineMeine": 34,
+            "OnlineWAH": 14.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-S",
+            "Monat.Jahr": "Jun.23",
+            "Postal": 35,
+            "OnlineMeine": 26,
+            "OnlineWAH": 10.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-S",
+            "Monat.Jahr": "Jul.23",
+            "Postal": 25,
+            "OnlineMeine": 26,
+            "OnlineWAH": 13.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-S",
+            "Monat.Jahr": "Aug.23",
+            "Postal": 21,
+            "OnlineMeine": 21,
+            "OnlineWAH": 10.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-S",
+            "Monat.Jahr": "Sep.23",
+            "Postal": 14,
+            "OnlineMeine": 14,
+            "OnlineWAH": 10.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-S",
+            "Monat.Jahr": "Okt.23",
+            "Postal": 15,
+            "OnlineMeine": 15,
+            "OnlineWAH": 17.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-S",
+            "Monat.Jahr": "Nov.23",
+            "Postal": 15,
+            "OnlineMeine": 15,
+            "OnlineWAH": 13.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-S",
+            "Monat.Jahr": "Dez.23",
+            "Postal": 18,
+            "OnlineMeine": 18,
+            "OnlineWAH": 19.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-S",
+            "Monat.Jahr": "Durchschnitt",
+            "Postal": 22,
+            "OnlineMeine": 22,
+            "OnlineWAH": 13.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-ST",
+            "Monat.Jahr": "Jän.23",
+            "Postal": 71,
+            "OnlineMeine": 71,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-ST",
+            "Monat.Jahr": "Feb.23",
+            "Postal": 80,
+            "OnlineMeine": 80,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-ST",
+            "Monat.Jahr": "Mär.23",
+            "Postal": 86,
+            "OnlineMeine": 85,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-ST",
+            "Monat.Jahr": "Apr.23",
+            "Postal": 87,
+            "OnlineMeine": 87,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-ST",
+            "Monat.Jahr": "Mai.23",
+            "Postal": 95,
+            "OnlineMeine": 95,
+            "OnlineWAH": 14.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-ST",
+            "Monat.Jahr": "Jun.23",
+            "Postal": 105,
+            "OnlineMeine": 105,
+            "OnlineWAH": 14.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-ST",
+            "Monat.Jahr": "Jul.23",
+            "Postal": 102,
+            "OnlineMeine": 102,
+            "OnlineWAH": 14.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-ST",
+            "Monat.Jahr": "Aug.23",
+            "Postal": 112,
+            "OnlineMeine": 112,
+            "OnlineWAH": 14.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-ST",
+            "Monat.Jahr": "Sep.23",
+            "Postal": 106,
+            "OnlineMeine": 106,
+            "OnlineWAH": 14.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-ST",
+            "Monat.Jahr": "Okt.23",
+            "Postal": 100,
+            "OnlineMeine": 100,
+            "OnlineWAH": 14.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-ST",
+            "Monat.Jahr": "Nov.23",
+            "Postal": 73,
+            "OnlineMeine": 73,
+            "OnlineWAH": 14.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-ST",
+            "Monat.Jahr": "Dez.23",
+            "Postal": 81,
+            "OnlineMeine": 81,
+            "OnlineWAH": 14.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-ST",
+            "Monat.Jahr": "Durchschnitt",
+            "Postal": 92,
+            "OnlineMeine": 91,
+            "OnlineWAH": 14.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-T",
+            "Monat.Jahr": "Jän.23",
+            "Postal": 61,
+            "OnlineMeine": 8,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-T",
+            "Monat.Jahr": "Feb.23",
+            "Postal": 60,
+            "OnlineMeine": 21,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-T",
+            "Monat.Jahr": "Mär.23",
+            "Postal": 58,
+            "OnlineMeine": 21,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-T",
+            "Monat.Jahr": "Apr.23",
+            "Postal": 61,
+            "OnlineMeine": 21,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-T",
+            "Monat.Jahr": "Mai.23",
+            "Postal": 63,
+            "OnlineMeine": 28,
+            "OnlineWAH": 2.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-T",
+            "Monat.Jahr": "Jun.23",
+            "Postal": 65,
+            "OnlineMeine": 28,
+            "OnlineWAH": 2.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-T",
+            "Monat.Jahr": "Jul.23",
+            "Postal": 67,
+            "OnlineMeine": 28,
+            "OnlineWAH": 2.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-T",
+            "Monat.Jahr": "Aug.23",
+            "Postal": 69,
+            "OnlineMeine": 28,
+            "OnlineWAH": 2.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-T",
+            "Monat.Jahr": "Sep.23",
+            "Postal": 67,
+            "OnlineMeine": 28,
+            "OnlineWAH": 2.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-T",
+            "Monat.Jahr": "Okt.23",
+            "Postal": 56,
+            "OnlineMeine": 56,
+            "OnlineWAH": 2.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-T",
+            "Monat.Jahr": "Nov.23",
+            "Postal": 44,
+            "OnlineMeine": 44,
+            "OnlineWAH": 2.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-T",
+            "Monat.Jahr": "Dez.23",
+            "Postal": 30,
+            "OnlineMeine": 30,
+            "OnlineWAH": 2.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-T",
+            "Monat.Jahr": "Durchschnitt",
+            "Postal": 58,
+            "OnlineMeine": 28,
+            "OnlineWAH": 2.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-V",
+            "Monat.Jahr": "Jän.23",
+            "Postal": 42,
+            "OnlineMeine": 42,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-V",
+            "Monat.Jahr": "Feb.23",
+            "Postal": 56,
+            "OnlineMeine": 56,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-V",
+            "Monat.Jahr": "Mär.23",
+            "Postal": 70,
+            "OnlineMeine": 70,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-V",
+            "Monat.Jahr": "Apr.23",
+            "Postal": 77,
+            "OnlineMeine": 77,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-V",
+            "Monat.Jahr": "Mai.23",
+            "Postal": 77,
+            "OnlineMeine": 77,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-V",
+            "Monat.Jahr": "Jun.23",
+            "Postal": 84,
+            "OnlineMeine": 84,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-V",
+            "Monat.Jahr": "Jul.23",
+            "Postal": 84,
+            "OnlineMeine": 84,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-V",
+            "Monat.Jahr": "Aug.23",
+            "Postal": 77,
+            "OnlineMeine": 77,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-V",
+            "Monat.Jahr": "Sep.23",
+            "Postal": 77,
+            "OnlineMeine": 77,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-V",
+            "Monat.Jahr": "Okt.23",
+            "Postal": 63,
+            "OnlineMeine": 63,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-V",
+            "Monat.Jahr": "Nov.23",
+            "Postal": 63,
+            "OnlineMeine": 63,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-V",
+            "Monat.Jahr": "Dez.23",
+            "Postal": 77,
+            "OnlineMeine": 77,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-V",
+            "Monat.Jahr": "Durchschnitt",
+            "Postal": 71,
+            "OnlineMeine": 71,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-W",
+            "Monat.Jahr": "Jän.23",
+            "Postal": 50,
+            "OnlineMeine": 48,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-W",
+            "Monat.Jahr": "Feb.23",
+            "Postal": 48,
+            "OnlineMeine": 48,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-W",
+            "Monat.Jahr": "Mär.23",
+            "Postal": 48,
+            "OnlineMeine": 42,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-W",
+            "Monat.Jahr": "Apr.23",
+            "Postal": 54,
+            "OnlineMeine": 46,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-W",
+            "Monat.Jahr": "Mai.23",
+            "Postal": 52,
+            "OnlineMeine": 55,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-W",
+            "Monat.Jahr": "Jun.23",
+            "Postal": 62,
+            "OnlineMeine": 62,
+            "OnlineWAH": NaN
+        },
+        {
+            "ÖGK-LS": "ÖGK-W",
+            "Monat.Jahr": "Jul.23",
+            "Postal": 61,
+            "OnlineMeine": 62,
+            "OnlineWAH": 17.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-W",
+            "Monat.Jahr": "Aug.23",
+            "Postal": 63,
+            "OnlineMeine": 57,
+            "OnlineWAH": 49.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-W",
+            "Monat.Jahr": "Sep.23",
+            "Postal": 63,
+            "OnlineMeine": 59,
+            "OnlineWAH": 69.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-W",
+            "Monat.Jahr": "Okt.23",
+            "Postal": 47,
+            "OnlineMeine": 49,
+            "OnlineWAH": 42.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-W",
+            "Monat.Jahr": "Nov.23",
+            "Postal": 47,
+            "OnlineMeine": 47,
+            "OnlineWAH": 38.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-W",
+            "Monat.Jahr": "Dez.23",
+            "Postal": 48,
+            "OnlineMeine": 48,
+            "OnlineWAH": 46.0
+        },
+        {
+            "ÖGK-LS": "ÖGK-W",
+            "Monat.Jahr": "Durchschnitt",
+            "Postal": 54,
+            "OnlineMeine": 52,
+            "OnlineWAH": 44.0
+        }
+    ]
+}
