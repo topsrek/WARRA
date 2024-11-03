@@ -11,24 +11,25 @@ https://www.parlament.gv.at/gegenstand/XXVII/AB/18726
 ### Download
 packages needed: requests
 
-`python -m pipenv install requests` or
 `pip install requests`
-if pipenv: `python -m pipenv shell`
+or use pipenv: `python -m pipenv install requests` and `python -m pipenv shell`
 
 `cd raw_data`
 
 `python download_parliament_files.py`
 
-### Converting
+### Extracting/Converting
 packages needed: PyPDF2 pdfplumber tabula-py pandas
 
-`python -m pipenv install PyPDF2 pdfplumber tabula-py pandas` or
 `pip install PyPDF2 pdfplumber tabula-py pandas`
-if pipenv: `python -m pipenv shell`
+or use pipenv:  `python -m pipenv install PyPDF2 pdfplumber tabula-py pandas` and `python -m pipenv shell`
 
 `cd raw_data`
 
 `python extract_data_from_pdfs.py`
+`python extract_text_from_pdfs.py` (generate searchable text files)
+
+Note: Beilage 13-16 were extracted manually (Copy/Paste, Excel, and OCR)
 
 ### Postprocessing
 
