@@ -1,0 +1,5328 @@
+MIME-Version: 1.0
+X-Document-Type: Workbook
+Content-Type: multipart/related; boundary="----=_NextPart_01DB2E33.4C91E080"
+
+This document is a Single File Web Page, also known as a Web Archive file. If you are seeing this message, your browser or editor doesn't support Web Archive files. Please download a browser that supports Web Archive.
+
+------=_NextPart_01DB2E33.4C91E080
+Content-Location: file:///C:/EA435D04/Beilage_13_14_15_16_manually_extracted.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta name=3D"Excel Workbook Frameset">
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link rel=3DFile-List
+href=3D"Beilage_13_14_15_16_manually_extracted.files/filelist.xml">
+<![if !supportTabStrip]>
+<link id=3D"shLink" href=3D"Beilage_13_14_15_16_manually_extracted.files/sh=
+eet001.htm">
+<link id=3D"shLink" href=3D"Beilage_13_14_15_16_manually_extracted.files/sh=
+eet002.htm">
+<link id=3D"shLink" href=3D"Beilage_13_14_15_16_manually_extracted.files/sh=
+eet003.htm">
+<link id=3D"shLink" href=3D"Beilage_13_14_15_16_manually_extracted.files/sh=
+eet004.htm">
+
+<link id=3D"shLink">
+
+<script language=3D"JavaScript">
+<!--
+ var c_lTabs=3D4;
+
+ var c_rgszSh=3Dnew Array(c_lTabs);
+ c_rgszSh[0] =3D "Beilage_13";
+ c_rgszSh[1] =3D "Beilage_14";
+ c_rgszSh[2] =3D "Beilage_15";
+ c_rgszSh[3] =3D "Beilage_16";
+
+
+
+ var c_rgszClr=3Dnew Array(8);
+ c_rgszClr[0]=3D"window";
+ c_rgszClr[1]=3D"buttonface";
+ c_rgszClr[2]=3D"windowframe";
+ c_rgszClr[3]=3D"windowtext";
+ c_rgszClr[4]=3D"threedlightshadow";
+ c_rgszClr[5]=3D"threedhighlight";
+ c_rgszClr[6]=3D"threeddarkshadow";
+ c_rgszClr[7]=3D"threedshadow";
+
+ var g_iShCur;
+ var g_rglTabX=3Dnew Array(c_lTabs);
+
+function fnGetIEVer()
+{
+ var ua=3Dwindow.navigator.userAgent
+ var msie=3Dua.indexOf("MSIE")
+ if (msie>0 && window.navigator.platform=3D=3D"Win32")
+  return parseInt(ua.substring(msie+5,ua.indexOf(".", msie)));
+ else
+  return 0;
+}
+
+function fnBuildFrameset()
+{
+ var szHTML=3D"<frameset rows=3D\"*,18\" border=3D0 width=3D0 frameborder=
+=3Dno framespacing=3D0>"+
+  "<frame src=3D\""+document.all.item("shLink")[3].href+"\" name=3D\"frShee=
+t\" noresize>"+
+  "<frameset cols=3D\"54,*\" border=3D0 width=3D0 frameborder=3Dno framespa=
+cing=3D0>"+
+  "<frame src=3D\"\" name=3D\"frScroll\" marginwidth=3D0 marginheight=3D0 s=
+crolling=3Dno>"+
+  "<frame src=3D\"\" name=3D\"frTabs\" marginwidth=3D0 marginheight=3D0 scr=
+olling=3Dno>"+
+  "</frameset></frameset><plaintext>";
+
+ with (document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ fnBuildTabStrip();
+}
+
+function fnBuildTabStrip()
+{
+ var szHTML=3D
+  "<html><head><style>.clScroll {font:8pt Courier New;color:"+c_rgszClr[6]+=
+";cursor:default;line-height:10pt;}"+
+  ".clScroll2 {font:10pt Arial;color:"+c_rgszClr[6]+";cursor:default;line-h=
+eight:11pt;}</style></head>"+
+  "<body onclick=3D\"event.returnValue=3Dfalse;\" ondragstart=3D\"event.ret=
+urnValue=3Dfalse;\" onselectstart=3D\"event.returnValue=3Dfalse;\" bgcolor=
+=3D"+c_rgszClr[4]+" topmargin=3D0 leftmargin=3D0><table cellpadding=3D0 cel=
+lspacing=3D0 width=3D100%>"+
+  "<tr><td colspan=3D6 height=3D1 bgcolor=3D"+c_rgszClr[2]+"></td></tr>"+
+  "<tr><td style=3D\"font:1pt\">&nbsp;<td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.f=
+nFastScrollTabs(0);\" onmouseover=3D\"parent.fnMouseOverScroll(0);\" onmous=
+eout=3D\"parent.fnMouseOutScroll(0);\"><a>&#171;</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.=
+fnScrollTabs(0);\" ondblclick=3D\"parent.fnScrollTabs(0);\" onmouseover=3D\=
+"parent.fnMouseOverScroll(1);\" onmouseout=3D\"parent.fnMouseOutScroll(1);\=
+"><a>&lt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.=
+fnScrollTabs(1);\" ondblclick=3D\"parent.fnScrollTabs(1);\" onmouseover=3D\=
+"parent.fnMouseOverScroll(2);\" onmouseout=3D\"parent.fnMouseOutScroll(2);\=
+"><a>&gt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.f=
+nFastScrollTabs(1);\" onmouseover=3D\"parent.fnMouseOverScroll(3);\" onmous=
+eout=3D\"parent.fnMouseOutScroll(3);\"><a>&#187;</a></td>"+
+  "<td style=3D\"font:1pt\">&nbsp;<td></tr></table></body></html>";
+
+ with (frames['frScroll'].document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ szHTML =3D
+  "<html><head>"+
+  "<style>A:link,A:visited,A:active {text-decoration:none;"+"color:"+c_rgsz=
+Clr[3]+";}"+
+  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:9pt Arial;padding-l=
+eft:3px;padding-right:3px;text-align:center;}"+
+  ".clBorder {background:"+c_rgszClr[2]+";font:1pt;}"+
+  "</style></head><body onload=3D\"parent.fnInit();\" onselectstart=3D\"eve=
+nt.returnValue=3Dfalse;\" ondragstart=3D\"event.returnValue=3Dfalse;\" bgco=
+lor=3D"+c_rgszClr[4]+
+  " topmargin=3D0 leftmargin=3D0><table id=3DtbTabs cellpadding=3D0 cellspa=
+cing=3D0>";
+
+ var iCellCount=3D(c_lTabs+1)*2;
+
+ var i;
+ for (i=3D0;i<iCellCount;i+=3D2)
+  szHTML+=3D"<col width=3D1><col>";
+
+ var iRow;
+ for (iRow=3D0;iRow<6;iRow++) {
+
+  szHTML+=3D"<tr>";
+
+  if (iRow=3D=3D5)
+   szHTML+=3D"<td colspan=3D"+iCellCount+"></td>";
+  else {
+   if (iRow=3D=3D0) {
+    for(i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1 class=3D\"clBorder\"></td>";
+   } else if (iRow=3D=3D1) {
+    for(i=3D0;i<c_lTabs;i++) {
+     szHTML+=3D"<td height=3D1 nowrap class=3D\"clBorder\">&nbsp;</td>";
+     szHTML+=3D
+      "<td id=3DtdTab height=3D1 nowrap class=3D\"clTab\" onmouseover=3D\"p=
+arent.fnMouseOverTab("+i+");\" onmouseout=3D\"parent.fnMouseOutTab("+i+");\=
+">"+
+      "<a href=3D\""+document.all.item("shLink")[i].href+"\" target=3D\"frS=
+heet\" id=3DaTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>";
+    }
+    szHTML+=3D"<td id=3DtdTab height=3D1 nowrap class=3D\"clBorder\"><a id=
+=3DaTab>&nbsp;</a></td><td width=3D100%></td>";
+   } else if (iRow=3D=3D2) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1></td><td height=3D1 class=3D\"clBorder\"></t=
+d>";
+    szHTML+=3D"<td height=3D1></td><td height=3D1></td>";
+   } else if (iRow=3D=3D3) {
+    for (i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1></td>";
+   } else if (iRow=3D=3D4) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1 width=3D1></td><td height=3D1></td>";
+    szHTML+=3D"<td height=3D1 width=3D1></td><td></td>";
+   }
+  }
+  szHTML+=3D"</tr>";
+ }
+
+ szHTML+=3D"</table></body></html>";
+ with (frames['frTabs'].document) {
+  open("text/html","replace");
+  charset=3Ddocument.charset;
+  write(szHTML);
+  close();
+ }
+}
+
+function fnInit()
+{
+ g_rglTabX[0]=3D0;
+ var i;
+ for (i=3D1;i<=3Dc_lTabs;i++)
+  with (frames['frTabs'].document.all.tbTabs.rows[1].cells[fnTabToCol(i-1)])
+   g_rglTabX[i]=3DoffsetLeft+offsetWidth-6;
+}
+
+function fnTabToCol(iTab)
+{
+ return 2*iTab+1;
+}
+
+function fnNextTab(fDir)
+{
+ var iNextTab=3D-1;
+ var i;
+
+ with (frames['frTabs'].document.body) {
+  if (fDir=3D=3D0) {
+   if (scrollLeft>0) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<scrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di-1;
+   }
+  } else {
+   if (g_rglTabX[c_lTabs]+6>offsetWidth+scrollLeft) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<=3DscrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di;
+   }
+  }
+ }
+ return iNextTab;
+}
+
+function fnScrollTabs(fDir)
+{
+ var iNextTab=3DfnNextTab(fDir);
+
+ if (iNextTab>=3D0) {
+  frames['frTabs'].scroll(g_rglTabX[iNextTab],0);
+  return true;
+ } else
+  return false;
+}
+
+function fnFastScrollTabs(fDir)
+{
+ if (c_lTabs>16)
+  frames['frTabs'].scroll(g_rglTabX[fDir?c_lTabs-1:0],0);
+ else
+  if (fnScrollTabs(fDir)>0) window.setTimeout("fnFastScrollTabs("+fDir+");"=
+,5);
+}
+
+function fnSetTabProps(iTab,fActive)
+{
+ var iCol=3DfnTabToCol(iTab);
+ var i;
+
+ if (iTab>=3D0) {
+  with (frames['frTabs'].document.all) {
+   with (tbTabs) {
+    for (i=3D0;i<=3D4;i++) {
+     with (rows[i]) {
+      if (i=3D=3D0)
+       cells[iCol].style.background=3Dc_rgszClr[fActive?0:2];
+      else if (i>0 && i<4) {
+       if (fActive) {
+        cells[iCol-1].style.background=3Dc_rgszClr[2];
+        cells[iCol].style.background=3Dc_rgszClr[0];
+        cells[iCol+1].style.background=3Dc_rgszClr[2];
+       } else {
+        if (i=3D=3D1) {
+         cells[iCol-1].style.background=3Dc_rgszClr[2];
+         cells[iCol].style.background=3Dc_rgszClr[1];
+         cells[iCol+1].style.background=3Dc_rgszClr[2];
+        } else {
+         cells[iCol-1].style.background=3Dc_rgszClr[4];
+         cells[iCol].style.background=3Dc_rgszClr[(i=3D=3D2)?2:4];
+         cells[iCol+1].style.background=3Dc_rgszClr[4];
+        }
+       }
+      } else
+       cells[iCol].style.background=3Dc_rgszClr[fActive?2:4];
+     }
+    }
+   }
+   with (aTab[iTab].style) {
+    cursor=3D(fActive?"default":"hand");
+    color=3Dc_rgszClr[3];
+   }
+  }
+ }
+}
+
+function fnMouseOverScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[7];
+}
+
+function fnMouseOutScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[6];
+}
+
+function fnMouseOverTab(iTab)
+{
+ if (iTab!=3Dg_iShCur) {
+  var iCol=3DfnTabToCol(iTab);
+  with (frames['frTabs'].document.all) {
+   tdTab[iTab].style.background=3Dc_rgszClr[5];
+  }
+ }
+}
+
+function fnMouseOutTab(iTab)
+{
+ if (iTab>=3D0) {
+  var elFrom=3Dframes['frTabs'].event.srcElement;
+  var elTo=3Dframes['frTabs'].event.toElement;
+
+  if ((!elTo) ||
+   (elFrom.tagName=3D=3DelTo.tagName) ||
+   (elTo.tagName=3D=3D"A" && elTo.parentElement!=3DelFrom) ||
+   (elFrom.tagName=3D=3D"A" && elFrom.parentElement!=3DelTo)) {
+
+   if (iTab!=3Dg_iShCur) {
+    with (frames['frTabs'].document.all) {
+     tdTab[iTab].style.background=3Dc_rgszClr[1];
+    }
+   }
+  }
+ }
+}
+
+function fnSetActiveSheet(iSh)
+{
+ if (iSh!=3Dg_iShCur) {
+  fnSetTabProps(g_iShCur,false);
+  fnSetTabProps(iSh,true);
+  g_iShCur=3DiSh;
+ }
+}
+
+ window.g_iIEVer=3DfnGetIEVer();
+ if (window.g_iIEVer>=3D4)
+  fnBuildFrameset();
+//-->
+</script>
+<![endif]><!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Beilage_13</x:Name>
+    <x:WorksheetSource
+     HRef=3D"Beilage_13_14_15_16_manually_extracted.files/sheet001.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Beilage_14</x:Name>
+    <x:WorksheetSource
+     HRef=3D"Beilage_13_14_15_16_manually_extracted.files/sheet002.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Beilage_15</x:Name>
+    <x:WorksheetSource
+     HRef=3D"Beilage_13_14_15_16_manually_extracted.files/sheet003.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Beilage_16</x:Name>
+    <x:WorksheetSource
+     HRef=3D"Beilage_13_14_15_16_manually_extracted.files/sheet004.htm"/>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:Stylesheet
+   HRef=3D"Beilage_13_14_15_16_manually_extracted.files/stylesheet.css"/>
+  <x:WindowHeight>21000</x:WindowHeight>
+  <x:WindowWidth>19200</x:WindowWidth>
+  <x:WindowTopX>19200</x:WindowTopX>
+  <x:WindowTopY>32767</x:WindowTopY>
+  <x:ActiveSheet>3</x:ActiveSheet>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<frameset rows=3D"*,39" border=3D0 width=3D0 frameborder=3Dno framespacing=
+=3D0>
+ <frame src=3D"Beilage_13_14_15_16_manually_extracted.files/sheet004.htm" n=
+ame=3D"frSheet">
+ <frame src=3D"Beilage_13_14_15_16_manually_extracted.files/tabstrip.htm" n=
+ame=3D"frTabs" marginwidth=3D0 marginheight=3D0>
+ <noframes>
+  <body>
+   <p>This page uses frames, but your browser doesn't support them.</p>
+  </body>
+ </noframes>
+</frameset>
+</html>
+
+------=_NextPart_01DB2E33.4C91E080
+Content-Location: file:///C:/EA435D04/Beilage_13_14_15_16_manually_extracted.files/stylesheet.css
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/css; charset="windows-1252"
+
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Aptos Narrow", sans-serif;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Aptos Narrow", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl65
+	{mso-style-parent:style0;
+	font-size:12.0pt;}
+.xl66
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:12.0pt;}
+.xl67
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:12.0pt;
+	mso-number-format:"_-\[$€-C07\]\\ * \#\,\#\#0\.00_-\;\\-\[$€-C07\]\\ * \#\=
+,\#\#0\.00_-\;_-\[$€-C07\]\\ * \0022-\0022??_-\;_-\@_-";}
+.xl68
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:12.0pt;
+	vertical-align:middle;}
+.xl69
+	{mso-style-parent:style0;
+	mso-number-format:"Short Date";}
+.xl70
+	{mso-style-parent:style0;
+	mso-number-format:"mmm\/yy";}
+
+------=_NextPart_01DB2E33.4C91E080
+Content-Location: file:///C:/EA435D04/Beilage_13_14_15_16_manually_extracted.files/tabstrip.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html>
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File
+href=3D"../Beilage_13_14_15_16_manually_extracted.htm">
+<![if IE]>
+<base
+href=3D"file:///C:/EA435D04/Beilage_13_14_15_16_manually_extracted.files/ta=
+bstrip.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<script language=3D"JavaScript">
+<!--
+if (window.name!=3D"frTabs")
+ window.location.replace(document.all.item("Main-File").href);
+//-->
+</script>
+<style>
+<!--
+A {
+    text-decoration:none;
+    color:#000000;
+    font-size:9pt;
+}
+-->
+</style>
+</head>
+<body topmargin=3D0 leftmargin=3D0 bgcolor=3D"#808080">
+<table border=3D0 cellspacing=3D1>
+ <tr>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"sheet001.=
+htm" target=3D"frSheet"><font face=3D"Arial" color=3D"#000000">Beilage_13</=
+font></a>&nbsp;</small></small></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"sheet002.=
+htm" target=3D"frSheet"><font face=3D"Arial" color=3D"#000000">Beilage_14</=
+font></a>&nbsp;</small></small></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"sheet003.=
+htm" target=3D"frSheet"><font face=3D"Arial" color=3D"#000000">Beilage_15</=
+font></a>&nbsp;</small></small></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"sheet004.=
+htm" target=3D"frSheet"><font face=3D"Arial" color=3D"#000000">Beilage_16</=
+font></a>&nbsp;</small></small></b></td>
+
+ </tr>
+</table>
+</body>
+</html>
+
+------=_NextPart_01DB2E33.4C91E080
+Content-Location: file:///C:/EA435D04/Beilage_13_14_15_16_manually_extracted.files/sheet001.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File
+href=3D"../Beilage_13_14_15_16_manually_extracted.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base
+href=3D"file:///C:/EA435D04/Beilage_13_14_15_16_manually_extracted.files/sh=
+eet001.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:" ";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(0);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../Beilage_13_14_15_16_manually_extracted.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3D"#467886" vlink=3D"#96607D" class=3Dxl66>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D1178 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:886pt'>
+ <col class=3Dxl66 width=3D137 style=3D'mso-width-source:userset;mso-width-=
+alt:5010;
+ width:103pt'>
+ <col class=3Dxl66 width=3D104 span=3D3 style=3D'mso-width-source:userset;m=
+so-width-alt:
+ 3803;width:78pt'>
+ <col class=3Dxl66 width=3D81 span=3D9 style=3D'mso-width-source:userset;ms=
+o-width-alt:
+ 2962;width:61pt'>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 colspan=3D9 width=3D854 style=3D'height:15.7=
+5pt;
+  mso-ignore:colspan;width:642pt'>Frage 8: Wie hoch waren in den vergangenen
+  drei Jahren die Refundierungen für Heilbehelfe in den einzelnen
+  KV-Trägern?<span style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl66 width=3D81 style=3D'width:61pt'></td>
+  <td class=3Dxl66 width=3D81 style=3D'width:61pt'></td>
+  <td class=3Dxl66 width=3D81 style=3D'width:61pt'></td>
+  <td class=3Dxl66 width=3D81 style=3D'width:61pt'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 colspan=3D3 style=3D'height:15.75pt;mso-igno=
+re:colspan'>(Darstellung
+  je KV-Träger/ÖGK-Landesstelle)</td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Bundesland</td>
+  <td class=3Dxl66 align=3Dright>2021</td>
+  <td class=3Dxl66 align=3Dright>2022</td>
+  <td class=3Dxl66 align=3Dright>2023</td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66 colspan=3D2 style=3D'mso-ignore:colspan'>Für alle Tabell=
+en gilt:</td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Wien</td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>492.937,41<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>564.773,06<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>483.785,22<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66 colspan=3D2 style=3D'mso-ignore:colspan'>Quelle: LGK/DWH=
+</td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Niederösterreich</t=
+d>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>398.533,36<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>468.493,13<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>559.481,56<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66 colspan=3D2 style=3D'mso-ignore:colspan'>Stand: 02.08.20=
+24</td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Burgenland</td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>130.352,66<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>130.210,86<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>99.691,89<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Oberösterreich</td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>733.140,02<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>893.951,01<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>953.760,61<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Steiermark</td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>3.429.598,53<sp=
+an
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>4.064.056,90<sp=
+an
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>2.044.878,10<sp=
+an
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Kärnten</td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>425.626,47<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>424.425,51<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>287.511,46<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Salzburg</td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>554.918,31<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>503.421,33<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>476.801,68<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Tirol</td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>1.135.684,18<sp=
+an
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>1.216.733,41<sp=
+an
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>776.271,02<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Vorarlberg</td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>739.862,96<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>682.470,64<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>707.551,06<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Summe</td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>8.040.653,90<sp=
+an
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>8.948.535,85<sp=
+an
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl67><span style=3D'mso-spacerun:yes'> </span>6.389.732,60<sp=
+an
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 align=3Dright style=3D'height:15.75pt'>2021<=
+/td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl68 style=3D'height:15.75pt'>Bundesland</td>
+  <td class=3Dxl66>Jänner</td>
+  <td class=3Dxl66>Februar</td>
+  <td class=3Dxl66>März</td>
+  <td class=3Dxl66>April</td>
+  <td class=3Dxl66>Mai</td>
+  <td class=3Dxl66>Juni</td>
+  <td class=3Dxl66>Juli</td>
+  <td class=3Dxl66>August</td>
+  <td class=3Dxl66>September</td>
+  <td class=3Dxl66>Oktober</td>
+  <td class=3Dxl66>November</td>
+  <td class=3Dxl66>Dezember</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl68 style=3D'height:15.75pt'>Wien</td>
+  <td class=3Dxl66>28.922,48</td>
+  <td class=3Dxl66>64.570,98</td>
+  <td class=3Dxl66>55.802,12</td>
+  <td class=3Dxl66>37.031,65</td>
+  <td class=3Dxl66>40.320,90</td>
+  <td class=3Dxl66>54.076,24</td>
+  <td class=3Dxl66>36.360,31</td>
+  <td class=3Dxl66>29.961,39</td>
+  <td class=3Dxl66>45.089,60</td>
+  <td class=3Dxl66>39.602,28</td>
+  <td class=3Dxl66>40.066,14</td>
+  <td class=3Dxl66>21.133,32</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl68 style=3D'height:15.75pt'>Niederösterreich</t=
+d>
+  <td class=3Dxl66>27.861,18</td>
+  <td class=3Dxl66>31.479,57</td>
+  <td class=3Dxl66>32.536,20</td>
+  <td class=3Dxl66>36.526,81</td>
+  <td class=3Dxl66>30.175,31</td>
+  <td class=3Dxl66>35.452,67</td>
+  <td class=3Dxl66>27.743,54</td>
+  <td class=3Dxl66>40.970,49</td>
+  <td class=3Dxl66>37.500,84</td>
+  <td class=3Dxl66>28.673,75</td>
+  <td class=3Dxl66>33.853,02</td>
+  <td class=3Dxl66>35.759,98</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl68 style=3D'height:15.75pt'>Burgenland</td>
+  <td class=3Dxl66>8.359,39</td>
+  <td class=3Dxl66>1.384,07</td>
+  <td class=3Dxl66>13.131,91</td>
+  <td class=3Dxl66>12.315,99</td>
+  <td class=3Dxl66>16.567,53</td>
+  <td class=3Dxl66>9.560,77</td>
+  <td class=3Dxl66>6.279,72</td>
+  <td class=3Dxl66>5.937,41</td>
+  <td class=3Dxl66>26.829,09</td>
+  <td class=3Dxl66>10.239,58</td>
+  <td class=3Dxl66>12.825,11</td>
+  <td class=3Dxl66>6.922,09</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl68 style=3D'height:15.75pt'>Oberösterreich</td>
+  <td class=3Dxl66>55.302,01</td>
+  <td class=3Dxl66>67.435,89</td>
+  <td class=3Dxl66>82.373,04</td>
+  <td class=3Dxl66>53.924,89</td>
+  <td class=3Dxl66>46.724,68</td>
+  <td class=3Dxl66>57.361,94</td>
+  <td class=3Dxl66>91.776,97</td>
+  <td class=3Dxl66>36.536,47</td>
+  <td class=3Dxl66>62.413,93</td>
+  <td class=3Dxl66>54.339,56</td>
+  <td class=3Dxl66>58.429,08</td>
+  <td class=3Dxl66>66.521,56</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl68 style=3D'height:15.75pt'>Steiermark</td>
+  <td class=3Dxl66>287.240,47</td>
+  <td class=3Dxl66>266.124,83</td>
+  <td class=3Dxl66>321.047,94</td>
+  <td class=3Dxl66>315.072,81</td>
+  <td class=3Dxl66>233.202,19</td>
+  <td class=3Dxl66>195.512,60</td>
+  <td class=3Dxl66>297.271,45</td>
+  <td class=3Dxl66>232.829,61</td>
+  <td class=3Dxl66>279.860,16</td>
+  <td class=3Dxl66>272.460,39</td>
+  <td class=3Dxl66>457.963,22</td>
+  <td class=3Dxl66>271.012,86</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl68 style=3D'height:15.75pt'>Kärnten</td>
+  <td class=3Dxl66>28.000,10</td>
+  <td class=3Dxl66>34.552,26</td>
+  <td class=3Dxl66>59.971,89</td>
+  <td class=3Dxl66>18.668,79</td>
+  <td class=3Dxl66>33.867,14</td>
+  <td class=3Dxl66>36.139,63</td>
+  <td class=3Dxl66>54.824,22</td>
+  <td class=3Dxl66>28.151,45</td>
+  <td class=3Dxl66>28.561,24</td>
+  <td class=3Dxl66>29.612,44</td>
+  <td class=3Dxl66>43.335,07</td>
+  <td class=3Dxl66>29.942,24</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl68 style=3D'height:15.75pt'>Salzburg</td>
+  <td class=3Dxl66>41.216,92</td>
+  <td class=3Dxl66>36.459,96</td>
+  <td class=3Dxl66>52.575,02</td>
+  <td class=3Dxl66>74.298,82</td>
+  <td class=3Dxl66>24.173,49</td>
+  <td class=3Dxl66>68.526,50</td>
+  <td class=3Dxl66>39.038,89</td>
+  <td class=3Dxl66>37.976,77</td>
+  <td class=3Dxl66>40.569,78</td>
+  <td class=3Dxl66>46.016,60</td>
+  <td class=3Dxl66>37.190,37</td>
+  <td class=3Dxl66>56.875,19</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl68 style=3D'height:15.75pt'>Tirol</td>
+  <td class=3Dxl66>55.461,10</td>
+  <td class=3Dxl66>86.347,32</td>
+  <td class=3Dxl66>100.298,63</td>
+  <td class=3Dxl66>88.507,32</td>
+  <td class=3Dxl66>113.442,01</td>
+  <td class=3Dxl66>97.470,17</td>
+  <td class=3Dxl66>85.452,44</td>
+  <td class=3Dxl66>102.346,03</td>
+  <td class=3Dxl66>98.869,60</td>
+  <td class=3Dxl66>92.711,38</td>
+  <td class=3Dxl66>109.665,88</td>
+  <td class=3Dxl66>105.112,30</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl68 style=3D'height:15.75pt'>Vorarlberg</td>
+  <td class=3Dxl66>67.391,37</td>
+  <td class=3Dxl66>45.796,62</td>
+  <td class=3Dxl66>82.943,68</td>
+  <td class=3Dxl66>59.588,07</td>
+  <td class=3Dxl66>63.787,13</td>
+  <td class=3Dxl66>77.160,78</td>
+  <td class=3Dxl66>69.674,09</td>
+  <td class=3Dxl66>77.704,97</td>
+  <td class=3Dxl66>56.315,52</td>
+  <td class=3Dxl66>45.630,23</td>
+  <td class=3Dxl66>33.644,48</td>
+  <td class=3Dxl66>60.226,02</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl68 style=3D'height:15.75pt'>Summe</td>
+  <td class=3Dxl66>599.755,02</td>
+  <td class=3Dxl66>634.151,50</td>
+  <td class=3Dxl66>800.680,43</td>
+  <td class=3Dxl66>695.935,15</td>
+  <td class=3Dxl66>602.260,38</td>
+  <td class=3Dxl66>631.261,30</td>
+  <td class=3Dxl66>708.421,63</td>
+  <td class=3Dxl66>592.414,59</td>
+  <td class=3Dxl66>676.009,76</td>
+  <td class=3Dxl66>619.286,21</td>
+  <td class=3Dxl66>826.972,37</td>
+  <td class=3Dxl66>653.505,56</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 align=3Dright style=3D'height:15.75pt'>2022<=
+/td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Bundesland</td>
+  <td class=3Dxl66>Jänner</td>
+  <td class=3Dxl66>Februar</td>
+  <td class=3Dxl66>März</td>
+  <td class=3Dxl66>April</td>
+  <td class=3Dxl66>Mai</td>
+  <td class=3Dxl66>Juni</td>
+  <td class=3Dxl66>Juli</td>
+  <td class=3Dxl66>August</td>
+  <td class=3Dxl66>September</td>
+  <td class=3Dxl66>Oktober</td>
+  <td class=3Dxl66>November</td>
+  <td class=3Dxl66>Dezember</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Wien</td>
+  <td class=3Dxl66>55.823,52</td>
+  <td class=3Dxl66>51.043,55</td>
+  <td class=3Dxl66>38.702,72</td>
+  <td class=3Dxl66>44.743,87</td>
+  <td class=3Dxl66>75.540,83</td>
+  <td class=3Dxl66>32.650,63</td>
+  <td class=3Dxl66>40.733,37</td>
+  <td class=3Dxl66>46.746,97</td>
+  <td class=3Dxl66>52.017,11</td>
+  <td class=3Dxl66>36.075,17</td>
+  <td class=3Dxl66>47.399,09</td>
+  <td class=3Dxl66>43.296,23</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Niederösterreich</t=
+d>
+  <td class=3Dxl66>30.361,39</td>
+  <td class=3Dxl66>32.366,63</td>
+  <td class=3Dxl66>51.321,83</td>
+  <td class=3Dxl66>28.833,99</td>
+  <td class=3Dxl66>48.455,15</td>
+  <td class=3Dxl66>47.568,67</td>
+  <td class=3Dxl66>28.952,18</td>
+  <td class=3Dxl66>37.905,04</td>
+  <td class=3Dxl66>39.854,49</td>
+  <td class=3Dxl66>45.416,63</td>
+  <td class=3Dxl66>45.443,94</td>
+  <td class=3Dxl66>32.013,19</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Burgenland</td>
+  <td class=3Dxl66>16.378,00</td>
+  <td class=3Dxl66>3.593,06</td>
+  <td class=3Dxl66>12.375,16</td>
+  <td class=3Dxl66>11.291,83</td>
+  <td class=3Dxl66>10.829,65</td>
+  <td class=3Dxl66>3.786,93</td>
+  <td class=3Dxl66>10.852,22</td>
+  <td class=3Dxl66>5.237,34</td>
+  <td class=3Dxl66>10.760,87</td>
+  <td class=3Dxl66>29.708,68</td>
+  <td class=3Dxl66>6.108,51</td>
+  <td class=3Dxl66>9.288,61</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Oberösterreich</td>
+  <td class=3Dxl66>53.314,11</td>
+  <td class=3Dxl66>74.532,54</td>
+  <td class=3Dxl66>93.330,61</td>
+  <td class=3Dxl66>77.995,42</td>
+  <td class=3Dxl66>97.616,99</td>
+  <td class=3Dxl66>61.803,60</td>
+  <td class=3Dxl66>66.897,33</td>
+  <td class=3Dxl66>65.301,49</td>
+  <td class=3Dxl66>74.526,69</td>
+  <td class=3Dxl66>61.425,23</td>
+  <td class=3Dxl66>90.067,87</td>
+  <td class=3Dxl66>77.139,13</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Steiermark</td>
+  <td class=3Dxl66>257.107,41</td>
+  <td class=3Dxl66>544.449,78</td>
+  <td class=3Dxl66>380.154,15</td>
+  <td class=3Dxl66>331.767,69</td>
+  <td class=3Dxl66>334.713,65</td>
+  <td class=3Dxl66>235.356,41</td>
+  <td class=3Dxl66>354.692,78</td>
+  <td class=3Dxl66>231.463,87</td>
+  <td class=3Dxl66>320.621,90</td>
+  <td class=3Dxl66>432.113,93</td>
+  <td class=3Dxl66>463.959,12</td>
+  <td class=3Dxl66>177.656,21</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Kärnten</td>
+  <td class=3Dxl66>30.627,20</td>
+  <td class=3Dxl66>21.513,00</td>
+  <td class=3Dxl66>45.587,95</td>
+  <td class=3Dxl66>30.155,54</td>
+  <td class=3Dxl66>54.801,35</td>
+  <td class=3Dxl66>32.025,95</td>
+  <td class=3Dxl66>38.285,25</td>
+  <td class=3Dxl66>44.167,03</td>
+  <td class=3Dxl66>36.339,11</td>
+  <td class=3Dxl66>22.557,31</td>
+  <td class=3Dxl66>30.563,50</td>
+  <td class=3Dxl66>37.802,32</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Salzburg</td>
+  <td class=3Dxl66>29.243,11</td>
+  <td class=3Dxl66>57.187,17</td>
+  <td class=3Dxl66>49.778,61</td>
+  <td class=3Dxl66>34.252,93</td>
+  <td class=3Dxl66>58.587,29</td>
+  <td class=3Dxl66>34.797,98</td>
+  <td class=3Dxl66>29.243,81</td>
+  <td class=3Dxl66>49.184,17</td>
+  <td class=3Dxl66>46.511,64</td>
+  <td class=3Dxl66>32.409,17</td>
+  <td class=3Dxl66>26.141,63</td>
+  <td class=3Dxl66>56.083,82</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Tirol</td>
+  <td class=3Dxl66>92.695,04</td>
+  <td class=3Dxl66>120.055,32</td>
+  <td class=3Dxl66>117.760,18</td>
+  <td class=3Dxl66>107.522,09</td>
+  <td class=3Dxl66>102.023,49</td>
+  <td class=3Dxl66>99.579,09</td>
+  <td class=3Dxl66>93.536,72</td>
+  <td class=3Dxl66>99.234,90</td>
+  <td class=3Dxl66>83.313,25</td>
+  <td class=3Dxl66>88.119,48</td>
+  <td class=3Dxl66>102.890,24</td>
+  <td class=3Dxl66>110.003,61</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Vorarlberg</td>
+  <td class=3Dxl66>64.021,24</td>
+  <td class=3Dxl66>53.154,52</td>
+  <td class=3Dxl66>64.134,07</td>
+  <td class=3Dxl66>51.257,25</td>
+  <td class=3Dxl66>69.212,43</td>
+  <td class=3Dxl66>40.961,05</td>
+  <td class=3Dxl66>63.886,01</td>
+  <td class=3Dxl66>64.613,33</td>
+  <td class=3Dxl66>43.512,15</td>
+  <td class=3Dxl66>51.866,32</td>
+  <td class=3Dxl66>64.168,79</td>
+  <td class=3Dxl66>51.683,48</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Summe</td>
+  <td class=3Dxl66>629.571,02</td>
+  <td class=3Dxl66>957.895,57</td>
+  <td class=3Dxl66>853.145,28</td>
+  <td class=3Dxl66>717.820,61</td>
+  <td class=3Dxl66>851.780,83</td>
+  <td class=3Dxl66>588.530,31</td>
+  <td class=3Dxl66>727.079,67</td>
+  <td class=3Dxl66>643.854,14</td>
+  <td class=3Dxl66>707.457,21</td>
+  <td class=3Dxl66>799.691,92</td>
+  <td class=3Dxl66>876.742,69</td>
+  <td class=3Dxl66>594.966,60</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 align=3Dright style=3D'height:15.75pt'>2023<=
+/td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Bundesland</td>
+  <td class=3Dxl66>Jänner</td>
+  <td class=3Dxl66>Februar</td>
+  <td class=3Dxl66>März</td>
+  <td class=3Dxl66>April</td>
+  <td class=3Dxl66>Mai</td>
+  <td class=3Dxl66>Juni</td>
+  <td class=3Dxl66>Juli</td>
+  <td class=3Dxl66>August</td>
+  <td class=3Dxl66>September</td>
+  <td class=3Dxl66>Oktober</td>
+  <td class=3Dxl66>November</td>
+  <td class=3Dxl66>Dezember</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Wien</td>
+  <td class=3Dxl66>41.566,86</td>
+  <td class=3Dxl66>29.051,76</td>
+  <td class=3Dxl66>42.623,10</td>
+  <td class=3Dxl66>45.075,63</td>
+  <td class=3Dxl66>58.771,57</td>
+  <td class=3Dxl66>28.927,92</td>
+  <td class=3Dxl66>36.515,99</td>
+  <td class=3Dxl66>31.640,98</td>
+  <td class=3Dxl66>42.594,30</td>
+  <td class=3Dxl66>38.431,08</td>
+  <td class=3Dxl66>54.937,08</td>
+  <td class=3Dxl66>33.648,95</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Niederösterreich</t=
+d>
+  <td class=3Dxl66>36.491,37</td>
+  <td class=3Dxl66>31.393,55</td>
+  <td class=3Dxl66>32.992,47</td>
+  <td class=3Dxl66>52.066,94</td>
+  <td class=3Dxl66>59.251,26</td>
+  <td class=3Dxl66>49.107,16</td>
+  <td class=3Dxl66>49.029,56</td>
+  <td class=3Dxl66>43.977,49</td>
+  <td class=3Dxl66>43.228,38</td>
+  <td class=3Dxl66>50.815,88</td>
+  <td class=3Dxl66>65.209,46</td>
+  <td class=3Dxl66>45.918,04</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Burgenland</td>
+  <td class=3Dxl66>20.752,62</td>
+  <td class=3Dxl66>4.201,20</td>
+  <td class=3Dxl66>5.063,84</td>
+  <td class=3Dxl66>4.281,19</td>
+  <td class=3Dxl66>1.956,91</td>
+  <td class=3Dxl66>13.704,68</td>
+  <td class=3Dxl66>6.261,80</td>
+  <td class=3Dxl66>3.927,03</td>
+  <td class=3Dxl66>5.202,00</td>
+  <td class=3Dxl66>19.128,39</td>
+  <td class=3Dxl66>2.929,85</td>
+  <td class=3Dxl66>12.282,38</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Oberösterreich</td>
+  <td class=3Dxl66>80.345,53</td>
+  <td class=3Dxl66>83.985,85</td>
+  <td class=3Dxl66>77.361,82</td>
+  <td class=3Dxl66>67.309,53</td>
+  <td class=3Dxl66>122.930,24</td>
+  <td class=3Dxl66>92.195,93</td>
+  <td class=3Dxl66>68.220,02</td>
+  <td class=3Dxl66>57.231,48</td>
+  <td class=3Dxl66>65.309,69</td>
+  <td class=3Dxl66>82.146,62</td>
+  <td class=3Dxl66>97.479,63</td>
+  <td class=3Dxl66>59.244,27</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Steiermark</td>
+  <td class=3Dxl66>346.396,32</td>
+  <td class=3Dxl66>349.614,26</td>
+  <td class=3Dxl66>265.595,81</td>
+  <td class=3Dxl66>164.379,42</td>
+  <td class=3Dxl66>110.692,92</td>
+  <td class=3Dxl66>161.652,30</td>
+  <td class=3Dxl66>102.941,67</td>
+  <td class=3Dxl66>145.904,41</td>
+  <td class=3Dxl66>81.536,91</td>
+  <td class=3Dxl66>143.839,50</td>
+  <td class=3Dxl66>91.472,56</td>
+  <td class=3Dxl66>80.852,02</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Kärnten</td>
+  <td class=3Dxl66>38.344,35</td>
+  <td class=3Dxl66>13.944,04</td>
+  <td class=3Dxl66>52.936,93</td>
+  <td class=3Dxl66>23.512,00</td>
+  <td class=3Dxl66>24.025,54</td>
+  <td class=3Dxl66>21.349,92</td>
+  <td class=3Dxl66>8.075,29</td>
+  <td class=3Dxl66>26.933,85</td>
+  <td class=3Dxl66>13.110,21</td>
+  <td class=3Dxl66>31.737,83</td>
+  <td class=3Dxl66>18.307,23</td>
+  <td class=3Dxl66>15.234,27</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Salzburg</td>
+  <td class=3Dxl66>17.123,53</td>
+  <td class=3Dxl66>81.817,96</td>
+  <td class=3Dxl66>32.593,53</td>
+  <td class=3Dxl66>30.278,01</td>
+  <td class=3Dxl66>23.799,41</td>
+  <td class=3Dxl66>37.399,12</td>
+  <td class=3Dxl66>21.114,17</td>
+  <td class=3Dxl66>29.852,86</td>
+  <td class=3Dxl66>41.553,26</td>
+  <td class=3Dxl66>88.048,59</td>
+  <td class=3Dxl66>34.175,15</td>
+  <td class=3Dxl66>39.046,09</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Tirol</td>
+  <td class=3Dxl66>95.623,95</td>
+  <td class=3Dxl66>43.580,69</td>
+  <td class=3Dxl66>84.177,96</td>
+  <td class=3Dxl66>68.607,91</td>
+  <td class=3Dxl66>79.793,29</td>
+  <td class=3Dxl66>64.833,66</td>
+  <td class=3Dxl66>63.334,38</td>
+  <td class=3Dxl66>58.939,75</td>
+  <td class=3Dxl66>58.610,99</td>
+  <td class=3Dxl66>62.666,60</td>
+  <td class=3Dxl66>46.048,19</td>
+  <td class=3Dxl66>50.053,65</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Vorarlberg</td>
+  <td class=3Dxl66>71.041,33</td>
+  <td class=3Dxl66>49.045,50</td>
+  <td class=3Dxl66>60.491,99</td>
+  <td class=3Dxl66>48.159,04</td>
+  <td class=3Dxl66>66.500,02</td>
+  <td class=3Dxl66>65.723,13</td>
+  <td class=3Dxl66>65.283,11</td>
+  <td class=3Dxl66>47.813,90</td>
+  <td class=3Dxl66>65.611,43</td>
+  <td class=3Dxl66>63.371,24</td>
+  <td class=3Dxl66>52.447,39</td>
+  <td class=3Dxl66>52.062,98</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl66 style=3D'height:15.75pt'>Summe</td>
+  <td class=3Dxl66>747.685,86</td>
+  <td class=3Dxl66>686.634,81</td>
+  <td class=3Dxl66>653.837,45</td>
+  <td class=3Dxl66>503.669,67</td>
+  <td class=3Dxl66>547.721,16</td>
+  <td class=3Dxl66>534.893,82</td>
+  <td class=3Dxl66>420.775,99</td>
+  <td class=3Dxl66>446.221,75</td>
+  <td class=3Dxl66>416.757,17</td>
+  <td class=3Dxl66>580.185,73</td>
+  <td class=3Dxl66>463.006,54</td>
+  <td class=3Dxl66>388.342,65</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D137 style=3D'width:103pt'></td>
+  <td width=3D104 style=3D'width:78pt'></td>
+  <td width=3D104 style=3D'width:78pt'></td>
+  <td width=3D104 style=3D'width:78pt'></td>
+  <td width=3D81 style=3D'width:61pt'></td>
+  <td width=3D81 style=3D'width:61pt'></td>
+  <td width=3D81 style=3D'width:61pt'></td>
+  <td width=3D81 style=3D'width:61pt'></td>
+  <td width=3D81 style=3D'width:61pt'></td>
+  <td width=3D81 style=3D'width:61pt'></td>
+  <td width=3D81 style=3D'width:61pt'></td>
+  <td width=3D81 style=3D'width:61pt'></td>
+  <td width=3D81 style=3D'width:61pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01DB2E33.4C91E080
+Content-Location: file:///C:/EA435D04/Beilage_13_14_15_16_manually_extracted.files/sheet002.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File
+href=3D"../Beilage_13_14_15_16_manually_extracted.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base
+href=3D"file:///C:/EA435D04/Beilage_13_14_15_16_manually_extracted.files/sh=
+eet002.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:" ";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(1);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../Beilage_13_14_15_16_manually_extracted.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3D"#467886" vlink=3D"#96607D" class=3Dxl65>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D938 style=3D'bord=
+er-collapse:
+ collapse;table-layout:fixed;width:704pt'>
+ <col class=3Dxl65 width=3D129 style=3D'mso-width-source:userset;mso-width-=
+alt:4717;
+ width:97pt'>
+ <col class=3Dxl65 width=3D52 style=3D'mso-width-source:userset;mso-width-a=
+lt:1901;
+ width:39pt'>
+ <col class=3Dxl65 width=3D57 style=3D'mso-width-source:userset;mso-width-a=
+lt:2084;
+ width:43pt'>
+ <col class=3Dxl65 width=3D52 style=3D'mso-width-source:userset;mso-width-a=
+lt:1901;
+ width:39pt'>
+ <col class=3Dxl65 width=3D44 span=3D4 style=3D'mso-width-source:userset;ms=
+o-width-alt:
+ 1609;width:33pt'>
+ <col class=3Dxl65 width=3D56 style=3D'mso-width-source:userset;mso-width-a=
+lt:2048;
+ width:42pt'>
+ <col class=3Dxl65 width=3D79 style=3D'mso-width-source:userset;mso-width-a=
+lt:2889;
+ width:59pt'>
+ <col class=3Dxl65 width=3D60 style=3D'mso-width-source:userset;mso-width-a=
+lt:2194;
+ width:45pt'>
+ <col class=3Dxl65 width=3D75 style=3D'mso-width-source:userset;mso-width-a=
+lt:2742;
+ width:56pt'>
+ <col class=3Dxl65 width=3D74 style=3D'mso-width-source:userset;mso-width-a=
+lt:2706;
+ width:56pt'>
+ <col class=3Dxl65 width=3D64 span=3D2 style=3D'width:48pt'>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 colspan=3D15 width=3D938 style=3D'height:15.=
+75pt;
+  mso-ignore:colspan;width:704pt'>Frage 9: Wie viele Anträge zur Refundieru=
+ng
+  für Heilbehelfe wurden in den vergangenen drei Jahren eingebracht?
+  (Darstellung je KV-Träger/ÖGK-</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 colspan=3D7 style=3D'height:15.75pt;mso-igno=
+re:colspan'>Landesstelle,
+  nach Monat und Antragsart postalisch/online)?</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 colspan=3D15 style=3D'height:15.75pt;mso-ign=
+ore:colspan'>Frage
+  10: Wie viele Anträge zur Refundierung von Heilbehelfen wurden in den
+  vergangenen drei Jahren abgearbeitet (Darstellung je KV-Träger/ÖGK-</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 colspan=3D7 style=3D'height:15.75pt;mso-igno=
+re:colspan'>Landesstelle,
+  nach Monat und Antragsart postalisch/online)?</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Bundesland</td>
+  <td class=3Dxl65 align=3Dright>2021</td>
+  <td class=3Dxl65 align=3Dright>2022</td>
+  <td class=3Dxl65 align=3Dright>2023</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl66 colspan=3D3 style=3D'mso-ignore:colspan'>Für alle Tabell=
+en gilt:</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Wien</td>
+  <td class=3Dxl65>2.161</td>
+  <td class=3Dxl65>2.317</td>
+  <td class=3Dxl65>2.011</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl66 colspan=3D2 style=3D'mso-ignore:colspan'>Quelle: LGK/DWH=
+</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Niederösterreich</t=
+d>
+  <td class=3Dxl65>2.484</td>
+  <td class=3Dxl65>2.447</td>
+  <td class=3Dxl65>2.575</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl66 colspan=3D2 style=3D'mso-ignore:colspan'>Stand: 02.08.20=
+24</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Burgenland</td>
+  <td class=3Dxl65 align=3Dright>317</td>
+  <td class=3Dxl65 align=3Dright>334</td>
+  <td class=3Dxl65 align=3Dright>278</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Oberösterreich</td>
+  <td class=3Dxl65>4.355</td>
+  <td class=3Dxl65>5.160</td>
+  <td class=3Dxl65>4.647</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Steiermark</td>
+  <td class=3Dxl65>7.829</td>
+  <td class=3Dxl65>8.209</td>
+  <td class=3Dxl65>4.703</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Kärnten</td>
+  <td class=3Dxl65>1.930</td>
+  <td class=3Dxl65>1.756</td>
+  <td class=3Dxl65>1.370</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Salzburg</td>
+  <td class=3Dxl65>1.784</td>
+  <td class=3Dxl65>1.487</td>
+  <td class=3Dxl65>1.323</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Tirol</td>
+  <td class=3Dxl65>4.264</td>
+  <td class=3Dxl65>4.386</td>
+  <td class=3Dxl65>3.847</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Vorarlberg</td>
+  <td class=3Dxl65>8.840</td>
+  <td class=3Dxl65>8.137</td>
+  <td class=3Dxl65>8.051</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Gesamt</td>
+  <td class=3Dxl65>33.964</td>
+  <td class=3Dxl65>34.233</td>
+  <td class=3Dxl65>28.805</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 align=3Dright style=3D'height:15.75pt'>2021<=
+/td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Bundesland</td>
+  <td class=3Dxl65>Jänner</td>
+  <td class=3Dxl65>Februar</td>
+  <td class=3Dxl65>März</td>
+  <td class=3Dxl65>April</td>
+  <td class=3Dxl65>Mai</td>
+  <td class=3Dxl65>Juni</td>
+  <td class=3Dxl65>Juli</td>
+  <td class=3Dxl65>August</td>
+  <td class=3Dxl65>September</td>
+  <td class=3Dxl65>Oktober</td>
+  <td class=3Dxl65>November</td>
+  <td class=3Dxl65>Dezember</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Wien</td>
+  <td class=3Dxl65 align=3Dright>120</td>
+  <td class=3Dxl65 align=3Dright>212</td>
+  <td class=3Dxl65 align=3Dright>301</td>
+  <td class=3Dxl65 align=3Dright>202</td>
+  <td class=3Dxl65 align=3Dright>168</td>
+  <td class=3Dxl65 align=3Dright>188</td>
+  <td class=3Dxl65 align=3Dright>171</td>
+  <td class=3Dxl65 align=3Dright>92</td>
+  <td class=3Dxl65 align=3Dright>169</td>
+  <td class=3Dxl65 align=3Dright>200</td>
+  <td class=3Dxl65 align=3Dright>196</td>
+  <td class=3Dxl65 align=3Dright>142</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Niederösterreich</t=
+d>
+  <td class=3Dxl65 align=3Dright>200</td>
+  <td class=3Dxl65 align=3Dright>192</td>
+  <td class=3Dxl65 align=3Dright>265</td>
+  <td class=3Dxl65 align=3Dright>239</td>
+  <td class=3Dxl65 align=3Dright>196</td>
+  <td class=3Dxl65 align=3Dright>213</td>
+  <td class=3Dxl65 align=3Dright>193</td>
+  <td class=3Dxl65 align=3Dright>166</td>
+  <td class=3Dxl65 align=3Dright>223</td>
+  <td class=3Dxl65 align=3Dright>182</td>
+  <td class=3Dxl65 align=3Dright>236</td>
+  <td class=3Dxl65 align=3Dright>179</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Burgenland</td>
+  <td class=3Dxl65 align=3Dright>29</td>
+  <td class=3Dxl65 align=3Dright>9</td>
+  <td class=3Dxl65 align=3Dright>37</td>
+  <td class=3Dxl65 align=3Dright>26</td>
+  <td class=3Dxl65 align=3Dright>33</td>
+  <td class=3Dxl65 align=3Dright>18</td>
+  <td class=3Dxl65 align=3Dright>20</td>
+  <td class=3Dxl65 align=3Dright>13</td>
+  <td class=3Dxl65 align=3Dright>57</td>
+  <td class=3Dxl65 align=3Dright>23</td>
+  <td class=3Dxl65 align=3Dright>28</td>
+  <td class=3Dxl65 align=3Dright>24</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Oberösterreich</td>
+  <td class=3Dxl65 align=3Dright>309</td>
+  <td class=3Dxl65 align=3Dright>340</td>
+  <td class=3Dxl65 align=3Dright>421</td>
+  <td class=3Dxl65 align=3Dright>350</td>
+  <td class=3Dxl65 align=3Dright>313</td>
+  <td class=3Dxl65 align=3Dright>363</td>
+  <td class=3Dxl65 align=3Dright>489</td>
+  <td class=3Dxl65 align=3Dright>232</td>
+  <td class=3Dxl65 align=3Dright>430</td>
+  <td class=3Dxl65 align=3Dright>371</td>
+  <td class=3Dxl65 align=3Dright>348</td>
+  <td class=3Dxl65 align=3Dright>389</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Steiermark</td>
+  <td class=3Dxl65 align=3Dright>713</td>
+  <td class=3Dxl65 align=3Dright>722</td>
+  <td class=3Dxl65 align=3Dright>909</td>
+  <td class=3Dxl65 align=3Dright>698</td>
+  <td class=3Dxl65 align=3Dright>442</td>
+  <td class=3Dxl65 align=3Dright>465</td>
+  <td class=3Dxl65 align=3Dright>631</td>
+  <td class=3Dxl65 align=3Dright>551</td>
+  <td class=3Dxl65 align=3Dright>606</td>
+  <td class=3Dxl65 align=3Dright>464</td>
+  <td class=3Dxl65>1.019</td>
+  <td class=3Dxl65 align=3Dright>609</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Kärnten</td>
+  <td class=3Dxl65 align=3Dright>124</td>
+  <td class=3Dxl65 align=3Dright>188</td>
+  <td class=3Dxl65 align=3Dright>250</td>
+  <td class=3Dxl65 align=3Dright>117</td>
+  <td class=3Dxl65 align=3Dright>168</td>
+  <td class=3Dxl65 align=3Dright>182</td>
+  <td class=3Dxl65 align=3Dright>163</td>
+  <td class=3Dxl65 align=3Dright>125</td>
+  <td class=3Dxl65 align=3Dright>168</td>
+  <td class=3Dxl65 align=3Dright>136</td>
+  <td class=3Dxl65 align=3Dright>193</td>
+  <td class=3Dxl65 align=3Dright>116</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Salzburg</td>
+  <td class=3Dxl65 align=3Dright>106</td>
+  <td class=3Dxl65 align=3Dright>150</td>
+  <td class=3Dxl65 align=3Dright>181</td>
+  <td class=3Dxl65 align=3Dright>246</td>
+  <td class=3Dxl65 align=3Dright>90</td>
+  <td class=3Dxl65 align=3Dright>221</td>
+  <td class=3Dxl65 align=3Dright>102</td>
+  <td class=3Dxl65 align=3Dright>123</td>
+  <td class=3Dxl65 align=3Dright>107</td>
+  <td class=3Dxl65 align=3Dright>155</td>
+  <td class=3Dxl65 align=3Dright>106</td>
+  <td class=3Dxl65 align=3Dright>197</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Tirol</td>
+  <td class=3Dxl65 align=3Dright>262</td>
+  <td class=3Dxl65 align=3Dright>403</td>
+  <td class=3Dxl65 align=3Dright>423</td>
+  <td class=3Dxl65 align=3Dright>396</td>
+  <td class=3Dxl65 align=3Dright>309</td>
+  <td class=3Dxl65 align=3Dright>383</td>
+  <td class=3Dxl65 align=3Dright>309</td>
+  <td class=3Dxl65 align=3Dright>341</td>
+  <td class=3Dxl65 align=3Dright>358</td>
+  <td class=3Dxl65 align=3Dright>348</td>
+  <td class=3Dxl65 align=3Dright>370</td>
+  <td class=3Dxl65 align=3Dright>362</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Vorarlberg</td>
+  <td class=3Dxl65 align=3Dright>883</td>
+  <td class=3Dxl65 align=3Dright>542</td>
+  <td class=3Dxl65 align=3Dright>992</td>
+  <td class=3Dxl65 align=3Dright>773</td>
+  <td class=3Dxl65 align=3Dright>707</td>
+  <td class=3Dxl65 align=3Dright>866</td>
+  <td class=3Dxl65 align=3Dright>803</td>
+  <td class=3Dxl65>1.036</td>
+  <td class=3Dxl65 align=3Dright>564</td>
+  <td class=3Dxl65 align=3Dright>606</td>
+  <td class=3Dxl65 align=3Dright>390</td>
+  <td class=3Dxl65 align=3Dright>678</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Gesamt</td>
+  <td class=3Dxl65>2.746</td>
+  <td class=3Dxl65>2.758</td>
+  <td class=3Dxl65>3.779</td>
+  <td class=3Dxl65>3.047</td>
+  <td class=3Dxl65>2.426</td>
+  <td class=3Dxl65>2.899</td>
+  <td class=3Dxl65>2.881</td>
+  <td class=3Dxl65>2.679</td>
+  <td class=3Dxl65>2.682</td>
+  <td class=3Dxl65>2.485</td>
+  <td class=3Dxl65>2.886</td>
+  <td class=3Dxl65>2.696</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 align=3Dright style=3D'height:15.75pt'>2022<=
+/td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Bundesland</td>
+  <td class=3Dxl65>Jänner</td>
+  <td class=3Dxl65>Februar</td>
+  <td class=3Dxl65>März</td>
+  <td class=3Dxl65>April</td>
+  <td class=3Dxl65>Mai</td>
+  <td class=3Dxl65>Juni</td>
+  <td class=3Dxl65>Juli</td>
+  <td class=3Dxl65>August</td>
+  <td class=3Dxl65>September</td>
+  <td class=3Dxl65>Oktober</td>
+  <td class=3Dxl65>November</td>
+  <td class=3Dxl65>Dezember</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Wien</td>
+  <td class=3Dxl65 align=3Dright>228</td>
+  <td class=3Dxl65 align=3Dright>169</td>
+  <td class=3Dxl65 align=3Dright>169</td>
+  <td class=3Dxl65 align=3Dright>177</td>
+  <td class=3Dxl65 align=3Dright>315</td>
+  <td class=3Dxl65 align=3Dright>148</td>
+  <td class=3Dxl65 align=3Dright>190</td>
+  <td class=3Dxl65 align=3Dright>190</td>
+  <td class=3Dxl65 align=3Dright>185</td>
+  <td class=3Dxl65 align=3Dright>191</td>
+  <td class=3Dxl65 align=3Dright>179</td>
+  <td class=3Dxl65 align=3Dright>176</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Niederösterreich</t=
+d>
+  <td class=3Dxl65 align=3Dright>165</td>
+  <td class=3Dxl65 align=3Dright>206</td>
+  <td class=3Dxl65 align=3Dright>251</td>
+  <td class=3Dxl65 align=3Dright>216</td>
+  <td class=3Dxl65 align=3Dright>195</td>
+  <td class=3Dxl65 align=3Dright>211</td>
+  <td class=3Dxl65 align=3Dright>170</td>
+  <td class=3Dxl65 align=3Dright>155</td>
+  <td class=3Dxl65 align=3Dright>222</td>
+  <td class=3Dxl65 align=3Dright>224</td>
+  <td class=3Dxl65 align=3Dright>244</td>
+  <td class=3Dxl65 align=3Dright>188</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Burgenland</td>
+  <td class=3Dxl65 align=3Dright>27</td>
+  <td class=3Dxl65 align=3Dright>18</td>
+  <td class=3Dxl65 align=3Dright>28</td>
+  <td class=3Dxl65 align=3Dright>31</td>
+  <td class=3Dxl65 align=3Dright>38</td>
+  <td class=3Dxl65 align=3Dright>5</td>
+  <td class=3Dxl65 align=3Dright>39</td>
+  <td class=3Dxl65 align=3Dright>20</td>
+  <td class=3Dxl65 align=3Dright>28</td>
+  <td class=3Dxl65 align=3Dright>60</td>
+  <td class=3Dxl65 align=3Dright>22</td>
+  <td class=3Dxl65 align=3Dright>18</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Oberösterreich</td>
+  <td class=3Dxl65 align=3Dright>348</td>
+  <td class=3Dxl65 align=3Dright>402</td>
+  <td class=3Dxl65 align=3Dright>508</td>
+  <td class=3Dxl65 align=3Dright>473</td>
+  <td class=3Dxl65 align=3Dright>508</td>
+  <td class=3Dxl65 align=3Dright>422</td>
+  <td class=3Dxl65 align=3Dright>419</td>
+  <td class=3Dxl65 align=3Dright>371</td>
+  <td class=3Dxl65 align=3Dright>401</td>
+  <td class=3Dxl65 align=3Dright>410</td>
+  <td class=3Dxl65 align=3Dright>499</td>
+  <td class=3Dxl65 align=3Dright>399</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Steiermark</td>
+  <td class=3Dxl65 align=3Dright>480</td>
+  <td class=3Dxl65>1.236</td>
+  <td class=3Dxl65 align=3Dright>764</td>
+  <td class=3Dxl65 align=3Dright>694</td>
+  <td class=3Dxl65 align=3Dright>678</td>
+  <td class=3Dxl65 align=3Dright>495</td>
+  <td class=3Dxl65 align=3Dright>674</td>
+  <td class=3Dxl65 align=3Dright>476</td>
+  <td class=3Dxl65 align=3Dright>613</td>
+  <td class=3Dxl65 align=3Dright>869</td>
+  <td class=3Dxl65 align=3Dright>904</td>
+  <td class=3Dxl65 align=3Dright>326</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Kärnten</td>
+  <td class=3Dxl65 align=3Dright>135</td>
+  <td class=3Dxl65 align=3Dright>107</td>
+  <td class=3Dxl65 align=3Dright>200</td>
+  <td class=3Dxl65 align=3Dright>154</td>
+  <td class=3Dxl65 align=3Dright>186</td>
+  <td class=3Dxl65 align=3Dright>130</td>
+  <td class=3Dxl65 align=3Dright>160</td>
+  <td class=3Dxl65 align=3Dright>155</td>
+  <td class=3Dxl65 align=3Dright>150</td>
+  <td class=3Dxl65 align=3Dright>81</td>
+  <td class=3Dxl65 align=3Dright>135</td>
+  <td class=3Dxl65 align=3Dright>163</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Salzburg</td>
+  <td class=3Dxl65 align=3Dright>107</td>
+  <td class=3Dxl65 align=3Dright>143</td>
+  <td class=3Dxl65 align=3Dright>148</td>
+  <td class=3Dxl65 align=3Dright>111</td>
+  <td class=3Dxl65 align=3Dright>135</td>
+  <td class=3Dxl65 align=3Dright>121</td>
+  <td class=3Dxl65 align=3Dright>101</td>
+  <td class=3Dxl65 align=3Dright>163</td>
+  <td class=3Dxl65 align=3Dright>113</td>
+  <td class=3Dxl65 align=3Dright>117</td>
+  <td class=3Dxl65 align=3Dright>105</td>
+  <td class=3Dxl65 align=3Dright>123</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Tirol</td>
+  <td class=3Dxl65 align=3Dright>318</td>
+  <td class=3Dxl65 align=3Dright>365</td>
+  <td class=3Dxl65 align=3Dright>398</td>
+  <td class=3Dxl65 align=3Dright>378</td>
+  <td class=3Dxl65 align=3Dright>383</td>
+  <td class=3Dxl65 align=3Dright>360</td>
+  <td class=3Dxl65 align=3Dright>330</td>
+  <td class=3Dxl65 align=3Dright>386</td>
+  <td class=3Dxl65 align=3Dright>336</td>
+  <td class=3Dxl65 align=3Dright>362</td>
+  <td class=3Dxl65 align=3Dright>397</td>
+  <td class=3Dxl65 align=3Dright>373</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Vorarlberg</td>
+  <td class=3Dxl65 align=3Dright>796</td>
+  <td class=3Dxl65 align=3Dright>565</td>
+  <td class=3Dxl65 align=3Dright>808</td>
+  <td class=3Dxl65 align=3Dright>615</td>
+  <td class=3Dxl65 align=3Dright>753</td>
+  <td class=3Dxl65 align=3Dright>452</td>
+  <td class=3Dxl65 align=3Dright>837</td>
+  <td class=3Dxl65 align=3Dright>866</td>
+  <td class=3Dxl65 align=3Dright>595</td>
+  <td class=3Dxl65 align=3Dright>556</td>
+  <td class=3Dxl65 align=3Dright>727</td>
+  <td class=3Dxl65 align=3Dright>567</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Gesamt</td>
+  <td class=3Dxl65>2.604</td>
+  <td class=3Dxl65>3.211</td>
+  <td class=3Dxl65>3.274</td>
+  <td class=3Dxl65>2.849</td>
+  <td class=3Dxl65>3.191</td>
+  <td class=3Dxl65>2.344</td>
+  <td class=3Dxl65>2.920</td>
+  <td class=3Dxl65>2.782</td>
+  <td class=3Dxl65>2.643</td>
+  <td class=3Dxl65>2.870</td>
+  <td class=3Dxl65>3.212</td>
+  <td class=3Dxl65>2.333</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 align=3Dright style=3D'height:15.75pt'>2023<=
+/td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Bundesland</td>
+  <td class=3Dxl65>Jänner</td>
+  <td class=3Dxl65>Februar</td>
+  <td class=3Dxl65>März</td>
+  <td class=3Dxl65>April</td>
+  <td class=3Dxl65>Mai</td>
+  <td class=3Dxl65>Juni</td>
+  <td class=3Dxl65>Juli</td>
+  <td class=3Dxl65>August</td>
+  <td class=3Dxl65>September</td>
+  <td class=3Dxl65>Oktober</td>
+  <td class=3Dxl65>November</td>
+  <td class=3Dxl65>Dezember</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Wien</td>
+  <td class=3Dxl65 align=3Dright>164</td>
+  <td class=3Dxl65 align=3Dright>166</td>
+  <td class=3Dxl65 align=3Dright>200</td>
+  <td class=3Dxl65 align=3Dright>158</td>
+  <td class=3Dxl65 align=3Dright>180</td>
+  <td class=3Dxl65 align=3Dright>169</td>
+  <td class=3Dxl65 align=3Dright>182</td>
+  <td class=3Dxl65 align=3Dright>152</td>
+  <td class=3Dxl65 align=3Dright>165</td>
+  <td class=3Dxl65 align=3Dright>165</td>
+  <td class=3Dxl65 align=3Dright>191</td>
+  <td class=3Dxl65 align=3Dright>119</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Niederösterreich</t=
+d>
+  <td class=3Dxl65 align=3Dright>201</td>
+  <td class=3Dxl65 align=3Dright>202</td>
+  <td class=3Dxl65 align=3Dright>181</td>
+  <td class=3Dxl65 align=3Dright>252</td>
+  <td class=3Dxl65 align=3Dright>214</td>
+  <td class=3Dxl65 align=3Dright>212</td>
+  <td class=3Dxl65 align=3Dright>199</td>
+  <td class=3Dxl65 align=3Dright>200</td>
+  <td class=3Dxl65 align=3Dright>167</td>
+  <td class=3Dxl65 align=3Dright>246</td>
+  <td class=3Dxl65 align=3Dright>276</td>
+  <td class=3Dxl65 align=3Dright>225</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Burgenland</td>
+  <td class=3Dxl65 align=3Dright>45</td>
+  <td class=3Dxl65 align=3Dright>12</td>
+  <td class=3Dxl65 align=3Dright>15</td>
+  <td class=3Dxl65 align=3Dright>10</td>
+  <td class=3Dxl65 align=3Dright>8</td>
+  <td class=3Dxl65 align=3Dright>32</td>
+  <td class=3Dxl65 align=3Dright>23</td>
+  <td class=3Dxl65 align=3Dright>20</td>
+  <td class=3Dxl65 align=3Dright>22</td>
+  <td class=3Dxl65 align=3Dright>48</td>
+  <td class=3Dxl65 align=3Dright>12</td>
+  <td class=3Dxl65 align=3Dright>31</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Oberösterreich</td>
+  <td class=3Dxl65 align=3Dright>487</td>
+  <td class=3Dxl65 align=3Dright>368</td>
+  <td class=3Dxl65 align=3Dright>449</td>
+  <td class=3Dxl65 align=3Dright>406</td>
+  <td class=3Dxl65 align=3Dright>491</td>
+  <td class=3Dxl65 align=3Dright>377</td>
+  <td class=3Dxl65 align=3Dright>323</td>
+  <td class=3Dxl65 align=3Dright>294</td>
+  <td class=3Dxl65 align=3Dright>402</td>
+  <td class=3Dxl65 align=3Dright>394</td>
+  <td class=3Dxl65 align=3Dright>381</td>
+  <td class=3Dxl65 align=3Dright>275</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Steiermark</td>
+  <td class=3Dxl65 align=3Dright>663</td>
+  <td class=3Dxl65 align=3Dright>690</td>
+  <td class=3Dxl65 align=3Dright>630</td>
+  <td class=3Dxl65 align=3Dright>379</td>
+  <td class=3Dxl65 align=3Dright>279</td>
+  <td class=3Dxl65 align=3Dright>394</td>
+  <td class=3Dxl65 align=3Dright>279</td>
+  <td class=3Dxl65 align=3Dright>380</td>
+  <td class=3Dxl65 align=3Dright>174</td>
+  <td class=3Dxl65 align=3Dright>372</td>
+  <td class=3Dxl65 align=3Dright>257</td>
+  <td class=3Dxl65 align=3Dright>206</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Kärnten</td>
+  <td class=3Dxl65 align=3Dright>172</td>
+  <td class=3Dxl65 align=3Dright>96</td>
+  <td class=3Dxl65 align=3Dright>159</td>
+  <td class=3Dxl65 align=3Dright>96</td>
+  <td class=3Dxl65 align=3Dright>132</td>
+  <td class=3Dxl65 align=3Dright>98</td>
+  <td class=3Dxl65 align=3Dright>39</td>
+  <td class=3Dxl65 align=3Dright>140</td>
+  <td class=3Dxl65 align=3Dright>83</td>
+  <td class=3Dxl65 align=3Dright>148</td>
+  <td class=3Dxl65 align=3Dright>108</td>
+  <td class=3Dxl65 align=3Dright>99</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Salzburg</td>
+  <td class=3Dxl65 align=3Dright>60</td>
+  <td class=3Dxl65 align=3Dright>211</td>
+  <td class=3Dxl65 align=3Dright>122</td>
+  <td class=3Dxl65 align=3Dright>120</td>
+  <td class=3Dxl65 align=3Dright>74</td>
+  <td class=3Dxl65 align=3Dright>153</td>
+  <td class=3Dxl65 align=3Dright>73</td>
+  <td class=3Dxl65 align=3Dright>133</td>
+  <td class=3Dxl65 align=3Dright>104</td>
+  <td class=3Dxl65 align=3Dright>55</td>
+  <td class=3Dxl65 align=3Dright>87</td>
+  <td class=3Dxl65 align=3Dright>131</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Tirol</td>
+  <td class=3Dxl65 align=3Dright>331</td>
+  <td class=3Dxl65 align=3Dright>253</td>
+  <td class=3Dxl65 align=3Dright>434</td>
+  <td class=3Dxl65 align=3Dright>326</td>
+  <td class=3Dxl65 align=3Dright>351</td>
+  <td class=3Dxl65 align=3Dright>302</td>
+  <td class=3Dxl65 align=3Dright>318</td>
+  <td class=3Dxl65 align=3Dright>287</td>
+  <td class=3Dxl65 align=3Dright>290</td>
+  <td class=3Dxl65 align=3Dright>330</td>
+  <td class=3Dxl65 align=3Dright>319</td>
+  <td class=3Dxl65 align=3Dright>306</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Vorarlberg</td>
+  <td class=3Dxl65 align=3Dright>835</td>
+  <td class=3Dxl65 align=3Dright>634</td>
+  <td class=3Dxl65 align=3Dright>676</td>
+  <td class=3Dxl65 align=3Dright>555</td>
+  <td class=3Dxl65 align=3Dright>762</td>
+  <td class=3Dxl65 align=3Dright>785</td>
+  <td class=3Dxl65 align=3Dright>763</td>
+  <td class=3Dxl65 align=3Dright>510</td>
+  <td class=3Dxl65 align=3Dright>686</td>
+  <td class=3Dxl65 align=3Dright>667</td>
+  <td class=3Dxl65 align=3Dright>561</td>
+  <td class=3Dxl65 align=3Dright>617</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl65 style=3D'height:15.75pt'>Gesamt</td>
+  <td class=3Dxl65>2.958</td>
+  <td class=3Dxl65>2.632</td>
+  <td class=3Dxl65>2.866</td>
+  <td class=3Dxl65>2.302</td>
+  <td class=3Dxl65>2.491</td>
+  <td class=3Dxl65>2.522</td>
+  <td class=3Dxl65>2.199</td>
+  <td class=3Dxl65>2.116</td>
+  <td class=3Dxl65>2.093</td>
+  <td class=3Dxl65>2.425</td>
+  <td class=3Dxl65>2.192</td>
+  <td class=3Dxl65>2.009</td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D129 style=3D'width:97pt'></td>
+  <td width=3D52 style=3D'width:39pt'></td>
+  <td width=3D57 style=3D'width:43pt'></td>
+  <td width=3D52 style=3D'width:39pt'></td>
+  <td width=3D44 style=3D'width:33pt'></td>
+  <td width=3D44 style=3D'width:33pt'></td>
+  <td width=3D44 style=3D'width:33pt'></td>
+  <td width=3D44 style=3D'width:33pt'></td>
+  <td width=3D56 style=3D'width:42pt'></td>
+  <td width=3D79 style=3D'width:59pt'></td>
+  <td width=3D60 style=3D'width:45pt'></td>
+  <td width=3D75 style=3D'width:56pt'></td>
+  <td width=3D74 style=3D'width:56pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01DB2E33.4C91E080
+Content-Location: file:///C:/EA435D04/Beilage_13_14_15_16_manually_extracted.files/sheet003.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File
+href=3D"../Beilage_13_14_15_16_manually_extracted.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base
+href=3D"file:///C:/EA435D04/Beilage_13_14_15_16_manually_extracted.files/sh=
+eet003.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:" ";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(2);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../Beilage_13_14_15_16_manually_extracted.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3D"#467886" vlink=3D"#96607D">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D759 style=3D'bord=
+er-collapse:
+ collapse;table-layout:fixed;width:569pt'>
+ <col width=3D64 style=3D'width:48pt'>
+ <col width=3D207 style=3D'mso-width-source:userset;mso-width-alt:7570;widt=
+h:155pt'>
+ <col width=3D195 style=3D'mso-width-source:userset;mso-width-alt:7131;widt=
+h:146pt'>
+ <col width=3D115 style=3D'mso-width-source:userset;mso-width-alt:4205;widt=
+h:86pt'>
+ <col width=3D89 span=3D2 style=3D'mso-width-source:userset;mso-width-alt:3=
+254;
+ width:67pt'>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 width=3D64 style=3D'height:15.0pt;width:48pt'></td>
+  <td width=3D207 style=3D'width:155pt'></td>
+  <td width=3D195 style=3D'width:146pt'></td>
+  <td width=3D115 style=3D'width:86pt'></td>
+  <td width=3D89 style=3D'width:67pt'></td>
+  <td width=3D89 style=3D'width:67pt'></td>
+ </tr>
+ <tr height=3D40 style=3D'height:30.0pt;mso-xlrowspan:2'>
+  <td height=3D40 colspan=3D6 style=3D'height:30.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'>Gesamtzahl der Anträge auf
+  Wahlarztkostenrefundierung</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D2 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+  <td>Fachgebiet</td>
+  <td align=3Dright>2023</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>Allgemeinmedizin</td>
+  <td>131.668</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>Kinder- und Jugendheilkunde</td>
+  <td>51.537</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D6 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'>Refundierungen von
+  Wahlarztkostenrechnungen</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D2 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+  <td>Fachgebiet</td>
+  <td align=3Dright>2023</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>Allgemeinmedizin</td>
+  <td>6.021.878,95</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>Kinder- und Jugendheilkunde</td>
+  <td>2.406.501,05</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D6 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'>Gesamtsumme der zur Refundie=
+rung
+  eingereichten Wahlarztkostenrechnungen</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D2 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+  <td>Fachgebiet</td>
+  <td align=3Dright>2023</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>Allgemeinmedizin</td>
+  <td>16.937.867,27</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>Kinder- und Jugendheilkunde</td>
+  <td>5.458.667,37</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'height:30.0pt;mso-xlrowspan:2'>
+  <td height=3D40 colspan=3D6 style=3D'height:30.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'>Gesamtzahl der Anträge auf
+  Wahlarztkostenrefundierung</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>Träger</td>
+  <td>Fachgebiet</td>
+  <td align=3Dright>2023</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>FA f. Augenheilkunde</td>
+  <td>80.808</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>FA f. Chirurgie</td>
+  <td>20.518</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>FA f. Dermatologie</td>
+  <td>80.035</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>FA f. Gynäkologie</td>
+  <td>87.008</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>FA f. Orthopädie/orthop.Chir.</td>
+  <td>77.611</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>FA f. Urologie</td>
+  <td>32.213</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>FA f. Psychiatrie</td>
+  <td>23.418</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>FA f.Kinder- und Jugendpsych.</td>
+  <td>1.676</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D6 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'>Rechnungsbeträge und Refundi=
+erungen
+  der Wahlarztkostenrechnungen</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>Träger</td>
+  <td>Fachgebiet</td>
+  <td align=3Dright>2023</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D3 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+  <td>Rechnungsbetrag</td>
+  <td>Refundierung</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>FA f. Augenheilkunde</td>
+  <td>11.315.177</td>
+  <td>6.127.374</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>FA f. Chirurgie</td>
+  <td>5.252.005</td>
+  <td>1.956.375</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>FA f. Dermatologie</td>
+  <td>11.175.600</td>
+  <td>4.272.061</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>FA f. Gynäkologie</td>
+  <td>10.821.124</td>
+  <td>5.718.189</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>FA f. Orthopädie/orthop.Chir.</td>
+  <td>12.050.003</td>
+  <td>4.828.221</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>FA f. Urologie</td>
+  <td>5.150.755</td>
+  <td>2.791.786</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>FA f. Psychiatrie</td>
+  <td>4.536.851</td>
+  <td>3.346.137</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>SVS</td>
+  <td>FA f.Kinder- und Jugendpsych.</td>
+  <td>328.720</td>
+  <td>275.149</td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'height:30.0pt;mso-xlrowspan:2'>
+  <td height=3D40 colspan=3D6 style=3D'height:30.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'>Durchschnittliche Bearbeitun=
+gszeit
+  bei postalischen Einreichungen:<span style=3D'mso-spacerun:yes'> </span><=
+/td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'>Ø Bearbeitungszeit 2022
+  (abgeschlossen mit einer Anweisung): rund 16 Tage</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'>Durchschnittliche Bearbeitun=
+gszeit
+  bei online Einreichungen:<span style=3D'mso-spacerun:yes'> </span></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'>Ø Bearbeitungszeit 2022
+  (abgeschlossen mit einer Anweisung): rund 2,5 Tage</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'height:30.0pt;mso-xlrowspan:2'>
+  <td height=3D40 colspan=3D6 style=3D'height:30.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'>Ausgaben (€) im Jahr 2021 bi=
+s 2023
+  im Bereich Logo-, Ergo- und Physiotherapie:</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>Fachgebiet</td>
+  <td>Bereich</td>
+  <td align=3Dright>2021</td>
+  <td align=3Dright>2022</td>
+  <td align=3Dright>2023</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>Logopädie</td>
+  <td>SVS</td>
+  <td>2.570.697,70</td>
+  <td>2.722.269,72</td>
+  <td>2.934.803,03</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>Ergotherapie</td>
+  <td>SVS</td>
+  <td>2.729.491,03</td>
+  <td>3.008.004,25</td>
+  <td>3.316.147,29</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>Wahl-Physiotherapeuten</td>
+  <td>SVS</td>
+  <td>25.360.644,81</td>
+  <td>26.697.690,24</td>
+  <td>31.143.394,38</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D207 style=3D'width:155pt'></td>
+  <td width=3D195 style=3D'width:146pt'></td>
+  <td width=3D115 style=3D'width:86pt'></td>
+  <td width=3D89 style=3D'width:67pt'></td>
+  <td width=3D89 style=3D'width:67pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01DB2E33.4C91E080
+Content-Location: file:///C:/EA435D04/Beilage_13_14_15_16_manually_extracted.files/sheet004.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File
+href=3D"../Beilage_13_14_15_16_manually_extracted.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base
+href=3D"file:///C:/EA435D04/Beilage_13_14_15_16_manually_extracted.files/sh=
+eet004.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:" ";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(3);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../Beilage_13_14_15_16_manually_extracted.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3D"#467886" vlink=3D"#96607D">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D685 style=3D'bord=
+er-collapse:
+ collapse;table-layout:fixed;width:514pt'>
+ <col width=3D312 style=3D'mso-width-source:userset;mso-width-alt:11410;wid=
+th:234pt'>
+ <col width=3D124 style=3D'mso-width-source:userset;mso-width-alt:4534;widt=
+h:93pt'>
+ <col width=3D121 style=3D'mso-width-source:userset;mso-width-alt:4425;widt=
+h:91pt'>
+ <col width=3D64 span=3D2 style=3D'width:48pt'>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D3 width=3D557 style=3D'height:15.0pt;mso-ignore=
+:colspan;
+  width:418pt'>Versicherungsanstalt öffentlich Bediensteter, Eisenbahnen und
+  Bergbau</td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Zu Frage 1:<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Im Jahr 2023 wurden EUR 71.505.23=
+0,-
+  erstattet.<span style=3D'mso-spacerun:yes'> </span></td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Zu Frage 1a:<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D3 style=3D'height:15.0pt;mso-ignore:colspan'>Im=
+ Jahr 2023
+  waren die zur Kostenerstattung eingereichten Rechnungsbeträge gesamt<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>EUR 133.660.646,-</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Zu Fragen 2 und 2a:<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Fachgebiet</td>
+  <td>Refundierungsbetra<span style=3D'display:none'>g</span></td>
+  <td>Rechnungsbetrag</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Allgemeinmedizin</td>
+  <td>5.413.812</td>
+  <td>13.688.415</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Anästhesiologie und Intensivmediz=
+in</td>
+  <td>178.216</td>
+  <td>685.838</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Augenheilkunde und Optometrie</td>
+  <td>8.312.185</td>
+  <td>14.195.053</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Chirurgie</td>
+  <td>2.254.427</td>
+  <td>4.710.687</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Haut- und Geschlechtskrankheiten<=
+/td>
+  <td>5.163.210</td>
+  <td>12.072.715</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Frauenheilkunde und Geburtshilfe<=
+/td>
+  <td>10.189.377</td>
+  <td>18.694.636</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Innere Medizin</td>
+  <td>13.070.876</td>
+  <td>17.141.122</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Kinder- und Jugendheilkunde</td>
+  <td>4.286.072</td>
+  <td>9.050.960</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Hals-, Nasen- und Ohrenheilkunde<=
+/td>
+  <td>2.415.328</td>
+  <td>3.893.982</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Lungenkrankheiten</td>
+  <td>466.562</td>
+  <td>779.506</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Neurologie und Psychiatrie/Psychi=
+atrie
+  und Neurol<span style=3D'display:none'>ogie</span></td>
+  <td>517.267</td>
+  <td>880.058</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Orthopädie und orthopädische Chir=
+urgie</td>
+  <td>4.891.825</td>
+  <td>12.203.121</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Physikalische Medizin</td>
+  <td>297.039</td>
+  <td>837.125</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Radiologie</td>
+  <td>237.128</td>
+  <td>555.104</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Unfallchirurgie</td>
+  <td>1.439.143</td>
+  <td>4.306.122</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Urologie</td>
+  <td>3.179.340</td>
+  <td>4.871.562</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Neurochirurgie</td>
+  <td>143.105</td>
+  <td>667.078</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Neurologie</td>
+  <td>1.591.964</td>
+  <td>2.442.717</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Psychiatrie</td>
+  <td>5.122.065</td>
+  <td>5.724.272</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Plastische Chirurgie</td>
+  <td>404.699</td>
+  <td>1.343.522</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Kinder- und Jugendchirurgie</td>
+  <td>33.594</td>
+  <td>130.428</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Mund-, Kiefer- und Gesichtschirur=
+gie</td>
+  <td>1.107.788</td>
+  <td>3.087.332</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Nuklearmedizin</td>
+  <td>350.406</td>
+  <td>1.051.496</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Strahlentherapie - Radioonkologie=
+</td>
+  <td>27.527</td>
+  <td>106.490</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Immunologie</td>
+  <td align=3Dright>253</td>
+  <td>1.298</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Kinder- und Jugendpsychiatrie</td>
+  <td>344.917</td>
+  <td>357.053</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Histologie und Embryologie</td>
+  <td align=3Dright>51</td>
+  <td align=3Dright>92</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Gruppenpraxis</td>
+  <td>28.246</td>
+  <td>53.407</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Medizinische und Chemische
+  Labordiagnostik</td>
+  <td align=3Dright>31,698</td>
+  <td>113.217</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Labor, EEG</td>
+  <td align=3Dright>601</td>
+  <td>1.687</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Labor, zytodignostisch</td>
+  <td align=3Dright>134</td>
+  <td align=3Dright>648</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Pathologie und Histologie</td>
+  <td>6.306</td>
+  <td>13.348</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Hygiene und Mikrobiologie
+  Mikrobiologisch-serolo<span style=3D'display:none'>gis</span></td>
+  <td align=3Dright>68</td>
+  <td align=3Dright>522</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'></td>
+  <td>71.505.230</td>
+  <td>133.660.646</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Zu Frage 3:</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Monat</td>
+  <td>postalisch</td>
+  <td>online</td>
+  <td>GESAMT</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.23=
+</td>
+  <td>33.583</td>
+  <td>35.594</td>
+  <td>69.177</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.23=
+</td>
+  <td>34.441</td>
+  <td>31.406</td>
+  <td>65.847</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.23=
+</td>
+  <td>45.289</td>
+  <td>39.396</td>
+  <td>84.685</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Apr.23=
+</td>
+  <td>37.855</td>
+  <td>31.754</td>
+  <td>69.609</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mai.23=
+</td>
+  <td>32.382</td>
+  <td>35.061</td>
+  <td>67.443</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.23=
+</td>
+  <td>31.284</td>
+  <td>35.406</td>
+  <td>66.690</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jul.23=
+</td>
+  <td>34.054</td>
+  <td>37.593</td>
+  <td>71.647</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Aug.23=
+</td>
+  <td>30.452</td>
+  <td>35.001</td>
+  <td>65.453</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Sep.23=
+</td>
+  <td>30.273</td>
+  <td>36.342</td>
+  <td>66.615</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Okt.23=
+</td>
+  <td>34.740</td>
+  <td>39.569</td>
+  <td>74.309</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Nov.23=
+</td>
+  <td>37.836</td>
+  <td>41.756</td>
+  <td>79.592</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Dez.23=
+</td>
+  <td>27.008</td>
+  <td>29.709</td>
+  <td>56.717</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.24=
+</td>
+  <td>37.027</td>
+  <td>48.319</td>
+  <td>85.346</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.24=
+</td>
+  <td>38.220</td>
+  <td>45.465</td>
+  <td>83.685</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.24=
+</td>
+  <td>41.431</td>
+  <td>45.534</td>
+  <td>86.965</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Apr.24=
+</td>
+  <td>36.514</td>
+  <td>46.972</td>
+  <td>83.486</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mai.24=
+</td>
+  <td>31.204</td>
+  <td>39.444</td>
+  <td>70.648</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.24=
+</td>
+  <td>32.887</td>
+  <td>40.996</td>
+  <td>73.883</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Zu Frage 4:</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D4 style=3D'height:15.0pt;mso-ignore:colspan'>Da=
+ alle
+  anderen Fragen auf das Jahr 2023 Bezug nehmen, wird davon ausgegangen, da=
+ss
+  auch bei</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D2 style=3D'height:15.0pt;mso-ignore:colspan'>de=
+r Frage 4
+  die Daten ab dem Jahr 2023 gemeint sind.</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Monat</td>
+  <td>postalisch</td>
+  <td>online</td>
+  <td>GESAMT</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.23=
+</td>
+  <td>30.402</td>
+  <td>32.362</td>
+  <td>62.764</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.23=
+</td>
+  <td>35.282</td>
+  <td>32.321</td>
+  <td>67.603</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.23=
+</td>
+  <td>42.996</td>
+  <td>38.078</td>
+  <td>81.074</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Apr.23=
+</td>
+  <td>41.406</td>
+  <td>33.936</td>
+  <td>75.342</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mai.23=
+</td>
+  <td>32.671</td>
+  <td>35.372</td>
+  <td>68.043</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.23=
+</td>
+  <td>28.968</td>
+  <td>32.179</td>
+  <td>61.147</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jul.23=
+</td>
+  <td>35.773</td>
+  <td>41.203</td>
+  <td>76.976</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Aug.23=
+</td>
+  <td>30.215</td>
+  <td>33.225</td>
+  <td>63.440</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Sep.23=
+</td>
+  <td>28.133</td>
+  <td>33.105</td>
+  <td>61.238</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Okt.23=
+</td>
+  <td>35.948</td>
+  <td>44.365</td>
+  <td>80.313</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Nov.23=
+</td>
+  <td>35.656</td>
+  <td>40.112</td>
+  <td>75.768</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Dez.23=
+</td>
+  <td>31.488</td>
+  <td>32.593</td>
+  <td>64.081</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.24=
+</td>
+  <td>36.476</td>
+  <td>46.856</td>
+  <td>83.332</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.24=
+</td>
+  <td>35.840</td>
+  <td>42.546</td>
+  <td>78.386</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.24=
+</td>
+  <td>43.263</td>
+  <td>48.485</td>
+  <td>91.748</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Apr.24=
+</td>
+  <td>37.323</td>
+  <td>46.808</td>
+  <td>84.131</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mai.24=
+</td>
+  <td>30.747</td>
+  <td>38.212</td>
+  <td>68.959</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.24=
+</td>
+  <td>31.321</td>
+  <td>39.462</td>
+  <td>70.783</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Zu Fragen 4a, 7a und 10a:</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D4 style=3D'height:15.0pt;mso-ignore:colspan'>Die
+  durchschnittliche Bearbeitungszeit bezieht sich auf Anträge aller
+  Leistungserbringer. Eine</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D4 style=3D'height:15.0pt;mso-ignore:colspan'>ge=
+sonderte
+  Darstellung für einzelne Fachbereiche sowie eine Differenzierung nach
+  Antragsart sind</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>nicht möglich.</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Monat</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'>durschnittliche Bearbeitungs=
+zeit in
+  Tagen</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.23=
+</td>
+  <td align=3Dright>24,84</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.23=
+</td>
+  <td align=3Dright>25,16</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.23=
+</td>
+  <td align=3Dright>25,55</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Apr.23=
+</td>
+  <td align=3Dright>21,21</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mai.23=
+</td>
+  <td align=3Dright>23,18</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.23=
+</td>
+  <td align=3Dright>27,95</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jul.23=
+</td>
+  <td align=3Dright>27,16</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Aug.23=
+</td>
+  <td align=3Dright>29,09</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Sep.23=
+</td>
+  <td align=3Dright>29,65</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Okt.23=
+</td>
+  <td align=3Dright>25,8</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Nov.23=
+</td>
+  <td align=3Dright>24,91</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Dez.23=
+</td>
+  <td align=3Dright>20,91</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.24=
+</td>
+  <td align=3Dright>29,28</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.24=
+</td>
+  <td align=3Dright>26,93</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.24=
+</td>
+  <td align=3Dright>22,72</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Apr.24=
+</td>
+  <td align=3Dright>23,93</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mai.24=
+</td>
+  <td align=3Dright>21,53</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.24=
+</td>
+  <td align=3Dright>25,17</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Zu Frage 5:</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>MTD-Beruf</td>
+  <td align=3Dright>2021</td>
+  <td align=3Dright>2022</td>
+  <td align=3Dright>2023</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Ergotherapie</td>
+  <td>3.153.654</td>
+  <td>3.442.032</td>
+  <td>4.175.367</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Logopädie</td>
+  <td>2.619.346</td>
+  <td>2.794.814</td>
+  <td>3.359.912</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Physiotherapie</td>
+  <td>35.055.709</td>
+  <td>36.517.244</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'>45.631.304</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Zu Frage 5a:</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>MTD-Beruf</td>
+  <td align=3Dright>2021</td>
+  <td align=3Dright>2022</td>
+  <td align=3Dright>2023</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Ergotherapie</td>
+  <td>3.845.047</td>
+  <td>4.194.183</td>
+  <td>5.182.250</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Logopädie</td>
+  <td>3.859.814</td>
+  <td>3.705.527</td>
+  <td>4.442.924</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Physiotherapie</td>
+  <td>63.228.206</td>
+  <td>67.303.969</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'>76.362.610</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Zu Frage 6:</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Monat</td>
+  <td>postalisch</td>
+  <td>online</td>
+  <td>GESAMT</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.21=
+</td>
+  <td>6.485</td>
+  <td>4.275</td>
+  <td>10.760</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.21=
+</td>
+  <td>6.036</td>
+  <td>4.544</td>
+  <td>10.580</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.21=
+</td>
+  <td>7.285</td>
+  <td>5.126</td>
+  <td>12.411</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Apr.21=
+</td>
+  <td>6.254</td>
+  <td>5.084</td>
+  <td>11.338</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mai.21=
+</td>
+  <td>5.651</td>
+  <td>4.209</td>
+  <td>9.860</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.21=
+</td>
+  <td>6.872</td>
+  <td>4.738</td>
+  <td>11.610</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jul.21=
+</td>
+  <td>6.340</td>
+  <td>4.522</td>
+  <td>10.862</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Aug.21=
+</td>
+  <td>6.238</td>
+  <td>4.395</td>
+  <td>10.633</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Sep.21=
+</td>
+  <td>6.094</td>
+  <td>5.174</td>
+  <td>11.268</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Okt.21=
+</td>
+  <td>4.845</td>
+  <td>4.077</td>
+  <td>8.922</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Nov.21=
+</td>
+  <td>5.737</td>
+  <td>4.862</td>
+  <td>10.599</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Dez.21=
+</td>
+  <td>4.940</td>
+  <td>4.603</td>
+  <td>9.543</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.22=
+</td>
+  <td>5.033</td>
+  <td>5.586</td>
+  <td>10.619</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.22=
+</td>
+  <td>6.056</td>
+  <td>5.521</td>
+  <td>11.577</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.22=
+</td>
+  <td>6.927</td>
+  <td>5.842</td>
+  <td>12.769</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Apr.22=
+</td>
+  <td>5.553</td>
+  <td>5.245</td>
+  <td>10.798</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mai.22=
+</td>
+  <td>6.004</td>
+  <td>5.920</td>
+  <td>11.924</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.22=
+</td>
+  <td>5.525</td>
+  <td>5.291</td>
+  <td>10.816</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jul.22=
+</td>
+  <td>5.485</td>
+  <td>5.270</td>
+  <td>10.755</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Aug.22=
+</td>
+  <td>5.438</td>
+  <td>5.233</td>
+  <td>10.671</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Sep.22=
+</td>
+  <td>5.396</td>
+  <td>5.812</td>
+  <td>11.208</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Okt.22=
+</td>
+  <td>5.049</td>
+  <td>5.176</td>
+  <td>10.225</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Nov.22=
+</td>
+  <td>5.543</td>
+  <td>5.893</td>
+  <td>11.436</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Dez.22=
+</td>
+  <td>4.444</td>
+  <td>5.163</td>
+  <td>9.607</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.23=
+</td>
+  <td>5.592</td>
+  <td>7.025</td>
+  <td>12.617</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.23=
+</td>
+  <td>5.075</td>
+  <td>6.147</td>
+  <td>11.222</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.23=
+</td>
+  <td>6.945</td>
+  <td>7.202</td>
+  <td>14.147</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Apr.23=
+</td>
+  <td>5.526</td>
+  <td>5.797</td>
+  <td>11.323</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mai.23=
+</td>
+  <td>5.313</td>
+  <td>6.853</td>
+  <td>12.166</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.23=
+</td>
+  <td>5.175</td>
+  <td>6.795</td>
+  <td>11.970</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jul.23=
+</td>
+  <td>5.344</td>
+  <td>7.818</td>
+  <td>13.162</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Aug.23=
+</td>
+  <td>5.569</td>
+  <td>7.337</td>
+  <td>12.906</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Sep.23=
+</td>
+  <td>4.910</td>
+  <td>7.072</td>
+  <td>11.982</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Okt.23=
+</td>
+  <td>5.022</td>
+  <td>7.751</td>
+  <td>12.773</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Nov.23=
+</td>
+  <td>5.637</td>
+  <td>7.906</td>
+  <td>13.543</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Dez.23=
+</td>
+  <td>4.094</td>
+  <td>5.655</td>
+  <td>9.749</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.24=
+</td>
+  <td>6.075</td>
+  <td>9.937</td>
+  <td>16.012</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.24=
+</td>
+  <td>5.797</td>
+  <td>8.813</td>
+  <td>14.610</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.24=
+</td>
+  <td>5.224</td>
+  <td>7.886</td>
+  <td>13.110</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Apr.24=
+</td>
+  <td>5.699</td>
+  <td>8.713</td>
+  <td>14.412</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mai.24=
+</td>
+  <td>4.615</td>
+  <td>7.352</td>
+  <td>11.967</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.24=
+</td>
+  <td>4.932</td>
+  <td>8.223</td>
+  <td>13.155</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Zu Frage 7:</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Monat</td>
+  <td>postalisch</td>
+  <td>online</td>
+  <td>GESAMT</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.21=
+</td>
+  <td>5.759</td>
+  <td>3.646</td>
+  <td>9.405</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.21=
+</td>
+  <td>5.974</td>
+  <td>4.598</td>
+  <td>10.572</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.21=
+</td>
+  <td>7.928</td>
+  <td>5.629</td>
+  <td>13.557</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Apr.21=
+</td>
+  <td>5.652</td>
+  <td>4.599</td>
+  <td>10.251</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mai.21=
+</td>
+  <td>6.275</td>
+  <td>4.688</td>
+  <td>10.963</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.21=
+</td>
+  <td>6.790</td>
+  <td>4.728</td>
+  <td>11.518</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jul.21=
+</td>
+  <td>5.901</td>
+  <td>4.140</td>
+  <td>10.041</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Aug.21=
+</td>
+  <td>6.486</td>
+  <td>4.567</td>
+  <td>11.053</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Sep.21=
+</td>
+  <td>6.133</td>
+  <td>5.086</td>
+  <td>11.219</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Okt.21=
+</td>
+  <td>5.233</td>
+  <td>4.426</td>
+  <td>9.659</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Nov.21=
+</td>
+  <td>5.275</td>
+  <td>4.536</td>
+  <td>9.811</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Dez.21=
+</td>
+  <td>5.480</td>
+  <td>5.022</td>
+  <td>10.502</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.22=
+</td>
+  <td>4.821</td>
+  <td>5.408</td>
+  <td>10.229</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.22=
+</td>
+  <td>5.935</td>
+  <td>5.369</td>
+  <td>11.304</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.22=
+</td>
+  <td>6.689</td>
+  <td>5.695</td>
+  <td>12.384</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Apr.22=
+</td>
+  <td>5.275</td>
+  <td>4.982</td>
+  <td>10.257</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mai.22=
+</td>
+  <td>6.240</td>
+  <td>6.142</td>
+  <td>12.382</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.22=
+</td>
+  <td>5.472</td>
+  <td>5.269</td>
+  <td>10.741</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jul.22=
+</td>
+  <td>5.276</td>
+  <td>5.179</td>
+  <td>10.455</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Aug.22=
+</td>
+  <td>6.054</td>
+  <td>5.625</td>
+  <td>11.679</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Sep.22=
+</td>
+  <td>5.048</td>
+  <td>5.191</td>
+  <td>10.239</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Okt.22=
+</td>
+  <td>5.524</td>
+  <td>5.884</td>
+  <td>11.408</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Nov.22=
+</td>
+  <td>5.469</td>
+  <td>5.782</td>
+  <td>11.251</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Dez.22=
+</td>
+  <td>4.537</td>
+  <td>5.283</td>
+  <td>9.820</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.23=
+</td>
+  <td>5.111</td>
+  <td>6.378</td>
+  <td>11.489</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.23=
+</td>
+  <td>5.106</td>
+  <td>6.345</td>
+  <td>11.451</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.23=
+</td>
+  <td>6.695</td>
+  <td>6.949</td>
+  <td>13.644</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 align=3Dright style=3D'height:15.0pt'>4,2023</td>
+  <td>6.126</td>
+  <td>6.303</td>
+  <td>12.429</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mai.23=
+</td>
+  <td>5.220</td>
+  <td>6.857</td>
+  <td>12.077</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.23=
+</td>
+  <td>4.849</td>
+  <td>6.190</td>
+  <td>11.039</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jul.23=
+</td>
+  <td>5.644</td>
+  <td>8.440</td>
+  <td>14.084</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Aug.23=
+</td>
+  <td>5.341</td>
+  <td>6.982</td>
+  <td>12.323</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Sep.23=
+</td>
+  <td>4.561</td>
+  <td>6.525</td>
+  <td>11.086</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Okt.23=
+</td>
+  <td>5.562</td>
+  <td>8.724</td>
+  <td>14.286</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Nov.23=
+</td>
+  <td>5.167</td>
+  <td>7.588</td>
+  <td>12.755</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Dez.23=
+</td>
+  <td>4.780</td>
+  <td>6.152</td>
+  <td>10.932</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.24=
+</td>
+  <td>5.919</td>
+  <td>9.595</td>
+  <td>15.514</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.24=
+</td>
+  <td>5.525</td>
+  <td>8.345</td>
+  <td>13.870</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.24=
+</td>
+  <td>5.623</td>
+  <td>8.483</td>
+  <td>14.106</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Apr.24=
+</td>
+  <td>5.618</td>
+  <td>8.615</td>
+  <td>14.233</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mai.24=
+</td>
+  <td>4.555</td>
+  <td>7.123</td>
+  <td>11.678</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.24=
+</td>
+  <td>4.690</td>
+  <td>7.858</td>
+  <td>12.548</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Zu Fragen 8 und 8a:</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Jahr</td>
+  <td>Refundierungsbetra<span style=3D'display:none'>g</span></td>
+  <td>Rechnungsbetrag</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 align=3Dright style=3D'height:15.0pt'>2021</td>
+  <td>1.710.972</td>
+  <td>2.630.451</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 align=3Dright style=3D'height:15.0pt'>2022</td>
+  <td>1.765.040</td>
+  <td>2.697.943</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 align=3Dright style=3D'height:15.0pt'>2023</td>
+  <td>2.132.426</td>
+  <td>3.183.784</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Zu Frage 9:</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Monat</td>
+  <td>postalisch</td>
+  <td>online</td>
+  <td>GESAMT</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.21=
+</td>
+  <td align=3Dright>480</td>
+  <td align=3Dright>289</td>
+  <td align=3Dright>769</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.21=
+</td>
+  <td align=3Dright>466</td>
+  <td align=3Dright>351</td>
+  <td align=3Dright>817</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.21=
+</td>
+  <td align=3Dright>607</td>
+  <td align=3Dright>407</td>
+  <td>1.014</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Apr.21=
+</td>
+  <td align=3Dright>533</td>
+  <td align=3Dright>358</td>
+  <td align=3Dright>891</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 align=3Dright style=3D'height:15.0pt'>5,2021</td>
+  <td align=3Dright>469</td>
+  <td align=3Dright>329</td>
+  <td align=3Dright>798</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.21=
+</td>
+  <td align=3Dright>513</td>
+  <td align=3Dright>361</td>
+  <td align=3Dright>874</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jul.21=
+</td>
+  <td align=3Dright>472</td>
+  <td align=3Dright>332</td>
+  <td align=3Dright>804</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Aug.21=
+</td>
+  <td align=3Dright>467</td>
+  <td align=3Dright>300</td>
+  <td align=3Dright>767</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Sep.21=
+</td>
+  <td align=3Dright>534</td>
+  <td align=3Dright>388</td>
+  <td align=3Dright>922</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Okt.21=
+</td>
+  <td align=3Dright>422</td>
+  <td align=3Dright>327</td>
+  <td align=3Dright>749</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Nov.21=
+</td>
+  <td align=3Dright>469</td>
+  <td align=3Dright>422</td>
+  <td align=3Dright>891</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Dez.21=
+</td>
+  <td align=3Dright>383</td>
+  <td align=3Dright>307</td>
+  <td align=3Dright>690</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.22=
+</td>
+  <td align=3Dright>406</td>
+  <td align=3Dright>413</td>
+  <td align=3Dright>819</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.22=
+</td>
+  <td align=3Dright>393</td>
+  <td align=3Dright>386</td>
+  <td align=3Dright>779</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.22=
+</td>
+  <td align=3Dright>539</td>
+  <td align=3Dright>430</td>
+  <td align=3Dright>969</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Apr.22=
+</td>
+  <td align=3Dright>421</td>
+  <td align=3Dright>403</td>
+  <td align=3Dright>824</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mai.22=
+</td>
+  <td align=3Dright>423</td>
+  <td align=3Dright>424</td>
+  <td align=3Dright>847</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.22=
+</td>
+  <td align=3Dright>379</td>
+  <td align=3Dright>375</td>
+  <td align=3Dright>754</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jul.22=
+</td>
+  <td align=3Dright>416</td>
+  <td align=3Dright>388</td>
+  <td align=3Dright>804</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Aug.22=
+</td>
+  <td align=3Dright>417</td>
+  <td align=3Dright>390</td>
+  <td align=3Dright>807</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Sep.22=
+</td>
+  <td align=3Dright>411</td>
+  <td align=3Dright>443</td>
+  <td align=3Dright>854</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Okt.22=
+</td>
+  <td align=3Dright>432</td>
+  <td align=3Dright>404</td>
+  <td align=3Dright>836</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Nov.22=
+</td>
+  <td align=3Dright>458</td>
+  <td align=3Dright>458</td>
+  <td align=3Dright>916</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Dez.22=
+</td>
+  <td align=3Dright>341</td>
+  <td align=3Dright>409</td>
+  <td align=3Dright>750</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.23=
+</td>
+  <td align=3Dright>471</td>
+  <td align=3Dright>460</td>
+  <td align=3Dright>931</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.23=
+</td>
+  <td align=3Dright>398</td>
+  <td align=3Dright>373</td>
+  <td align=3Dright>771</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.23=
+</td>
+  <td align=3Dright>467</td>
+  <td align=3Dright>485</td>
+  <td align=3Dright>952</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Apr.23=
+</td>
+  <td align=3Dright>412</td>
+  <td align=3Dright>362</td>
+  <td align=3Dright>774</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mai.23=
+</td>
+  <td align=3Dright>410</td>
+  <td align=3Dright>387</td>
+  <td align=3Dright>797</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.23=
+</td>
+  <td align=3Dright>352</td>
+  <td align=3Dright>387</td>
+  <td align=3Dright>739</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jul.23=
+</td>
+  <td align=3Dright>409</td>
+  <td align=3Dright>278</td>
+  <td align=3Dright>687</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Aug.23=
+</td>
+  <td align=3Dright>340</td>
+  <td align=3Dright>364</td>
+  <td align=3Dright>704</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Sep.23=
+</td>
+  <td align=3Dright>384</td>
+  <td align=3Dright>383</td>
+  <td align=3Dright>767</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Okt.23=
+</td>
+  <td align=3Dright>415</td>
+  <td align=3Dright>403</td>
+  <td align=3Dright>818</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Nov.23=
+</td>
+  <td align=3Dright>432</td>
+  <td align=3Dright>469</td>
+  <td align=3Dright>901</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Dez.23=
+</td>
+  <td align=3Dright>344</td>
+  <td align=3Dright>268</td>
+  <td align=3Dright>612</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.24=
+</td>
+  <td align=3Dright>419</td>
+  <td align=3Dright>463</td>
+  <td align=3Dright>882</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.24=
+</td>
+  <td align=3Dright>349</td>
+  <td align=3Dright>395</td>
+  <td align=3Dright>744</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.24=
+</td>
+  <td align=3Dright>406</td>
+  <td align=3Dright>437</td>
+  <td align=3Dright>843</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Apr.24=
+</td>
+  <td align=3Dright>424</td>
+  <td align=3Dright>443</td>
+  <td align=3Dright>867</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mai.24=
+</td>
+  <td align=3Dright>338</td>
+  <td align=3Dright>322</td>
+  <td align=3Dright>660</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.24=
+</td>
+  <td align=3Dright>257</td>
+  <td align=3Dright>452</td>
+  <td align=3Dright>709</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Zu Frage 10:</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 style=3D'height:15.0pt'>Monat</td>
+  <td>postalisch</td>
+  <td>online</td>
+  <td>GESAMT</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.21=
+</td>
+  <td align=3Dright>378</td>
+  <td align=3Dright>258</td>
+  <td align=3Dright>636</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.21=
+</td>
+  <td align=3Dright>500</td>
+  <td align=3Dright>336</td>
+  <td align=3Dright>836</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.21=
+</td>
+  <td align=3Dright>649</td>
+  <td align=3Dright>439</td>
+  <td>1.088</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Apr.21=
+</td>
+  <td align=3Dright>479</td>
+  <td align=3Dright>322</td>
+  <td align=3Dright>801</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mai.21=
+</td>
+  <td align=3Dright>530</td>
+  <td align=3Dright>373</td>
+  <td align=3Dright>903</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.21=
+</td>
+  <td align=3Dright>500</td>
+  <td align=3Dright>362</td>
+  <td align=3Dright>862</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jul.21=
+</td>
+  <td align=3Dright>423</td>
+  <td align=3Dright>288</td>
+  <td align=3Dright>711</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Aug.21=
+</td>
+  <td align=3Dright>511</td>
+  <td align=3Dright>325</td>
+  <td align=3Dright>836</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Sep.21=
+</td>
+  <td align=3Dright>526</td>
+  <td align=3Dright>382</td>
+  <td align=3Dright>908</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Okt.21=
+</td>
+  <td align=3Dright>464</td>
+  <td align=3Dright>362</td>
+  <td align=3Dright>826</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Nov.21=
+</td>
+  <td align=3Dright>430</td>
+  <td align=3Dright>375</td>
+  <td align=3Dright>805</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Dez.21=
+</td>
+  <td align=3Dright>434</td>
+  <td align=3Dright>360</td>
+  <td align=3Dright>794</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.22=
+</td>
+  <td align=3Dright>382</td>
+  <td align=3Dright>381</td>
+  <td align=3Dright>763</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.22=
+</td>
+  <td align=3Dright>394</td>
+  <td align=3Dright>384</td>
+  <td align=3Dright>778</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.22=
+</td>
+  <td align=3Dright>519</td>
+  <td align=3Dright>423</td>
+  <td align=3Dright>942</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Apr.22=
+</td>
+  <td align=3Dright>416</td>
+  <td align=3Dright>396</td>
+  <td align=3Dright>812</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mai.22=
+</td>
+  <td align=3Dright>443</td>
+  <td align=3Dright>432</td>
+  <td align=3Dright>875</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.22=
+</td>
+  <td align=3Dright>373</td>
+  <td align=3Dright>366</td>
+  <td align=3Dright>739</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jul.22=
+</td>
+  <td align=3Dright>388</td>
+  <td align=3Dright>396</td>
+  <td align=3Dright>784</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Aug.22=
+</td>
+  <td align=3Dright>462</td>
+  <td align=3Dright>394</td>
+  <td align=3Dright>856</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Sep.22=
+</td>
+  <td align=3Dright>366</td>
+  <td align=3Dright>399</td>
+  <td align=3Dright>765</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Okt.22=
+</td>
+  <td align=3Dright>471</td>
+  <td align=3Dright>467</td>
+  <td align=3Dright>938</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Nov.22=
+</td>
+  <td align=3Dright>458</td>
+  <td align=3Dright>437</td>
+  <td align=3Dright>895</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Dez.22=
+</td>
+  <td align=3Dright>374</td>
+  <td align=3Dright>426</td>
+  <td align=3Dright>800</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.23=
+</td>
+  <td align=3Dright>406</td>
+  <td align=3Dright>477</td>
+  <td align=3Dright>883</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.23=
+</td>
+  <td align=3Dright>418</td>
+  <td align=3Dright>462</td>
+  <td align=3Dright>880</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.23=
+</td>
+  <td align=3Dright>450</td>
+  <td align=3Dright>524</td>
+  <td align=3Dright>974</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Apr.23=
+</td>
+  <td align=3Dright>434</td>
+  <td align=3Dright>469</td>
+  <td align=3Dright>903</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mai.23=
+</td>
+  <td align=3Dright>430</td>
+  <td align=3Dright>473</td>
+  <td align=3Dright>903</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.23=
+</td>
+  <td align=3Dright>323</td>
+  <td align=3Dright>400</td>
+  <td align=3Dright>723</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jul.23=
+</td>
+  <td align=3Dright>443</td>
+  <td align=3Dright>422</td>
+  <td align=3Dright>865</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Aug.23=
+</td>
+  <td align=3Dright>324</td>
+  <td align=3Dright>381</td>
+  <td align=3Dright>705</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Sep.23=
+</td>
+  <td align=3Dright>352</td>
+  <td align=3Dright>451</td>
+  <td align=3Dright>803</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Okt.23=
+</td>
+  <td align=3Dright>441</td>
+  <td align=3Dright>526</td>
+  <td align=3Dright>967</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Nov.23=
+</td>
+  <td align=3Dright>392</td>
+  <td align=3Dright>566</td>
+  <td align=3Dright>958</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Dez.23=
+</td>
+  <td align=3Dright>401</td>
+  <td align=3Dright>381</td>
+  <td align=3Dright>782</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jän.24=
+</td>
+  <td align=3Dright>414</td>
+  <td align=3Dright>537</td>
+  <td align=3Dright>951</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Feb.24=
+</td>
+  <td align=3Dright>315</td>
+  <td align=3Dright>454</td>
+  <td align=3Dright>769</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mär.24=
+</td>
+  <td align=3Dright>436</td>
+  <td align=3Dright>610</td>
+  <td>1.046</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Apr.24=
+</td>
+  <td align=3Dright>407</td>
+  <td align=3Dright>525</td>
+  <td align=3Dright>932</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Mai.24=
+</td>
+  <td align=3Dright>352</td>
+  <td align=3Dright>446</td>
+  <td align=3Dright>798</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl70 align=3Dright style=3D'height:15.0pt'>Jun.24=
+</td>
+  <td align=3Dright>273</td>
+  <td align=3Dright>508</td>
+  <td align=3Dright>781</td>
+  <td></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D312 style=3D'width:234pt'></td>
+  <td width=3D124 style=3D'width:93pt'></td>
+  <td width=3D121 style=3D'width:91pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01DB2E33.4C91E080
+Content-Location: file:///C:/EA435D04/Beilage_13_14_15_16_manually_extracted.files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../Beilage_13_14_15_16_manually_extracted.htm"/>
+ <o:File HRef=3D"stylesheet.css"/>
+ <o:File HRef=3D"tabstrip.htm"/>
+ <o:File HRef=3D"sheet001.htm"/>
+ <o:File HRef=3D"sheet002.htm"/>
+ <o:File HRef=3D"sheet003.htm"/>
+ <o:File HRef=3D"sheet004.htm"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01DB2E33.4C91E080--

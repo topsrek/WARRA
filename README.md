@@ -2,8 +2,12 @@
 **W**ahl **A**erzte **R**echnungs **R**efundierungs **A**nalyse Österreich
 Late 2024
 
-## Parlamentarische Anfragen
+## Sources
+### Parlamentarische Anfragen
 https://www.parlament.gv.at/gegenstand/XXVII/AB/18726
+
+### Price Adjustment
+https://www.statistik.at/statistiken/volkswirtschaft-und-oeffentliche-finanzen/preise-und-preisindizes/verbraucherpreisindex-vpi/hvpi#:~:text=Verbraucherpreisindizes%20%2D%20%C3%9Cbersichtstabelle
 
 
 
