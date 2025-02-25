@@ -13,175 +13,175 @@
     },
     "data": [
         {
-            "FG-Code": 1.0,
+            "FG-Code": 1,
             "Fachrichtung": "Arzt für Allgemeinmedizin",
             "Refundierungen": 17489688.53,
             "Rechnungsbeträge": 58379285.13
         },
         {
-            "FG-Code": 2.0,
+            "FG-Code": 2,
             "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
             "Refundierungen": 637951.16,
             "Rechnungsbeträge": 2855178.4
         },
         {
-            "FG-Code": 3.0,
+            "FG-Code": 3,
             "Fachrichtung": "FA für Augenheilkunde und Optometrie",
             "Refundierungen": 19993127.51,
             "Rechnungsbeträge": 48783015.89
         },
         {
-            "FG-Code": 4.0,
+            "FG-Code": 4,
             "Fachrichtung": "FA für Chirurgie",
             "Refundierungen": 5775196.12,
             "Rechnungsbeträge": 20098535.03
         },
         {
-            "FG-Code": 5.0,
+            "FG-Code": 5,
             "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
             "Refundierungen": 14705510.58,
             "Rechnungsbeträge": 51923067.4
         },
         {
-            "FG-Code": 6.0,
+            "FG-Code": 6,
             "Fachrichtung": "FA für Frauenheilkunde und Geburtshilfe",
             "Refundierungen": 33961046.91,
             "Rechnungsbeträge": 88030707.6
         },
         {
-            "FG-Code": 7.0,
+            "FG-Code": 7,
             "Fachrichtung": "FA für Innere Medizin",
             "Refundierungen": 31147410.35,
             "Rechnungsbeträge": 76358884.75
         },
         {
-            "FG-Code": 8.0,
+            "FG-Code": 8,
             "Fachrichtung": "FA für Kinder- und Jugendheilkunde",
             "Refundierungen": 12806998.42,
             "Rechnungsbeträge": 40367605.3
         },
         {
-            "FG-Code": 9.0,
+            "FG-Code": 9,
             "Fachrichtung": "FA für Hals-, Nasen- und Ohrenerkrankungen",
             "Refundierungen": 6571092.92,
             "Rechnungsbeträge": 15758927.83
         },
         {
-            "FG-Code": 10.0,
+            "FG-Code": 10,
             "Fachrichtung": "FA für Lungenkrankheiten",
             "Refundierungen": 1862855.07,
             "Rechnungsbeträge": 4022569.34
         },
         {
-            "FG-Code": 11.0,
+            "FG-Code": 11,
             "Fachrichtung": "FA für Neurologie und Psychiatrie/ Psychiatrie und Neurologie",
             "Refundierungen": 1157187.67,
             "Rechnungsbeträge": 2713898.3
         },
         {
-            "FG-Code": 12.0,
+            "FG-Code": 12,
             "Fachrichtung": "FA für Orthopädie und orthopädische Chirurgie",
             "Refundierungen": 14582162.25,
             "Rechnungsbeträge": 49782117.83
         },
         {
-            "FG-Code": 13.0,
+            "FG-Code": 13,
             "Fachrichtung": "FA für Physikalische Medizin",
             "Refundierungen": 1038561.49,
             "Rechnungsbeträge": 3749414.09
         },
         {
-            "FG-Code": 14.0,
+            "FG-Code": 14,
             "Fachrichtung": "FA für Radiologie",
             "Refundierungen": 1027669.15,
             "Rechnungsbeträge": 2351056.73
         },
         {
-            "FG-Code": 15.0,
+            "FG-Code": 15,
             "Fachrichtung": "FA für Unfallchirurgie",
             "Refundierungen": 2264806.2,
             "Rechnungsbeträge": 14197479.89
         },
         {
-            "FG-Code": 16.0,
+            "FG-Code": 16,
             "Fachrichtung": "FA für Urologie",
             "Refundierungen": 4882113.14,
             "Rechnungsbeträge": 15762037.77
         },
         {
-            "FG-Code": 18.0,
+            "FG-Code": 18,
             "Fachrichtung": "FA für Neurochirurgie",
             "Refundierungen": 461814.45,
             "Rechnungsbeträge": 3137252.76
         },
         {
-            "FG-Code": 19.0,
+            "FG-Code": 19,
             "Fachrichtung": "FA für Neurologie",
             "Refundierungen": 5619391.65,
             "Rechnungsbeträge": 12313429.68
         },
         {
-            "FG-Code": 20.0,
+            "FG-Code": 20,
             "Fachrichtung": "FA für Psychiatrie",
             "Refundierungen": 17565990.81,
             "Rechnungsbeträge": 26839175.89
         },
         {
-            "FG-Code": 21.0,
+            "FG-Code": 21,
             "Fachrichtung": "FA für Plastische Chirurgie",
             "Refundierungen": 461224.89,
             "Rechnungsbeträge": 3884364.42
         },
         {
-            "FG-Code": 22.0,
+            "FG-Code": 22,
             "Fachrichtung": "FA für Kinderchirurgie",
             "Refundierungen": 66733.03,
             "Rechnungsbeträge": 480432.8
         },
         {
-            "FG-Code": 23.0,
+            "FG-Code": 23,
             "Fachrichtung": "FA für Mund., Kiefer- und Gesichtschirurgie",
             "Refundierungen": 1529338.35,
             "Rechnungsbeträge": 5491702.03
         },
         {
-            "FG-Code": 24.0,
+            "FG-Code": 24,
             "Fachrichtung": "FA für Nuklearmedizin",
             "Refundierungen": 1537293.61,
             "Rechnungsbeträge": 4904883.06
         },
         {
-            "FG-Code": 26.0,
+            "FG-Code": 26,
             "Fachrichtung": "FA für Strahlentherapie - Radioonkologie",
             "Refundierungen": 6434.7,
             "Rechnungsbeträge": 29001.33
         },
         {
-            "FG-Code": 29.0,
+            "FG-Code": 29,
             "Fachrichtung": "FA für Immunologie",
             "Refundierungen": 2669.09,
             "Rechnungsbeträge": 23184.12
         },
         {
-            "FG-Code": 32.0,
+            "FG-Code": 32,
             "Fachrichtung": "FA für Kinder- und Jugendpsychiatrie",
             "Refundierungen": 1121458.58,
             "Rechnungsbeträge": 1270049.93
         },
         {
-            "FG-Code": 50.0,
+            "FG-Code": 50,
             "Fachrichtung": "FA für medizinische und chemische Labordiagnostik",
             "Refundierungen": 12159.43,
             "Rechnungsbeträge": 56948.28
         },
         {
-            "FG-Code": 53.0,
+            "FG-Code": 53,
             "Fachrichtung": "FA für Pathologie und Histologie",
             "Refundierungen": 4840.5,
             "Rechnungsbeträge": 28915.45
         },
         {
-            "FG-Code": 55.0,
+            "FG-Code": 55,
             "Fachrichtung": "FA für Hygiene und Mikrobiologie bzw. Labordiagnostik",
             "Refundierungen": NaN,
             "Rechnungsbeträge": NaN

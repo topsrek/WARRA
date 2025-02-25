@@ -681,6 +681,62 @@ def extract_question_from_pdf(pdf_path):
     return "Question not found"
 
 
+def check_and_convert_to_int(df, columns, filename=None):
+    """
+    Check if any values in the specified columns are floats and convert them to integers.
+    Raises a warning if floating point values are found.
+    
+    Args:
+        df (pandas.DataFrame): The dataframe to check and convert
+        columns (list): List of column names to check and convert
+        filename (str, optional): Name of the file being processed, for better warning messages
+        
+    Returns:
+        pandas.DataFrame: The dataframe with converted columns
+    """
+    file_info = f" in {filename}" if filename else ""
+    
+    for col in columns:
+        if col in df.columns:
+            # Check if any non-null values have decimal parts
+            non_null_values = df[col].dropna()
+            if len(non_null_values) > 0:
+                # Check if any values are not equal to their integer representation
+                if any(non_null_values != non_null_values.astype(int)):
+                    print(f"WARNING: Found floating point values in column {col}{file_info}!")
+                    # Print the problematic values for debugging
+                    problematic = non_null_values[non_null_values != non_null_values.astype(int)]
+                    print(f"Problematic values: {problematic.tolist()}")
+                
+                # Convert to int regardless (will truncate any decimals)
+                df[col] = df[col].apply(
+                    lambda x: int(x) if pd.notnull(x) else None
+                )
+    
+    return df
+
+
+def ensure_integers_in_dict(data_dict):
+    """
+    Recursively check dictionaries and lists for float values that are actually integers
+    and convert them to proper integers.
+    
+    Args:
+        data_dict: Dictionary, list, or scalar value to process
+        
+    Returns:
+        Processed data with floats converted to ints where appropriate
+    """
+    if isinstance(data_dict, dict):
+        return {k: ensure_integers_in_dict(v) for k, v in data_dict.items()}
+    elif isinstance(data_dict, list):
+        return [ensure_integers_in_dict(item) for item in data_dict]
+    elif isinstance(data_dict, float) and data_dict.is_integer():
+        return int(data_dict)
+    else:
+        return data_dict
+
+
 def process_beilage_tables(tables, pdf_path, save_dir):
     """Process tables from a Beilage PDF and save as both CSV and JSON"""
 
@@ -731,6 +787,11 @@ def process_beilage_tables(tables, pdf_path, save_dir):
         "Beilage_6a",
     ):
         combined_table = process_beilage_3(pdf_path)
+        
+        # For Beilage_3 and Beilage_4, check if any values are floats and convert to int
+        if base_filename in ("Beilage_3", "Beilage_4"):
+            combined_table = check_and_convert_to_int(combined_table, ["postal", "online", "Gesamt"], pdf_path)
+        
         metadata = {
             "question": extract_question_from_pdf(pdf_path),
             "units": {"postal": "Anzahl", "online": "Anzahl", "Gesamt": "Anzahl"},
@@ -784,6 +845,10 @@ def process_beilage_tables(tables, pdf_path, save_dir):
         }
     elif base_filename in ("Beilage_10", "Beilage_11"):
         combined_table = process_beilage_10(pdf_path)
+        
+        # Check if any numeric values are actually floats and convert to int
+        combined_table = check_and_convert_to_int(combined_table, ["postal", "online", "Gesamt"], pdf_path)
+        
         metadata = {
             "question": extract_question_from_pdf(pdf_path),
             "units": {"postal": "Anzahl", "online": "Anzahl", "Gesamt": "Anzahl"},
@@ -802,26 +867,109 @@ def process_beilage_tables(tables, pdf_path, save_dir):
             "processed_date": pd.Timestamp.now().strftime("%Y-%m-%d"),
         }
 
+    # Convert all numeric columns to integers where appropriate
+    for col in combined_table.columns:
+        if combined_table[col].dtype == float:
+            # Check if all non-null values are integers
+            non_null = combined_table[col].dropna()
+            if len(non_null) > 0 and all(non_null == non_null.astype(int)):
+                # Convert to integer type for both CSV and JSON output
+                combined_table[col] = combined_table[col].apply(
+                    lambda x: int(x) if pd.notnull(x) else None
+                )
+
     # Save as JSON with metadata
+    data_dict = combined_table.to_dict(orient="records")
+    
+    # Ensure all integer values are properly represented in the data dictionary
+    data_dict = ensure_integers_in_dict(data_dict)
+    
     data_with_metadata = {
         "metadata": metadata,
-        "data": combined_table.to_dict(orient="records"),
+        "data": data_dict,
     }
     save_json(save_dir, base_filename, data_with_metadata)
     save_csv(save_dir, base_filename, combined_table)
 
 
+def verify_json_integers(json_path):
+    """
+    Verify that integer values are properly saved as integers in the JSON file.
+    
+    Args:
+        json_path (str): Path to the JSON file to verify
+        
+    Returns:
+        bool: True if all integer values are properly saved as integers, False otherwise
+    """
+    with open(json_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    
+    def check_for_integer_floats(obj, path=""):
+        """Check if any floats should be integers in the JSON data"""
+        if isinstance(obj, dict):
+            for k, v in obj.items():
+                current_path = f"{path}.{k}" if path else k
+                if not check_for_integer_floats(v, current_path):
+                    return False
+        elif isinstance(obj, list):
+            for i, item in enumerate(obj):
+                current_path = f"{path}[{i}]"
+                if not check_for_integer_floats(item, current_path):
+                    return False
+        elif isinstance(obj, float) and obj.is_integer():
+            print(f"WARNING: Found float with integer value at {path}: {obj}")
+            return False
+        return True
+    
+    return check_for_integer_floats(data)
+
+
 def save_json(save_dir, base_filename, data_with_metadata):
+    """
+    Save data with metadata as JSON file.
+    Ensures integer values are saved as integers, not floats.
+    """
+    # Custom JSON encoder to handle integer values
+    class IntegerEncoder(json.JSONEncoder):
+        def default(self, obj):
+            if isinstance(obj, pd.Series):
+                return obj.tolist()
+            if isinstance(obj, float) and obj.is_integer():
+                return int(obj)
+            return super().default(obj)
+    
+    # Apply the conversion to the entire data structure
+    processed_data = ensure_integers_in_dict(data_with_metadata)
 
     json_dir = os.path.join(save_dir, "json_files")
     os.makedirs(json_dir, exist_ok=True)
     json_path = os.path.join(json_dir, f"{base_filename}_data.json")
     with open(json_path, "w", encoding="utf-8") as f:
-        json.dump(data_with_metadata, f, ensure_ascii=False, indent=4)
+        json.dump(processed_data, f, ensure_ascii=False, indent=4, cls=IntegerEncoder)
     print(f"Saved JSON to: {json_path}")
+    
+    # Verify that integer values are properly saved
+    if not verify_json_integers(json_path):
+        print(f"WARNING: Some integer values may not be properly saved in {json_path}")
+    else:
+        print(f"Integer values verified in {json_path}")
 
 
 def save_csv(save_dir, base_filename, combined_table):
+    """
+    Save combined table as CSV file.
+    Ensures integer values are saved as integers, not floats.
+    """
+    # Convert float columns that contain only integers to integer type
+    for col in combined_table.columns:
+        if combined_table[col].dtype == float:
+            # Check if all non-null values are integers
+            non_null = combined_table[col].dropna()
+            if len(non_null) > 0 and all(non_null == non_null.astype(int)):
+                # Convert to integer type
+                combined_table[col] = combined_table[col].astype('Int64')  # pandas nullable integer type
+    
     csv_dir = os.path.join(save_dir, "csv_files")
     os.makedirs(csv_dir, exist_ok=True)
     csv_path = os.path.join(csv_dir, f"{base_filename}_combined_tables.csv")
@@ -852,25 +1000,58 @@ def extract_tables_from_pdf(pdf_path, output_dir):
 
 def main():
     # Directory containing the PDFs
-    pdf_directory = "downloaded_files"
+    pdf_directory = "./downloaded_files"
 
     # Directory for saving extracted data
-    output_directory = "extracted_data"
+    output_directory = "./extracted_data"
 
-    # Process the following PDF files in the directory
-    # only files ending with _1.pdf through _12.pdf and 5a, 6a and 7a.pdf
-    # other files are handled manually (copy pasting etc)
-    pdf_paths = (
-        glob.glob(os.path.join(pdf_directory, "*_[1-9].pdf"))
-        + glob.glob(os.path.join(pdf_directory, "*_1[0-2].pdf"))
-        + glob.glob(os.path.join(pdf_directory, "*_[5-7]a.pdf"))
-    )
-    for pdf_path in pdf_paths:
-        print(f"Processing: {pdf_path}")
-        tables = extract_tables_from_pdf(pdf_path, output_directory)
-        process_beilage_tables(tables, pdf_path, output_directory)
+    # Create a log file for warnings
+    log_file = os.path.join(output_directory, "processing_warnings.log")
+    os.makedirs(output_directory, exist_ok=True)
+    
+    # Redirect stdout to both console and log file
+    import sys
+    original_stdout = sys.stdout
+    log_f = open(log_file, 'w')
+    
+    class TeeOutput:
+        def __init__(self, file1, file2):
+            self.file1 = file1
+            self.file2 = file2
+        
+        def write(self, data):
+            self.file1.write(data)
+            self.file2.write(data)
+            self.file1.flush()
+            self.file2.flush()
+        
+        def flush(self):
+            self.file1.flush()
+            self.file2.flush()
+    
+    sys.stdout = TeeOutput(original_stdout, log_f)
+    
+    try:
+        # Process the following PDF files in the directory
+        # only files ending with _1.pdf through _12.pdf and 5a, 6a and 7a.pdf
+        # other files are handled manually (copy pasting etc)
+        pdf_paths = (
+            glob.glob(os.path.join(pdf_directory, "*_[1-9].pdf"))
+            + glob.glob(os.path.join(pdf_directory, "*_1[0-2].pdf"))
+            + glob.glob(os.path.join(pdf_directory, "*_[5-7]a.pdf"))
+        )
+        for pdf_path in pdf_paths:
+            print(f"Processing: {pdf_path}")
+            tables = extract_tables_from_pdf(pdf_path, output_directory)
+            process_beilage_tables(tables, pdf_path, output_directory)
 
-    print("Finished processing.")
+        print("Finished processing.")
+        print("\nTo see warnings with context, run the following command:")
+        print(f"grep -A 3 -B 3 WARNING {log_file}")
+    finally:
+        # Restore stdout
+        sys.stdout = original_stdout
+        log_f.close()
 
 
 if __name__ == "__main__":
