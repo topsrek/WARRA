@@ -1,0 +1,179 @@
+{
+    "breadcrumbs": [
+        {
+            "title": "Start",
+            "url": "/"
+        },
+        {
+            "title": "Anfragen & Beantwortungen",
+            "url": "/recherchieren/gegenstaende/anfragen-und-beantwortungen/"
+        },
+        {
+            "title": "Nationalrat - XXVII. GP",
+            "url": "/recherchieren/gegenstaende/anfragen-und-beantwortungen/?NRBR=NR&GP=XXVII"
+        },
+        {
+            "title": "Anfragen",
+            "url": "/recherchieren/gegenstaende/anfragen-und-beantwortungen/?NRBR=NR&GP=XXVII&JMAB=J_JPR_M&VHG2=JMIN"
+        },
+        {
+            "title": "15449/J"
+        }
+    ],
+    "type": "Schriftliche Anfrage",
+    "sntype": "Schriftliche Anfrage",
+    "title": "Refundierung von Wahlarztkosten 2022",
+    "zitation": "15449/J",
+    "description": "Schriftliche Anfrage der Abgeordneten Fiona Fiedler, BEd, Kolleginnen und Kollegen an den Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz betreffend Refundierung von Wahlarztkosten 2022",
+    "gp_code": "XXVII",
+    "ityp": "J",
+    "inr": 15449,
+    "doktyp": "J",
+    "update": "2025-01-28T14:34:49",
+    "nr_gp_code": "XXVII",
+    "intranet": "N",
+    "group": "1",
+    "deleted": false,
+    "einlangen": "2023-07-03T00:00:00",
+    "history_ind": 1.1,
+    "vhg_fertig": "J",
+    "vhg_fertig_docs": "J",
+    "process": "N",
+    "statementsstate": "9 Keine Begutachtung bei dem Doktyp \"J\" möglich",
+    "approvalstate": "9 Keine Zustimmung bei dem Doktyp \"J\" möglich",
+    "stages": [
+        {
+            "date": "03.07.2023",
+            "text": "Einlangen im Nationalrat (Frist: 03.09.2023)",
+            "priority": 1
+        },
+        {
+            "date": "03.07.2023",
+            "text": "Übermittlung an das Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz"
+        },
+        {
+            "date": "05.07.2023",
+            "text": "<a href=\"/gegenstand/XXVII/NRSITZ/222\">222. Sitzung des Nationalrates</a>: Mitteilung des Einlangens",
+            "fsth": [
+                {
+                    "gp_code": "XXVII",
+                    "sitzung_id": 222,
+                    "fund_von": 105,
+                    "fund_bis": 111,
+                    "url": "/dokument/XXVII/NRSITZ/222/fnameorig_1617810.html#TEXTOBJ_300401",
+                    "title": "Seite 105 des Stenographischen Protokolls der 222. Sitzung des Nationalrats"
+                }
+            ]
+        },
+        {
+            "date": "31.08.2023",
+            "text": "Schriftliche Beantwortung (<a href=\"/gegenstand/XXVII/AB/14952\">14952/AB</a>)",
+            "priority": 1
+        }
+    ],
+    "documents": [
+        {
+            "title": "Anfrage (gescanntes Original)",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/J/15449/imfname_1572992.pdf",
+                    "type": "PDF"
+                }
+            ]
+        },
+        {
+            "title": "Anfrage (elektr. übermittelte Version)",
+            "documents": [
+                {
+                    "link": "/dokument/XXVII/J/15449/fname_1573013.pdf",
+                    "type": "PDF"
+                },
+                {
+                    "link": "/dokument/XXVII/J/15449/fnameorig_1573013.html",
+                    "type": "HTML"
+                }
+            ]
+        }
+    ],
+    "names": [
+        {
+            "funktext": "Eingebracht von",
+            "name": "Fiona Fiedler, BEd",
+            "frak_code": "N",
+            "url": "/person/5684",
+            "portrait": {
+                "rendertype": "image",
+                "data": {
+                    "src": "/dokument/bild/201426/20142634_384.jpg",
+                    "alt": "Portraitfoto von Fiona Fiedler, BEd",
+                    "bildId": 20142634,
+                    "copyright": "Parlamentsdirektion/Thomas Topf"
+                }
+            }
+        },
+        {
+            "funktext": "Eingebracht an",
+            "name": "Johannes Rauch",
+            "frak_code": "G",
+            "ltext": "Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz",
+            "url": "/person/21029",
+            "portrait": {
+                "rendertype": "image",
+                "data": {
+                    "src": "/dokument/bild/200775/20077540_384.jpg",
+                    "alt": "Portraitfoto von Johannes Rauch",
+                    "bildId": 20077540,
+                    "copyright": "BMSGPK/Marcel Kulhanek"
+                }
+            }
+        }
+    ],
+    "topics": {
+        "rendertype": "bubbles",
+        "data": {
+            "title": "",
+            "bubbles": [
+                {
+                    "label": "Gesundheit und Ernährung",
+                    "link": "/recherchieren/gegenstaende/?GP_CODE=XXVII&VHG=J_JPR_M&THEMEN=Gesundheit und Ernährung"
+                },
+                {
+                    "label": "Soziales",
+                    "link": "/recherchieren/gegenstaende/?GP_CODE=XXVII&VHG=J_JPR_M&THEMEN=Soziales"
+                }
+            ]
+        }
+    },
+    "headwords": {
+        "rendertype": "bubbles",
+        "data": {
+            "title": "",
+            "bubbles": [
+                {
+                    "label": "Sozialversicherung VI. Sonstiges",
+                    "link": "/recherchieren/gegenstaende/?NRBR=NR&GP_CODE=XXVII&SW=Sozialversicherung VI. Sonstiges"
+                },
+                {
+                    "label": "Gesundheit",
+                    "link": "/recherchieren/gegenstaende/?NRBR=NR&GP_CODE=XXVII&SW=Gesundheit"
+                }
+            ]
+        }
+    },
+    "eurovoc": {
+        "rendertype": "bubbles",
+        "data": {
+            "title": "",
+            "bubbles": [
+                {
+                    "label": "Gesundheit",
+                    "link": "/recherchieren/gegenstaende/?NRBR=NR&GP_CODE=XXVII&VHG=J_JPR_M&EUROVOC=Gesundheit"
+                },
+                {
+                    "label": "soziale Sicherheit",
+                    "link": "/recherchieren/gegenstaende/?NRBR=NR&GP_CODE=XXVII&VHG=J_JPR_M&EUROVOC=soziale Sicherheit"
+                }
+            ]
+        }
+    }
+}
