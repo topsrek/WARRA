@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-e7979be236b58503e347a8455db12fff"}, "mark": {"type": "bar"}, "encoding": {"color": {"field": "Type", "title": "Type", "type": "nominal"}, "column": {"field": "Year", "title": "Year", "type": "nominal"}, "x": {"field": "LST", "title": "LST", "type": "nominal"}, "y": {"field": "Amount", "title": "Amount (\u20ac)", "type": "quantitative"}}, "title": "Comparison of Refundierungen and Rechnungsbetr\u00e4ge by LST (Altair)", "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-e7979be236b58503e347a8455db12fff": [{"Year": "2023", "LST": "\u00d6GK-W", "Type": "Refundierungen", "Amount": 44992965.36}, {"Year": "2023", "LST": "\u00d6GK-N", "Type": "Refundierungen", "Amount": 31938943.74}, {"Year": "2023", "LST": "\u00d6GK-B", "Type": "Refundierungen", "Amount": 4715404.08}, {"Year": "2023", "LST": "\u00d6GK-O", "Type": "Refundierungen", "Amount": 29930360.88}, {"Year": "2023", "LST": "\u00d6GK-ST", "Type": "Refundierungen", "Amount": 25873975.82}, {"Year": "2022", "LST": "\u00d6GK-W", "Type": "Refundierungen", "Amount": 42000000.0}, {"Year": "2022", "LST": "\u00d6GK-N", "Type": "Refundierungen", "Amount": 30000000.0}, {"Year": "2022", "LST": "\u00d6GK-B", "Type": "Refundierungen", "Amount": 4500000.0}, {"Year": "2022", "LST": "\u00d6GK-O", "Type": "Refundierungen", "Amount": 28000000.0}, {"Year": "2022", "LST": "\u00d6GK-ST", "Type": "Refundierungen", "Amount": 24000000.0}, {"Year": "2023", "LST": "\u00d6GK-W", "Type": "Rechnungsbetr\u00e4ge", "Amount": 134065655.76}, {"Year": "2023", "LST": "\u00d6GK-N", "Type": "Rechnungsbetr\u00e4ge", "Amount": 89851098.22}, {"Year": "2023", "LST": "\u00d6GK-B", "Type": "Rechnungsbetr\u00e4ge", "Amount": 14315993.59}, {"Year": "2023", "LST": "\u00d6GK-O", "Type": "Rechnungsbetr\u00e4ge", "Amount": 77534663.23}, {"Year": "2023", "LST": "\u00d6GK-ST", "Type": "Rechnungsbetr\u00e4ge", "Amount": 70452229.91}, {"Year": "2022", "LST": "\u00d6GK-W", "Type": "Rechnungsbetr\u00e4ge", "Amount": 125000000.0}, {"Year": "2022", "LST": "\u00d6GK-N", "Type": "Rechnungsbetr\u00e4ge", "Amount": 85000000.0}, {"Year": "2022", "LST": "\u00d6GK-B", "Type": "Rechnungsbetr\u00e4ge", "Amount": 13000000.0}, {"Year": "2022", "LST": "\u00d6GK-O", "Type": "Rechnungsbetr\u00e4ge", "Amount": 75000000.0}, {"Year": "2022", "LST": "\u00d6GK-ST", "Type": "Rechnungsbetr\u00e4ge", "Amount": 68000000.0}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
