@@ -3,7 +3,7 @@ import os
 import requests
 
 # Load the JSON data
-with open('export_Gegenstand_Refundierung von Wahlarztkosten und Hilfsmitteln 2023.json', 'r') as f:
+with open('extras/export_Gegenstand_Refundierung von Wahlarztkosten und Hilfsmitteln 2023.json', 'r') as f:
     data = json.load(f)
 
 # Base URL for the parliament website
