@@ -96,12 +96,12 @@ def process_json_file(json_path):
     os.makedirs(inquiry_dir, exist_ok=True)
     os.makedirs(inquiry_html_dir, exist_ok=True)
 
-    # Download PDFs and HTMLs
+    # Download PDFs, HTMLs and XLSXs
     for doc in data.get("documents", []):
         for file in doc.get("documents", []):
             file_url = base_url + file["link"]
             safe_title = create_safe_filename(doc['title'])
-            
+
             # Download PDF
             if file["type"] == "PDF":
                 file_name = os.path.join(inquiry_dir, f"{safe_title}.pdf")
@@ -109,6 +109,10 @@ def process_json_file(json_path):
             # Download HTML
             elif file["type"] == "HTML":
                 file_name = os.path.join(inquiry_html_dir, f"{safe_title}.html")
+                download_file(file_url, file_name)
+            # Download XLSX
+            elif file["type"] == "XLSX":
+                file_name = os.path.join(inquiry_dir, f"{safe_title}.xlsx")  # Save XLSX in the pdfs directory
                 download_file(file_url, file_name)
 
 
