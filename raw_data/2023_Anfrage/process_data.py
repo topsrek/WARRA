@@ -4,7 +4,10 @@ import os
 import numpy as np
 
 
-EXPORT_DIR = "../data/csv"
+EXPORT_DIR = "../../data/csv"
+
+DATA_DIR = "../../raw_data/2023_Anfrage/extracted_data/csv_files/"
+DATA_DIR_BEILAGE_13_14_15_16 = "../../raw_data/2023_Anfrage/extracted_data/Beilage_13_14_15_16/exports/"
 
 LST_TO_BUNDESLAND = {
     "W": "Wien",
@@ -75,7 +78,7 @@ def ensure_directory(directory):
 def process_1():
     new_filename = "01_OEGK_Betraege_pro_Landesstelle_2023.csv"
     Beilage1_filename = (
-        "../raw_data/extracted_data/csv_files/Beilage_1_combined_tables.csv"
+        DATA_DIR + "Beilage_1_combined_tables.csv"
     )
     df_1 = pd.read_csv(Beilage1_filename)
     df_1["Bundesland_pretty"] = (
@@ -96,7 +99,7 @@ def process_1():
 def process_2():
     new_filename = "02_OEGK_Betraege_pro_Fachrichtung_2023.csv"
     Beilage2_filename = (
-        "../raw_data/extracted_data/csv_files/Beilage_2_combined_tables.csv"
+        DATA_DIR + "Beilage_2_combined_tables.csv"
     )
     df_2 = pd.read_csv(Beilage2_filename)
 
@@ -115,7 +118,7 @@ def process_3():
         "03_OEGK_Antraege_pro_Monat_2023_pro_Fachrichtung_online_postal_Bundesweit.csv"
     )
     Beilage3_filename = (
-        "../raw_data/extracted_data/csv_files/Beilage_3_combined_tables.csv"
+        DATA_DIR + "Beilage_3_combined_tables.csv"
     )
     df_3 = pd.read_csv(Beilage3_filename)
 
@@ -133,7 +136,7 @@ def process_3():
 def process_4():
     new_filename = "04_OEGK_Antraege_pro_Monat_2023_pro_Fachrichtung_online_postal_pro_Bundesland.csv"
     Beilage4_filename = (
-        "../raw_data/extracted_data/csv_files/Beilage_4_combined_tables.csv"
+        DATA_DIR + "Beilage_4_combined_tables.csv"
     )
     df_4 = pd.read_csv(Beilage4_filename)
 
@@ -163,7 +166,7 @@ def process_4():
 def process_5():
     new_filename = "05_OEGK_Abgearbeitete_Antraege_pro_Monat_2023_pro_Fachrichtung_postal_online_Bundesweit.csv"
     Beilage5_filename = (
-        "../raw_data/extracted_data/csv_files/Beilage_5_combined_tables.csv"
+        DATA_DIR + "Beilage_5_combined_tables.csv"
     )
     df_5 = pd.read_csv(Beilage5_filename)
 
@@ -181,7 +184,7 @@ def process_5():
 def process_6():
     new_filename = "06_OEGK_Abgearbeitete_Antraege_pro_Monat_2023_pro_Fachrichtung_postal_online_pro_Bundesland.csv"
     Beilage6_filename = (
-        "../raw_data/extracted_data/csv_files/Beilage_6_combined_tables.csv"
+        DATA_DIR + "Beilage_6_combined_tables.csv"
     )
     df_6 = pd.read_csv(Beilage6_filename)
 
@@ -210,7 +213,7 @@ def process_6():
 def process_5a():
     new_filename = "05a_OEGK_Abgearbeitete_Antraege_pro_Monat_2021_bis_Mai_2023_pro_Fachrichtung_postal_online_Bundesweit.csv"
     Beilage5a_filename = (
-        "../raw_data/extracted_data/csv_files/Beilage_5a_combined_tables.csv"
+        DATA_DIR + "Beilage_5a_combined_tables.csv"
     )
     df_5a = pd.read_csv(Beilage5a_filename)
 
@@ -227,7 +230,7 @@ def process_5a():
 def process_6a():
     new_filename = "06a_OEGK_Abgearbeitete_Antraege_pro_Monat_2021_bis_Mai_2023_pro_Fachrichtung_postal_online_pro_Bundesland.csv"
     Beilage6a_filename = (
-        "../raw_data/extracted_data/csv_files/Beilage_6a_combined_tables.csv"
+        DATA_DIR + "Beilage_6a_combined_tables.csv"
     )
     df_6a = pd.read_csv(Beilage6a_filename)
 
@@ -246,7 +249,7 @@ def process_6a():
 def process_7():
     new_filename = "07_OEGK_Durchschnittliche_Bearbeitungszeit_pro_Monat_2023_postal_online_online_pro_Bundesland.csv"
     Beilage7_filename = (
-        "../raw_data/extracted_data/csv_files/Beilage_7_combined_tables.csv"
+        DATA_DIR + "Beilage_7_combined_tables.csv"
     )
     df_7 = pd.read_csv(Beilage7_filename)
 
@@ -271,7 +274,7 @@ def process_7():
 def process_7a():
     new_filename = "07a_OEGK_Durchschnittliche_Bearbeitungszeit_pro_Monat_2021_bis_Mai_2023_postal_online_online_pro_Bundesland.csv"
     Beilage7a_filename = (
-        "../raw_data/extracted_data/csv_files/Beilage_7a_combined_tables.csv"
+        DATA_DIR + "Beilage_7a_combined_tables.csv"
     )
     df_7a = pd.read_csv(Beilage7a_filename)
 
@@ -292,7 +295,7 @@ def process_7a():
 def process_8():
     new_filename = "08_OEGK_Betraege_MTD_Berufe_2021_2022_2023_Bundesweit.csv"
     Beilage8_filename = (
-        "../raw_data/extracted_data/csv_files/Beilage_8_combined_tables.csv"
+        DATA_DIR + "Beilage_8_combined_tables.csv"
     )
     df_8 = pd.read_csv(Beilage8_filename)
 
@@ -309,7 +312,7 @@ def process_8():
 def process_9():
     new_filename = "09_OEGK_Betraege_MTD_Berufe_2021_2022_2023_pro_Bundesland.csv"
     Beilage9_filename = (
-        "../raw_data/extracted_data/csv_files/Beilage_9_combined_tables.csv"
+        DATA_DIR + "Beilage_9_combined_tables.csv"
     )
     df_9 = pd.read_csv(Beilage9_filename)
 
@@ -329,7 +332,7 @@ def process_9():
 def process_10():
     new_filename = "10_OEGK_Antraege_MTD_Berufe_pro_Monat_2021_2022_2023_postal_online_pro_Fachrichtung_Bundesweit_und_pro_Bundesland.csv"
     Beilage10_filename = (
-        "../raw_data/extracted_data/csv_files/Beilage_10_combined_tables.csv"
+        DATA_DIR + "Beilage_10_combined_tables.csv"
     )
     df_10 = pd.read_csv(Beilage10_filename) 
 
@@ -364,7 +367,7 @@ def process_10():
 def process_11():
     new_filename = "11_OEGK_Bearbeitete_Antraege_MTD_Berufe_pro_Monat_2021_2022_2023_postal_online_pro_Fachrichtung_Bundesweit_und_pro_Bundesland.csv"
     Beilage11_filename = (
-        "../raw_data/extracted_data/csv_files/Beilage_11_combined_tables.csv"
+        DATA_DIR + "Beilage_11_combined_tables.csv"
     )
     df_11 = pd.read_csv(Beilage11_filename)
 
@@ -435,7 +438,7 @@ def process_11():
 def process_12():
     new_filename = "12_OEGK_Durchschnittliche_Bearbeitungszeit_MTD_Berufe_pro_Monat_2023_postal_online_online_pro_Fachrichtung_Bundesweit_und_pro_Bundesland.csv"
     Beilage12_filename = (
-        "../raw_data/extracted_data/csv_files/Beilage_12_combined_tables.csv"
+        DATA_DIR + "Beilage_12_combined_tables.csv"
     )
     df_12 = pd.read_csv(Beilage12_filename)
 
@@ -457,7 +460,7 @@ def process_13():
     new_filename = (
         "13_OEGK_Refundierungen_Heilbehelfe_pro_Monat_2021_2022_2023_pro_Bundesland.csv"
     )
-    Beilage13_filename = "../raw_data/extracted_data/Beilage_13_14_15_16/exports/Beilage_13.csv"
+    Beilage13_filename = DATA_DIR_BEILAGE_13_14_15_16 + "Beilage_13.csv"
 
     # Read the CSV file
     df_13 = pd.read_csv(Beilage13_filename, low_memory=False)
@@ -524,7 +527,7 @@ def process_13():
 def process_14():
     new_filename = "14_OEGK_Antraege_Heilbehelfe_pro_Monat_2021_2022_2023_pro_Bundesland.csv"
     Beilage14_filename = (
-        "../raw_data/extracted_data/Beilage_13_14_15_16/exports/Beilage_14.csv"
+        DATA_DIR_BEILAGE_13_14_15_16 + "Beilage_14.csv"
     )
     df_14 = pd.read_csv(Beilage14_filename)
 
