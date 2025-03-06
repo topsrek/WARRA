@@ -65,18 +65,20 @@ def create_plot(input_file, dark_mode=True, is_updated=False):
                 bars.append(
                     ax.bar(i + (j - 1) * bar_width, ratio, bar_width, color=color)
                 )
-                # Add the remaining area in a lighter shade
-                remaining = 0.5 - ratio
-                if remaining > 0:
-                    bars.append(
-                        ax.bar(
-                            i + (j - 1) * bar_width,
-                            remaining,
-                            bar_width,
-                            bottom=ratio,
-                            color=plt.cm.viridis(j / len(years), alpha=0.3),
+                add_honorare=False
+                if add_honorare:
+                    # Add the remaining area in a lighter shade
+                    remaining = 0.5 - ratio
+                    if remaining > 0:
+                        bars.append(
+                            ax.bar(
+                                i + (j - 1) * bar_width,
+                                remaining,
+                                bar_width,
+                                bottom=ratio,
+                                color=plt.cm.viridis(j / len(years), alpha=0.3),
+                            )
                         )
-                    )
 
     # Customize the plot
     text_color = "white" if dark_mode else "black"
