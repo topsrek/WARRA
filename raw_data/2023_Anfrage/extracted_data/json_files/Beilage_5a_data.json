@@ -16,6 +16,42 @@
         {
             "ÖGK-LS": "ÖGK",
             "Monat.Jahr": "Jän.21",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 42413,
+            "online": 27146,
+            "Gesamt": 69559
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.21",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 490,
+            "online": 194,
+            "Gesamt": 684
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.21",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 13858,
+            "online": 6303,
+            "Gesamt": 20161
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.21",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 4406,
+            "online": 1792,
+            "Gesamt": 6198
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.21",
             "FG-Code": 5,
             "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
             "postal": 15627,
@@ -255,6 +291,42 @@
             "postal": 171906,
             "online": 96712,
             "Gesamt": 268618
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.21",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 53867,
+            "online": 20892,
+            "Gesamt": 74759
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.21",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 567,
+            "online": 129,
+            "Gesamt": 696
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.21",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 20583,
+            "online": 5726,
+            "Gesamt": 26309
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.21",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 6146,
+            "online": 1537,
+            "Gesamt": 7683
         },
         {
             "ÖGK-LS": "ÖGK",
@@ -502,6 +574,42 @@
         {
             "ÖGK-LS": "ÖGK",
             "Monat.Jahr": "Mär.21",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 64025,
+            "online": 26399,
+            "Gesamt": 90424
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.21",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 572,
+            "online": 167,
+            "Gesamt": 739
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.21",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 25008,
+            "online": 7350,
+            "Gesamt": 32358
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.21",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 7370,
+            "online": 1971,
+            "Gesamt": 9341
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.21",
             "FG-Code": 5,
             "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
             "postal": 26267,
@@ -741,6 +849,42 @@
             "postal": 280521,
             "online": 98723,
             "Gesamt": 379244
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.21",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 55830,
+            "online": 26939,
+            "Gesamt": 82769
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.21",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 539,
+            "online": 158,
+            "Gesamt": 697
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.21",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 21417,
+            "online": 6937,
+            "Gesamt": 28354
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.21",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 9207,
+            "online": 2049,
+            "Gesamt": 11256
         },
         {
             "ÖGK-LS": "ÖGK",
@@ -988,6 +1132,42 @@
         {
             "ÖGK-LS": "ÖGK",
             "Monat.Jahr": "Mai.21",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 47701,
+            "online": 24748,
+            "Gesamt": 72449
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.21",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 438,
+            "online": 130,
+            "Gesamt": 568
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.21",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 16294,
+            "online": 6852,
+            "Gesamt": 23146
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.21",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 5083,
+            "online": 1715,
+            "Gesamt": 6798
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.21",
             "FG-Code": 5,
             "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
             "postal": 19616,
@@ -1227,6 +1407,42 @@
             "postal": 196284,
             "online": 90298,
             "Gesamt": 286582
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.21",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 52959,
+            "online": 27268,
+            "Gesamt": 80227
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.21",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 519,
+            "online": 162,
+            "Gesamt": 681
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.21",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 18540,
+            "online": 6970,
+            "Gesamt": 25510
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.21",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 6403,
+            "online": 2020,
+            "Gesamt": 8423
         },
         {
             "ÖGK-LS": "ÖGK",
@@ -1474,6 +1690,42 @@
         {
             "ÖGK-LS": "ÖGK",
             "Monat.Jahr": "Jul.21",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 50676,
+            "online": 27539,
+            "Gesamt": 78215
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.21",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 484,
+            "online": 129,
+            "Gesamt": 613
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.21",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 18138,
+            "online": 7171,
+            "Gesamt": 25309
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.21",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 5780,
+            "online": 1948,
+            "Gesamt": 7728
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.21",
             "FG-Code": 5,
             "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
             "postal": 20789,
@@ -1713,6 +1965,42 @@
             "postal": 219234,
             "online": 102033,
             "Gesamt": 321267
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.21",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 40954,
+            "online": 26215,
+            "Gesamt": 67169
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.21",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 378,
+            "online": 142,
+            "Gesamt": 520
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.21",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 15763,
+            "online": 6499,
+            "Gesamt": 22262
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.21",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 4517,
+            "online": 1843,
+            "Gesamt": 6360
         },
         {
             "ÖGK-LS": "ÖGK",
@@ -1960,6 +2248,42 @@
         {
             "ÖGK-LS": "ÖGK",
             "Monat.Jahr": "Sep.21",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 46560,
+            "online": 27474,
+            "Gesamt": 74034
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.21",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 466,
+            "online": 144,
+            "Gesamt": 610
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.21",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 16200,
+            "online": 7724,
+            "Gesamt": 23924
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.21",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 4862,
+            "online": 1927,
+            "Gesamt": 6789
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.21",
             "FG-Code": 5,
             "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
             "postal": 17696,
@@ -2199,6 +2523,42 @@
             "postal": 196192,
             "online": 103169,
             "Gesamt": 299361
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.21",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 46886,
+            "online": 31722,
+            "Gesamt": 78608
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.21",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 419,
+            "online": 122,
+            "Gesamt": 541
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.21",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 17387,
+            "online": 7881,
+            "Gesamt": 25268
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.21",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 4935,
+            "online": 2079,
+            "Gesamt": 7014
         },
         {
             "ÖGK-LS": "ÖGK",
@@ -2446,6 +2806,42 @@
         {
             "ÖGK-LS": "ÖGK",
             "Monat.Jahr": "Nov.21",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 49232,
+            "online": 33615,
+            "Gesamt": 82847
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.21",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 465,
+            "online": 188,
+            "Gesamt": 653
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.21",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 18215,
+            "online": 8672,
+            "Gesamt": 26887
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.21",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 5433,
+            "online": 2516,
+            "Gesamt": 7949
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.21",
             "FG-Code": 5,
             "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
             "postal": 17916,
@@ -2685,6 +3081,42 @@
             "postal": 208295,
             "online": 126795,
             "Gesamt": 335090
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.21",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 42320,
+            "online": 33780,
+            "Gesamt": 76100
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.21",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 419,
+            "online": 141,
+            "Gesamt": 560
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.21",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 16308,
+            "online": 8909,
+            "Gesamt": 25217
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.21",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 4777,
+            "online": 2686,
+            "Gesamt": 7463
         },
         {
             "ÖGK-LS": "ÖGK",
@@ -2932,6 +3364,42 @@
         {
             "ÖGK-LS": "ÖGK",
             "Monat.Jahr": "Jän.22",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 46134,
+            "online": 35731,
+            "Gesamt": 81865
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.22",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 446,
+            "online": 162,
+            "Gesamt": 608
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.22",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 15643,
+            "online": 7945,
+            "Gesamt": 23588
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.22",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 5004,
+            "online": 2220,
+            "Gesamt": 7224
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.22",
             "FG-Code": 5,
             "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
             "postal": 18148,
@@ -3171,6 +3639,42 @@
             "postal": 191971,
             "online": 118476,
             "Gesamt": 310447
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.22",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 48374,
+            "online": 38349,
+            "Gesamt": 86723
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.22",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 558,
+            "online": 188,
+            "Gesamt": 746
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.22",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 18176,
+            "online": 9591,
+            "Gesamt": 27767
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.22",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 5307,
+            "online": 2695,
+            "Gesamt": 8002
         },
         {
             "ÖGK-LS": "ÖGK",
@@ -3418,6 +3922,42 @@
         {
             "ÖGK-LS": "ÖGK",
             "Monat.Jahr": "Mär.22",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 54520,
+            "online": 42550,
+            "Gesamt": 97070
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.22",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 565,
+            "online": 183,
+            "Gesamt": 748
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.22",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 19410,
+            "online": 11269,
+            "Gesamt": 30679
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.22",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 6333,
+            "online": 3344,
+            "Gesamt": 9677
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.22",
             "FG-Code": 5,
             "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
             "postal": 20740,
@@ -3657,6 +4197,42 @@
             "postal": 227034,
             "online": 156999,
             "Gesamt": 384033
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.22",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 50807,
+            "online": 38109,
+            "Gesamt": 88916
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.22",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 483,
+            "online": 179,
+            "Gesamt": 662
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.22",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 18216,
+            "online": 9607,
+            "Gesamt": 27823
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.22",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 5584,
+            "online": 3002,
+            "Gesamt": 8586
         },
         {
             "ÖGK-LS": "ÖGK",
@@ -3904,6 +4480,42 @@
         {
             "ÖGK-LS": "ÖGK",
             "Monat.Jahr": "Mai.22",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 50281,
+            "online": 35634,
+            "Gesamt": 85915
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.22",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 538,
+            "online": 209,
+            "Gesamt": 747
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.22",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 19107,
+            "online": 9983,
+            "Gesamt": 29090
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.22",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 5975,
+            "online": 2673,
+            "Gesamt": 8648
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.22",
             "FG-Code": 5,
             "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
             "postal": 20038,
@@ -4143,6 +4755,42 @@
             "postal": 218126,
             "online": 134119,
             "Gesamt": 352245
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.22",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 55542,
+            "online": 35202,
+            "Gesamt": 90744
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.22",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 417,
+            "online": 191,
+            "Gesamt": 608
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.22",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 18593,
+            "online": 10208,
+            "Gesamt": 28801
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jun.22",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 6063,
+            "online": 2603,
+            "Gesamt": 8666
         },
         {
             "ÖGK-LS": "ÖGK",
@@ -4390,6 +5038,42 @@
         {
             "ÖGK-LS": "ÖGK",
             "Monat.Jahr": "Jul.22",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 55762,
+            "online": 37980,
+            "Gesamt": 93742
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.22",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 426,
+            "online": 151,
+            "Gesamt": 577
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.22",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 18620,
+            "online": 10121,
+            "Gesamt": 28741
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.22",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 5914,
+            "online": 2407,
+            "Gesamt": 8321
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jul.22",
             "FG-Code": 5,
             "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
             "postal": 20986,
@@ -4629,6 +5313,42 @@
             "postal": 230875,
             "online": 136814,
             "Gesamt": 367689
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.22",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 47219,
+            "online": 36656,
+            "Gesamt": 83875
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.22",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 537,
+            "online": 146,
+            "Gesamt": 683
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.22",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 17434,
+            "online": 9617,
+            "Gesamt": 27051
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Aug.22",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 5129,
+            "online": 2451,
+            "Gesamt": 7580
         },
         {
             "ÖGK-LS": "ÖGK",
@@ -4876,6 +5596,42 @@
         {
             "ÖGK-LS": "ÖGK",
             "Monat.Jahr": "Sep.22",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 51877,
+            "online": 39168,
+            "Gesamt": 91045
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.22",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 446,
+            "online": 174,
+            "Gesamt": 620
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.22",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 20228,
+            "online": 11642,
+            "Gesamt": 31870
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.22",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 5668,
+            "online": 2714,
+            "Gesamt": 8382
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Sep.22",
             "FG-Code": 5,
             "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
             "postal": 21560,
@@ -5115,6 +5871,42 @@
             "postal": 228701,
             "online": 148590,
             "Gesamt": 377291
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.22",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 44424,
+            "online": 42686,
+            "Gesamt": 87110
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.22",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 390,
+            "online": 146,
+            "Gesamt": 536
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.22",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 16354,
+            "online": 12097,
+            "Gesamt": 28451
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Okt.22",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 4637,
+            "online": 2723,
+            "Gesamt": 7360
         },
         {
             "ÖGK-LS": "ÖGK",
@@ -5362,6 +6154,42 @@
         {
             "ÖGK-LS": "ÖGK",
             "Monat.Jahr": "Nov.22",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 52335,
+            "online": 47877,
+            "Gesamt": 100212
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.22",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 427,
+            "online": 180,
+            "Gesamt": 607
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.22",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 22588,
+            "online": 13265,
+            "Gesamt": 35853
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.22",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 5855,
+            "online": 3261,
+            "Gesamt": 9116
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Nov.22",
             "FG-Code": 5,
             "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
             "postal": 20305,
@@ -5601,6 +6429,42 @@
             "postal": 225332,
             "online": 174340,
             "Gesamt": 399672
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.22",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 38521,
+            "online": 39740,
+            "Gesamt": 78261
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.22",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 357,
+            "online": 136,
+            "Gesamt": 493
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.22",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 13916,
+            "online": 11431,
+            "Gesamt": 25347
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Dez.22",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 4446,
+            "online": 2889,
+            "Gesamt": 7335
         },
         {
             "ÖGK-LS": "ÖGK",
@@ -5848,6 +6712,42 @@
         {
             "ÖGK-LS": "ÖGK",
             "Monat.Jahr": "Jän.23",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 41559,
+            "online": 48643,
+            "Gesamt": 90202
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 448,
+            "online": 211,
+            "Gesamt": 659
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 14856,
+            "online": 11441,
+            "Gesamt": 26297
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 4449,
+            "online": 3178,
+            "Gesamt": 7627
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Jän.23",
             "FG-Code": 5,
             "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
             "postal": 15497,
@@ -6087,6 +6987,42 @@
             "postal": 176928,
             "online": 170335,
             "Gesamt": 347263
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 42540,
+            "online": 42851,
+            "Gesamt": 85391
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 450,
+            "online": 195,
+            "Gesamt": 645
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 15957,
+            "online": 12034,
+            "Gesamt": 27991
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Feb.23",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 4834,
+            "online": 2777,
+            "Gesamt": 7611
         },
         {
             "ÖGK-LS": "ÖGK",
@@ -6334,6 +7270,42 @@
         {
             "ÖGK-LS": "ÖGK",
             "Monat.Jahr": "Mär.23",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 51890,
+            "online": 55685,
+            "Gesamt": 107575
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 470,
+            "online": 181,
+            "Gesamt": 651
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 18558,
+            "online": 18517,
+            "Gesamt": 37075
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 5525,
+            "online": 3830,
+            "Gesamt": 9355
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mär.23",
             "FG-Code": 5,
             "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
             "postal": 19932,
@@ -6577,6 +7549,42 @@
         {
             "ÖGK-LS": "ÖGK",
             "Monat.Jahr": "Apr.23",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 39653,
+            "online": 47682,
+            "Gesamt": 87335
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 398,
+            "online": 178,
+            "Gesamt": 576
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 15084,
+            "online": 13312,
+            "Gesamt": 28396
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 5218,
+            "online": 4110,
+            "Gesamt": 9328
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Apr.23",
             "FG-Code": 5,
             "Fachrichtung": "FA für Haut- und Geschlechtskrankheiten",
             "postal": 16841,
@@ -6816,6 +7824,42 @@
             "postal": 179538,
             "online": 174056,
             "Gesamt": 353594
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 1,
+            "Fachrichtung": "Arzt für Allgemeinmedizin",
+            "postal": 43307,
+            "online": 45379,
+            "Gesamt": 88686
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 2,
+            "Fachrichtung": "FA für Anästhesiologie und Intensivmedizin",
+            "postal": 414,
+            "online": 215,
+            "Gesamt": 629
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 3,
+            "Fachrichtung": "FA für Augenheilkunde und Optometrie",
+            "postal": 16394,
+            "online": 13781,
+            "Gesamt": 30175
+        },
+        {
+            "ÖGK-LS": "ÖGK",
+            "Monat.Jahr": "Mai.23",
+            "FG-Code": 4,
+            "Fachrichtung": "FA für Chirurgie",
+            "postal": 4748,
+            "online": 3571,
+            "Gesamt": 8319
         },
         {
             "ÖGK-LS": "ÖGK",

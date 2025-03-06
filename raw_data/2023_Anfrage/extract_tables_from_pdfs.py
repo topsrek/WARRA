@@ -47,8 +47,8 @@ def process_beilage_3(pdf_path):
             for index, row in enumerate(raw_table):
 
                 # print(row, index)
-                #if index in [0, 1, 2, 3, 4]:  # Skip header rows
-                #    continue
+                if index == 0:  # Skip only the header row
+                    continue
                 parts = row[0].split(" ")
                 last_row = False
                 if index == len(raw_table) - 1:

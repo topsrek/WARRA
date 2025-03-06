@@ -1,4 +1,8 @@
 Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pretty
+2023-01,1.0,ÖGK-B,Jän.23,Arzt für Allgemeinmedizin,385.0,350.0,735.0,2023,Burgenland
+2023-01,2.0,ÖGK-B,Jän.23,FA für Anästhesiologie und Intensivmedizin,5.0,2.0,7.0,2023,Burgenland
+2023-01,3.0,ÖGK-B,Jän.23,FA für Augenheilkunde und Optometrie,586.0,361.0,947.0,2023,Burgenland
+2023-01,4.0,ÖGK-B,Jän.23,FA für Chirurgie,134.0,34.0,168.0,2023,Burgenland
 2023-01,5.0,ÖGK-B,Jän.23,FA für Haut- und Geschlechtskrankheiten,442.0,256.0,698.0,2023,Burgenland
 2023-01,6.0,ÖGK-B,Jän.23,FA für Frauenheilkunde und Geburtshilfe,662.0,831.0,1493.0,2023,Burgenland
 2023-01,7.0,ÖGK-B,Jän.23,FA für Innere Medizin,905.0,309.0,1214.0,2023,Burgenland
@@ -26,6 +30,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-01,53.0,ÖGK-B,Jän.23,FA für Pathologie und Histologie,,2.0,2.0,2023,Burgenland
 2023-01,55.0,ÖGK-B,Jän.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Burgenland
 2023-01,,ÖGK-B,Jän.23,Gesamt,5344.0,3207.0,8551.0,2023,Burgenland
+2023-02,1.0,ÖGK-B,Feb.23,Arzt für Allgemeinmedizin,321.0,265.0,586.0,2023,Burgenland
+2023-02,2.0,ÖGK-B,Feb.23,FA für Anästhesiologie und Intensivmedizin,3.0,,3.0,2023,Burgenland
+2023-02,3.0,ÖGK-B,Feb.23,FA für Augenheilkunde und Optometrie,345.0,262.0,607.0,2023,Burgenland
+2023-02,4.0,ÖGK-B,Feb.23,FA für Chirurgie,87.0,36.0,123.0,2023,Burgenland
 2023-02,5.0,ÖGK-B,Feb.23,FA für Haut- und Geschlechtskrankheiten,365.0,144.0,509.0,2023,Burgenland
 2023-02,6.0,ÖGK-B,Feb.23,FA für Frauenheilkunde und Geburtshilfe,472.0,526.0,998.0,2023,Burgenland
 2023-02,7.0,ÖGK-B,Feb.23,FA für Innere Medizin,609.0,163.0,772.0,2023,Burgenland
@@ -53,6 +61,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-02,53.0,ÖGK-B,Feb.23,FA für Pathologie und Histologie,1.0,1.0,2.0,2023,Burgenland
 2023-02,55.0,ÖGK-B,Feb.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,1.0,1.0,2023,Burgenland
 2023-02,,ÖGK-B,Feb.23,Gesamt,3851.0,2140.0,5991.0,2023,Burgenland
+2023-03,1.0,ÖGK-B,Mär.23,Arzt für Allgemeinmedizin,593.0,553.0,1146.0,2023,Burgenland
+2023-03,2.0,ÖGK-B,Mär.23,FA für Anästhesiologie und Intensivmedizin,3.0,,3.0,2023,Burgenland
+2023-03,3.0,ÖGK-B,Mär.23,FA für Augenheilkunde und Optometrie,684.0,784.0,1468.0,2023,Burgenland
+2023-03,4.0,ÖGK-B,Mär.23,FA für Chirurgie,119.0,52.0,171.0,2023,Burgenland
 2023-03,5.0,ÖGK-B,Mär.23,FA für Haut- und Geschlechtskrankheiten,581.0,412.0,993.0,2023,Burgenland
 2023-03,6.0,ÖGK-B,Mär.23,FA für Frauenheilkunde und Geburtshilfe,704.0,1568.0,2272.0,2023,Burgenland
 2023-03,7.0,ÖGK-B,Mär.23,FA für Innere Medizin,843.0,497.0,1340.0,2023,Burgenland
@@ -80,6 +92,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-03,53.0,ÖGK-B,Mär.23,FA für Pathologie und Histologie,,2.0,2.0,2023,Burgenland
 2023-03,55.0,ÖGK-B,Mär.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Burgenland
 2023-03,,ÖGK-B,Mär.23,Gesamt,6161.0,5519.0,11680.0,2023,Burgenland
+2023-04,1.0,ÖGK-B,Apr.23,Arzt für Allgemeinmedizin,413.0,129.0,542.0,2023,Burgenland
+2023-04,2.0,ÖGK-B,Apr.23,FA für Anästhesiologie und Intensivmedizin,4.0,,4.0,2023,Burgenland
+2023-04,3.0,ÖGK-B,Apr.23,FA für Augenheilkunde und Optometrie,211.0,127.0,338.0,2023,Burgenland
+2023-04,4.0,ÖGK-B,Apr.23,FA für Chirurgie,105.0,8.0,113.0,2023,Burgenland
 2023-04,5.0,ÖGK-B,Apr.23,FA für Haut- und Geschlechtskrankheiten,458.0,108.0,566.0,2023,Burgenland
 2023-04,6.0,ÖGK-B,Apr.23,FA für Frauenheilkunde und Geburtshilfe,578.0,338.0,916.0,2023,Burgenland
 2023-04,7.0,ÖGK-B,Apr.23,FA für Innere Medizin,630.0,104.0,734.0,2023,Burgenland
@@ -107,6 +123,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-04,53.0,ÖGK-B,Apr.23,FA für Pathologie und Histologie,,,0.0,2023,Burgenland
 2023-04,55.0,ÖGK-B,Apr.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,1.0,,1.0,2023,Burgenland
 2023-04,,ÖGK-B,Apr.23,Gesamt,4225.0,1161.0,5386.0,2023,Burgenland
+2023-05,1.0,ÖGK-B,Mai.23,Arzt für Allgemeinmedizin,436.0,246.0,682.0,2023,Burgenland
+2023-05,2.0,ÖGK-B,Mai.23,FA für Anästhesiologie und Intensivmedizin,5.0,,5.0,2023,Burgenland
+2023-05,3.0,ÖGK-B,Mai.23,FA für Augenheilkunde und Optometrie,984.0,375.0,1359.0,2023,Burgenland
+2023-05,4.0,ÖGK-B,Mai.23,FA für Chirurgie,101.0,19.0,120.0,2023,Burgenland
 2023-05,5.0,ÖGK-B,Mai.23,FA für Haut- und Geschlechtskrankheiten,438.0,176.0,614.0,2023,Burgenland
 2023-05,6.0,ÖGK-B,Mai.23,FA für Frauenheilkunde und Geburtshilfe,682.0,897.0,1579.0,2023,Burgenland
 2023-05,7.0,ÖGK-B,Mai.23,FA für Innere Medizin,815.0,222.0,1037.0,2023,Burgenland
@@ -134,6 +154,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-05,53.0,ÖGK-B,Mai.23,FA für Pathologie und Histologie,,,0.0,2023,Burgenland
 2023-05,55.0,ÖGK-B,Mai.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Burgenland
 2023-05,,ÖGK-B,Mai.23,Gesamt,5862.0,2643.0,8505.0,2023,Burgenland
+2023-06,1.0,ÖGK-B,Jun.23,Arzt für Allgemeinmedizin,809.0,510.0,1319.0,2023,Burgenland
+2023-06,2.0,ÖGK-B,Jun.23,FA für Anästhesiologie und Intensivmedizin,3.0,2.0,5.0,2023,Burgenland
+2023-06,3.0,ÖGK-B,Jun.23,FA für Augenheilkunde und Optometrie,606.0,1196.0,1802.0,2023,Burgenland
+2023-06,4.0,ÖGK-B,Jun.23,FA für Chirurgie,142.0,49.0,191.0,2023,Burgenland
 2023-06,5.0,ÖGK-B,Jun.23,FA für Haut- und Geschlechtskrankheiten,498.0,401.0,899.0,2023,Burgenland
 2023-06,6.0,ÖGK-B,Jun.23,FA für Frauenheilkunde und Geburtshilfe,690.0,1880.0,2570.0,2023,Burgenland
 2023-06,7.0,ÖGK-B,Jun.23,FA für Innere Medizin,789.0,394.0,1183.0,2023,Burgenland
@@ -161,6 +185,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-06,53.0,ÖGK-B,Jun.23,FA für Pathologie und Histologie,,,0.0,2023,Burgenland
 2023-06,55.0,ÖGK-B,Jun.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Burgenland
 2023-06,,ÖGK-B,Jun.23,Gesamt,5771.0,5917.0,11688.0,2023,Burgenland
+2023-07,1.0,ÖGK-B,Jul.23,Arzt für Allgemeinmedizin,596.0,483.0,1079.0,2023,Burgenland
+2023-07,2.0,ÖGK-B,Jul.23,FA für Anästhesiologie und Intensivmedizin,1.0,1.0,2.0,2023,Burgenland
+2023-07,3.0,ÖGK-B,Jul.23,FA für Augenheilkunde und Optometrie,592.0,703.0,1295.0,2023,Burgenland
+2023-07,4.0,ÖGK-B,Jul.23,FA für Chirurgie,226.0,35.0,261.0,2023,Burgenland
 2023-07,5.0,ÖGK-B,Jul.23,FA für Haut- und Geschlechtskrankheiten,471.0,347.0,818.0,2023,Burgenland
 2023-07,6.0,ÖGK-B,Jul.23,FA für Frauenheilkunde und Geburtshilfe,859.0,1232.0,2091.0,2023,Burgenland
 2023-07,7.0,ÖGK-B,Jul.23,FA für Innere Medizin,855.0,315.0,1170.0,2023,Burgenland
@@ -188,6 +216,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-07,53.0,ÖGK-B,Jul.23,FA für Pathologie und Histologie,,,0.0,2023,Burgenland
 2023-07,55.0,ÖGK-B,Jul.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Burgenland
 2023-07,,ÖGK-B,Jul.23,Gesamt,6714.0,4427.0,11141.0,2023,Burgenland
+2023-08,1.0,ÖGK-B,Aug.23,Arzt für Allgemeinmedizin,191.0,212.0,403.0,2023,Burgenland
+2023-08,2.0,ÖGK-B,Aug.23,FA für Anästhesiologie und Intensivmedizin,5.0,2.0,7.0,2023,Burgenland
+2023-08,3.0,ÖGK-B,Aug.23,FA für Augenheilkunde und Optometrie,345.0,477.0,822.0,2023,Burgenland
+2023-08,4.0,ÖGK-B,Aug.23,FA für Chirurgie,36.0,21.0,57.0,2023,Burgenland
 2023-08,5.0,ÖGK-B,Aug.23,FA für Haut- und Geschlechtskrankheiten,571.0,185.0,756.0,2023,Burgenland
 2023-08,6.0,ÖGK-B,Aug.23,FA für Frauenheilkunde und Geburtshilfe,506.0,887.0,1393.0,2023,Burgenland
 2023-08,7.0,ÖGK-B,Aug.23,FA für Innere Medizin,642.0,214.0,856.0,2023,Burgenland
@@ -215,6 +247,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-08,53.0,ÖGK-B,Aug.23,FA für Pathologie und Histologie,,,0.0,2023,Burgenland
 2023-08,55.0,ÖGK-B,Aug.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,1.0,,1.0,2023,Burgenland
 2023-08,,ÖGK-B,Aug.23,Gesamt,4400.0,2599.0,6999.0,2023,Burgenland
+2023-09,1.0,ÖGK-B,Sep.23,Arzt für Allgemeinmedizin,770.0,455.0,1225.0,2023,Burgenland
+2023-09,2.0,ÖGK-B,Sep.23,FA für Anästhesiologie und Intensivmedizin,3.0,,3.0,2023,Burgenland
+2023-09,3.0,ÖGK-B,Sep.23,FA für Augenheilkunde und Optometrie,754.0,609.0,1363.0,2023,Burgenland
+2023-09,4.0,ÖGK-B,Sep.23,FA für Chirurgie,155.0,38.0,193.0,2023,Burgenland
 2023-09,5.0,ÖGK-B,Sep.23,FA für Haut- und Geschlechtskrankheiten,473.0,342.0,815.0,2023,Burgenland
 2023-09,6.0,ÖGK-B,Sep.23,FA für Frauenheilkunde und Geburtshilfe,817.0,1090.0,1907.0,2023,Burgenland
 2023-09,7.0,ÖGK-B,Sep.23,FA für Innere Medizin,1291.0,424.0,1715.0,2023,Burgenland
@@ -242,6 +278,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-09,53.0,ÖGK-B,Sep.23,FA für Pathologie und Histologie,,,0.0,2023,Burgenland
 2023-09,55.0,ÖGK-B,Sep.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Burgenland
 2023-09,,ÖGK-B,Sep.23,Gesamt,7588.0,4351.0,11939.0,2023,Burgenland
+2023-10,1.0,ÖGK-B,Okt.23,Arzt für Allgemeinmedizin,588.0,552.0,1140.0,2023,Burgenland
+2023-10,2.0,ÖGK-B,Okt.23,FA für Anästhesiologie und Intensivmedizin,8.0,,8.0,2023,Burgenland
+2023-10,3.0,ÖGK-B,Okt.23,FA für Augenheilkunde und Optometrie,799.0,920.0,1719.0,2023,Burgenland
+2023-10,4.0,ÖGK-B,Okt.23,FA für Chirurgie,150.0,85.0,235.0,2023,Burgenland
 2023-10,5.0,ÖGK-B,Okt.23,FA für Haut- und Geschlechtskrankheiten,948.0,547.0,1495.0,2023,Burgenland
 2023-10,6.0,ÖGK-B,Okt.23,FA für Frauenheilkunde und Geburtshilfe,1194.0,1628.0,2822.0,2023,Burgenland
 2023-10,7.0,ÖGK-B,Okt.23,FA für Innere Medizin,1424.0,630.0,2054.0,2023,Burgenland
@@ -269,6 +309,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-10,53.0,ÖGK-B,Okt.23,FA für Pathologie und Histologie,1.0,1.0,2.0,2023,Burgenland
 2023-10,55.0,ÖGK-B,Okt.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Burgenland
 2023-10,,ÖGK-B,Okt.23,Gesamt,9167.0,6305.0,15472.0,2023,Burgenland
+2023-11,1.0,ÖGK-B,Nov.23,Arzt für Allgemeinmedizin,779.0,402.0,1181.0,2023,Burgenland
+2023-11,2.0,ÖGK-B,Nov.23,FA für Anästhesiologie und Intensivmedizin,5.0,,5.0,2023,Burgenland
+2023-11,3.0,ÖGK-B,Nov.23,FA für Augenheilkunde und Optometrie,1074.0,564.0,1638.0,2023,Burgenland
+2023-11,4.0,ÖGK-B,Nov.23,FA für Chirurgie,147.0,51.0,198.0,2023,Burgenland
 2023-11,5.0,ÖGK-B,Nov.23,FA für Haut- und Geschlechtskrankheiten,625.0,343.0,968.0,2023,Burgenland
 2023-11,6.0,ÖGK-B,Nov.23,FA für Frauenheilkunde und Geburtshilfe,1371.0,1096.0,2467.0,2023,Burgenland
 2023-11,7.0,ÖGK-B,Nov.23,FA für Innere Medizin,1876.0,468.0,2344.0,2023,Burgenland
@@ -296,6 +340,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-11,53.0,ÖGK-B,Nov.23,FA für Pathologie und Histologie,,,0.0,2023,Burgenland
 2023-11,55.0,ÖGK-B,Nov.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Burgenland
 2023-11,,ÖGK-B,Nov.23,Gesamt,10033.0,4448.0,14481.0,2023,Burgenland
+2023-12,1.0,ÖGK-B,Dez.23,Arzt für Allgemeinmedizin,633.0,464.0,1097.0,2023,Burgenland
+2023-12,2.0,ÖGK-B,Dez.23,FA für Anästhesiologie und Intensivmedizin,12.0,5.0,17.0,2023,Burgenland
+2023-12,3.0,ÖGK-B,Dez.23,FA für Augenheilkunde und Optometrie,739.0,634.0,1373.0,2023,Burgenland
+2023-12,4.0,ÖGK-B,Dez.23,FA für Chirurgie,142.0,39.0,181.0,2023,Burgenland
 2023-12,5.0,ÖGK-B,Dez.23,FA für Haut- und Geschlechtskrankheiten,574.0,384.0,958.0,2023,Burgenland
 2023-12,6.0,ÖGK-B,Dez.23,FA für Frauenheilkunde und Geburtshilfe,985.0,1083.0,2068.0,2023,Burgenland
 2023-12,7.0,ÖGK-B,Dez.23,FA für Innere Medizin,1325.0,412.0,1737.0,2023,Burgenland
@@ -323,6 +371,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-12,53.0,ÖGK-B,Dez.23,FA für Pathologie und Histologie,,,0.0,2023,Burgenland
 2023-12,55.0,ÖGK-B,Dez.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Burgenland
 2023-12,,ÖGK-B,Dez.23,Gesamt,7807.0,4438.0,12245.0,2023,Burgenland
+2023-01,1.0,ÖGK-K,Jän.23,Arzt für Allgemeinmedizin,1171.0,1156.0,2327.0,2023,Kärnten
+2023-01,2.0,ÖGK-K,Jän.23,FA für Anästhesiologie und Intensivmedizin,18.0,2.0,20.0,2023,Kärnten
+2023-01,3.0,ÖGK-K,Jän.23,FA für Augenheilkunde und Optometrie,1046.0,886.0,1932.0,2023,Kärnten
+2023-01,4.0,ÖGK-K,Jän.23,FA für Chirurgie,166.0,230.0,396.0,2023,Kärnten
 2023-01,5.0,ÖGK-K,Jän.23,FA für Haut- und Geschlechtskrankheiten,438.0,540.0,978.0,2023,Kärnten
 2023-01,6.0,ÖGK-K,Jän.23,FA für Frauenheilkunde und Geburtshilfe,1807.0,1310.0,3117.0,2023,Kärnten
 2023-01,7.0,ÖGK-K,Jän.23,FA für Innere Medizin,734.0,608.0,1342.0,2023,Kärnten
@@ -350,6 +402,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-01,53.0,ÖGK-K,Jän.23,FA für Pathologie und Histologie,,,0.0,2023,Kärnten
 2023-01,55.0,ÖGK-K,Jän.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Kärnten
 2023-01,,ÖGK-K,Jän.23,Gesamt,8205.0,8248.0,16453.0,2023,Kärnten
+2023-02,1.0,ÖGK-K,Feb.23,Arzt für Allgemeinmedizin,512.0,1562.0,2074.0,2023,Kärnten
+2023-02,2.0,ÖGK-K,Feb.23,FA für Anästhesiologie und Intensivmedizin,6.0,9.0,15.0,2023,Kärnten
+2023-02,3.0,ÖGK-K,Feb.23,FA für Augenheilkunde und Optometrie,1215.0,863.0,2078.0,2023,Kärnten
+2023-02,4.0,ÖGK-K,Feb.23,FA für Chirurgie,411.0,177.0,588.0,2023,Kärnten
 2023-02,5.0,ÖGK-K,Feb.23,FA für Haut- und Geschlechtskrankheiten,923.0,511.0,1434.0,2023,Kärnten
 2023-02,6.0,ÖGK-K,Feb.23,FA für Frauenheilkunde und Geburtshilfe,2299.0,1218.0,3517.0,2023,Kärnten
 2023-02,7.0,ÖGK-K,Feb.23,FA für Innere Medizin,1138.0,356.0,1494.0,2023,Kärnten
@@ -377,6 +433,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-02,53.0,ÖGK-K,Feb.23,FA für Pathologie und Histologie,,,0.0,2023,Kärnten
 2023-02,55.0,ÖGK-K,Feb.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Kärnten
 2023-02,,ÖGK-K,Feb.23,Gesamt,9991.0,7985.0,17976.0,2023,Kärnten
+2023-03,1.0,ÖGK-K,Mär.23,Arzt für Allgemeinmedizin,1890.0,1579.0,3469.0,2023,Kärnten
+2023-03,2.0,ÖGK-K,Mär.23,FA für Anästhesiologie und Intensivmedizin,11.0,3.0,14.0,2023,Kärnten
+2023-03,3.0,ÖGK-K,Mär.23,FA für Augenheilkunde und Optometrie,1804.0,1663.0,3467.0,2023,Kärnten
+2023-03,4.0,ÖGK-K,Mär.23,FA für Chirurgie,544.0,73.0,617.0,2023,Kärnten
 2023-03,5.0,ÖGK-K,Mär.23,FA für Haut- und Geschlechtskrankheiten,1282.0,687.0,1969.0,2023,Kärnten
 2023-03,6.0,ÖGK-K,Mär.23,FA für Frauenheilkunde und Geburtshilfe,3526.0,2024.0,5550.0,2023,Kärnten
 2023-03,7.0,ÖGK-K,Mär.23,FA für Innere Medizin,2107.0,710.0,2817.0,2023,Kärnten
@@ -404,6 +464,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-03,53.0,ÖGK-K,Mär.23,FA für Pathologie und Histologie,,,0.0,2023,Kärnten
 2023-03,55.0,ÖGK-K,Mär.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Kärnten
 2023-03,,ÖGK-K,Mär.23,Gesamt,16246.0,10755.0,27001.0,2023,Kärnten
+2023-04,1.0,ÖGK-K,Apr.23,Arzt für Allgemeinmedizin,1481.0,1330.0,2811.0,2023,Kärnten
+2023-04,2.0,ÖGK-K,Apr.23,FA für Anästhesiologie und Intensivmedizin,17.0,3.0,20.0,2023,Kärnten
+2023-04,3.0,ÖGK-K,Apr.23,FA für Augenheilkunde und Optometrie,2252.0,726.0,2978.0,2023,Kärnten
+2023-04,4.0,ÖGK-K,Apr.23,FA für Chirurgie,562.0,141.0,703.0,2023,Kärnten
 2023-04,5.0,ÖGK-K,Apr.23,FA für Haut- und Geschlechtskrankheiten,1031.0,469.0,1500.0,2023,Kärnten
 2023-04,6.0,ÖGK-K,Apr.23,FA für Frauenheilkunde und Geburtshilfe,2747.0,1079.0,3826.0,2023,Kärnten
 2023-04,7.0,ÖGK-K,Apr.23,FA für Innere Medizin,1907.0,366.0,2273.0,2023,Kärnten
@@ -431,6 +495,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-04,53.0,ÖGK-K,Apr.23,FA für Pathologie und Histologie,,,0.0,2023,Kärnten
 2023-04,55.0,ÖGK-K,Apr.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Kärnten
 2023-04,,ÖGK-K,Apr.23,Gesamt,14360.0,7113.0,21473.0,2023,Kärnten
+2023-05,1.0,ÖGK-K,Mai.23,Arzt für Allgemeinmedizin,2280.0,1323.0,3603.0,2023,Kärnten
+2023-05,2.0,ÖGK-K,Mai.23,FA für Anästhesiologie und Intensivmedizin,16.0,8.0,24.0,2023,Kärnten
+2023-05,3.0,ÖGK-K,Mai.23,FA für Augenheilkunde und Optometrie,1772.0,1038.0,2810.0,2023,Kärnten
+2023-05,4.0,ÖGK-K,Mai.23,FA für Chirurgie,558.0,189.0,747.0,2023,Kärnten
 2023-05,5.0,ÖGK-K,Mai.23,FA für Haut- und Geschlechtskrankheiten,2148.0,622.0,2770.0,2023,Kärnten
 2023-05,6.0,ÖGK-K,Mai.23,FA für Frauenheilkunde und Geburtshilfe,3453.0,1424.0,4877.0,2023,Kärnten
 2023-05,7.0,ÖGK-K,Mai.23,FA für Innere Medizin,1805.0,572.0,2377.0,2023,Kärnten
@@ -458,6 +526,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-05,53.0,ÖGK-K,Mai.23,FA für Pathologie und Histologie,,,0.0,2023,Kärnten
 2023-05,55.0,ÖGK-K,Mai.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Kärnten
 2023-05,,ÖGK-K,Mai.23,Gesamt,17169.0,8839.0,26008.0,2023,Kärnten
+2023-06,1.0,ÖGK-K,Jun.23,Arzt für Allgemeinmedizin,2699.0,1789.0,4488.0,2023,Kärnten
+2023-06,2.0,ÖGK-K,Jun.23,FA für Anästhesiologie und Intensivmedizin,18.0,13.0,31.0,2023,Kärnten
+2023-06,3.0,ÖGK-K,Jun.23,FA für Augenheilkunde und Optometrie,2273.0,1410.0,3683.0,2023,Kärnten
+2023-06,4.0,ÖGK-K,Jun.23,FA für Chirurgie,647.0,320.0,967.0,2023,Kärnten
 2023-06,5.0,ÖGK-K,Jun.23,FA für Haut- und Geschlechtskrankheiten,1506.0,999.0,2505.0,2023,Kärnten
 2023-06,6.0,ÖGK-K,Jun.23,FA für Frauenheilkunde und Geburtshilfe,2688.0,2222.0,4910.0,2023,Kärnten
 2023-06,7.0,ÖGK-K,Jun.23,FA für Innere Medizin,1991.0,976.0,2967.0,2023,Kärnten
@@ -485,6 +557,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-06,53.0,ÖGK-K,Jun.23,FA für Pathologie und Histologie,,,0.0,2023,Kärnten
 2023-06,55.0,ÖGK-K,Jun.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Kärnten
 2023-06,,ÖGK-K,Jun.23,Gesamt,17508.0,14541.0,32049.0,2023,Kärnten
+2023-07,1.0,ÖGK-K,Jul.23,Arzt für Allgemeinmedizin,1011.0,1926.0,2937.0,2023,Kärnten
+2023-07,2.0,ÖGK-K,Jul.23,FA für Anästhesiologie und Intensivmedizin,23.0,9.0,32.0,2023,Kärnten
+2023-07,3.0,ÖGK-K,Jul.23,FA für Augenheilkunde und Optometrie,1151.0,1518.0,2669.0,2023,Kärnten
+2023-07,4.0,ÖGK-K,Jul.23,FA für Chirurgie,621.0,247.0,868.0,2023,Kärnten
 2023-07,5.0,ÖGK-K,Jul.23,FA für Haut- und Geschlechtskrankheiten,998.0,992.0,1990.0,2023,Kärnten
 2023-07,6.0,ÖGK-K,Jul.23,FA für Frauenheilkunde und Geburtshilfe,4218.0,1961.0,6179.0,2023,Kärnten
 2023-07,7.0,ÖGK-K,Jul.23,FA für Innere Medizin,2335.0,1007.0,3342.0,2023,Kärnten
@@ -512,6 +588,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-07,53.0,ÖGK-K,Jul.23,FA für Pathologie und Histologie,,,0.0,2023,Kärnten
 2023-07,55.0,ÖGK-K,Jul.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,1.0,1.0,2023,Kärnten
 2023-07,,ÖGK-K,Jul.23,Gesamt,14159.0,13805.0,27964.0,2023,Kärnten
+2023-08,1.0,ÖGK-K,Aug.23,Arzt für Allgemeinmedizin,1132.0,1470.0,2602.0,2023,Kärnten
+2023-08,2.0,ÖGK-K,Aug.23,FA für Anästhesiologie und Intensivmedizin,36.0,10.0,46.0,2023,Kärnten
+2023-08,3.0,ÖGK-K,Aug.23,FA für Augenheilkunde und Optometrie,1146.0,1088.0,2234.0,2023,Kärnten
+2023-08,4.0,ÖGK-K,Aug.23,FA für Chirurgie,423.0,195.0,618.0,2023,Kärnten
 2023-08,5.0,ÖGK-K,Aug.23,FA für Haut- und Geschlechtskrankheiten,1004.0,743.0,1747.0,2023,Kärnten
 2023-08,6.0,ÖGK-K,Aug.23,FA für Frauenheilkunde und Geburtshilfe,4529.0,2174.0,6703.0,2023,Kärnten
 2023-08,7.0,ÖGK-K,Aug.23,FA für Innere Medizin,953.0,1069.0,2022.0,2023,Kärnten
@@ -539,6 +619,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-08,53.0,ÖGK-K,Aug.23,FA für Pathologie und Histologie,,,0.0,2023,Kärnten
 2023-08,55.0,ÖGK-K,Aug.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Kärnten
 2023-08,,ÖGK-K,Aug.23,Gesamt,13151.0,12295.0,25446.0,2023,Kärnten
+2023-09,1.0,ÖGK-K,Sep.23,Arzt für Allgemeinmedizin,1199.0,1625.0,2824.0,2023,Kärnten
+2023-09,2.0,ÖGK-K,Sep.23,FA für Anästhesiologie und Intensivmedizin,28.0,6.0,34.0,2023,Kärnten
+2023-09,3.0,ÖGK-K,Sep.23,FA für Augenheilkunde und Optometrie,1037.0,1706.0,2743.0,2023,Kärnten
+2023-09,4.0,ÖGK-K,Sep.23,FA für Chirurgie,621.0,221.0,842.0,2023,Kärnten
 2023-09,5.0,ÖGK-K,Sep.23,FA für Haut- und Geschlechtskrankheiten,1337.0,1012.0,2349.0,2023,Kärnten
 2023-09,6.0,ÖGK-K,Sep.23,FA für Frauenheilkunde und Geburtshilfe,1177.0,1404.0,2581.0,2023,Kärnten
 2023-09,7.0,ÖGK-K,Sep.23,FA für Innere Medizin,1863.0,994.0,2857.0,2023,Kärnten
@@ -566,6 +650,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-09,53.0,ÖGK-K,Sep.23,FA für Pathologie und Histologie,,,0.0,2023,Kärnten
 2023-09,55.0,ÖGK-K,Sep.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Kärnten
 2023-09,,ÖGK-K,Sep.23,Gesamt,11566.0,12708.0,24274.0,2023,Kärnten
+2023-10,1.0,ÖGK-K,Okt.23,Arzt für Allgemeinmedizin,1278.0,2447.0,3725.0,2023,Kärnten
+2023-10,2.0,ÖGK-K,Okt.23,FA für Anästhesiologie und Intensivmedizin,28.0,6.0,34.0,2023,Kärnten
+2023-10,3.0,ÖGK-K,Okt.23,FA für Augenheilkunde und Optometrie,745.0,2277.0,3022.0,2023,Kärnten
+2023-10,4.0,ÖGK-K,Okt.23,FA für Chirurgie,276.0,165.0,441.0,2023,Kärnten
 2023-10,5.0,ÖGK-K,Okt.23,FA für Haut- und Geschlechtskrankheiten,840.0,1269.0,2109.0,2023,Kärnten
 2023-10,6.0,ÖGK-K,Okt.23,FA für Frauenheilkunde und Geburtshilfe,2478.0,2679.0,5157.0,2023,Kärnten
 2023-10,7.0,ÖGK-K,Okt.23,FA für Innere Medizin,2030.0,1070.0,3100.0,2023,Kärnten
@@ -593,6 +681,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-10,53.0,ÖGK-K,Okt.23,FA für Pathologie und Histologie,,,0.0,2023,Kärnten
 2023-10,55.0,ÖGK-K,Okt.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Kärnten
 2023-10,,ÖGK-K,Okt.23,Gesamt,11246.0,17585.0,28831.0,2023,Kärnten
+2023-11,1.0,ÖGK-K,Nov.23,Arzt für Allgemeinmedizin,1505.0,2001.0,3506.0,2023,Kärnten
+2023-11,2.0,ÖGK-K,Nov.23,FA für Anästhesiologie und Intensivmedizin,23.0,7.0,30.0,2023,Kärnten
+2023-11,3.0,ÖGK-K,Nov.23,FA für Augenheilkunde und Optometrie,1321.0,1860.0,3181.0,2023,Kärnten
+2023-11,4.0,ÖGK-K,Nov.23,FA für Chirurgie,568.0,340.0,908.0,2023,Kärnten
 2023-11,5.0,ÖGK-K,Nov.23,FA für Haut- und Geschlechtskrankheiten,1494.0,1523.0,3017.0,2023,Kärnten
 2023-11,6.0,ÖGK-K,Nov.23,FA für Frauenheilkunde und Geburtshilfe,3387.0,2648.0,6035.0,2023,Kärnten
 2023-11,7.0,ÖGK-K,Nov.23,FA für Innere Medizin,1541.0,1030.0,2571.0,2023,Kärnten
@@ -620,6 +712,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-11,53.0,ÖGK-K,Nov.23,FA für Pathologie und Histologie,,,0.0,2023,Kärnten
 2023-11,55.0,ÖGK-K,Nov.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Kärnten
 2023-11,,ÖGK-K,Nov.23,Gesamt,14277.0,16617.0,30894.0,2023,Kärnten
+2023-12,1.0,ÖGK-K,Dez.23,Arzt für Allgemeinmedizin,1246.0,1684.0,2930.0,2023,Kärnten
+2023-12,2.0,ÖGK-K,Dez.23,FA für Anästhesiologie und Intensivmedizin,32.0,11.0,43.0,2023,Kärnten
+2023-12,3.0,ÖGK-K,Dez.23,FA für Augenheilkunde und Optometrie,1311.0,1461.0,2772.0,2023,Kärnten
+2023-12,4.0,ÖGK-K,Dez.23,FA für Chirurgie,576.0,274.0,850.0,2023,Kärnten
 2023-12,5.0,ÖGK-K,Dez.23,FA für Haut- und Geschlechtskrankheiten,937.0,835.0,1772.0,2023,Kärnten
 2023-12,6.0,ÖGK-K,Dez.23,FA für Frauenheilkunde und Geburtshilfe,2307.0,1619.0,3926.0,2023,Kärnten
 2023-12,7.0,ÖGK-K,Dez.23,FA für Innere Medizin,1516.0,860.0,2376.0,2023,Kärnten
@@ -647,6 +743,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-12,53.0,ÖGK-K,Dez.23,FA für Pathologie und Histologie,,,0.0,2023,Kärnten
 2023-12,55.0,ÖGK-K,Dez.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Kärnten
 2023-12,,ÖGK-K,Dez.23,Gesamt,11668.0,12425.0,24093.0,2023,Kärnten
+2023-01,1.0,ÖGK-N,Jän.23,Arzt für Allgemeinmedizin,4781.0,5605.0,10386.0,2023,Niederösterreich
+2023-01,2.0,ÖGK-N,Jän.23,FA für Anästhesiologie und Intensivmedizin,192.0,169.0,361.0,2023,Niederösterreich
+2023-01,3.0,ÖGK-N,Jän.23,FA für Augenheilkunde und Optometrie,3048.0,1517.0,4565.0,2023,Niederösterreich
+2023-01,4.0,ÖGK-N,Jän.23,FA für Chirurgie,1137.0,513.0,1650.0,2023,Niederösterreich
 2023-01,5.0,ÖGK-N,Jän.23,FA für Haut- und Geschlechtskrankheiten,3196.0,2588.0,5784.0,2023,Niederösterreich
 2023-01,6.0,ÖGK-N,Jän.23,FA für Frauenheilkunde und Geburtshilfe,5206.0,3648.0,8854.0,2023,Niederösterreich
 2023-01,7.0,ÖGK-N,Jän.23,FA für Innere Medizin,4027.0,2354.0,6381.0,2023,Niederösterreich
@@ -674,6 +774,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-01,53.0,ÖGK-N,Jän.23,FA für Pathologie und Histologie,3.0,2.0,5.0,2023,Niederösterreich
 2023-01,55.0,ÖGK-N,Jän.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,1.0,1.0,2023,Niederösterreich
 2023-01,,ÖGK-N,Jän.23,Gesamt,36870.0,28359.0,65229.0,2023,Niederösterreich
+2023-02,1.0,ÖGK-N,Feb.23,Arzt für Allgemeinmedizin,6969.0,5527.0,12496.0,2023,Niederösterreich
+2023-02,2.0,ÖGK-N,Feb.23,FA für Anästhesiologie und Intensivmedizin,191.0,105.0,296.0,2023,Niederösterreich
+2023-02,3.0,ÖGK-N,Feb.23,FA für Augenheilkunde und Optometrie,2916.0,2059.0,4975.0,2023,Niederösterreich
+2023-02,4.0,ÖGK-N,Feb.23,FA für Chirurgie,985.0,553.0,1538.0,2023,Niederösterreich
 2023-02,5.0,ÖGK-N,Feb.23,FA für Haut- und Geschlechtskrankheiten,2479.0,3031.0,5510.0,2023,Niederösterreich
 2023-02,6.0,ÖGK-N,Feb.23,FA für Frauenheilkunde und Geburtshilfe,4022.0,3970.0,7992.0,2023,Niederösterreich
 2023-02,7.0,ÖGK-N,Feb.23,FA für Innere Medizin,3356.0,2681.0,6037.0,2023,Niederösterreich
@@ -701,6 +805,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-02,53.0,ÖGK-N,Feb.23,FA für Pathologie und Histologie,1.0,3.0,4.0,2023,Niederösterreich
 2023-02,55.0,ÖGK-N,Feb.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,1.0,1.0,2023,Niederösterreich
 2023-02,,ÖGK-N,Feb.23,Gesamt,33189.0,29942.0,63131.0,2023,Niederösterreich
+2023-03,1.0,ÖGK-N,Mär.23,Arzt für Allgemeinmedizin,5742.0,6175.0,11917.0,2023,Niederösterreich
+2023-03,2.0,ÖGK-N,Mär.23,FA für Anästhesiologie und Intensivmedizin,266.0,135.0,401.0,2023,Niederösterreich
+2023-03,3.0,ÖGK-N,Mär.23,FA für Augenheilkunde und Optometrie,2586.0,2633.0,5219.0,2023,Niederösterreich
+2023-03,4.0,ÖGK-N,Mär.23,FA für Chirurgie,1267.0,606.0,1873.0,2023,Niederösterreich
 2023-03,5.0,ÖGK-N,Mär.23,FA für Haut- und Geschlechtskrankheiten,3570.0,3688.0,7258.0,2023,Niederösterreich
 2023-03,6.0,ÖGK-N,Mär.23,FA für Frauenheilkunde und Geburtshilfe,4496.0,4866.0,9362.0,2023,Niederösterreich
 2023-03,7.0,ÖGK-N,Mär.23,FA für Innere Medizin,4846.0,3435.0,8281.0,2023,Niederösterreich
@@ -728,6 +836,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-03,53.0,ÖGK-N,Mär.23,FA für Pathologie und Histologie,1.0,1.0,2.0,2023,Niederösterreich
 2023-03,55.0,ÖGK-N,Mär.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,6.0,6.0,2023,Niederösterreich
 2023-03,,ÖGK-N,Mär.23,Gesamt,39287.0,35961.0,75248.0,2023,Niederösterreich
+2023-04,1.0,ÖGK-N,Apr.23,Arzt für Allgemeinmedizin,3893.0,4591.0,8484.0,2023,Niederösterreich
+2023-04,2.0,ÖGK-N,Apr.23,FA für Anästhesiologie und Intensivmedizin,185.0,74.0,259.0,2023,Niederösterreich
+2023-04,3.0,ÖGK-N,Apr.23,FA für Augenheilkunde und Optometrie,2285.0,1645.0,3930.0,2023,Niederösterreich
+2023-04,4.0,ÖGK-N,Apr.23,FA für Chirurgie,1052.0,419.0,1471.0,2023,Niederösterreich
 2023-04,5.0,ÖGK-N,Apr.23,FA für Haut- und Geschlechtskrankheiten,2821.0,2683.0,5504.0,2023,Niederösterreich
 2023-04,6.0,ÖGK-N,Apr.23,FA für Frauenheilkunde und Geburtshilfe,4003.0,3134.0,7137.0,2023,Niederösterreich
 2023-04,7.0,ÖGK-N,Apr.23,FA für Innere Medizin,3825.0,2491.0,6316.0,2023,Niederösterreich
@@ -755,6 +867,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-04,53.0,ÖGK-N,Apr.23,FA für Pathologie und Histologie,1.0,,1.0,2023,Niederösterreich
 2023-04,55.0,ÖGK-N,Apr.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Niederösterreich
 2023-04,,ÖGK-N,Apr.23,Gesamt,30642.0,25856.0,56498.0,2023,Niederösterreich
+2023-05,1.0,ÖGK-N,Mai.23,Arzt für Allgemeinmedizin,4505.0,4717.0,9222.0,2023,Niederösterreich
+2023-05,2.0,ÖGK-N,Mai.23,FA für Anästhesiologie und Intensivmedizin,197.0,62.0,259.0,2023,Niederösterreich
+2023-05,3.0,ÖGK-N,Mai.23,FA für Augenheilkunde und Optometrie,2136.0,1673.0,3809.0,2023,Niederösterreich
+2023-05,4.0,ÖGK-N,Mai.23,FA für Chirurgie,945.0,479.0,1424.0,2023,Niederösterreich
 2023-05,5.0,ÖGK-N,Mai.23,FA für Haut- und Geschlechtskrankheiten,2620.0,2671.0,5291.0,2023,Niederösterreich
 2023-05,6.0,ÖGK-N,Mai.23,FA für Frauenheilkunde und Geburtshilfe,4337.0,3275.0,7612.0,2023,Niederösterreich
 2023-05,7.0,ÖGK-N,Mai.23,FA für Innere Medizin,3004.0,2539.0,5543.0,2023,Niederösterreich
@@ -782,6 +898,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-05,53.0,ÖGK-N,Mai.23,FA für Pathologie und Histologie,1.0,3.0,4.0,2023,Niederösterreich
 2023-05,55.0,ÖGK-N,Mai.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,2.0,4.0,6.0,2023,Niederösterreich
 2023-05,,ÖGK-N,Mai.23,Gesamt,30190.0,26429.0,56619.0,2023,Niederösterreich
+2023-06,1.0,ÖGK-N,Jun.23,Arzt für Allgemeinmedizin,5747.0,4408.0,10155.0,2023,Niederösterreich
+2023-06,2.0,ÖGK-N,Jun.23,FA für Anästhesiologie und Intensivmedizin,259.0,75.0,334.0,2023,Niederösterreich
+2023-06,3.0,ÖGK-N,Jun.23,FA für Augenheilkunde und Optometrie,3540.0,1979.0,5519.0,2023,Niederösterreich
+2023-06,4.0,ÖGK-N,Jun.23,FA für Chirurgie,1613.0,449.0,2062.0,2023,Niederösterreich
 2023-06,5.0,ÖGK-N,Jun.23,FA für Haut- und Geschlechtskrankheiten,4081.0,3059.0,7140.0,2023,Niederösterreich
 2023-06,6.0,ÖGK-N,Jun.23,FA für Frauenheilkunde und Geburtshilfe,5188.0,3797.0,8985.0,2023,Niederösterreich
 2023-06,7.0,ÖGK-N,Jun.23,FA für Innere Medizin,5221.0,2778.0,7999.0,2023,Niederösterreich
@@ -809,6 +929,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-06,53.0,ÖGK-N,Jun.23,FA für Pathologie und Histologie,1.0,1.0,2.0,2023,Niederösterreich
 2023-06,55.0,ÖGK-N,Jun.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,2.0,2.0,2023,Niederösterreich
 2023-06,,ÖGK-N,Jun.23,Gesamt,42490.0,28525.0,71015.0,2023,Niederösterreich
+2023-07,1.0,ÖGK-N,Jul.23,Arzt für Allgemeinmedizin,5902.0,4760.0,10662.0,2023,Niederösterreich
+2023-07,2.0,ÖGK-N,Jul.23,FA für Anästhesiologie und Intensivmedizin,251.0,70.0,321.0,2023,Niederösterreich
+2023-07,3.0,ÖGK-N,Jul.23,FA für Augenheilkunde und Optometrie,3531.0,1625.0,5156.0,2023,Niederösterreich
+2023-07,4.0,ÖGK-N,Jul.23,FA für Chirurgie,1309.0,355.0,1664.0,2023,Niederösterreich
 2023-07,5.0,ÖGK-N,Jul.23,FA für Haut- und Geschlechtskrankheiten,3825.0,2325.0,6150.0,2023,Niederösterreich
 2023-07,6.0,ÖGK-N,Jul.23,FA für Frauenheilkunde und Geburtshilfe,6844.0,3060.0,9904.0,2023,Niederösterreich
 2023-07,7.0,ÖGK-N,Jul.23,FA für Innere Medizin,5213.0,2134.0,7347.0,2023,Niederösterreich
@@ -836,6 +960,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-07,53.0,ÖGK-N,Jul.23,FA für Pathologie und Histologie,1.0,1.0,2.0,2023,Niederösterreich
 2023-07,55.0,ÖGK-N,Jul.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,1.0,,1.0,2023,Niederösterreich
 2023-07,,ÖGK-N,Jul.23,Gesamt,45561.0,24092.0,69653.0,2023,Niederösterreich
+2023-08,1.0,ÖGK-N,Aug.23,Arzt für Allgemeinmedizin,5151.0,4228.0,9379.0,2023,Niederösterreich
+2023-08,2.0,ÖGK-N,Aug.23,FA für Anästhesiologie und Intensivmedizin,155.0,91.0,246.0,2023,Niederösterreich
+2023-08,3.0,ÖGK-N,Aug.23,FA für Augenheilkunde und Optometrie,3029.0,1617.0,4646.0,2023,Niederösterreich
+2023-08,4.0,ÖGK-N,Aug.23,FA für Chirurgie,1044.0,442.0,1486.0,2023,Niederösterreich
 2023-08,5.0,ÖGK-N,Aug.23,FA für Haut- und Geschlechtskrankheiten,2775.0,2955.0,5730.0,2023,Niederösterreich
 2023-08,6.0,ÖGK-N,Aug.23,FA für Frauenheilkunde und Geburtshilfe,4141.0,3659.0,7800.0,2023,Niederösterreich
 2023-08,7.0,ÖGK-N,Aug.23,FA für Innere Medizin,4105.0,2324.0,6429.0,2023,Niederösterreich
@@ -863,6 +991,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-08,53.0,ÖGK-N,Aug.23,FA für Pathologie und Histologie,,2.0,2.0,2023,Niederösterreich
 2023-08,55.0,ÖGK-N,Aug.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,2.0,2.0,2023,Niederösterreich
 2023-08,,ÖGK-N,Aug.23,Gesamt,33464.0,27124.0,60588.0,2023,Niederösterreich
+2023-09,1.0,ÖGK-N,Sep.23,Arzt für Allgemeinmedizin,5880.0,4664.0,10544.0,2023,Niederösterreich
+2023-09,2.0,ÖGK-N,Sep.23,FA für Anästhesiologie und Intensivmedizin,166.0,90.0,256.0,2023,Niederösterreich
+2023-09,3.0,ÖGK-N,Sep.23,FA für Augenheilkunde und Optometrie,3742.0,1819.0,5561.0,2023,Niederösterreich
+2023-09,4.0,ÖGK-N,Sep.23,FA für Chirurgie,858.0,422.0,1280.0,2023,Niederösterreich
 2023-09,5.0,ÖGK-N,Sep.23,FA für Haut- und Geschlechtskrankheiten,2093.0,2802.0,4895.0,2023,Niederösterreich
 2023-09,6.0,ÖGK-N,Sep.23,FA für Frauenheilkunde und Geburtshilfe,6039.0,3932.0,9971.0,2023,Niederösterreich
 2023-09,7.0,ÖGK-N,Sep.23,FA für Innere Medizin,3187.0,2457.0,5644.0,2023,Niederösterreich
@@ -890,6 +1022,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-09,53.0,ÖGK-N,Sep.23,FA für Pathologie und Histologie,5.0,2.0,7.0,2023,Niederösterreich
 2023-09,55.0,ÖGK-N,Sep.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,1.0,5.0,6.0,2023,Niederösterreich
 2023-09,,ÖGK-N,Sep.23,Gesamt,34726.0,27189.0,61915.0,2023,Niederösterreich
+2023-10,1.0,ÖGK-N,Okt.23,Arzt für Allgemeinmedizin,6395.0,5598.0,11993.0,2023,Niederösterreich
+2023-10,2.0,ÖGK-N,Okt.23,FA für Anästhesiologie und Intensivmedizin,149.0,96.0,245.0,2023,Niederösterreich
+2023-10,3.0,ÖGK-N,Okt.23,FA für Augenheilkunde und Optometrie,5360.0,2465.0,7825.0,2023,Niederösterreich
+2023-10,4.0,ÖGK-N,Okt.23,FA für Chirurgie,678.0,463.0,1141.0,2023,Niederösterreich
 2023-10,5.0,ÖGK-N,Okt.23,FA für Haut- und Geschlechtskrankheiten,3816.0,3095.0,6911.0,2023,Niederösterreich
 2023-10,6.0,ÖGK-N,Okt.23,FA für Frauenheilkunde und Geburtshilfe,8448.0,4479.0,12927.0,2023,Niederösterreich
 2023-10,7.0,ÖGK-N,Okt.23,FA für Innere Medizin,2582.0,2712.0,5294.0,2023,Niederösterreich
@@ -917,6 +1053,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-10,53.0,ÖGK-N,Okt.23,FA für Pathologie und Histologie,,1.0,1.0,2023,Niederösterreich
 2023-10,55.0,ÖGK-N,Okt.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,2.0,2.0,2023,Niederösterreich
 2023-10,,ÖGK-N,Okt.23,Gesamt,41520.0,31716.0,73236.0,2023,Niederösterreich
+2023-11,1.0,ÖGK-N,Nov.23,Arzt für Allgemeinmedizin,5275.0,4884.0,10159.0,2023,Niederösterreich
+2023-11,2.0,ÖGK-N,Nov.23,FA für Anästhesiologie und Intensivmedizin,307.0,53.0,360.0,2023,Niederösterreich
+2023-11,3.0,ÖGK-N,Nov.23,FA für Augenheilkunde und Optometrie,2205.0,2169.0,4374.0,2023,Niederösterreich
+2023-11,4.0,ÖGK-N,Nov.23,FA für Chirurgie,1604.0,273.0,1877.0,2023,Niederösterreich
 2023-11,5.0,ÖGK-N,Nov.23,FA für Haut- und Geschlechtskrankheiten,4797.0,2071.0,6868.0,2023,Niederösterreich
 2023-11,6.0,ÖGK-N,Nov.23,FA für Frauenheilkunde und Geburtshilfe,4415.0,4625.0,9040.0,2023,Niederösterreich
 2023-11,7.0,ÖGK-N,Nov.23,FA für Innere Medizin,8675.0,2655.0,11330.0,2023,Niederösterreich
@@ -944,6 +1084,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-11,53.0,ÖGK-N,Nov.23,FA für Pathologie und Histologie,1.0,1.0,2.0,2023,Niederösterreich
 2023-11,55.0,ÖGK-N,Nov.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Niederösterreich
 2023-11,,ÖGK-N,Nov.23,Gesamt,47611.0,27019.0,74630.0,2023,Niederösterreich
+2023-12,1.0,ÖGK-N,Dez.23,Arzt für Allgemeinmedizin,4957.0,5431.0,10388.0,2023,Niederösterreich
+2023-12,2.0,ÖGK-N,Dez.23,FA für Anästhesiologie und Intensivmedizin,167.0,61.0,228.0,2023,Niederösterreich
+2023-12,3.0,ÖGK-N,Dez.23,FA für Augenheilkunde und Optometrie,2356.0,1742.0,4098.0,2023,Niederösterreich
+2023-12,4.0,ÖGK-N,Dez.23,FA für Chirurgie,935.0,355.0,1290.0,2023,Niederösterreich
 2023-12,5.0,ÖGK-N,Dez.23,FA für Haut- und Geschlechtskrankheiten,3014.0,2504.0,5518.0,2023,Niederösterreich
 2023-12,6.0,ÖGK-N,Dez.23,FA für Frauenheilkunde und Geburtshilfe,3552.0,3938.0,7490.0,2023,Niederösterreich
 2023-12,7.0,ÖGK-N,Dez.23,FA für Innere Medizin,4731.0,2892.0,7623.0,2023,Niederösterreich
@@ -971,6 +1115,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-12,53.0,ÖGK-N,Dez.23,FA für Pathologie und Histologie,1.0,,1.0,2023,Niederösterreich
 2023-12,55.0,ÖGK-N,Dez.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,6.0,,6.0,2023,Niederösterreich
 2023-12,,ÖGK-N,Dez.23,Gesamt,33184.0,27034.0,60218.0,2023,Niederösterreich
+2023-01,1.0,ÖGK-O,Jän.23,Arzt für Allgemeinmedizin,4923.0,6960.0,11883.0,2023,Oberösterreich
+2023-01,2.0,ÖGK-O,Jän.23,FA für Anästhesiologie und Intensivmedizin,276.0,107.0,383.0,2023,Oberösterreich
+2023-01,3.0,ÖGK-O,Jän.23,FA für Augenheilkunde und Optometrie,2185.0,2876.0,5061.0,2023,Oberösterreich
+2023-01,4.0,ÖGK-O,Jän.23,FA für Chirurgie,666.0,331.0,997.0,2023,Oberösterreich
 2023-01,5.0,ÖGK-O,Jän.23,FA für Haut- und Geschlechtskrankheiten,3259.0,2785.0,6044.0,2023,Oberösterreich
 2023-01,6.0,ÖGK-O,Jän.23,FA für Frauenheilkunde und Geburtshilfe,4887.0,5917.0,10804.0,2023,Oberösterreich
 2023-01,7.0,ÖGK-O,Jän.23,FA für Innere Medizin,2590.0,1918.0,4508.0,2023,Oberösterreich
@@ -998,6 +1146,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-01,53.0,ÖGK-O,Jän.23,FA für Pathologie und Histologie,49.0,41.0,90.0,2023,Oberösterreich
 2023-01,55.0,ÖGK-O,Jän.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,1.0,1.0,2023,Oberösterreich
 2023-01,,ÖGK-O,Jän.23,Gesamt,28868.0,30445.0,59313.0,2023,Oberösterreich
+2023-02,1.0,ÖGK-O,Feb.23,Arzt für Allgemeinmedizin,5244.0,5204.0,10448.0,2023,Oberösterreich
+2023-02,2.0,ÖGK-O,Feb.23,FA für Anästhesiologie und Intensivmedizin,299.0,90.0,389.0,2023,Oberösterreich
+2023-02,3.0,ÖGK-O,Feb.23,FA für Augenheilkunde und Optometrie,2353.0,2675.0,5028.0,2023,Oberösterreich
+2023-02,4.0,ÖGK-O,Feb.23,FA für Chirurgie,671.0,256.0,927.0,2023,Oberösterreich
 2023-02,5.0,ÖGK-O,Feb.23,FA für Haut- und Geschlechtskrankheiten,3075.0,2474.0,5549.0,2023,Oberösterreich
 2023-02,6.0,ÖGK-O,Feb.23,FA für Frauenheilkunde und Geburtshilfe,4896.0,5675.0,10571.0,2023,Oberösterreich
 2023-02,7.0,ÖGK-O,Feb.23,FA für Innere Medizin,2743.0,1884.0,4627.0,2023,Oberösterreich
@@ -1025,6 +1177,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-02,53.0,ÖGK-O,Feb.23,FA für Pathologie und Histologie,49.0,28.0,77.0,2023,Oberösterreich
 2023-02,55.0,ÖGK-O,Feb.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,1.0,,1.0,2023,Oberösterreich
 2023-02,,ÖGK-O,Feb.23,Gesamt,29214.0,26655.0,55869.0,2023,Oberösterreich
+2023-03,1.0,ÖGK-O,Mär.23,Arzt für Allgemeinmedizin,4036.0,7115.0,11151.0,2023,Oberösterreich
+2023-03,2.0,ÖGK-O,Mär.23,FA für Anästhesiologie und Intensivmedizin,288.0,121.0,409.0,2023,Oberösterreich
+2023-03,3.0,ÖGK-O,Mär.23,FA für Augenheilkunde und Optometrie,2666.0,4064.0,6730.0,2023,Oberösterreich
+2023-03,4.0,ÖGK-O,Mär.23,FA für Chirurgie,609.0,392.0,1001.0,2023,Oberösterreich
 2023-03,5.0,ÖGK-O,Mär.23,FA für Haut- und Geschlechtskrankheiten,3588.0,3730.0,7318.0,2023,Oberösterreich
 2023-03,6.0,ÖGK-O,Mär.23,FA für Frauenheilkunde und Geburtshilfe,5258.0,7721.0,12979.0,2023,Oberösterreich
 2023-03,7.0,ÖGK-O,Mär.23,FA für Innere Medizin,2794.0,2481.0,5275.0,2023,Oberösterreich
@@ -1052,6 +1208,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-03,53.0,ÖGK-O,Mär.23,FA für Pathologie und Histologie,55.0,43.0,98.0,2023,Oberösterreich
 2023-03,55.0,ÖGK-O,Mär.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,2.0,2.0,2023,Oberösterreich
 2023-03,,ÖGK-O,Mär.23,Gesamt,29754.0,38943.0,68697.0,2023,Oberösterreich
+2023-04,1.0,ÖGK-O,Apr.23,Arzt für Allgemeinmedizin,3992.0,6636.0,10628.0,2023,Oberösterreich
+2023-04,2.0,ÖGK-O,Apr.23,FA für Anästhesiologie und Intensivmedizin,193.0,103.0,296.0,2023,Oberösterreich
+2023-04,3.0,ÖGK-O,Apr.23,FA für Augenheilkunde und Optometrie,2391.0,2958.0,5349.0,2023,Oberösterreich
+2023-04,4.0,ÖGK-O,Apr.23,FA für Chirurgie,611.0,354.0,965.0,2023,Oberösterreich
 2023-04,5.0,ÖGK-O,Apr.23,FA für Haut- und Geschlechtskrankheiten,3026.0,3045.0,6071.0,2023,Oberösterreich
 2023-04,6.0,ÖGK-O,Apr.23,FA für Frauenheilkunde und Geburtshilfe,5096.0,5694.0,10790.0,2023,Oberösterreich
 2023-04,7.0,ÖGK-O,Apr.23,FA für Innere Medizin,2045.0,2101.0,4146.0,2023,Oberösterreich
@@ -1079,6 +1239,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-04,53.0,ÖGK-O,Apr.23,FA für Pathologie und Histologie,57.0,32.0,89.0,2023,Oberösterreich
 2023-04,55.0,ÖGK-O,Apr.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,3.0,,3.0,2023,Oberösterreich
 2023-04,,ÖGK-O,Apr.23,Gesamt,26059.0,30921.0,56980.0,2023,Oberösterreich
+2023-05,1.0,ÖGK-O,Mai.23,Arzt für Allgemeinmedizin,4189.0,4808.0,8997.0,2023,Oberösterreich
+2023-05,2.0,ÖGK-O,Mai.23,FA für Anästhesiologie und Intensivmedizin,207.0,79.0,286.0,2023,Oberösterreich
+2023-05,3.0,ÖGK-O,Mai.23,FA für Augenheilkunde und Optometrie,2187.0,2832.0,5019.0,2023,Oberösterreich
+2023-05,4.0,ÖGK-O,Mai.23,FA für Chirurgie,702.0,249.0,951.0,2023,Oberösterreich
 2023-05,5.0,ÖGK-O,Mai.23,FA für Haut- und Geschlechtskrankheiten,3259.0,2494.0,5753.0,2023,Oberösterreich
 2023-05,6.0,ÖGK-O,Mai.23,FA für Frauenheilkunde und Geburtshilfe,4746.0,5322.0,10068.0,2023,Oberösterreich
 2023-05,7.0,ÖGK-O,Mai.23,FA für Innere Medizin,2638.0,1669.0,4307.0,2023,Oberösterreich
@@ -1106,6 +1270,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-05,53.0,ÖGK-O,Mai.23,FA für Pathologie und Histologie,42.0,19.0,61.0,2023,Oberösterreich
 2023-05,55.0,ÖGK-O,Mai.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Oberösterreich
 2023-05,,ÖGK-O,Mai.23,Gesamt,28031.0,25344.0,53375.0,2023,Oberösterreich
+2023-06,1.0,ÖGK-O,Jun.23,Arzt für Allgemeinmedizin,5273.0,4683.0,9956.0,2023,Oberösterreich
+2023-06,2.0,ÖGK-O,Jun.23,FA für Anästhesiologie und Intensivmedizin,339.0,70.0,409.0,2023,Oberösterreich
+2023-06,3.0,ÖGK-O,Jun.23,FA für Augenheilkunde und Optometrie,2802.0,3224.0,6026.0,2023,Oberösterreich
+2023-06,4.0,ÖGK-O,Jun.23,FA für Chirurgie,860.0,231.0,1091.0,2023,Oberösterreich
 2023-06,5.0,ÖGK-O,Jun.23,FA für Haut- und Geschlechtskrankheiten,3788.0,3355.0,7143.0,2023,Oberösterreich
 2023-06,6.0,ÖGK-O,Jun.23,FA für Frauenheilkunde und Geburtshilfe,5340.0,6805.0,12145.0,2023,Oberösterreich
 2023-06,7.0,ÖGK-O,Jun.23,FA für Innere Medizin,3111.0,2049.0,5160.0,2023,Oberösterreich
@@ -1133,6 +1301,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-06,53.0,ÖGK-O,Jun.23,FA für Pathologie und Histologie,60.0,28.0,88.0,2023,Oberösterreich
 2023-06,55.0,ÖGK-O,Jun.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Oberösterreich
 2023-06,,ÖGK-O,Jun.23,Gesamt,33099.0,28645.0,61744.0,2023,Oberösterreich
+2023-07,1.0,ÖGK-O,Jul.23,Arzt für Allgemeinmedizin,4562.0,5758.0,10320.0,2023,Oberösterreich
+2023-07,2.0,ÖGK-O,Jul.23,FA für Anästhesiologie und Intensivmedizin,252.0,93.0,345.0,2023,Oberösterreich
+2023-07,3.0,ÖGK-O,Jul.23,FA für Augenheilkunde und Optometrie,2306.0,2672.0,4978.0,2023,Oberösterreich
+2023-07,4.0,ÖGK-O,Jul.23,FA für Chirurgie,746.0,264.0,1010.0,2023,Oberösterreich
 2023-07,5.0,ÖGK-O,Jul.23,FA für Haut- und Geschlechtskrankheiten,3137.0,2749.0,5886.0,2023,Oberösterreich
 2023-07,6.0,ÖGK-O,Jul.23,FA für Frauenheilkunde und Geburtshilfe,4521.0,4695.0,9216.0,2023,Oberösterreich
 2023-07,7.0,ÖGK-O,Jul.23,FA für Innere Medizin,2065.0,1727.0,3792.0,2023,Oberösterreich
@@ -1160,6 +1332,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-07,53.0,ÖGK-O,Jul.23,FA für Pathologie und Histologie,53.0,22.0,75.0,2023,Oberösterreich
 2023-07,55.0,ÖGK-O,Jul.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Oberösterreich
 2023-07,,ÖGK-O,Jul.23,Gesamt,27504.0,26593.0,54097.0,2023,Oberösterreich
+2023-08,1.0,ÖGK-O,Aug.23,Arzt für Allgemeinmedizin,3429.0,3997.0,7426.0,2023,Oberösterreich
+2023-08,2.0,ÖGK-O,Aug.23,FA für Anästhesiologie und Intensivmedizin,210.0,72.0,282.0,2023,Oberösterreich
+2023-08,3.0,ÖGK-O,Aug.23,FA für Augenheilkunde und Optometrie,1678.0,2064.0,3742.0,2023,Oberösterreich
+2023-08,4.0,ÖGK-O,Aug.23,FA für Chirurgie,422.0,257.0,679.0,2023,Oberösterreich
 2023-08,5.0,ÖGK-O,Aug.23,FA für Haut- und Geschlechtskrankheiten,2157.0,2177.0,4334.0,2023,Oberösterreich
 2023-08,6.0,ÖGK-O,Aug.23,FA für Frauenheilkunde und Geburtshilfe,3591.0,3823.0,7414.0,2023,Oberösterreich
 2023-08,7.0,ÖGK-O,Aug.23,FA für Innere Medizin,1937.0,1352.0,3289.0,2023,Oberösterreich
@@ -1187,6 +1363,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-08,53.0,ÖGK-O,Aug.23,FA für Pathologie und Histologie,33.0,26.0,59.0,2023,Oberösterreich
 2023-08,55.0,ÖGK-O,Aug.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Oberösterreich
 2023-08,,ÖGK-O,Aug.23,Gesamt,21054.0,20976.0,42030.0,2023,Oberösterreich
+2023-09,1.0,ÖGK-O,Sep.23,Arzt für Allgemeinmedizin,2630.0,6446.0,9076.0,2023,Oberösterreich
+2023-09,2.0,ÖGK-O,Sep.23,FA für Anästhesiologie und Intensivmedizin,194.0,117.0,311.0,2023,Oberösterreich
+2023-09,3.0,ÖGK-O,Sep.23,FA für Augenheilkunde und Optometrie,2092.0,3212.0,5304.0,2023,Oberösterreich
+2023-09,4.0,ÖGK-O,Sep.23,FA für Chirurgie,421.0,396.0,817.0,2023,Oberösterreich
 2023-09,5.0,ÖGK-O,Sep.23,FA für Haut- und Geschlechtskrankheiten,2421.0,3895.0,6316.0,2023,Oberösterreich
 2023-09,6.0,ÖGK-O,Sep.23,FA für Frauenheilkunde und Geburtshilfe,3876.0,7813.0,11689.0,2023,Oberösterreich
 2023-09,7.0,ÖGK-O,Sep.23,FA für Innere Medizin,1373.0,2509.0,3882.0,2023,Oberösterreich
@@ -1214,6 +1394,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-09,53.0,ÖGK-O,Sep.23,FA für Pathologie und Histologie,42.0,53.0,95.0,2023,Oberösterreich
 2023-09,55.0,ÖGK-O,Sep.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,1.0,,1.0,2023,Oberösterreich
 2023-09,,ÖGK-O,Sep.23,Gesamt,19546.0,35987.0,55533.0,2023,Oberösterreich
+2023-10,1.0,ÖGK-O,Okt.23,Arzt für Allgemeinmedizin,4344.0,4609.0,8953.0,2023,Oberösterreich
+2023-10,2.0,ÖGK-O,Okt.23,FA für Anästhesiologie und Intensivmedizin,194.0,67.0,261.0,2023,Oberösterreich
+2023-10,3.0,ÖGK-O,Okt.23,FA für Augenheilkunde und Optometrie,2611.0,2829.0,5440.0,2023,Oberösterreich
+2023-10,4.0,ÖGK-O,Okt.23,FA für Chirurgie,635.0,260.0,895.0,2023,Oberösterreich
 2023-10,5.0,ÖGK-O,Okt.23,FA für Haut- und Geschlechtskrankheiten,3193.0,3028.0,6221.0,2023,Oberösterreich
 2023-10,6.0,ÖGK-O,Okt.23,FA für Frauenheilkunde und Geburtshilfe,4994.0,4661.0,9655.0,2023,Oberösterreich
 2023-10,7.0,ÖGK-O,Okt.23,FA für Innere Medizin,2469.0,1848.0,4317.0,2023,Oberösterreich
@@ -1241,6 +1425,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-10,53.0,ÖGK-O,Okt.23,FA für Pathologie und Histologie,43.0,30.0,73.0,2023,Oberösterreich
 2023-10,55.0,ÖGK-O,Okt.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Oberösterreich
 2023-10,,ÖGK-O,Okt.23,Gesamt,27829.0,25513.0,53342.0,2023,Oberösterreich
+2023-11,1.0,ÖGK-O,Nov.23,Arzt für Allgemeinmedizin,3288.0,7494.0,10782.0,2023,Oberösterreich
+2023-11,2.0,ÖGK-O,Nov.23,FA für Anästhesiologie und Intensivmedizin,133.0,61.0,194.0,2023,Oberösterreich
+2023-11,3.0,ÖGK-O,Nov.23,FA für Augenheilkunde und Optometrie,2364.0,3971.0,6335.0,2023,Oberösterreich
+2023-11,4.0,ÖGK-O,Nov.23,FA für Chirurgie,450.0,295.0,745.0,2023,Oberösterreich
 2023-11,5.0,ÖGK-O,Nov.23,FA für Haut- und Geschlechtskrankheiten,3002.0,4175.0,7177.0,2023,Oberösterreich
 2023-11,6.0,ÖGK-O,Nov.23,FA für Frauenheilkunde und Geburtshilfe,4227.0,9202.0,13429.0,2023,Oberösterreich
 2023-11,7.0,ÖGK-O,Nov.23,FA für Innere Medizin,1854.0,2944.0,4798.0,2023,Oberösterreich
@@ -1268,6 +1456,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-11,53.0,ÖGK-O,Nov.23,FA für Pathologie und Histologie,42.0,22.0,64.0,2023,Oberösterreich
 2023-11,55.0,ÖGK-O,Nov.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Oberösterreich
 2023-11,,ÖGK-O,Nov.23,Gesamt,23367.0,39194.0,62561.0,2023,Oberösterreich
+2023-12,1.0,ÖGK-O,Dez.23,Arzt für Allgemeinmedizin,3131.0,5395.0,8526.0,2023,Oberösterreich
+2023-12,2.0,ÖGK-O,Dez.23,FA für Anästhesiologie und Intensivmedizin,112.0,72.0,184.0,2023,Oberösterreich
+2023-12,3.0,ÖGK-O,Dez.23,FA für Augenheilkunde und Optometrie,1826.0,2698.0,4524.0,2023,Oberösterreich
+2023-12,4.0,ÖGK-O,Dez.23,FA für Chirurgie,429.0,239.0,668.0,2023,Oberösterreich
 2023-12,5.0,ÖGK-O,Dez.23,FA für Haut- und Geschlechtskrankheiten,2443.0,2750.0,5193.0,2023,Oberösterreich
 2023-12,6.0,ÖGK-O,Dez.23,FA für Frauenheilkunde und Geburtshilfe,3924.0,5887.0,9811.0,2023,Oberösterreich
 2023-12,7.0,ÖGK-O,Dez.23,FA für Innere Medizin,1812.0,1868.0,3680.0,2023,Oberösterreich
@@ -1295,6 +1487,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-12,53.0,ÖGK-O,Dez.23,FA für Pathologie und Histologie,26.0,30.0,56.0,2023,Oberösterreich
 2023-12,55.0,ÖGK-O,Dez.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Oberösterreich
 2023-12,,ÖGK-O,Dez.23,Gesamt,20746.0,27355.0,48101.0,2023,Oberösterreich
+2023-01,1.0,ÖGK-S,Jän.23,Arzt für Allgemeinmedizin,1840.0,1314.0,3154.0,2023,Salzburg
+2023-01,2.0,ÖGK-S,Jän.23,FA für Anästhesiologie und Intensivmedizin,87.0,38.0,125.0,2023,Salzburg
+2023-01,3.0,ÖGK-S,Jän.23,FA für Augenheilkunde und Optometrie,1002.0,676.0,1678.0,2023,Salzburg
+2023-01,4.0,ÖGK-S,Jän.23,FA für Chirurgie,315.0,116.0,431.0,2023,Salzburg
 2023-01,5.0,ÖGK-S,Jän.23,FA für Haut- und Geschlechtskrankheiten,1149.0,655.0,1804.0,2023,Salzburg
 2023-01,6.0,ÖGK-S,Jän.23,FA für Frauenheilkunde und Geburtshilfe,3056.0,1331.0,4387.0,2023,Salzburg
 2023-01,7.0,ÖGK-S,Jän.23,FA für Innere Medizin,1258.0,603.0,1861.0,2023,Salzburg
@@ -1322,6 +1518,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-01,53.0,ÖGK-S,Jän.23,FA für Pathologie und Histologie,,,0.0,2023,Salzburg
 2023-01,55.0,ÖGK-S,Jän.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Salzburg
 2023-01,,ÖGK-S,Jän.23,Gesamt,12641.0,7949.0,20590.0,2023,Salzburg
+2023-02,1.0,ÖGK-S,Feb.23,Arzt für Allgemeinmedizin,1746.0,1132.0,2878.0,2023,Salzburg
+2023-02,2.0,ÖGK-S,Feb.23,FA für Anästhesiologie und Intensivmedizin,64.0,46.0,110.0,2023,Salzburg
+2023-02,3.0,ÖGK-S,Feb.23,FA für Augenheilkunde und Optometrie,904.0,1529.0,2433.0,2023,Salzburg
+2023-02,4.0,ÖGK-S,Feb.23,FA für Chirurgie,292.0,168.0,460.0,2023,Salzburg
 2023-02,5.0,ÖGK-S,Feb.23,FA für Haut- und Geschlechtskrankheiten,1010.0,703.0,1713.0,2023,Salzburg
 2023-02,6.0,ÖGK-S,Feb.23,FA für Frauenheilkunde und Geburtshilfe,2980.0,1967.0,4947.0,2023,Salzburg
 2023-02,7.0,ÖGK-S,Feb.23,FA für Innere Medizin,1363.0,646.0,2009.0,2023,Salzburg
@@ -1349,6 +1549,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-02,53.0,ÖGK-S,Feb.23,FA für Pathologie und Histologie,1.0,,1.0,2023,Salzburg
 2023-02,55.0,ÖGK-S,Feb.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Salzburg
 2023-02,,ÖGK-S,Feb.23,Gesamt,12969.0,9599.0,22568.0,2023,Salzburg
+2023-03,1.0,ÖGK-S,Mär.23,Arzt für Allgemeinmedizin,1779.0,1296.0,3075.0,2023,Salzburg
+2023-03,2.0,ÖGK-S,Mär.23,FA für Anästhesiologie und Intensivmedizin,55.0,34.0,89.0,2023,Salzburg
+2023-03,3.0,ÖGK-S,Mär.23,FA für Augenheilkunde und Optometrie,1215.0,1556.0,2771.0,2023,Salzburg
+2023-03,4.0,ÖGK-S,Mär.23,FA für Chirurgie,257.0,211.0,468.0,2023,Salzburg
 2023-03,5.0,ÖGK-S,Mär.23,FA für Haut- und Geschlechtskrankheiten,1281.0,840.0,2121.0,2023,Salzburg
 2023-03,6.0,ÖGK-S,Mär.23,FA für Frauenheilkunde und Geburtshilfe,3494.0,2432.0,5926.0,2023,Salzburg
 2023-03,7.0,ÖGK-S,Mär.23,FA für Innere Medizin,1465.0,809.0,2274.0,2023,Salzburg
@@ -1376,6 +1580,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-03,53.0,ÖGK-S,Mär.23,FA für Pathologie und Histologie,,,0.0,2023,Salzburg
 2023-03,55.0,ÖGK-S,Mär.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Salzburg
 2023-03,,ÖGK-S,Mär.23,Gesamt,14666.0,11052.0,25718.0,2023,Salzburg
+2023-04,1.0,ÖGK-S,Apr.23,Arzt für Allgemeinmedizin,1403.0,1104.0,2507.0,2023,Salzburg
+2023-04,2.0,ÖGK-S,Apr.23,FA für Anästhesiologie und Intensivmedizin,42.0,22.0,64.0,2023,Salzburg
+2023-04,3.0,ÖGK-S,Apr.23,FA für Augenheilkunde und Optometrie,806.0,1047.0,1853.0,2023,Salzburg
+2023-04,4.0,ÖGK-S,Apr.23,FA für Chirurgie,212.0,172.0,384.0,2023,Salzburg
 2023-04,5.0,ÖGK-S,Apr.23,FA für Haut- und Geschlechtskrankheiten,924.0,607.0,1531.0,2023,Salzburg
 2023-04,6.0,ÖGK-S,Apr.23,FA für Frauenheilkunde und Geburtshilfe,2423.0,1748.0,4171.0,2023,Salzburg
 2023-04,7.0,ÖGK-S,Apr.23,FA für Innere Medizin,993.0,653.0,1646.0,2023,Salzburg
@@ -1403,6 +1611,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-04,53.0,ÖGK-S,Apr.23,FA für Pathologie und Histologie,,1.0,1.0,2023,Salzburg
 2023-04,55.0,ÖGK-S,Apr.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Salzburg
 2023-04,,ÖGK-S,Apr.23,Gesamt,10265.0,7959.0,18224.0,2023,Salzburg
+2023-05,1.0,ÖGK-S,Mai.23,Arzt für Allgemeinmedizin,1483.0,1049.0,2532.0,2023,Salzburg
+2023-05,2.0,ÖGK-S,Mai.23,FA für Anästhesiologie und Intensivmedizin,32.0,28.0,60.0,2023,Salzburg
+2023-05,3.0,ÖGK-S,Mai.23,FA für Augenheilkunde und Optometrie,871.0,1644.0,2515.0,2023,Salzburg
+2023-05,4.0,ÖGK-S,Mai.23,FA für Chirurgie,218.0,141.0,359.0,2023,Salzburg
 2023-05,5.0,ÖGK-S,Mai.23,FA für Haut- und Geschlechtskrankheiten,1024.0,589.0,1613.0,2023,Salzburg
 2023-05,6.0,ÖGK-S,Mai.23,FA für Frauenheilkunde und Geburtshilfe,2376.0,1488.0,3864.0,2023,Salzburg
 2023-05,7.0,ÖGK-S,Mai.23,FA für Innere Medizin,1173.0,588.0,1761.0,2023,Salzburg
@@ -1430,6 +1642,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-05,53.0,ÖGK-S,Mai.23,FA für Pathologie und Histologie,,,0.0,2023,Salzburg
 2023-05,55.0,ÖGK-S,Mai.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Salzburg
 2023-05,,ÖGK-S,Mai.23,Gesamt,10318.0,8456.0,18774.0,2023,Salzburg
+2023-06,1.0,ÖGK-S,Jun.23,Arzt für Allgemeinmedizin,1420.0,1342.0,2762.0,2023,Salzburg
+2023-06,2.0,ÖGK-S,Jun.23,FA für Anästhesiologie und Intensivmedizin,56.0,35.0,91.0,2023,Salzburg
+2023-06,3.0,ÖGK-S,Jun.23,FA für Augenheilkunde und Optometrie,962.0,1382.0,2344.0,2023,Salzburg
+2023-06,4.0,ÖGK-S,Jun.23,FA für Chirurgie,248.0,223.0,471.0,2023,Salzburg
 2023-06,5.0,ÖGK-S,Jun.23,FA für Haut- und Geschlechtskrankheiten,1031.0,869.0,1900.0,2023,Salzburg
 2023-06,6.0,ÖGK-S,Jun.23,FA für Frauenheilkunde und Geburtshilfe,2395.0,2317.0,4712.0,2023,Salzburg
 2023-06,7.0,ÖGK-S,Jun.23,FA für Innere Medizin,1272.0,740.0,2012.0,2023,Salzburg
@@ -1457,6 +1673,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-06,53.0,ÖGK-S,Jun.23,FA für Pathologie und Histologie,,,0.0,2023,Salzburg
 2023-06,55.0,ÖGK-S,Jun.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Salzburg
 2023-06,,ÖGK-S,Jun.23,Gesamt,11536.0,10590.0,22126.0,2023,Salzburg
+2023-07,1.0,ÖGK-S,Jul.23,Arzt für Allgemeinmedizin,1726.0,994.0,2720.0,2023,Salzburg
+2023-07,2.0,ÖGK-S,Jul.23,FA für Anästhesiologie und Intensivmedizin,47.0,27.0,74.0,2023,Salzburg
+2023-07,3.0,ÖGK-S,Jul.23,FA für Augenheilkunde und Optometrie,1190.0,1167.0,2357.0,2023,Salzburg
+2023-07,4.0,ÖGK-S,Jul.23,FA für Chirurgie,304.0,180.0,484.0,2023,Salzburg
 2023-07,5.0,ÖGK-S,Jul.23,FA für Haut- und Geschlechtskrankheiten,1325.0,687.0,2012.0,2023,Salzburg
 2023-07,6.0,ÖGK-S,Jul.23,FA für Frauenheilkunde und Geburtshilfe,3361.0,2030.0,5391.0,2023,Salzburg
 2023-07,7.0,ÖGK-S,Jul.23,FA für Innere Medizin,1132.0,711.0,1843.0,2023,Salzburg
@@ -1484,6 +1704,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-07,53.0,ÖGK-S,Jul.23,FA für Pathologie und Histologie,1.0,,1.0,2023,Salzburg
 2023-07,55.0,ÖGK-S,Jul.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Salzburg
 2023-07,,ÖGK-S,Jul.23,Gesamt,13514.0,8914.0,22428.0,2023,Salzburg
+2023-08,1.0,ÖGK-S,Aug.23,Arzt für Allgemeinmedizin,1516.0,1176.0,2692.0,2023,Salzburg
+2023-08,2.0,ÖGK-S,Aug.23,FA für Anästhesiologie und Intensivmedizin,64.0,21.0,85.0,2023,Salzburg
+2023-08,3.0,ÖGK-S,Aug.23,FA für Augenheilkunde und Optometrie,919.0,1538.0,2457.0,2023,Salzburg
+2023-08,4.0,ÖGK-S,Aug.23,FA für Chirurgie,230.0,229.0,459.0,2023,Salzburg
 2023-08,5.0,ÖGK-S,Aug.23,FA für Haut- und Geschlechtskrankheiten,1125.0,788.0,1913.0,2023,Salzburg
 2023-08,6.0,ÖGK-S,Aug.23,FA für Frauenheilkunde und Geburtshilfe,2811.0,2118.0,4929.0,2023,Salzburg
 2023-08,7.0,ÖGK-S,Aug.23,FA für Innere Medizin,1208.0,857.0,2065.0,2023,Salzburg
@@ -1511,6 +1735,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-08,53.0,ÖGK-S,Aug.23,FA für Pathologie und Histologie,,1.0,1.0,2023,Salzburg
 2023-08,55.0,ÖGK-S,Aug.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Salzburg
 2023-08,,ÖGK-S,Aug.23,Gesamt,12219.0,10030.0,22249.0,2023,Salzburg
+2023-09,1.0,ÖGK-S,Sep.23,Arzt für Allgemeinmedizin,1438.0,1234.0,2672.0,2023,Salzburg
+2023-09,2.0,ÖGK-S,Sep.23,FA für Anästhesiologie und Intensivmedizin,49.0,39.0,88.0,2023,Salzburg
+2023-09,3.0,ÖGK-S,Sep.23,FA für Augenheilkunde und Optometrie,905.0,1171.0,2076.0,2023,Salzburg
+2023-09,4.0,ÖGK-S,Sep.23,FA für Chirurgie,220.0,192.0,412.0,2023,Salzburg
 2023-09,5.0,ÖGK-S,Sep.23,FA für Haut- und Geschlechtskrankheiten,1103.0,804.0,1907.0,2023,Salzburg
 2023-09,6.0,ÖGK-S,Sep.23,FA für Frauenheilkunde und Geburtshilfe,2641.0,2164.0,4805.0,2023,Salzburg
 2023-09,7.0,ÖGK-S,Sep.23,FA für Innere Medizin,1055.0,756.0,1811.0,2023,Salzburg
@@ -1538,6 +1766,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-09,53.0,ÖGK-S,Sep.23,FA für Pathologie und Histologie,2.0,1.0,3.0,2023,Salzburg
 2023-09,55.0,ÖGK-S,Sep.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Salzburg
 2023-09,,ÖGK-S,Sep.23,Gesamt,11543.0,9935.0,21478.0,2023,Salzburg
+2023-10,1.0,ÖGK-S,Okt.23,Arzt für Allgemeinmedizin,1157.0,1076.0,2233.0,2023,Salzburg
+2023-10,2.0,ÖGK-S,Okt.23,FA für Anästhesiologie und Intensivmedizin,49.0,26.0,75.0,2023,Salzburg
+2023-10,3.0,ÖGK-S,Okt.23,FA für Augenheilkunde und Optometrie,686.0,1535.0,2221.0,2023,Salzburg
+2023-10,4.0,ÖGK-S,Okt.23,FA für Chirurgie,148.0,200.0,348.0,2023,Salzburg
 2023-10,5.0,ÖGK-S,Okt.23,FA für Haut- und Geschlechtskrankheiten,826.0,631.0,1457.0,2023,Salzburg
 2023-10,6.0,ÖGK-S,Okt.23,FA für Frauenheilkunde und Geburtshilfe,2207.0,2158.0,4365.0,2023,Salzburg
 2023-10,7.0,ÖGK-S,Okt.23,FA für Innere Medizin,824.0,816.0,1640.0,2023,Salzburg
@@ -1565,6 +1797,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-10,53.0,ÖGK-S,Okt.23,FA für Pathologie und Histologie,,,0.0,2023,Salzburg
 2023-10,55.0,ÖGK-S,Okt.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Salzburg
 2023-10,,ÖGK-S,Okt.23,Gesamt,9164.0,9894.0,19058.0,2023,Salzburg
+2023-11,1.0,ÖGK-S,Nov.23,Arzt für Allgemeinmedizin,1735.0,1401.0,3136.0,2023,Salzburg
+2023-11,2.0,ÖGK-S,Nov.23,FA für Anästhesiologie und Intensivmedizin,44.0,16.0,60.0,2023,Salzburg
+2023-11,3.0,ÖGK-S,Nov.23,FA für Augenheilkunde und Optometrie,1070.0,1536.0,2606.0,2023,Salzburg
+2023-11,4.0,ÖGK-S,Nov.23,FA für Chirurgie,242.0,236.0,478.0,2023,Salzburg
 2023-11,5.0,ÖGK-S,Nov.23,FA für Haut- und Geschlechtskrankheiten,1237.0,911.0,2148.0,2023,Salzburg
 2023-11,6.0,ÖGK-S,Nov.23,FA für Frauenheilkunde und Geburtshilfe,2597.0,2309.0,4906.0,2023,Salzburg
 2023-11,7.0,ÖGK-S,Nov.23,FA für Innere Medizin,1248.0,891.0,2139.0,2023,Salzburg
@@ -1592,6 +1828,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-11,53.0,ÖGK-S,Nov.23,FA für Pathologie und Histologie,,,0.0,2023,Salzburg
 2023-11,55.0,ÖGK-S,Nov.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Salzburg
 2023-11,,ÖGK-S,Nov.23,Gesamt,12761.0,11316.0,24077.0,2023,Salzburg
+2023-12,1.0,ÖGK-S,Dez.23,Arzt für Allgemeinmedizin,1167.0,1000.0,2167.0,2023,Salzburg
+2023-12,2.0,ÖGK-S,Dez.23,FA für Anästhesiologie und Intensivmedizin,21.0,14.0,35.0,2023,Salzburg
+2023-12,3.0,ÖGK-S,Dez.23,FA für Augenheilkunde und Optometrie,797.0,1214.0,2011.0,2023,Salzburg
+2023-12,4.0,ÖGK-S,Dez.23,FA für Chirurgie,192.0,175.0,367.0,2023,Salzburg
 2023-12,5.0,ÖGK-S,Dez.23,FA für Haut- und Geschlechtskrankheiten,877.0,677.0,1554.0,2023,Salzburg
 2023-12,6.0,ÖGK-S,Dez.23,FA für Frauenheilkunde und Geburtshilfe,2389.0,1936.0,4325.0,2023,Salzburg
 2023-12,7.0,ÖGK-S,Dez.23,FA für Innere Medizin,825.0,700.0,1525.0,2023,Salzburg
@@ -1619,6 +1859,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-12,53.0,ÖGK-S,Dez.23,FA für Pathologie und Histologie,,,0.0,2023,Salzburg
 2023-12,55.0,ÖGK-S,Dez.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Salzburg
 2023-12,,ÖGK-S,Dez.23,Gesamt,9813.0,8999.0,18812.0,2023,Salzburg
+2023-01,1.0,ÖGK-ST,Jän.23,Arzt für Allgemeinmedizin,2665.0,3045.0,5710.0,2023,Steiermark
+2023-01,2.0,ÖGK-ST,Jän.23,FA für Anästhesiologie und Intensivmedizin,116.0,28.0,144.0,2023,Steiermark
+2023-01,3.0,ÖGK-ST,Jän.23,FA für Augenheilkunde und Optometrie,2783.0,2035.0,4818.0,2023,Steiermark
+2023-01,4.0,ÖGK-ST,Jän.23,FA für Chirurgie,560.0,339.0,899.0,2023,Steiermark
 2023-01,5.0,ÖGK-ST,Jän.23,FA für Haut- und Geschlechtskrankheiten,2585.0,1224.0,3809.0,2023,Steiermark
 2023-01,6.0,ÖGK-ST,Jän.23,FA für Frauenheilkunde und Geburtshilfe,4488.0,6309.0,10797.0,2023,Steiermark
 2023-01,7.0,ÖGK-ST,Jän.23,FA für Innere Medizin,2667.0,1690.0,4357.0,2023,Steiermark
@@ -1646,6 +1890,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-01,53.0,ÖGK-ST,Jän.23,FA für Pathologie und Histologie,,,0.0,2023,Steiermark
 2023-01,55.0,ÖGK-ST,Jän.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Steiermark
 2023-01,,ÖGK-ST,Jän.23,Gesamt,23692.0,21487.0,45179.0,2023,Steiermark
+2023-02,1.0,ÖGK-ST,Feb.23,Arzt für Allgemeinmedizin,3092.0,1636.0,4728.0,2023,Steiermark
+2023-02,2.0,ÖGK-ST,Feb.23,FA für Anästhesiologie und Intensivmedizin,119.0,15.0,134.0,2023,Steiermark
+2023-02,3.0,ÖGK-ST,Feb.23,FA für Augenheilkunde und Optometrie,3475.0,2237.0,5712.0,2023,Steiermark
+2023-02,4.0,ÖGK-ST,Feb.23,FA für Chirurgie,644.0,139.0,783.0,2023,Steiermark
 2023-02,5.0,ÖGK-ST,Feb.23,FA für Haut- und Geschlechtskrankheiten,3086.0,848.0,3934.0,2023,Steiermark
 2023-02,6.0,ÖGK-ST,Feb.23,FA für Frauenheilkunde und Geburtshilfe,4586.0,3774.0,8360.0,2023,Steiermark
 2023-02,7.0,ÖGK-ST,Feb.23,FA für Innere Medizin,2802.0,1176.0,3978.0,2023,Steiermark
@@ -1673,6 +1921,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-02,53.0,ÖGK-ST,Feb.23,FA für Pathologie und Histologie,,,0.0,2023,Steiermark
 2023-02,55.0,ÖGK-ST,Feb.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Steiermark
 2023-02,,ÖGK-ST,Feb.23,Gesamt,26525.0,14306.0,40831.0,2023,Steiermark
+2023-03,1.0,ÖGK-ST,Mär.23,Arzt für Allgemeinmedizin,4548.0,3354.0,7902.0,2023,Steiermark
+2023-03,2.0,ÖGK-ST,Mär.23,FA für Anästhesiologie und Intensivmedizin,169.0,26.0,195.0,2023,Steiermark
+2023-03,3.0,ÖGK-ST,Mär.23,FA für Augenheilkunde und Optometrie,4798.0,3825.0,8623.0,2023,Steiermark
+2023-03,4.0,ÖGK-ST,Mär.23,FA für Chirurgie,823.0,363.0,1186.0,2023,Steiermark
 2023-03,5.0,ÖGK-ST,Mär.23,FA für Haut- und Geschlechtskrankheiten,3868.0,927.0,4795.0,2023,Steiermark
 2023-03,6.0,ÖGK-ST,Mär.23,FA für Frauenheilkunde und Geburtshilfe,5379.0,5056.0,10435.0,2023,Steiermark
 2023-03,7.0,ÖGK-ST,Mär.23,FA für Innere Medizin,3727.0,1859.0,5586.0,2023,Steiermark
@@ -1700,6 +1952,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-03,53.0,ÖGK-ST,Mär.23,FA für Pathologie und Histologie,,,0.0,2023,Steiermark
 2023-03,55.0,ÖGK-ST,Mär.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,1.0,,1.0,2023,Steiermark
 2023-03,,ÖGK-ST,Mär.23,Gesamt,36221.0,22970.0,59191.0,2023,Steiermark
+2023-04,1.0,ÖGK-ST,Apr.23,Arzt für Allgemeinmedizin,4113.0,3069.0,7182.0,2023,Steiermark
+2023-04,2.0,ÖGK-ST,Apr.23,FA für Anästhesiologie und Intensivmedizin,146.0,17.0,163.0,2023,Steiermark
+2023-04,3.0,ÖGK-ST,Apr.23,FA für Augenheilkunde und Optometrie,2499.0,2914.0,5413.0,2023,Steiermark
+2023-04,4.0,ÖGK-ST,Apr.23,FA für Chirurgie,735.0,376.0,1111.0,2023,Steiermark
 2023-04,5.0,ÖGK-ST,Apr.23,FA für Haut- und Geschlechtskrankheiten,2554.0,1147.0,3701.0,2023,Steiermark
 2023-04,6.0,ÖGK-ST,Apr.23,FA für Frauenheilkunde und Geburtshilfe,4280.0,4377.0,8657.0,2023,Steiermark
 2023-04,7.0,ÖGK-ST,Apr.23,FA für Innere Medizin,2891.0,1887.0,4778.0,2023,Steiermark
@@ -1727,6 +1983,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-04,53.0,ÖGK-ST,Apr.23,FA für Pathologie und Histologie,,,0.0,2023,Steiermark
 2023-04,55.0,ÖGK-ST,Apr.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Steiermark
 2023-04,,ÖGK-ST,Apr.23,Gesamt,26189.0,20917.0,47106.0,2023,Steiermark
+2023-05,1.0,ÖGK-ST,Mai.23,Arzt für Allgemeinmedizin,2985.0,2755.0,5740.0,2023,Steiermark
+2023-05,2.0,ÖGK-ST,Mai.23,FA für Anästhesiologie und Intensivmedizin,157.0,17.0,174.0,2023,Steiermark
+2023-05,3.0,ÖGK-ST,Mai.23,FA für Augenheilkunde und Optometrie,3656.0,2906.0,6562.0,2023,Steiermark
+2023-05,4.0,ÖGK-ST,Mai.23,FA für Chirurgie,461.0,306.0,767.0,2023,Steiermark
 2023-05,5.0,ÖGK-ST,Mai.23,FA für Haut- und Geschlechtskrankheiten,2472.0,1295.0,3767.0,2023,Steiermark
 2023-05,6.0,ÖGK-ST,Mai.23,FA für Frauenheilkunde und Geburtshilfe,4337.0,4754.0,9091.0,2023,Steiermark
 2023-05,7.0,ÖGK-ST,Mai.23,FA für Innere Medizin,2799.0,1958.0,4757.0,2023,Steiermark
@@ -1754,6 +2014,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-05,53.0,ÖGK-ST,Mai.23,FA für Pathologie und Histologie,,1.0,1.0,2023,Steiermark
 2023-05,55.0,ÖGK-ST,Mai.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Steiermark
 2023-05,,ÖGK-ST,Mai.23,Gesamt,24904.0,20937.0,45841.0,2023,Steiermark
+2023-06,1.0,ÖGK-ST,Jun.23,Arzt für Allgemeinmedizin,3479.0,3123.0,6602.0,2023,Steiermark
+2023-06,2.0,ÖGK-ST,Jun.23,FA für Anästhesiologie und Intensivmedizin,146.0,18.0,164.0,2023,Steiermark
+2023-06,3.0,ÖGK-ST,Jun.23,FA für Augenheilkunde und Optometrie,4801.0,3681.0,8482.0,2023,Steiermark
+2023-06,4.0,ÖGK-ST,Jun.23,FA für Chirurgie,791.0,357.0,1148.0,2023,Steiermark
 2023-06,5.0,ÖGK-ST,Jun.23,FA für Haut- und Geschlechtskrankheiten,2646.0,1469.0,4115.0,2023,Steiermark
 2023-06,6.0,ÖGK-ST,Jun.23,FA für Frauenheilkunde und Geburtshilfe,4394.0,6512.0,10906.0,2023,Steiermark
 2023-06,7.0,ÖGK-ST,Jun.23,FA für Innere Medizin,2942.0,2352.0,5294.0,2023,Steiermark
@@ -1781,6 +2045,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-06,53.0,ÖGK-ST,Jun.23,FA für Pathologie und Histologie,,2.0,2.0,2023,Steiermark
 2023-06,55.0,ÖGK-ST,Jun.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Steiermark
 2023-06,,ÖGK-ST,Jun.23,Gesamt,29270.0,25570.0,54840.0,2023,Steiermark
+2023-07,1.0,ÖGK-ST,Jul.23,Arzt für Allgemeinmedizin,3510.0,3741.0,7251.0,2023,Steiermark
+2023-07,2.0,ÖGK-ST,Jul.23,FA für Anästhesiologie und Intensivmedizin,144.0,42.0,186.0,2023,Steiermark
+2023-07,3.0,ÖGK-ST,Jul.23,FA für Augenheilkunde und Optometrie,4352.0,3154.0,7506.0,2023,Steiermark
+2023-07,4.0,ÖGK-ST,Jul.23,FA für Chirurgie,798.0,380.0,1178.0,2023,Steiermark
 2023-07,5.0,ÖGK-ST,Jul.23,FA für Haut- und Geschlechtskrankheiten,5097.0,1797.0,6894.0,2023,Steiermark
 2023-07,6.0,ÖGK-ST,Jul.23,FA für Frauenheilkunde und Geburtshilfe,4382.0,5487.0,9869.0,2023,Steiermark
 2023-07,7.0,ÖGK-ST,Jul.23,FA für Innere Medizin,2735.0,2236.0,4971.0,2023,Steiermark
@@ -1808,6 +2076,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-07,53.0,ÖGK-ST,Jul.23,FA für Pathologie und Histologie,,,0.0,2023,Steiermark
 2023-07,55.0,ÖGK-ST,Jul.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Steiermark
 2023-07,,ÖGK-ST,Jul.23,Gesamt,31890.0,25110.0,57000.0,2023,Steiermark
+2023-08,1.0,ÖGK-ST,Aug.23,Arzt für Allgemeinmedizin,4057.0,3494.0,7551.0,2023,Steiermark
+2023-08,2.0,ÖGK-ST,Aug.23,FA für Anästhesiologie und Intensivmedizin,128.0,45.0,173.0,2023,Steiermark
+2023-08,3.0,ÖGK-ST,Aug.23,FA für Augenheilkunde und Optometrie,6841.0,3667.0,10508.0,2023,Steiermark
+2023-08,4.0,ÖGK-ST,Aug.23,FA für Chirurgie,818.0,390.0,1208.0,2023,Steiermark
 2023-08,5.0,ÖGK-ST,Aug.23,FA für Haut- und Geschlechtskrankheiten,7408.0,1532.0,8940.0,2023,Steiermark
 2023-08,6.0,ÖGK-ST,Aug.23,FA für Frauenheilkunde und Geburtshilfe,5454.0,5665.0,11119.0,2023,Steiermark
 2023-08,7.0,ÖGK-ST,Aug.23,FA für Innere Medizin,3352.0,2241.0,5593.0,2023,Steiermark
@@ -1835,6 +2107,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-08,53.0,ÖGK-ST,Aug.23,FA für Pathologie und Histologie,,1.0,1.0,2023,Steiermark
 2023-08,55.0,ÖGK-ST,Aug.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Steiermark
 2023-08,,ÖGK-ST,Aug.23,Gesamt,41817.0,24385.0,66202.0,2023,Steiermark
+2023-09,1.0,ÖGK-ST,Sep.23,Arzt für Allgemeinmedizin,4288.0,2959.0,7247.0,2023,Steiermark
+2023-09,2.0,ÖGK-ST,Sep.23,FA für Anästhesiologie und Intensivmedizin,192.0,59.0,251.0,2023,Steiermark
+2023-09,3.0,ÖGK-ST,Sep.23,FA für Augenheilkunde und Optometrie,4992.0,2913.0,7905.0,2023,Steiermark
+2023-09,4.0,ÖGK-ST,Sep.23,FA für Chirurgie,875.0,405.0,1280.0,2023,Steiermark
 2023-09,5.0,ÖGK-ST,Sep.23,FA für Haut- und Geschlechtskrankheiten,3554.0,1702.0,5256.0,2023,Steiermark
 2023-09,6.0,ÖGK-ST,Sep.23,FA für Frauenheilkunde und Geburtshilfe,6403.0,5272.0,11675.0,2023,Steiermark
 2023-09,7.0,ÖGK-ST,Sep.23,FA für Innere Medizin,3727.0,1841.0,5568.0,2023,Steiermark
@@ -1862,6 +2138,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-09,53.0,ÖGK-ST,Sep.23,FA für Pathologie und Histologie,,,0.0,2023,Steiermark
 2023-09,55.0,ÖGK-ST,Sep.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Steiermark
 2023-09,,ÖGK-ST,Sep.23,Gesamt,36380.0,23025.0,59405.0,2023,Steiermark
+2023-10,1.0,ÖGK-ST,Okt.23,Arzt für Allgemeinmedizin,4870.0,3094.0,7964.0,2023,Steiermark
+2023-10,2.0,ÖGK-ST,Okt.23,FA für Anästhesiologie und Intensivmedizin,215.0,61.0,276.0,2023,Steiermark
+2023-10,3.0,ÖGK-ST,Okt.23,FA für Augenheilkunde und Optometrie,3715.0,3215.0,6930.0,2023,Steiermark
+2023-10,4.0,ÖGK-ST,Okt.23,FA für Chirurgie,795.0,363.0,1158.0,2023,Steiermark
 2023-10,5.0,ÖGK-ST,Okt.23,FA für Haut- und Geschlechtskrankheiten,1607.0,2385.0,3992.0,2023,Steiermark
 2023-10,6.0,ÖGK-ST,Okt.23,FA für Frauenheilkunde und Geburtshilfe,6662.0,5506.0,12168.0,2023,Steiermark
 2023-10,7.0,ÖGK-ST,Okt.23,FA für Innere Medizin,4451.0,2255.0,6706.0,2023,Steiermark
@@ -1889,6 +2169,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-10,53.0,ÖGK-ST,Okt.23,FA für Pathologie und Histologie,,,0.0,2023,Steiermark
 2023-10,55.0,ÖGK-ST,Okt.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Steiermark
 2023-10,,ÖGK-ST,Okt.23,Gesamt,31223.0,24598.0,55821.0,2023,Steiermark
+2023-11,1.0,ÖGK-ST,Nov.23,Arzt für Allgemeinmedizin,4764.0,3825.0,8589.0,2023,Steiermark
+2023-11,2.0,ÖGK-ST,Nov.23,FA für Anästhesiologie und Intensivmedizin,366.0,51.0,417.0,2023,Steiermark
+2023-11,3.0,ÖGK-ST,Nov.23,FA für Augenheilkunde und Optometrie,2911.0,5080.0,7991.0,2023,Steiermark
+2023-11,4.0,ÖGK-ST,Nov.23,FA für Chirurgie,930.0,480.0,1410.0,2023,Steiermark
 2023-11,5.0,ÖGK-ST,Nov.23,FA für Haut- und Geschlechtskrankheiten,2389.0,2028.0,4417.0,2023,Steiermark
 2023-11,6.0,ÖGK-ST,Nov.23,FA für Frauenheilkunde und Geburtshilfe,6867.0,6942.0,13809.0,2023,Steiermark
 2023-11,7.0,ÖGK-ST,Nov.23,FA für Innere Medizin,4883.0,2801.0,7684.0,2023,Steiermark
@@ -1916,6 +2200,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-11,53.0,ÖGK-ST,Nov.23,FA für Pathologie und Histologie,2.0,3.0,5.0,2023,Steiermark
 2023-11,55.0,ÖGK-ST,Nov.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Steiermark
 2023-11,,ÖGK-ST,Nov.23,Gesamt,34288.0,31979.0,66267.0,2023,Steiermark
+2023-12,1.0,ÖGK-ST,Dez.23,Arzt für Allgemeinmedizin,2820.0,3355.0,6175.0,2023,Steiermark
+2023-12,2.0,ÖGK-ST,Dez.23,FA für Anästhesiologie und Intensivmedizin,72.0,40.0,112.0,2023,Steiermark
+2023-12,3.0,ÖGK-ST,Dez.23,FA für Augenheilkunde und Optometrie,2146.0,3676.0,5822.0,2023,Steiermark
+2023-12,4.0,ÖGK-ST,Dez.23,FA für Chirurgie,575.0,406.0,981.0,2023,Steiermark
 2023-12,5.0,ÖGK-ST,Dez.23,FA für Haut- und Geschlechtskrankheiten,3214.0,2084.0,5298.0,2023,Steiermark
 2023-12,6.0,ÖGK-ST,Dez.23,FA für Frauenheilkunde und Geburtshilfe,3884.0,6326.0,10210.0,2023,Steiermark
 2023-12,7.0,ÖGK-ST,Dez.23,FA für Innere Medizin,2504.0,2252.0,4756.0,2023,Steiermark
@@ -1943,6 +2231,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-12,53.0,ÖGK-ST,Dez.23,FA für Pathologie und Histologie,,1.0,1.0,2023,Steiermark
 2023-12,55.0,ÖGK-ST,Dez.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Steiermark
 2023-12,,ÖGK-ST,Dez.23,Gesamt,22210.0,27111.0,49321.0,2023,Steiermark
+2023-01,1.0,ÖGK-T,Jän.23,Arzt für Allgemeinmedizin,4020.0,2494.0,6514.0,2023,Tirol
+2023-01,2.0,ÖGK-T,Jän.23,FA für Anästhesiologie und Intensivmedizin,22.0,12.0,34.0,2023,Tirol
+2023-01,3.0,ÖGK-T,Jän.23,FA für Augenheilkunde und Optometrie,2581.0,1213.0,3794.0,2023,Tirol
+2023-01,4.0,ÖGK-T,Jän.23,FA für Chirurgie,478.0,341.0,819.0,2023,Tirol
 2023-01,5.0,ÖGK-T,Jän.23,FA für Haut- und Geschlechtskrankheiten,2322.0,1468.0,3790.0,2023,Tirol
 2023-01,6.0,ÖGK-T,Jän.23,FA für Frauenheilkunde und Geburtshilfe,5078.0,3200.0,8278.0,2023,Tirol
 2023-01,7.0,ÖGK-T,Jän.23,FA für Innere Medizin,2471.0,1383.0,3854.0,2023,Tirol
@@ -1970,6 +2262,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-01,53.0,ÖGK-T,Jän.23,FA für Pathologie und Histologie,4.0,4.0,8.0,2023,Tirol
 2023-01,55.0,ÖGK-T,Jän.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,7.0,5.0,12.0,2023,Tirol
 2023-01,,ÖGK-T,Jän.23,Gesamt,24913.0,15075.0,39988.0,2023,Tirol
+2023-02,1.0,ÖGK-T,Feb.23,Arzt für Allgemeinmedizin,3395.0,947.0,4342.0,2023,Tirol
+2023-02,2.0,ÖGK-T,Feb.23,FA für Anästhesiologie und Intensivmedizin,37.0,8.0,45.0,2023,Tirol
+2023-02,3.0,ÖGK-T,Feb.23,FA für Augenheilkunde und Optometrie,3294.0,694.0,3988.0,2023,Tirol
+2023-02,4.0,ÖGK-T,Feb.23,FA für Chirurgie,728.0,173.0,901.0,2023,Tirol
 2023-02,5.0,ÖGK-T,Feb.23,FA für Haut- und Geschlechtskrankheiten,3538.0,656.0,4194.0,2023,Tirol
 2023-02,6.0,ÖGK-T,Feb.23,FA für Frauenheilkunde und Geburtshilfe,6598.0,2482.0,9080.0,2023,Tirol
 2023-02,7.0,ÖGK-T,Feb.23,FA für Innere Medizin,2966.0,628.0,3594.0,2023,Tirol
@@ -1997,6 +2293,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-02,53.0,ÖGK-T,Feb.23,FA für Pathologie und Histologie,3.0,,3.0,2023,Tirol
 2023-02,55.0,ÖGK-T,Feb.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,15.0,3.0,18.0,2023,Tirol
 2023-02,,ÖGK-T,Feb.23,Gesamt,27203.0,8427.0,35630.0,2023,Tirol
+2023-03,1.0,ÖGK-T,Mär.23,Arzt für Allgemeinmedizin,7211.0,1758.0,8969.0,2023,Tirol
+2023-03,2.0,ÖGK-T,Mär.23,FA für Anästhesiologie und Intensivmedizin,52.0,15.0,67.0,2023,Tirol
+2023-03,3.0,ÖGK-T,Mär.23,FA für Augenheilkunde und Optometrie,3450.0,1409.0,4859.0,2023,Tirol
+2023-03,4.0,ÖGK-T,Mär.23,FA für Chirurgie,739.0,366.0,1105.0,2023,Tirol
 2023-03,5.0,ÖGK-T,Mär.23,FA für Haut- und Geschlechtskrankheiten,3227.0,1436.0,4663.0,2023,Tirol
 2023-03,6.0,ÖGK-T,Mär.23,FA für Frauenheilkunde und Geburtshilfe,7554.0,4275.0,11829.0,2023,Tirol
 2023-03,7.0,ÖGK-T,Mär.23,FA für Innere Medizin,3776.0,1208.0,4984.0,2023,Tirol
@@ -2024,6 +2324,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-03,53.0,ÖGK-T,Mär.23,FA für Pathologie und Histologie,4.0,4.0,8.0,2023,Tirol
 2023-03,55.0,ÖGK-T,Mär.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,11.0,5.0,16.0,2023,Tirol
 2023-03,,ÖGK-T,Mär.23,Gesamt,34058.0,15502.0,49560.0,2023,Tirol
+2023-04,1.0,ÖGK-T,Apr.23,Arzt für Allgemeinmedizin,1709.0,2123.0,3832.0,2023,Tirol
+2023-04,2.0,ÖGK-T,Apr.23,FA für Anästhesiologie und Intensivmedizin,33.0,14.0,47.0,2023,Tirol
+2023-04,3.0,ÖGK-T,Apr.23,FA für Augenheilkunde und Optometrie,1912.0,1367.0,3279.0,2023,Tirol
+2023-04,4.0,ÖGK-T,Apr.23,FA für Chirurgie,677.0,371.0,1048.0,2023,Tirol
 2023-04,5.0,ÖGK-T,Apr.23,FA für Haut- und Geschlechtskrankheiten,3104.0,1708.0,4812.0,2023,Tirol
 2023-04,6.0,ÖGK-T,Apr.23,FA für Frauenheilkunde und Geburtshilfe,4473.0,4035.0,8508.0,2023,Tirol
 2023-04,7.0,ÖGK-T,Apr.23,FA für Innere Medizin,2775.0,1403.0,4178.0,2023,Tirol
@@ -2051,6 +2355,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-04,53.0,ÖGK-T,Apr.23,FA für Pathologie und Histologie,1.0,,1.0,2023,Tirol
 2023-04,55.0,ÖGK-T,Apr.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,4.0,5.0,9.0,2023,Tirol
 2023-04,,ÖGK-T,Apr.23,Gesamt,21246.0,16608.0,37854.0,2023,Tirol
+2023-05,1.0,ÖGK-T,Mai.23,Arzt für Allgemeinmedizin,3589.0,2538.0,6127.0,2023,Tirol
+2023-05,2.0,ÖGK-T,Mai.23,FA für Anästhesiologie und Intensivmedizin,39.0,19.0,58.0,2023,Tirol
+2023-05,3.0,ÖGK-T,Mai.23,FA für Augenheilkunde und Optometrie,2748.0,1440.0,4188.0,2023,Tirol
+2023-05,4.0,ÖGK-T,Mai.23,FA für Chirurgie,629.0,392.0,1021.0,2023,Tirol
 2023-05,5.0,ÖGK-T,Mai.23,FA für Haut- und Geschlechtskrankheiten,2773.0,1676.0,4449.0,2023,Tirol
 2023-05,6.0,ÖGK-T,Mai.23,FA für Frauenheilkunde und Geburtshilfe,4995.0,4078.0,9073.0,2023,Tirol
 2023-05,7.0,ÖGK-T,Mai.23,FA für Innere Medizin,2566.0,1484.0,4050.0,2023,Tirol
@@ -2078,6 +2386,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-05,53.0,ÖGK-T,Mai.23,FA für Pathologie und Histologie,,1.0,1.0,2023,Tirol
 2023-05,55.0,ÖGK-T,Mai.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,10.0,3.0,13.0,2023,Tirol
 2023-05,,ÖGK-T,Mai.23,Gesamt,23743.0,17391.0,41134.0,2023,Tirol
+2023-06,1.0,ÖGK-T,Jun.23,Arzt für Allgemeinmedizin,3918.0,2269.0,6187.0,2023,Tirol
+2023-06,2.0,ÖGK-T,Jun.23,FA für Anästhesiologie und Intensivmedizin,55.0,20.0,75.0,2023,Tirol
+2023-06,3.0,ÖGK-T,Jun.23,FA für Augenheilkunde und Optometrie,2920.0,1470.0,4390.0,2023,Tirol
+2023-06,4.0,ÖGK-T,Jun.23,FA für Chirurgie,649.0,386.0,1035.0,2023,Tirol
 2023-06,5.0,ÖGK-T,Jun.23,FA für Haut- und Geschlechtskrankheiten,3039.0,1597.0,4636.0,2023,Tirol
 2023-06,6.0,ÖGK-T,Jun.23,FA für Frauenheilkunde und Geburtshilfe,5134.0,4454.0,9588.0,2023,Tirol
 2023-06,7.0,ÖGK-T,Jun.23,FA für Innere Medizin,2803.0,1471.0,4274.0,2023,Tirol
@@ -2105,6 +2417,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-06,53.0,ÖGK-T,Jun.23,FA für Pathologie und Histologie,4.0,2.0,6.0,2023,Tirol
 2023-06,55.0,ÖGK-T,Jun.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,6.0,3.0,9.0,2023,Tirol
 2023-06,,ÖGK-T,Jun.23,Gesamt,25059.0,17578.0,42637.0,2023,Tirol
+2023-07,1.0,ÖGK-T,Jul.23,Arzt für Allgemeinmedizin,3550.0,1555.0,5105.0,2023,Tirol
+2023-07,2.0,ÖGK-T,Jul.23,FA für Anästhesiologie und Intensivmedizin,37.0,26.0,63.0,2023,Tirol
+2023-07,3.0,ÖGK-T,Jul.23,FA für Augenheilkunde und Optometrie,2413.0,1206.0,3619.0,2023,Tirol
+2023-07,4.0,ÖGK-T,Jul.23,FA für Chirurgie,551.0,350.0,901.0,2023,Tirol
 2023-07,5.0,ÖGK-T,Jul.23,FA für Haut- und Geschlechtskrankheiten,2576.0,1623.0,4199.0,2023,Tirol
 2023-07,6.0,ÖGK-T,Jul.23,FA für Frauenheilkunde und Geburtshilfe,4573.0,3669.0,8242.0,2023,Tirol
 2023-07,7.0,ÖGK-T,Jul.23,FA für Innere Medizin,2668.0,1125.0,3793.0,2023,Tirol
@@ -2132,6 +2448,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-07,53.0,ÖGK-T,Jul.23,FA für Pathologie und Histologie,,,0.0,2023,Tirol
 2023-07,55.0,ÖGK-T,Jul.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,9.0,7.0,16.0,2023,Tirol
 2023-07,,ÖGK-T,Jul.23,Gesamt,22885.0,14642.0,37527.0,2023,Tirol
+2023-08,1.0,ÖGK-T,Aug.23,Arzt für Allgemeinmedizin,2395.0,3265.0,5660.0,2023,Tirol
+2023-08,2.0,ÖGK-T,Aug.23,FA für Anästhesiologie und Intensivmedizin,24.0,17.0,41.0,2023,Tirol
+2023-08,3.0,ÖGK-T,Aug.23,FA für Augenheilkunde und Optometrie,1788.0,1539.0,3327.0,2023,Tirol
+2023-08,4.0,ÖGK-T,Aug.23,FA für Chirurgie,406.0,411.0,817.0,2023,Tirol
 2023-08,5.0,ÖGK-T,Aug.23,FA für Haut- und Geschlechtskrankheiten,2515.0,2025.0,4540.0,2023,Tirol
 2023-08,6.0,ÖGK-T,Aug.23,FA für Frauenheilkunde und Geburtshilfe,3156.0,4030.0,7186.0,2023,Tirol
 2023-08,7.0,ÖGK-T,Aug.23,FA für Innere Medizin,1929.0,1785.0,3714.0,2023,Tirol
@@ -2159,6 +2479,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-08,53.0,ÖGK-T,Aug.23,FA für Pathologie und Histologie,7.0,2.0,9.0,2023,Tirol
 2023-08,55.0,ÖGK-T,Aug.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,8.0,7.0,15.0,2023,Tirol
 2023-08,,ÖGK-T,Aug.23,Gesamt,17683.0,19315.0,36998.0,2023,Tirol
+2023-09,1.0,ÖGK-T,Sep.23,Arzt für Allgemeinmedizin,4389.0,1765.0,6154.0,2023,Tirol
+2023-09,2.0,ÖGK-T,Sep.23,FA für Anästhesiologie und Intensivmedizin,49.0,17.0,66.0,2023,Tirol
+2023-09,3.0,ÖGK-T,Sep.23,FA für Augenheilkunde und Optometrie,3978.0,1229.0,5207.0,2023,Tirol
+2023-09,4.0,ÖGK-T,Sep.23,FA für Chirurgie,750.0,273.0,1023.0,2023,Tirol
 2023-09,5.0,ÖGK-T,Sep.23,FA für Haut- und Geschlechtskrankheiten,3954.0,1475.0,5429.0,2023,Tirol
 2023-09,6.0,ÖGK-T,Sep.23,FA für Frauenheilkunde und Geburtshilfe,6409.0,3728.0,10137.0,2023,Tirol
 2023-09,7.0,ÖGK-T,Sep.23,FA für Innere Medizin,3211.0,1218.0,4429.0,2023,Tirol
@@ -2186,6 +2510,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-09,53.0,ÖGK-T,Sep.23,FA für Pathologie und Histologie,,,0.0,2023,Tirol
 2023-09,55.0,ÖGK-T,Sep.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,8.0,8.0,16.0,2023,Tirol
 2023-09,,ÖGK-T,Sep.23,Gesamt,30251.0,14644.0,44895.0,2023,Tirol
+2023-10,1.0,ÖGK-T,Okt.23,Arzt für Allgemeinmedizin,5315.0,1225.0,6540.0,2023,Tirol
+2023-10,2.0,ÖGK-T,Okt.23,FA für Anästhesiologie und Intensivmedizin,71.0,7.0,78.0,2023,Tirol
+2023-10,3.0,ÖGK-T,Okt.23,FA für Augenheilkunde und Optometrie,3929.0,835.0,4764.0,2023,Tirol
+2023-10,4.0,ÖGK-T,Okt.23,FA für Chirurgie,743.0,202.0,945.0,2023,Tirol
 2023-10,5.0,ÖGK-T,Okt.23,FA für Haut- und Geschlechtskrankheiten,3965.0,938.0,4903.0,2023,Tirol
 2023-10,6.0,ÖGK-T,Okt.23,FA für Frauenheilkunde und Geburtshilfe,7484.0,2900.0,10384.0,2023,Tirol
 2023-10,7.0,ÖGK-T,Okt.23,FA für Innere Medizin,4223.0,639.0,4862.0,2023,Tirol
@@ -2213,6 +2541,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-10,53.0,ÖGK-T,Okt.23,FA für Pathologie und Histologie,4.0,,4.0,2023,Tirol
 2023-10,55.0,ÖGK-T,Okt.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,12.0,2.0,14.0,2023,Tirol
 2023-10,,ÖGK-T,Okt.23,Gesamt,34826.0,9872.0,44698.0,2023,Tirol
+2023-11,1.0,ÖGK-T,Nov.23,Arzt für Allgemeinmedizin,4131.0,2447.0,6578.0,2023,Tirol
+2023-11,2.0,ÖGK-T,Nov.23,FA für Anästhesiologie und Intensivmedizin,77.0,20.0,97.0,2023,Tirol
+2023-11,3.0,ÖGK-T,Nov.23,FA für Augenheilkunde und Optometrie,4147.0,1606.0,5753.0,2023,Tirol
+2023-11,4.0,ÖGK-T,Nov.23,FA für Chirurgie,756.0,420.0,1176.0,2023,Tirol
 2023-11,5.0,ÖGK-T,Nov.23,FA für Haut- und Geschlechtskrankheiten,4667.0,1921.0,6588.0,2023,Tirol
 2023-11,6.0,ÖGK-T,Nov.23,FA für Frauenheilkunde und Geburtshilfe,7905.0,4797.0,12702.0,2023,Tirol
 2023-11,7.0,ÖGK-T,Nov.23,FA für Innere Medizin,4125.0,1677.0,5802.0,2023,Tirol
@@ -2240,6 +2572,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-11,53.0,ÖGK-T,Nov.23,FA für Pathologie und Histologie,7.0,3.0,10.0,2023,Tirol
 2023-11,55.0,ÖGK-T,Nov.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,14.0,14.0,28.0,2023,Tirol
 2023-11,,ÖGK-T,Nov.23,Gesamt,34830.0,18572.0,53402.0,2023,Tirol
+2023-12,1.0,ÖGK-T,Dez.23,Arzt für Allgemeinmedizin,3630.0,2848.0,6478.0,2023,Tirol
+2023-12,2.0,ÖGK-T,Dez.23,FA für Anästhesiologie und Intensivmedizin,52.0,24.0,76.0,2023,Tirol
+2023-12,3.0,ÖGK-T,Dez.23,FA für Augenheilkunde und Optometrie,2731.0,1768.0,4499.0,2023,Tirol
+2023-12,4.0,ÖGK-T,Dez.23,FA für Chirurgie,560.0,491.0,1051.0,2023,Tirol
 2023-12,5.0,ÖGK-T,Dez.23,FA für Haut- und Geschlechtskrankheiten,3054.0,2094.0,5148.0,2023,Tirol
 2023-12,6.0,ÖGK-T,Dez.23,FA für Frauenheilkunde und Geburtshilfe,5167.0,4632.0,9799.0,2023,Tirol
 2023-12,7.0,ÖGK-T,Dez.23,FA für Innere Medizin,3016.0,1823.0,4839.0,2023,Tirol
@@ -2267,6 +2603,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-12,53.0,ÖGK-T,Dez.23,FA für Pathologie und Histologie,5.0,3.0,8.0,2023,Tirol
 2023-12,55.0,ÖGK-T,Dez.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,6.0,1.0,7.0,2023,Tirol
 2023-12,,ÖGK-T,Dez.23,Gesamt,24784.0,21175.0,45959.0,2023,Tirol
+2023-01,1.0,ÖGK-V,Jän.23,Arzt für Allgemeinmedizin,1606.0,529.0,2135.0,2023,Vorarlberg
+2023-01,2.0,ÖGK-V,Jän.23,FA für Anästhesiologie und Intensivmedizin,31.0,21.0,52.0,2023,Vorarlberg
+2023-01,3.0,ÖGK-V,Jän.23,FA für Augenheilkunde und Optometrie,912.0,163.0,1075.0,2023,Vorarlberg
+2023-01,4.0,ÖGK-V,Jän.23,FA für Chirurgie,161.0,43.0,204.0,2023,Vorarlberg
 2023-01,5.0,ÖGK-V,Jän.23,FA für Haut- und Geschlechtskrankheiten,725.0,254.0,979.0,2023,Vorarlberg
 2023-01,6.0,ÖGK-V,Jän.23,FA für Frauenheilkunde und Geburtshilfe,1940.0,501.0,2441.0,2023,Vorarlberg
 2023-01,7.0,ÖGK-V,Jän.23,FA für Innere Medizin,1070.0,232.0,1302.0,2023,Vorarlberg
@@ -2294,6 +2634,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-01,53.0,ÖGK-V,Jän.23,FA für Pathologie und Histologie,,,0.0,2023,Vorarlberg
 2023-01,55.0,ÖGK-V,Jän.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Vorarlberg
 2023-01,,ÖGK-V,Jän.23,Gesamt,10298.0,2915.0,13213.0,2023,Vorarlberg
+2023-02,1.0,ÖGK-V,Feb.23,Arzt für Allgemeinmedizin,1194.0,418.0,1612.0,2023,Vorarlberg
+2023-02,2.0,ÖGK-V,Feb.23,FA für Anästhesiologie und Intensivmedizin,37.0,14.0,51.0,2023,Vorarlberg
+2023-02,3.0,ÖGK-V,Feb.23,FA für Augenheilkunde und Optometrie,597.0,107.0,704.0,2023,Vorarlberg
+2023-02,4.0,ÖGK-V,Feb.23,FA für Chirurgie,90.0,37.0,127.0,2023,Vorarlberg
 2023-02,5.0,ÖGK-V,Feb.23,FA für Haut- und Geschlechtskrankheiten,798.0,226.0,1024.0,2023,Vorarlberg
 2023-02,6.0,ÖGK-V,Feb.23,FA für Frauenheilkunde und Geburtshilfe,1161.0,442.0,1603.0,2023,Vorarlberg
 2023-02,7.0,ÖGK-V,Feb.23,FA für Innere Medizin,1036.0,258.0,1294.0,2023,Vorarlberg
@@ -2321,6 +2665,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-02,53.0,ÖGK-V,Feb.23,FA für Pathologie und Histologie,,,0.0,2023,Vorarlberg
 2023-02,55.0,ÖGK-V,Feb.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Vorarlberg
 2023-02,,ÖGK-V,Feb.23,Gesamt,7560.0,2359.0,9919.0,2023,Vorarlberg
+2023-03,1.0,ÖGK-V,Mär.23,Arzt für Allgemeinmedizin,1052.0,384.0,1436.0,2023,Vorarlberg
+2023-03,2.0,ÖGK-V,Mär.23,FA für Anästhesiologie und Intensivmedizin,51.0,14.0,65.0,2023,Vorarlberg
+2023-03,3.0,ÖGK-V,Mär.23,FA für Augenheilkunde und Optometrie,581.0,118.0,699.0,2023,Vorarlberg
+2023-03,4.0,ÖGK-V,Mär.23,FA für Chirurgie,95.0,30.0,125.0,2023,Vorarlberg
 2023-03,5.0,ÖGK-V,Mär.23,FA für Haut- und Geschlechtskrankheiten,573.0,206.0,779.0,2023,Vorarlberg
 2023-03,6.0,ÖGK-V,Mär.23,FA für Frauenheilkunde und Geburtshilfe,1550.0,470.0,2020.0,2023,Vorarlberg
 2023-03,7.0,ÖGK-V,Mär.23,FA für Innere Medizin,686.0,193.0,879.0,2023,Vorarlberg
@@ -2348,6 +2696,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-03,53.0,ÖGK-V,Mär.23,FA für Pathologie und Histologie,,,0.0,2023,Vorarlberg
 2023-03,55.0,ÖGK-V,Mär.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Vorarlberg
 2023-03,,ÖGK-V,Mär.23,Gesamt,6976.0,2281.0,9257.0,2023,Vorarlberg
+2023-04,1.0,ÖGK-V,Apr.23,Arzt für Allgemeinmedizin,1126.0,440.0,1566.0,2023,Vorarlberg
+2023-04,2.0,ÖGK-V,Apr.23,FA für Anästhesiologie und Intensivmedizin,53.0,15.0,68.0,2023,Vorarlberg
+2023-04,3.0,ÖGK-V,Apr.23,FA für Augenheilkunde und Optometrie,901.0,157.0,1058.0,2023,Vorarlberg
+2023-04,4.0,ÖGK-V,Apr.23,FA für Chirurgie,137.0,28.0,165.0,2023,Vorarlberg
 2023-04,5.0,ÖGK-V,Apr.23,FA für Haut- und Geschlechtskrankheiten,696.0,272.0,968.0,2023,Vorarlberg
 2023-04,6.0,ÖGK-V,Apr.23,FA für Frauenheilkunde und Geburtshilfe,1635.0,525.0,2160.0,2023,Vorarlberg
 2023-04,7.0,ÖGK-V,Apr.23,FA für Innere Medizin,939.0,245.0,1184.0,2023,Vorarlberg
@@ -2375,6 +2727,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-04,53.0,ÖGK-V,Apr.23,FA für Pathologie und Histologie,,,0.0,2023,Vorarlberg
 2023-04,55.0,ÖGK-V,Apr.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Vorarlberg
 2023-04,,ÖGK-V,Apr.23,Gesamt,8452.0,2629.0,11081.0,2023,Vorarlberg
+2023-05,1.0,ÖGK-V,Mai.23,Arzt für Allgemeinmedizin,1374.0,478.0,1852.0,2023,Vorarlberg
+2023-05,2.0,ÖGK-V,Mai.23,FA für Anästhesiologie und Intensivmedizin,54.0,20.0,74.0,2023,Vorarlberg
+2023-05,3.0,ÖGK-V,Mai.23,FA für Augenheilkunde und Optometrie,720.0,179.0,899.0,2023,Vorarlberg
+2023-05,4.0,ÖGK-V,Mai.23,FA für Chirurgie,139.0,36.0,175.0,2023,Vorarlberg
 2023-05,5.0,ÖGK-V,Mai.23,FA für Haut- und Geschlechtskrankheiten,667.0,268.0,935.0,2023,Vorarlberg
 2023-05,6.0,ÖGK-V,Mai.23,FA für Frauenheilkunde und Geburtshilfe,1924.0,574.0,2498.0,2023,Vorarlberg
 2023-05,7.0,ÖGK-V,Mai.23,FA für Innere Medizin,979.0,214.0,1193.0,2023,Vorarlberg
@@ -2402,6 +2758,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-05,53.0,ÖGK-V,Mai.23,FA für Pathologie und Histologie,,,0.0,2023,Vorarlberg
 2023-05,55.0,ÖGK-V,Mai.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Vorarlberg
 2023-05,,ÖGK-V,Mai.23,Gesamt,9282.0,2905.0,12187.0,2023,Vorarlberg
+2023-06,1.0,ÖGK-V,Jun.23,Arzt für Allgemeinmedizin,1296.0,536.0,1832.0,2023,Vorarlberg
+2023-06,2.0,ÖGK-V,Jun.23,FA für Anästhesiologie und Intensivmedizin,49.0,15.0,64.0,2023,Vorarlberg
+2023-06,3.0,ÖGK-V,Jun.23,FA für Augenheilkunde und Optometrie,805.0,177.0,982.0,2023,Vorarlberg
+2023-06,4.0,ÖGK-V,Jun.23,FA für Chirurgie,152.0,57.0,209.0,2023,Vorarlberg
 2023-06,5.0,ÖGK-V,Jun.23,FA für Haut- und Geschlechtskrankheiten,768.0,348.0,1116.0,2023,Vorarlberg
 2023-06,6.0,ÖGK-V,Jun.23,FA für Frauenheilkunde und Geburtshilfe,1947.0,586.0,2533.0,2023,Vorarlberg
 2023-06,7.0,ÖGK-V,Jun.23,FA für Innere Medizin,1016.0,327.0,1343.0,2023,Vorarlberg
@@ -2429,6 +2789,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-06,53.0,ÖGK-V,Jun.23,FA für Pathologie und Histologie,,,0.0,2023,Vorarlberg
 2023-06,55.0,ÖGK-V,Jun.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Vorarlberg
 2023-06,,ÖGK-V,Jun.23,Gesamt,9208.0,3228.0,12436.0,2023,Vorarlberg
+2023-07,1.0,ÖGK-V,Jul.23,Arzt für Allgemeinmedizin,1353.0,486.0,1839.0,2023,Vorarlberg
+2023-07,2.0,ÖGK-V,Jul.23,FA für Anästhesiologie und Intensivmedizin,80.0,19.0,99.0,2023,Vorarlberg
+2023-07,3.0,ÖGK-V,Jul.23,FA für Augenheilkunde und Optometrie,944.0,157.0,1101.0,2023,Vorarlberg
+2023-07,4.0,ÖGK-V,Jul.23,FA für Chirurgie,156.0,40.0,196.0,2023,Vorarlberg
 2023-07,5.0,ÖGK-V,Jul.23,FA für Haut- und Geschlechtskrankheiten,872.0,300.0,1172.0,2023,Vorarlberg
 2023-07,6.0,ÖGK-V,Jul.23,FA für Frauenheilkunde und Geburtshilfe,1939.0,509.0,2448.0,2023,Vorarlberg
 2023-07,7.0,ÖGK-V,Jul.23,FA für Innere Medizin,1023.0,270.0,1293.0,2023,Vorarlberg
@@ -2456,6 +2820,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-07,53.0,ÖGK-V,Jul.23,FA für Pathologie und Histologie,,,0.0,2023,Vorarlberg
 2023-07,55.0,ÖGK-V,Jul.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Vorarlberg
 2023-07,,ÖGK-V,Jul.23,Gesamt,9625.0,2871.0,12496.0,2023,Vorarlberg
+2023-08,1.0,ÖGK-V,Aug.23,Arzt für Allgemeinmedizin,1593.0,628.0,2221.0,2023,Vorarlberg
+2023-08,2.0,ÖGK-V,Aug.23,FA für Anästhesiologie und Intensivmedizin,72.0,22.0,94.0,2023,Vorarlberg
+2023-08,3.0,ÖGK-V,Aug.23,FA für Augenheilkunde und Optometrie,1258.0,214.0,1472.0,2023,Vorarlberg
+2023-08,4.0,ÖGK-V,Aug.23,FA für Chirurgie,211.0,49.0,260.0,2023,Vorarlberg
 2023-08,5.0,ÖGK-V,Aug.23,FA für Haut- und Geschlechtskrankheiten,1004.0,427.0,1431.0,2023,Vorarlberg
 2023-08,6.0,ÖGK-V,Aug.23,FA für Frauenheilkunde und Geburtshilfe,2643.0,779.0,3422.0,2023,Vorarlberg
 2023-08,7.0,ÖGK-V,Aug.23,FA für Innere Medizin,1263.0,354.0,1617.0,2023,Vorarlberg
@@ -2483,6 +2851,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-08,53.0,ÖGK-V,Aug.23,FA für Pathologie und Histologie,,,0.0,2023,Vorarlberg
 2023-08,55.0,ÖGK-V,Aug.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Vorarlberg
 2023-08,,ÖGK-V,Aug.23,Gesamt,12442.0,3924.0,16366.0,2023,Vorarlberg
+2023-09,1.0,ÖGK-V,Sep.23,Arzt für Allgemeinmedizin,1186.0,443.0,1629.0,2023,Vorarlberg
+2023-09,2.0,ÖGK-V,Sep.23,FA für Anästhesiologie und Intensivmedizin,50.0,15.0,65.0,2023,Vorarlberg
+2023-09,3.0,ÖGK-V,Sep.23,FA für Augenheilkunde und Optometrie,634.0,166.0,800.0,2023,Vorarlberg
+2023-09,4.0,ÖGK-V,Sep.23,FA für Chirurgie,163.0,41.0,204.0,2023,Vorarlberg
 2023-09,5.0,ÖGK-V,Sep.23,FA für Haut- und Geschlechtskrankheiten,887.0,349.0,1236.0,2023,Vorarlberg
 2023-09,6.0,ÖGK-V,Sep.23,FA für Frauenheilkunde und Geburtshilfe,2029.0,614.0,2643.0,2023,Vorarlberg
 2023-09,7.0,ÖGK-V,Sep.23,FA für Innere Medizin,1100.0,312.0,1412.0,2023,Vorarlberg
@@ -2510,6 +2882,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-09,53.0,ÖGK-V,Sep.23,FA für Pathologie und Histologie,1.0,,1.0,2023,Vorarlberg
 2023-09,55.0,ÖGK-V,Sep.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Vorarlberg
 2023-09,,ÖGK-V,Sep.23,Gesamt,9234.0,3005.0,12239.0,2023,Vorarlberg
+2023-10,1.0,ÖGK-V,Okt.23,Arzt für Allgemeinmedizin,2413.0,656.0,3069.0,2023,Vorarlberg
+2023-10,2.0,ÖGK-V,Okt.23,FA für Anästhesiologie und Intensivmedizin,87.0,23.0,110.0,2023,Vorarlberg
+2023-10,3.0,ÖGK-V,Okt.23,FA für Augenheilkunde und Optometrie,978.0,171.0,1149.0,2023,Vorarlberg
+2023-10,4.0,ÖGK-V,Okt.23,FA für Chirurgie,173.0,40.0,213.0,2023,Vorarlberg
 2023-10,5.0,ÖGK-V,Okt.23,FA für Haut- und Geschlechtskrankheiten,1345.0,341.0,1686.0,2023,Vorarlberg
 2023-10,6.0,ÖGK-V,Okt.23,FA für Frauenheilkunde und Geburtshilfe,2843.0,900.0,3743.0,2023,Vorarlberg
 2023-10,7.0,ÖGK-V,Okt.23,FA für Innere Medizin,1804.0,286.0,2090.0,2023,Vorarlberg
@@ -2537,6 +2913,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-10,53.0,ÖGK-V,Okt.23,FA für Pathologie und Histologie,,,0.0,2023,Vorarlberg
 2023-10,55.0,ÖGK-V,Okt.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Vorarlberg
 2023-10,,ÖGK-V,Okt.23,Gesamt,14925.0,3842.0,18767.0,2023,Vorarlberg
+2023-11,1.0,ÖGK-V,Nov.23,Arzt für Allgemeinmedizin,1055.0,487.0,1542.0,2023,Vorarlberg
+2023-11,2.0,ÖGK-V,Nov.23,FA für Anästhesiologie und Intensivmedizin,61.0,25.0,86.0,2023,Vorarlberg
+2023-11,3.0,ÖGK-V,Nov.23,FA für Augenheilkunde und Optometrie,916.0,200.0,1116.0,2023,Vorarlberg
+2023-11,4.0,ÖGK-V,Nov.23,FA für Chirurgie,101.0,43.0,144.0,2023,Vorarlberg
 2023-11,5.0,ÖGK-V,Nov.23,FA für Haut- und Geschlechtskrankheiten,891.0,330.0,1221.0,2023,Vorarlberg
 2023-11,6.0,ÖGK-V,Nov.23,FA für Frauenheilkunde und Geburtshilfe,1760.0,675.0,2435.0,2023,Vorarlberg
 2023-11,7.0,ÖGK-V,Nov.23,FA für Innere Medizin,1116.0,249.0,1365.0,2023,Vorarlberg
@@ -2564,6 +2944,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-11,53.0,ÖGK-V,Nov.23,FA für Pathologie und Histologie,,,0.0,2023,Vorarlberg
 2023-11,55.0,ÖGK-V,Nov.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Vorarlberg
 2023-11,,ÖGK-V,Nov.23,Gesamt,9194.0,3257.0,12451.0,2023,Vorarlberg
+2023-12,1.0,ÖGK-V,Dez.23,Arzt für Allgemeinmedizin,850.0,414.0,1264.0,2023,Vorarlberg
+2023-12,2.0,ÖGK-V,Dez.23,FA für Anästhesiologie und Intensivmedizin,14.0,14.0,28.0,2023,Vorarlberg
+2023-12,3.0,ÖGK-V,Dez.23,FA für Augenheilkunde und Optometrie,476.0,147.0,623.0,2023,Vorarlberg
+2023-12,4.0,ÖGK-V,Dez.23,FA für Chirurgie,56.0,29.0,85.0,2023,Vorarlberg
 2023-12,5.0,ÖGK-V,Dez.23,FA für Haut- und Geschlechtskrankheiten,632.0,346.0,978.0,2023,Vorarlberg
 2023-12,6.0,ÖGK-V,Dez.23,FA für Frauenheilkunde und Geburtshilfe,1410.0,598.0,2008.0,2023,Vorarlberg
 2023-12,7.0,ÖGK-V,Dez.23,FA für Innere Medizin,816.0,226.0,1042.0,2023,Vorarlberg
@@ -2591,6 +2975,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-12,53.0,ÖGK-V,Dez.23,FA für Pathologie und Histologie,,1.0,1.0,2023,Vorarlberg
 2023-12,55.0,ÖGK-V,Dez.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,,0.0,2023,Vorarlberg
 2023-12,,ÖGK-V,Dez.23,Gesamt,7342.0,2937.0,10279.0,2023,Vorarlberg
+2023-01,1.0,ÖGK-W,Jän.23,Arzt für Allgemeinmedizin,2362.0,5411.0,7773.0,2023,Wien
+2023-01,2.0,ÖGK-W,Jän.23,FA für Anästhesiologie und Intensivmedizin,95.0,170.0,265.0,2023,Wien
+2023-01,3.0,ÖGK-W,Jän.23,FA für Augenheilkunde und Optometrie,1475.0,2385.0,3860.0,2023,Wien
+2023-01,4.0,ÖGK-W,Jän.23,FA für Chirurgie,549.0,783.0,1332.0,2023,Wien
 2023-01,5.0,ÖGK-W,Jän.23,FA für Haut- und Geschlechtskrankheiten,2051.0,4468.0,6519.0,2023,Wien
 2023-01,6.0,ÖGK-W,Jän.23,FA für Frauenheilkunde und Geburtshilfe,3301.0,6319.0,9620.0,2023,Wien
 2023-01,7.0,ÖGK-W,Jän.23,FA für Innere Medizin,2221.0,3505.0,5726.0,2023,Wien
@@ -2618,6 +3006,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-01,53.0,ÖGK-W,Jän.23,FA für Pathologie und Histologie,,2.0,2.0,2023,Wien
 2023-01,55.0,ÖGK-W,Jän.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,1.0,7.0,8.0,2023,Wien
 2023-01,,ÖGK-W,Jän.23,Gesamt,21904.0,45328.0,67232.0,2023,Wien
+2023-02,1.0,ÖGK-W,Feb.23,Arzt für Allgemeinmedizin,2621.0,5710.0,8331.0,2023,Wien
+2023-02,2.0,ÖGK-W,Feb.23,FA für Anästhesiologie und Intensivmedizin,81.0,89.0,170.0,2023,Wien
+2023-02,3.0,ÖGK-W,Feb.23,FA für Augenheilkunde und Optometrie,1709.0,2505.0,4214.0,2023,Wien
+2023-02,4.0,ÖGK-W,Feb.23,FA für Chirurgie,580.0,834.0,1414.0,2023,Wien
 2023-02,5.0,ÖGK-W,Feb.23,FA für Haut- und Geschlechtskrankheiten,2154.0,4832.0,6986.0,2023,Wien
 2023-02,6.0,ÖGK-W,Feb.23,FA für Frauenheilkunde und Geburtshilfe,3510.0,6945.0,10455.0,2023,Wien
 2023-02,7.0,ÖGK-W,Feb.23,FA für Innere Medizin,2524.0,3645.0,6169.0,2023,Wien
@@ -2645,6 +3037,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-02,53.0,ÖGK-W,Feb.23,FA für Pathologie und Histologie,,,0.0,2023,Wien
 2023-02,55.0,ÖGK-W,Feb.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,2.0,5.0,7.0,2023,Wien
 2023-02,,ÖGK-W,Feb.23,Gesamt,23354.0,47781.0,71135.0,2023,Wien
+2023-03,1.0,ÖGK-W,Mär.23,Arzt für Allgemeinmedizin,2481.0,6861.0,9342.0,2023,Wien
+2023-03,2.0,ÖGK-W,Mär.23,FA für Anästhesiologie und Intensivmedizin,112.0,126.0,238.0,2023,Wien
+2023-03,3.0,ÖGK-W,Mär.23,FA für Augenheilkunde und Optometrie,1608.0,3460.0,5068.0,2023,Wien
+2023-03,4.0,ÖGK-W,Mär.23,FA für Chirurgie,660.0,1225.0,1885.0,2023,Wien
 2023-03,5.0,ÖGK-W,Mär.23,FA für Haut- und Geschlechtskrankheiten,1986.0,6225.0,8211.0,2023,Wien
 2023-03,6.0,ÖGK-W,Mär.23,FA für Frauenheilkunde und Geburtshilfe,3751.0,9205.0,12956.0,2023,Wien
 2023-03,7.0,ÖGK-W,Mär.23,FA für Innere Medizin,2631.0,4727.0,7358.0,2023,Wien
@@ -2672,6 +3068,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-03,53.0,ÖGK-W,Mär.23,FA für Pathologie und Histologie,1.0,4.0,5.0,2023,Wien
 2023-03,55.0,ÖGK-W,Mär.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,2.0,5.0,7.0,2023,Wien
 2023-03,,ÖGK-W,Mär.23,Gesamt,25687.0,61992.0,87679.0,2023,Wien
+2023-04,1.0,ÖGK-W,Apr.23,Arzt für Allgemeinmedizin,2959.0,6166.0,9125.0,2023,Wien
+2023-04,2.0,ÖGK-W,Apr.23,FA für Anästhesiologie und Intensivmedizin,114.0,108.0,222.0,2023,Wien
+2023-04,3.0,ÖGK-W,Apr.23,FA für Augenheilkunde und Optometrie,1729.0,3098.0,4827.0,2023,Wien
+2023-04,4.0,ÖGK-W,Apr.23,FA für Chirurgie,730.0,1043.0,1773.0,2023,Wien
 2023-04,5.0,ÖGK-W,Apr.23,FA für Haut- und Geschlechtskrankheiten,2362.0,5813.0,8175.0,2023,Wien
 2023-04,6.0,ÖGK-W,Apr.23,FA für Frauenheilkunde und Geburtshilfe,4368.0,7931.0,12299.0,2023,Wien
 2023-04,7.0,ÖGK-W,Apr.23,FA für Innere Medizin,3025.0,4242.0,7267.0,2023,Wien
@@ -2699,6 +3099,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-04,53.0,ÖGK-W,Apr.23,FA für Pathologie und Histologie,,2.0,2.0,2023,Wien
 2023-04,55.0,ÖGK-W,Apr.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,3.0,1.0,4.0,2023,Wien
 2023-04,,ÖGK-W,Apr.23,Gesamt,27873.0,54510.0,82383.0,2023,Wien
+2023-05,1.0,ÖGK-W,Mai.23,Arzt für Allgemeinmedizin,2492.0,5798.0,8290.0,2023,Wien
+2023-05,2.0,ÖGK-W,Mai.23,FA für Anästhesiologie und Intensivmedizin,80.0,139.0,219.0,2023,Wien
+2023-05,3.0,ÖGK-W,Mai.23,FA für Augenheilkunde und Optometrie,1910.0,2855.0,4765.0,2023,Wien
+2023-05,4.0,ÖGK-W,Mai.23,FA für Chirurgie,746.0,909.0,1655.0,2023,Wien
 2023-05,5.0,ÖGK-W,Mai.23,FA für Haut- und Geschlechtskrankheiten,2740.0,5131.0,7871.0,2023,Wien
 2023-05,6.0,ÖGK-W,Mai.23,FA für Frauenheilkunde und Geburtshilfe,4535.0,7274.0,11809.0,2023,Wien
 2023-05,7.0,ÖGK-W,Mai.23,FA für Innere Medizin,2826.0,3923.0,6749.0,2023,Wien
@@ -2726,6 +3130,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-05,53.0,ÖGK-W,Mai.23,FA für Pathologie und Histologie,2.0,2.0,4.0,2023,Wien
 2023-05,55.0,ÖGK-W,Mai.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,1.0,7.0,8.0,2023,Wien
 2023-05,,ÖGK-W,Mai.23,Gesamt,28992.0,49957.0,78949.0,2023,Wien
+2023-06,1.0,ÖGK-W,Jun.23,Arzt für Allgemeinmedizin,2984.0,5161.0,8145.0,2023,Wien
+2023-06,2.0,ÖGK-W,Jun.23,FA für Anästhesiologie und Intensivmedizin,131.0,68.0,199.0,2023,Wien
+2023-06,3.0,ÖGK-W,Jun.23,FA für Augenheilkunde und Optometrie,2130.0,2766.0,4896.0,2023,Wien
+2023-06,4.0,ÖGK-W,Jun.23,FA für Chirurgie,781.0,893.0,1674.0,2023,Wien
 2023-06,5.0,ÖGK-W,Jun.23,FA für Haut- und Geschlechtskrankheiten,2782.0,4711.0,7493.0,2023,Wien
 2023-06,6.0,ÖGK-W,Jun.23,FA für Frauenheilkunde und Geburtshilfe,4434.0,6726.0,11160.0,2023,Wien
 2023-06,7.0,ÖGK-W,Jun.23,FA für Innere Medizin,3260.0,3781.0,7041.0,2023,Wien
@@ -2753,6 +3161,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-06,53.0,ÖGK-W,Jun.23,FA für Pathologie und Histologie,,2.0,2.0,2023,Wien
 2023-06,55.0,ÖGK-W,Jun.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,6.0,4.0,10.0,2023,Wien
 2023-06,,ÖGK-W,Jun.23,Gesamt,29837.0,46397.0,76234.0,2023,Wien
+2023-07,1.0,ÖGK-W,Jul.23,Arzt für Allgemeinmedizin,3670.0,5882.0,9552.0,2023,Wien
+2023-07,2.0,ÖGK-W,Jul.23,FA für Anästhesiologie und Intensivmedizin,121.0,89.0,210.0,2023,Wien
+2023-07,3.0,ÖGK-W,Jul.23,FA für Augenheilkunde und Optometrie,2632.0,2927.0,5559.0,2023,Wien
+2023-07,4.0,ÖGK-W,Jul.23,FA für Chirurgie,997.0,1023.0,2020.0,2023,Wien
 2023-07,5.0,ÖGK-W,Jul.23,FA für Haut- und Geschlechtskrankheiten,3527.0,6166.0,9693.0,2023,Wien
 2023-07,6.0,ÖGK-W,Jul.23,FA für Frauenheilkunde und Geburtshilfe,5859.0,8256.0,14115.0,2023,Wien
 2023-07,7.0,ÖGK-W,Jul.23,FA für Innere Medizin,3985.0,4060.0,8045.0,2023,Wien
@@ -2780,6 +3192,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-07,53.0,ÖGK-W,Jul.23,FA für Pathologie und Histologie,1.0,2.0,3.0,2023,Wien
 2023-07,55.0,ÖGK-W,Jul.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,3.0,,3.0,2023,Wien
 2023-07,,ÖGK-W,Jul.23,Gesamt,35857.0,54774.0,90631.0,2023,Wien
+2023-08,1.0,ÖGK-W,Aug.23,Arzt für Allgemeinmedizin,3499.0,5764.0,9263.0,2023,Wien
+2023-08,2.0,ÖGK-W,Aug.23,FA für Anästhesiologie und Intensivmedizin,154.0,115.0,269.0,2023,Wien
+2023-08,3.0,ÖGK-W,Aug.23,FA für Augenheilkunde und Optometrie,2866.0,3050.0,5916.0,2023,Wien
+2023-08,4.0,ÖGK-W,Aug.23,FA für Chirurgie,1027.0,1017.0,2044.0,2023,Wien
 2023-08,5.0,ÖGK-W,Aug.23,FA für Haut- und Geschlechtskrankheiten,3792.0,6215.0,10007.0,2023,Wien
 2023-08,6.0,ÖGK-W,Aug.23,FA für Frauenheilkunde und Geburtshilfe,6131.0,8322.0,14453.0,2023,Wien
 2023-08,7.0,ÖGK-W,Aug.23,FA für Innere Medizin,4316.0,3450.0,7766.0,2023,Wien
@@ -2807,6 +3223,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-08,53.0,ÖGK-W,Aug.23,FA für Pathologie und Histologie,,1.0,1.0,2023,Wien
 2023-08,55.0,ÖGK-W,Aug.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,6.0,6.0,12.0,2023,Wien
 2023-08,,ÖGK-W,Aug.23,Gesamt,37617.0,54357.0,91974.0,2023,Wien
+2023-09,1.0,ÖGK-W,Sep.23,Arzt für Allgemeinmedizin,3257.0,5877.0,9134.0,2023,Wien
+2023-09,2.0,ÖGK-W,Sep.23,FA für Anästhesiologie und Intensivmedizin,71.0,121.0,192.0,2023,Wien
+2023-09,3.0,ÖGK-W,Sep.23,FA für Augenheilkunde und Optometrie,1996.0,3369.0,5365.0,2023,Wien
+2023-09,4.0,ÖGK-W,Sep.23,FA für Chirurgie,786.0,933.0,1719.0,2023,Wien
 2023-09,5.0,ÖGK-W,Sep.23,FA für Haut- und Geschlechtskrankheiten,2687.0,6109.0,8796.0,2023,Wien
 2023-09,6.0,ÖGK-W,Sep.23,FA für Frauenheilkunde und Geburtshilfe,4913.0,8255.0,13168.0,2023,Wien
 2023-09,7.0,ÖGK-W,Sep.23,FA für Innere Medizin,3032.0,4204.0,7236.0,2023,Wien
@@ -2834,6 +3254,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-09,53.0,ÖGK-W,Sep.23,FA für Pathologie und Histologie,2.0,,2.0,2023,Wien
 2023-09,55.0,ÖGK-W,Sep.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,,3.0,3.0,2023,Wien
 2023-09,,ÖGK-W,Sep.23,Gesamt,28888.0,56008.0,84896.0,2023,Wien
+2023-10,1.0,ÖGK-W,Okt.23,Arzt für Allgemeinmedizin,2802.0,6990.0,9792.0,2023,Wien
+2023-10,2.0,ÖGK-W,Okt.23,FA für Anästhesiologie und Intensivmedizin,96.0,103.0,199.0,2023,Wien
+2023-10,3.0,ÖGK-W,Okt.23,FA für Augenheilkunde und Optometrie,1950.0,3854.0,5804.0,2023,Wien
+2023-10,4.0,ÖGK-W,Okt.23,FA für Chirurgie,782.0,1092.0,1874.0,2023,Wien
 2023-10,5.0,ÖGK-W,Okt.23,FA für Haut- und Geschlechtskrankheiten,2779.0,7067.0,9846.0,2023,Wien
 2023-10,6.0,ÖGK-W,Okt.23,FA für Frauenheilkunde und Geburtshilfe,4551.0,10169.0,14720.0,2023,Wien
 2023-10,7.0,ÖGK-W,Okt.23,FA für Innere Medizin,2976.0,5054.0,8030.0,2023,Wien
@@ -2861,6 +3285,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-10,53.0,ÖGK-W,Okt.23,FA für Pathologie und Histologie,,2.0,2.0,2023,Wien
 2023-10,55.0,ÖGK-W,Okt.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,11.0,7.0,18.0,2023,Wien
 2023-10,,ÖGK-W,Okt.23,Gesamt,27848.0,63845.0,91693.0,2023,Wien
+2023-11,1.0,ÖGK-W,Nov.23,Arzt für Allgemeinmedizin,3302.0,7065.0,10367.0,2023,Wien
+2023-11,2.0,ÖGK-W,Nov.23,FA für Anästhesiologie und Intensivmedizin,115.0,121.0,236.0,2023,Wien
+2023-11,3.0,ÖGK-W,Nov.23,FA für Augenheilkunde und Optometrie,2568.0,3984.0,6552.0,2023,Wien
+2023-11,4.0,ÖGK-W,Nov.23,FA für Chirurgie,984.0,1263.0,2247.0,2023,Wien
 2023-11,5.0,ÖGK-W,Nov.23,FA für Haut- und Geschlechtskrankheiten,3208.0,7045.0,10253.0,2023,Wien
 2023-11,6.0,ÖGK-W,Nov.23,FA für Frauenheilkunde und Geburtshilfe,5807.0,10321.0,16128.0,2023,Wien
 2023-11,7.0,ÖGK-W,Nov.23,FA für Innere Medizin,3922.0,4901.0,8823.0,2023,Wien
@@ -2888,6 +3316,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-11,53.0,ÖGK-W,Nov.23,FA für Pathologie und Histologie,1.0,3.0,4.0,2023,Wien
 2023-11,55.0,ÖGK-W,Nov.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,5.0,11.0,16.0,2023,Wien
 2023-11,,ÖGK-W,Nov.23,Gesamt,34294.0,64246.0,98540.0,2023,Wien
+2023-12,1.0,ÖGK-W,Dez.23,Arzt für Allgemeinmedizin,2759.0,6053.0,8812.0,2023,Wien
+2023-12,2.0,ÖGK-W,Dez.23,FA für Anästhesiologie und Intensivmedizin,79.0,119.0,198.0,2023,Wien
+2023-12,3.0,ÖGK-W,Dez.23,FA für Augenheilkunde und Optometrie,1689.0,3240.0,4929.0,2023,Wien
+2023-12,4.0,ÖGK-W,Dez.23,FA für Chirurgie,664.0,1142.0,1806.0,2023,Wien
 2023-12,5.0,ÖGK-W,Dez.23,FA für Haut- und Geschlechtskrankheiten,2314.0,6335.0,8649.0,2023,Wien
 2023-12,6.0,ÖGK-W,Dez.23,FA für Frauenheilkunde und Geburtshilfe,3963.0,8351.0,12314.0,2023,Wien
 2023-12,7.0,ÖGK-W,Dez.23,FA für Innere Medizin,2844.0,4108.0,6952.0,2023,Wien

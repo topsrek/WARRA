@@ -1,4 +1,8 @@
 Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pretty
+2023-01,1.0,ALL,Jän.23,Arzt für Allgemeinmedizin,23753.0,26864.0,50617.0,2023,Alle
+2023-01,2.0,ALL,Jän.23,FA für Anästhesiologie und Intensivmedizin,842.0,549.0,1391.0,2023,Alle
+2023-01,3.0,ALL,Jän.23,FA für Augenheilkunde und Optometrie,15618.0,12112.0,27730.0,2023,Alle
+2023-01,4.0,ALL,Jän.23,FA für Chirurgie,4166.0,2730.0,6896.0,2023,Alle
 2023-01,5.0,ALL,Jän.23,FA für Haut- und Geschlechtskrankheiten,16167.0,14238.0,30405.0,2023,Alle
 2023-01,6.0,ALL,Jän.23,FA für Frauenheilkunde und Geburtshilfe,30425.0,29366.0,59791.0,2023,Alle
 2023-01,7.0,ALL,Jän.23,FA für Innere Medizin,17943.0,12602.0,30545.0,2023,Alle
@@ -26,6 +30,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-01,53.0,ALL,Jän.23,FA für Pathologie und Histologie,56.0,51.0,107.0,2023,Alle
 2023-01,55.0,ALL,Jän.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,8.0,14.0,22.0,2023,Alle
 2023-01,,ALL,Jän.23,Gesamt,172735.0,163013.0,335748.0,2023,Alle
+2023-02,1.0,ALL,Feb.23,Arzt für Allgemeinmedizin,25094.0,22401.0,47495.0,2023,Alle
+2023-02,2.0,ALL,Feb.23,FA für Anästhesiologie und Intensivmedizin,837.0,376.0,1213.0,2023,Alle
+2023-02,3.0,ALL,Feb.23,FA für Augenheilkunde und Optometrie,16808.0,12931.0,29739.0,2023,Alle
+2023-02,4.0,ALL,Feb.23,FA für Chirurgie,4488.0,2373.0,6861.0,2023,Alle
 2023-02,5.0,ALL,Feb.23,FA für Haut- und Geschlechtskrankheiten,17428.0,13425.0,30853.0,2023,Alle
 2023-02,6.0,ALL,Feb.23,FA für Frauenheilkunde und Geburtshilfe,30524.0,26999.0,57523.0,2023,Alle
 2023-02,7.0,ALL,Feb.23,FA für Innere Medizin,18537.0,11437.0,29974.0,2023,Alle
@@ -53,6 +61,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-02,53.0,ALL,Feb.23,FA für Pathologie und Histologie,55.0,32.0,87.0,2023,Alle
 2023-02,55.0,ALL,Feb.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,18.0,10.0,28.0,2023,Alle
 2023-02,,ALL,Feb.23,Gesamt,173856.0,149194.0,323050.0,2023,Alle
+2023-03,1.0,ALL,Mär.23,Arzt für Allgemeinmedizin,29332.0,29075.0,58407.0,2023,Alle
+2023-03,2.0,ALL,Mär.23,FA für Anästhesiologie und Intensivmedizin,1007.0,474.0,1481.0,2023,Alle
+2023-03,3.0,ALL,Mär.23,FA für Augenheilkunde und Optometrie,19392.0,19512.0,38904.0,2023,Alle
+2023-03,4.0,ALL,Mär.23,FA für Chirurgie,5113.0,3318.0,8431.0,2023,Alle
 2023-03,5.0,ALL,Mär.23,FA für Haut- und Geschlechtskrankheiten,19956.0,18151.0,38107.0,2023,Alle
 2023-03,6.0,ALL,Mär.23,FA für Frauenheilkunde und Geburtshilfe,35712.0,37617.0,73329.0,2023,Alle
 2023-03,7.0,ALL,Mär.23,FA für Innere Medizin,22875.0,15919.0,38794.0,2023,Alle
@@ -80,6 +92,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-03,53.0,ALL,Mär.23,FA für Pathologie und Histologie,61.0,54.0,115.0,2023,Alle
 2023-03,55.0,ALL,Mär.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,14.0,18.0,32.0,2023,Alle
 2023-03,,ALL,Mär.23,Gesamt,209056.0,204975.0,414031.0,2023,Alle
+2023-04,1.0,ALL,Apr.23,Arzt für Allgemeinmedizin,21089.0,25588.0,46677.0,2023,Alle
+2023-04,2.0,ALL,Apr.23,FA für Anästhesiologie und Intensivmedizin,787.0,356.0,1143.0,2023,Alle
+2023-04,3.0,ALL,Apr.23,FA für Augenheilkunde und Optometrie,14986.0,14039.0,29025.0,2023,Alle
+2023-04,4.0,ALL,Apr.23,FA für Chirurgie,4821.0,2912.0,7733.0,2023,Alle
 2023-04,5.0,ALL,Apr.23,FA für Haut- und Geschlechtskrankheiten,16976.0,15852.0,32828.0,2023,Alle
 2023-04,6.0,ALL,Apr.23,FA für Frauenheilkunde und Geburtshilfe,29603.0,28861.0,58464.0,2023,Alle
 2023-04,7.0,ALL,Apr.23,FA für Innere Medizin,19030.0,13492.0,32522.0,2023,Alle
@@ -107,6 +123,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-04,53.0,ALL,Apr.23,FA für Pathologie und Histologie,59.0,35.0,94.0,2023,Alle
 2023-04,55.0,ALL,Apr.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,11.0,6.0,17.0,2023,Alle
 2023-04,,ALL,Apr.23,Gesamt,169311.0,167674.0,336985.0,2023,Alle
+2023-05,1.0,ALL,Mai.23,Arzt für Allgemeinmedizin,23333.0,23712.0,47045.0,2023,Alle
+2023-05,2.0,ALL,Mai.23,FA für Anästhesiologie und Intensivmedizin,787.0,372.0,1159.0,2023,Alle
+2023-05,3.0,ALL,Mai.23,FA für Augenheilkunde und Optometrie,16984.0,14942.0,31926.0,2023,Alle
+2023-05,4.0,ALL,Mai.23,FA für Chirurgie,4499.0,2720.0,7219.0,2023,Alle
 2023-05,5.0,ALL,Mai.23,FA für Haut- und Geschlechtskrankheiten,18141.0,14922.0,33063.0,2023,Alle
 2023-05,6.0,ALL,Mai.23,FA für Frauenheilkunde und Geburtshilfe,31385.0,29086.0,60471.0,2023,Alle
 2023-05,7.0,ALL,Mai.23,FA für Innere Medizin,18605.0,13169.0,31774.0,2023,Alle
@@ -134,6 +154,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-05,53.0,ALL,Mai.23,FA für Pathologie und Histologie,45.0,26.0,71.0,2023,Alle
 2023-05,55.0,ALL,Mai.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,13.0,14.0,27.0,2023,Alle
 2023-05,,ALL,Mai.23,Gesamt,178491.0,162901.0,341392.0,2023,Alle
+2023-06,1.0,ALL,Jun.23,Arzt für Allgemeinmedizin,27625.0,23821.0,51446.0,2023,Alle
+2023-06,2.0,ALL,Jun.23,FA für Anästhesiologie und Intensivmedizin,1056.0,316.0,1372.0,2023,Alle
+2023-06,3.0,ALL,Jun.23,FA für Augenheilkunde und Optometrie,20839.0,17285.0,38124.0,2023,Alle
+2023-06,4.0,ALL,Jun.23,FA für Chirurgie,5883.0,2965.0,8848.0,2023,Alle
 2023-06,5.0,ALL,Jun.23,FA für Haut- und Geschlechtskrankheiten,20139.0,16808.0,36947.0,2023,Alle
 2023-06,6.0,ALL,Jun.23,FA für Frauenheilkunde und Geburtshilfe,32210.0,35299.0,67509.0,2023,Alle
 2023-06,7.0,ALL,Jun.23,FA für Innere Medizin,22405.0,14868.0,37273.0,2023,Alle
@@ -161,6 +185,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-06,53.0,ALL,Jun.23,FA für Pathologie und Histologie,65.0,35.0,100.0,2023,Alle
 2023-06,55.0,ALL,Jun.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,12.0,9.0,21.0,2023,Alle
 2023-06,,ALL,Jun.23,Gesamt,203778.0,180991.0,384769.0,2023,Alle
+2023-07,1.0,ALL,Jul.23,Arzt für Allgemeinmedizin,25880.0,25585.0,51465.0,2023,Alle
+2023-07,2.0,ALL,Jul.23,FA für Anästhesiologie und Intensivmedizin,956.0,376.0,1332.0,2023,Alle
+2023-07,3.0,ALL,Jul.23,FA für Augenheilkunde und Optometrie,19111.0,15129.0,34240.0,2023,Alle
+2023-07,4.0,ALL,Jul.23,FA für Chirurgie,5708.0,2874.0,8582.0,2023,Alle
 2023-07,5.0,ALL,Jul.23,FA für Haut- und Geschlechtskrankheiten,21828.0,16986.0,38814.0,2023,Alle
 2023-07,6.0,ALL,Jul.23,FA für Frauenheilkunde und Geburtshilfe,36556.0,30899.0,67455.0,2023,Alle
 2023-07,7.0,ALL,Jul.23,FA für Innere Medizin,22011.0,13585.0,35596.0,2023,Alle
@@ -188,6 +216,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-07,53.0,ALL,Jul.23,FA für Pathologie und Histologie,56.0,25.0,81.0,2023,Alle
 2023-07,55.0,ALL,Jul.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,13.0,8.0,21.0,2023,Alle
 2023-07,,ALL,Jul.23,Gesamt,207709.0,175228.0,382937.0,2023,Alle
+2023-08,1.0,ALL,Aug.23,Arzt für Allgemeinmedizin,22963.0,24234.0,47197.0,2023,Alle
+2023-08,2.0,ALL,Aug.23,FA für Anästhesiologie und Intensivmedizin,848.0,395.0,1243.0,2023,Alle
+2023-08,3.0,ALL,Aug.23,FA für Augenheilkunde und Optometrie,19870.0,15254.0,35124.0,2023,Alle
+2023-08,4.0,ALL,Aug.23,FA für Chirurgie,4617.0,3011.0,7628.0,2023,Alle
 2023-08,5.0,ALL,Aug.23,FA für Haut- und Geschlechtskrankheiten,22351.0,17047.0,39398.0,2023,Alle
 2023-08,6.0,ALL,Aug.23,FA für Frauenheilkunde und Geburtshilfe,32962.0,31457.0,64419.0,2023,Alle
 2023-08,7.0,ALL,Aug.23,FA für Innere Medizin,19705.0,13646.0,33351.0,2023,Alle
@@ -215,6 +247,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-08,53.0,ALL,Aug.23,FA für Pathologie und Histologie,40.0,33.0,73.0,2023,Alle
 2023-08,55.0,ALL,Aug.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,15.0,15.0,30.0,2023,Alle
 2023-08,,ALL,Aug.23,Gesamt,193847.0,175005.0,368852.0,2023,Alle
+2023-09,1.0,ALL,Sep.23,Arzt für Allgemeinmedizin,25037.0,25468.0,50505.0,2023,Alle
+2023-09,2.0,ALL,Sep.23,FA für Anästhesiologie und Intensivmedizin,802.0,464.0,1266.0,2023,Alle
+2023-09,3.0,ALL,Sep.23,FA für Augenheilkunde und Optometrie,20130.0,16194.0,36324.0,2023,Alle
+2023-09,4.0,ALL,Sep.23,FA für Chirurgie,4849.0,2921.0,7770.0,2023,Alle
 2023-09,5.0,ALL,Sep.23,FA für Haut- und Geschlechtskrankheiten,18509.0,18490.0,36999.0,2023,Alle
 2023-09,6.0,ALL,Sep.23,FA für Frauenheilkunde und Geburtshilfe,34304.0,34272.0,68576.0,2023,Alle
 2023-09,7.0,ALL,Sep.23,FA für Innere Medizin,19839.0,14715.0,34554.0,2023,Alle
@@ -242,6 +278,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-09,53.0,ALL,Sep.23,FA für Pathologie und Histologie,52.0,56.0,108.0,2023,Alle
 2023-09,55.0,ALL,Sep.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,10.0,16.0,26.0,2023,Alle
 2023-09,,ALL,Sep.23,Gesamt,189722.0,186852.0,376574.0,2023,Alle
+2023-10,1.0,ALL,Okt.23,Arzt für Allgemeinmedizin,29162.0,26247.0,55409.0,2023,Alle
+2023-10,2.0,ALL,Okt.23,FA für Anästhesiologie und Intensivmedizin,897.0,389.0,1286.0,2023,Alle
+2023-10,3.0,ALL,Okt.23,FA für Augenheilkunde und Optometrie,20773.0,18101.0,38874.0,2023,Alle
+2023-10,4.0,ALL,Okt.23,FA für Chirurgie,4380.0,2870.0,7250.0,2023,Alle
 2023-10,5.0,ALL,Okt.23,FA für Haut- und Geschlechtskrankheiten,19319.0,19301.0,38620.0,2023,Alle
 2023-10,6.0,ALL,Okt.23,FA für Frauenheilkunde und Geburtshilfe,40861.0,35080.0,75941.0,2023,Alle
 2023-10,7.0,ALL,Okt.23,FA für Innere Medizin,22783.0,15310.0,38093.0,2023,Alle
@@ -269,6 +309,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-10,53.0,ALL,Okt.23,FA für Pathologie und Histologie,48.0,34.0,82.0,2023,Alle
 2023-10,55.0,ALL,Okt.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,23.0,11.0,34.0,2023,Alle
 2023-10,,ALL,Okt.23,Gesamt,207748.0,193170.0,400918.0,2023,Alle
+2023-11,1.0,ALL,Nov.23,Arzt für Allgemeinmedizin,25834.0,30006.0,55840.0,2023,Alle
+2023-11,2.0,ALL,Nov.23,FA für Anästhesiologie und Intensivmedizin,1131.0,354.0,1485.0,2023,Alle
+2023-11,3.0,ALL,Nov.23,FA für Augenheilkunde und Optometrie,18576.0,20970.0,39546.0,2023,Alle
+2023-11,4.0,ALL,Nov.23,FA für Chirurgie,5782.0,3401.0,9183.0,2023,Alle
 2023-11,5.0,ALL,Nov.23,FA für Haut- und Geschlechtskrankheiten,22310.0,20347.0,42657.0,2023,Alle
 2023-11,6.0,ALL,Nov.23,FA für Frauenheilkunde und Geburtshilfe,38336.0,42615.0,80951.0,2023,Alle
 2023-11,7.0,ALL,Nov.23,FA für Innere Medizin,29240.0,17616.0,46856.0,2023,Alle
@@ -296,6 +340,10 @@ Date,FG-Code,LST,Monat.Jahr,Fachrichtung,postal,online,Gesamt,Year,Bundesland_pr
 2023-11,53.0,ALL,Nov.23,FA für Pathologie und Histologie,53.0,32.0,85.0,2023,Alle
 2023-11,55.0,ALL,Nov.23,FA für Hygiene und Mikrobiologie bzw. Labordiagnostik,19.0,25.0,44.0,2023,Alle
 2023-11,,ALL,Nov.23,Gesamt,220655.0,216648.0,437303.0,2023,Alle
+2023-12,1.0,ALL,Dez.23,Arzt für Allgemeinmedizin,21193.0,26644.0,47837.0,2023,Alle
+2023-12,2.0,ALL,Dez.23,FA für Anästhesiologie und Intensivmedizin,561.0,360.0,921.0,2023,Alle
+2023-12,3.0,ALL,Dez.23,FA für Augenheilkunde und Optometrie,14071.0,16580.0,30651.0,2023,Alle
+2023-12,4.0,ALL,Dez.23,FA für Chirurgie,4129.0,3150.0,7279.0,2023,Alle
 2023-12,5.0,ALL,Dez.23,FA für Haut- und Geschlechtskrankheiten,17059.0,18009.0,35068.0,2023,Alle
 2023-12,6.0,ALL,Dez.23,FA für Frauenheilkunde und Geburtshilfe,27581.0,34370.0,61951.0,2023,Alle
 2023-12,7.0,ALL,Dez.23,FA für Innere Medizin,19389.0,15141.0,34530.0,2023,Alle
