@@ -13,9 +13,7 @@
             "cwd": "${workspaceFolder}/raw_data",
             "env": {
                 "PIPENV_ACTIVE": "1",
-                "VIRTUAL_ENV": "${workspaceFolder}/.venv"
             },
-            "python": "${workspaceFolder}/.venv/bin/python"
         }
     ]
 }
