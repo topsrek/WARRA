@@ -333,6 +333,196 @@ def create_combined_processing_time_plot(df_2023, df_historical, dark_mode=True)
     output_filename = os.path.join(output_dir, "oegk_bearbeitungszeit_combined_dark.png" if dark_mode else "oegk_bearbeitungszeit_combined.png")
     save_plot(fig, output_filename, dark_mode, bg_color)
 
+def create_grid_processing_time_plot(df_2023, df_historical, dark_mode=True):
+    """Create a 3x3 grid of subplots showing processing times for all Bundesländer."""
+    # Create output directory
+    output_dir = BASE_OUTPUT_DIR
+    os.makedirs(output_dir, exist_ok=True)
+
+    # Prepare data
+    df_2023["Date"] = pd.to_datetime(df_2023["Date"])
+    df_historical["Date"] = pd.to_datetime(df_historical["Date"])
+
+    # Combine the data
+    overlap_start = df_2023["Date"].min()
+    df_combined = pd.concat([
+        df_historical[df_historical["Date"] < overlap_start],
+        df_2023
+    ]).sort_values(["Date", "Bundesland_pretty"])
+
+    # Create figure with subplots
+    fig, axes = plt.subplots(3, 3, figsize=(24, 18))  # Reduced height
+    fig.subplots_adjust(hspace=0.5, wspace=0.2)  # Adjusted spacing between subplots
+
+    # Setup style
+    text_color, bg_color, grid_alpha = setup_plot_style(dark_mode)
+    fig.patch.set_facecolor(bg_color)
+
+    # Define colors for light mode
+    if not dark_mode:
+        subplot_bg_color = '#f5f5f5'  # Light gray background
+        border_color = '#cccccc'  # Medium gray border
+        alt_bg_color = '#ffffff'  # White background for alternating pattern
+    
+    # Get dates for x-axis
+    dates = df_combined["Date"].unique()
+    german_dates = [translate_to_german_date(d) for d in dates]
+    
+    # Create labels for every third month
+    date_labels = []
+    for i, date in enumerate(german_dates):
+        if i % 3 == 0:  # Show only every third month
+            date_labels.append(date)
+        else:
+            date_labels.append("")
+
+    # Get unique Bundesländer
+    bundeslaender = sorted(df_combined["Bundesland_pretty"].unique())
+
+    # Setup colors for the three types
+    base_colors = create_base_colors()[0]  # Use first color set for all plots
+    postal_color = base_colors[0]
+    online_color = base_colors[1]
+    online_new_color = base_colors[2]
+
+    # Calculate global y-axis limits
+    y_min = float('inf')
+    y_max = float('-inf')
+    
+    # First pass to calculate global y limits
+    for bundesland in bundeslaender:
+        bl_data = df_combined[df_combined["Bundesland_pretty"] == bundesland].sort_values("Date")
+        bl_data_aligned = pd.DataFrame(index=dates)
+        bl_data_aligned = bl_data_aligned.join(bl_data.set_index("Date"))
+        
+        current_min = min(bl_data_aligned[["Postal", "OnlineMeine", "OnlineWAH"]].min().min(), 0)
+        current_max = bl_data_aligned[["Postal", "OnlineMeine", "OnlineWAH"]].max().max()
+        
+        y_min = min(y_min, current_min)
+        y_max = max(y_max, current_max)
+    
+    # Add padding to y limits
+    y_min = y_min * 0.95
+    y_max = y_max * 1.05
+
+    # Create plots for each Bundesland
+    for idx, bundesland in enumerate(bundeslaender):
+        row = idx // 3
+        col = idx % 3
+        ax = axes[row, col]
+        
+        # Set background color and border for light mode
+        if not dark_mode:
+            # Add border
+            for spine in ax.spines.values():
+                spine.set_edgecolor(border_color)
+                spine.set_linewidth(1.5)
+        ax.set_facecolor(bg_color)
+
+        # Filter data for this Bundesland
+        bl_data = df_combined[df_combined["Bundesland_pretty"] == bundesland].sort_values("Date")
+        
+        # Ensure data is properly aligned with dates
+        bl_data_aligned = pd.DataFrame(index=dates)
+        bl_data_aligned = bl_data_aligned.join(bl_data.set_index("Date"))
+        
+        # Plot Postal (solid line)
+        ax.plot(range(len(dates)), bl_data_aligned["Postal"], 
+                color=postal_color, marker='o', markersize=3, 
+                label="Postal", linewidth=2.5, linestyle='-')
+
+        # Plot Online MeineÖGK (dashed line)
+        ax.plot(range(len(dates)), bl_data_aligned["OnlineMeine"], 
+                color=online_color, marker='o', markersize=3, 
+                label="MeineÖGK", linewidth=2.5, linestyle='--')
+
+        # Plot Online WAH (dotted line) - only after May 2023
+        mask_new_online = ~bl_data_aligned["OnlineWAH"].isna()
+        if mask_new_online.any():
+            dates_idx = np.where(mask_new_online)[0]
+            ax.plot(dates_idx, bl_data_aligned[mask_new_online]["OnlineWAH"], 
+                    color=online_new_color, marker='o', markersize=3, 
+                    label="WAH", linewidth=2.5, linestyle=':')
+
+        # Customize subplot
+        ax.set_title(bundesland, fontsize=14, pad=10, color=text_color)
+        
+        # Show x-label for all subplots
+        #ax.set_xlabel("Monat", fontsize=10, color=text_color, labelpad=10)
+        
+        # Only show y-label for first column
+        if col == 0:
+            ax.set_ylabel("Bearbeitungszeit (Tage)", fontsize=10, color=text_color, labelpad=10)
+
+        # Set x-axis labels with rotation for all subplots
+        ax.set_xticks(range(len(dates)))
+        ax.set_xticklabels(date_labels, rotation=45, ha='right', color=text_color, fontsize=8)
+        
+        # Set y-axis color and font size
+        ax.tick_params(colors=text_color, labelsize=8)
+        
+        # Add grid with emphasized lines for every third month
+        ax.grid(True, axis='y', linestyle="--", alpha=grid_alpha, color=text_color)
+        
+        # Add vertical grid lines with different styles
+        for i in range(len(dates)):
+            if i % 3 == 0:
+                # Emphasized line for every third month
+                ax.axvline(x=i, color=text_color, linestyle='-', alpha=grid_alpha, linewidth=1.5)
+            else:
+                # Normal line for other months
+                ax.axvline(x=i, color=text_color, linestyle='--', alpha=grid_alpha * 0.5, linewidth=0.5)
+
+        # Set common y-axis limits
+        ax.set_ylim(y_min, y_max)
+
+        # Make every third x-label bold
+        for label in ax.get_xticklabels():
+            pos = int(label.get_position()[0])
+            if pos % 3 == 0:
+                label.set_fontweight('bold')
+            else:
+                label.set_visible(False)  # Hide non-third labels
+
+    # Add a single legend for all subplots at the bottom
+    legend_kwargs = {
+        "ncol": 3,
+        "loc": "center",
+        "bbox_to_anchor": (0.5, -0.02),
+        "fontsize": 13,
+        "handlelength": 2,
+        "borderaxespad": 0,
+    }
+    
+    if dark_mode:
+        legend_kwargs.update({
+            "facecolor": bg_color,
+            "edgecolor": "white",
+            "labelcolor": "white"
+        })
+    else:
+        legend_kwargs.update({
+            "facecolor": "white",
+            "edgecolor": border_color,
+            "labelcolor": "black"
+        })
+    
+    # Create legend using the last subplot's lines
+    fig.legend(*ax.get_legend_handles_labels(), **legend_kwargs)
+
+    # Add overall title
+    fig.suptitle(
+        "ÖGK Durchschnittliche Bearbeitungszeit pro Monat - Alle Bundesländer",
+        fontsize=16,
+        color=text_color,
+        y=1
+    )
+
+    # Save plot with tighter layout
+    output_filename = os.path.join(output_dir, "oegk_bearbeitungszeit_grid_dark.png" if dark_mode else "oegk_bearbeitungszeit_grid.png")
+    plt.tight_layout()  # Apply tight layout before saving
+    save_plot(fig, output_filename, dark_mode, bg_color)
+
 def main():
     # Read the CSV files with absolute paths
     df_2023 = pd.read_csv(
@@ -346,7 +536,12 @@ def main():
     print("2023 columns:", df_2023.columns.tolist())
     print("Historical columns:", df_historical.columns.tolist())
     
-    # Create combined plots first
+    # Create grid plots first
+    print("Creating grid plots...")
+    create_grid_processing_time_plot(df_2023, df_historical, dark_mode=True)
+    create_grid_processing_time_plot(df_2023, df_historical, dark_mode=False)
+    
+    # Create combined plots
     print("Creating combined plots...")
     create_combined_processing_time_plot(df_2023, df_historical, dark_mode=True)
     create_combined_processing_time_plot(df_2023, df_historical, dark_mode=False)
