@@ -50,7 +50,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False):
         ax.set_facecolor("white")
 
     # Get unique years and states
-    years = sorted(df["Year"].unique(), reverse=True)
+    years = sorted(df["Year"].unique())
     states = sorted(df["LST"].unique())
 
     # Move "Gesamt" to the beginning of the list
@@ -111,7 +111,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False):
                         "D",
                         color="gray",
                         alpha=0.4,
-                        markersize=13,
+                        markersize=11,
                         zorder=2,
                     )
 
@@ -142,12 +142,8 @@ def create_plot(input_file, dark_mode=True, is_updated=False):
                     ax.add_patch(polygon)
 
                 # Plot state point
-                point_color = (
-                    "blue"
-                    if ratio > gesamt_ratio
-                    else "blue" if not gesamt_ratio == ratio else "black"
-                )
-                ax.plot(ratio, y_pos, "D", color=point_color, markersize=13, zorder=2)
+                point_color = "black"
+                ax.plot(ratio, y_pos, "D", color=point_color, markersize=11, zorder=2)
 
     # Style settings
     text_color = "white" if dark_mode else "black"
@@ -247,7 +243,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False):
     # Adjust layout to prevent label cutoff
     plt.tight_layout()
     plt.subplots_adjust(top=0.895)  # Make room for the title
-    plt.subplots_adjust(left=0.45)  # Make room for state labels
+    plt.subplots_adjust(left=0.43)  # Make room for state labels
 
     # Add background elements for visual separation
     # Add background rectangles for odd-numbered states
@@ -285,7 +281,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False):
             * ax.get_position().height
         )
         line = plt.Line2D(
-            [0.05, 0.8],
+            [0.05, 0.985],
             [fig_y, fig_y],
             transform=fig.transFigure,
             color=text_color,
@@ -294,6 +290,30 @@ def create_plot(input_file, dark_mode=True, is_updated=False):
             zorder=100,
         )
         fig.lines.append(line)
+
+    # Add vertical line connecting left ends of top and bottom custom lines
+    top_y = (
+        ax.get_position().y0
+        + (total_positions)
+        / total_positions
+        * ax.get_position().height
+    )
+    bottom_y = (
+        ax.get_position().y0
+        + (total_positions - (total_entities * len(years)))
+        / total_positions
+        * ax.get_position().height
+    )
+    vertical_line = plt.Line2D(
+        [0.05, 0.05],
+        [top_y, bottom_y],
+        transform=fig.transFigure,
+        color=text_color,
+        alpha=1.0,
+        linewidth=1,
+        zorder=100,
+    )
+    fig.lines.append(vertical_line)
 
     plt.savefig(filename, **save_kwargs)
     plt.close()

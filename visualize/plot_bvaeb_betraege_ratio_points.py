@@ -50,7 +50,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False):
         ax.set_facecolor("white")
 
     # Prepare data organization
-    years = sorted(df["Year"].unique(), reverse=True)
+    years = sorted(df["Year"].unique())
     states = sorted(df["Bundesland"].unique())
 
     # Put "Gesamt" (nationwide) at the beginning of the list
@@ -101,7 +101,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False):
                 gesamt_year_data = gesamt_data[gesamt_data["Year"] == year]
                 if not gesamt_year_data.empty:
                     gesamt_ratio = gesamt_year_data["Ratio"].iloc[0]
-                
+
                 # For non-nationwide states, draw comparison to nationwide value
                 if state != gesamt:
                     # Plot reference point (nationwide value)
@@ -111,7 +111,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False):
                         "D",
                         color="gray",
                         alpha=0.4,
-                        markersize=13,
+                        markersize=11,
                         zorder=2,
                     )
 
@@ -142,12 +142,8 @@ def create_plot(input_file, dark_mode=True, is_updated=False):
                     ax.add_patch(polygon)
 
                 # Plot the state's data point
-                point_color = (
-                    "blue"
-                    if ratio > gesamt_ratio
-                    else "blue" if not gesamt_ratio == ratio else "black"
-                )
-                ax.plot(ratio, y_pos, "D", color=point_color, markersize=13, zorder=2)
+                point_color = "black"
+                ax.plot(ratio, y_pos, "D", color=point_color, markersize=11, zorder=2)
 
     # Style and formatting
     text_color = "white" if dark_mode else "black"
@@ -174,7 +170,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False):
     x_ticks = np.arange(0.40, 0.80, 0.05)
     ax.set_xticks(x_ticks)
     ax.set_xticklabels([f"{x:.1%}" for x in x_ticks], color=text_color, fontsize=14)
-    
+
     # Add duplicate x-axis at the top for better readability
     ax2 = ax.twiny()
     ax2.set_xlim(ax.get_xlim())
@@ -234,7 +230,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False):
         OUTPUT_DIR,
         f"bvaeb_betraege_ratio_points_{'dark' if dark_mode else 'light'}.png",
     )
-    
+
     # Configure save parameters
     save_kwargs = {"dpi": 300, "bbox_inches": "tight"}
     if dark_mode:
@@ -281,7 +277,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False):
             * ax.get_position().height
         )
         line = plt.Line2D(
-            [0.05, 0.8],
+            [0.05, 0.985],
             [fig_y, fig_y],
             transform=fig.transFigure,
             color=text_color,
@@ -290,6 +286,28 @@ def create_plot(input_file, dark_mode=True, is_updated=False):
             zorder=100,
         )
         fig.lines.append(line)
+
+    # Add vertical line connecting left ends of top and bottom custom lines
+    top_y = (
+        ax.get_position().y0
+        + (total_positions) / total_positions * ax.get_position().height
+    )
+    bottom_y = (
+        ax.get_position().y0
+        + (total_positions - (total_entities * len(years)))
+        / total_positions
+        * ax.get_position().height
+    )
+    vertical_line = plt.Line2D(
+        [0.05, 0.05],
+        [top_y, bottom_y],
+        transform=fig.transFigure,
+        color=text_color,
+        alpha=1.0,
+        linewidth=1,
+        zorder=100,
+    )
+    fig.lines.append(vertical_line)
 
     plt.savefig(filename, **save_kwargs)
     plt.close()
