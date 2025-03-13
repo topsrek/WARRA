@@ -232,7 +232,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False):
     # Configure output filename
     filename = os.path.join(
         OUTPUT_DIR,
-        f"oegk_betraege_ratio_points_{'updated' if is_updated else 'original'}_{'dark' if dark_mode else 'light'}.png",
+        f"bvaeb_betraege_ratio_points_{'dark' if dark_mode else 'light'}.png",
     )
     
     # Configure save parameters
@@ -305,7 +305,7 @@ def main():
     create_plot(
         "../data/csv/manually_extracted/BVAEB_Betraege_updated.csv",
         dark_mode=False,
-        is_updated=False,
+        is_updated=True,
     )
 
 
