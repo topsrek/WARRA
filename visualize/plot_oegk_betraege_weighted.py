@@ -20,32 +20,92 @@ prettify_LST = {
     "Gesamt": "Gesamt",
 }
 
-# Placeholder VPI data (to be replaced with actual data)
+# VPI data (from /data/extras/VPI/VPI...ods). Average per time period
 VPI_DATA = {
-    "2019": 106.7,  # Base year
+    "2019": 106.7,
     "2020": 108.2,
     "2021": 111.2,
     "2022": 120.7,
     "2023": 130.1,
-    "2024Q1-Q3": 133.7,
+    "2024Q1-Q3": 133.7, # Average of Q1-Q3 2024
     "2024": 134.0,
     "2025": 136.8,
 }
 
-# Placeholder insured population data (to be replaced with actual data)
+# Insured population data (from /data/extras/Handbuch/Tabellen_Statistisches_Handbuch_2024/Kapitel 2_24.xlsx)
+# Historical data 2019-2023 from Tabelle 2.02
+# Future values calculated with lambda functions
 INSURED_POPULATION = {
-    "ÖGK-W": 1800000,
-    "ÖGK-N": 1600000,
-    "ÖGK-B": 300000,
-    "ÖGK-O": 1400000,
-    "ÖGK-S": 500000,
-    "ÖGK-K": 500000,
-    "ÖGK-ST": 1100000,
-    "ÖGK-T": 700000,
-    "ÖGK-V": 350000,
-    "Gesamt": 7750000,
+    "2019": {
+        "ÖGK-W": 1734250,
+        "ÖGK-N": 1235467,
+        "ÖGK-B": 213310,
+        "ÖGK-O": 1259403,
+        "ÖGK-ST": 975072,
+        "ÖGK-K": 436208,
+        "ÖGK-S": 468270,
+        "ÖGK-T": 598526,
+        "ÖGK-V": 330122,
+        "Gesamt": 7250628,
+    },
+    "2020": {
+        "ÖGK-W": 1733348,
+        "ÖGK-N": 1245744,
+        "ÖGK-B": 214327,
+        "ÖGK-O": 1261102,
+        "ÖGK-ST": 997453,
+        "ÖGK-K": 435932,
+        "ÖGK-S": 466544,
+        "ÖGK-T": 594466,
+        "ÖGK-V": 329658,
+        "Gesamt": 7278574,
+    },
+    "2021": {
+        "ÖGK-W": 1743335,
+        "ÖGK-N": 1253590,
+        "ÖGK-B": 217175,
+        "ÖGK-O": 1269008,
+        "ÖGK-ST": 1002900,
+        "ÖGK-K": 438725,
+        "ÖGK-S": 466215,
+        "ÖGK-T": 593720,
+        "ÖGK-V": 329767,
+        "Gesamt": 7314435,
+    },
+    "2022": {
+        "ÖGK-W": 1771026,
+        "ÖGK-N": 1273182,
+        "ÖGK-B": 221330,
+        "ÖGK-O": 1284447,
+        "ÖGK-ST": 1015347,
+        "ÖGK-K": 441801,
+        "ÖGK-S": 474520,
+        "ÖGK-T": 604751,
+        "ÖGK-V": 333178,
+        "Gesamt": 7419582,
+    },
+    "2023": {
+        "ÖGK-W": 1802340,
+        "ÖGK-N": 1278271,
+        "ÖGK-B": 223529,
+        "ÖGK-O": 1292594,
+        "ÖGK-ST": 1020869,
+        "ÖGK-K": 443213,
+        "ÖGK-S": 478351,
+        "ÖGK-T": 610168,
+        "ÖGK-V": 335023,
+        "Gesamt": 7484358,
+    },
+    "2024": lambda: {k: int(v * 1.008) for k, v in INSURED_POPULATION["2023"].items()},  # 0.8% growth from 2023
+    "2024Q1-Q3": lambda: {k: int(v * 1.008) for k, v in INSURED_POPULATION["2023"].items()},  # same growth as we extrapolate the whole year
+    "2025": lambda: {k: int(v * 1.008) for k, v in INSURED_POPULATION["2024"]().items()},  # 0.8% growth from 2024
 }
 
+def get_population_for_year(year):
+    """Get the population data for a specific year"""
+    year_str = str(year)
+    data = INSURED_POPULATION[year_str]
+    return data() if callable(data) else data
 
 def adjust_for_inflation(value, year, base_year=2024):
     """Adjust value for inflation using VPI data"""
@@ -77,7 +137,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
     )
 
     # Weight by insured population
-    df["Weight"] = df["LST"].map(INSURED_POPULATION) / INSURED_POPULATION["Gesamt"]
+    df["Weight"] = df.apply(lambda row: get_population_for_year(row["Year"])[row["LST"]] / get_population_for_year(row["Year"])["Gesamt"], axis=1)
     df["Rechnungsbeträge_weighted"] = df["Rechnungsbeträge_adj"] / df["Weight"]
     df["Refundierungen_weighted"] = df["Refundierungen_adj"] / df["Weight"]
 
@@ -90,7 +150,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
         )
 
     # Create figure with smaller size
-    fig, ax = plt.subplots(figsize=(15, 8))
+    fig, ax = plt.subplots(figsize=(12, 8))
 
     # Set dark mode if enabled
     if dark_mode:
@@ -101,20 +161,6 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
         plt.style.use("default")
         fig.patch.set_facecolor("white")
         ax.set_facecolor("white")
-
-    # Add placeholder text
-    placeholder_text = "PLATZHALTER: Versichertenzahlen sind Beispieldaten"
-    fig.text(
-        0.5,
-        0.95,
-        placeholder_text,
-        ha="center",
-        va="center",
-        fontsize=20,
-        color="gray",
-        alpha=0.3,
-        rotation=30,
-    )
 
     # Get unique years and states
     years = sorted(df["Year"].unique())
@@ -138,6 +184,13 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
         state_data = df[df["LST"] == state]
         for j, year in enumerate(years):
             year_data = state_data[state_data["Year"] == year]
+            if year == "2024Q1-Q3":
+                # Adjust the 2024 Q1-Q3 data by multiplying by 4/3 to estimate full year
+                year_data = year_data.copy()
+                year_data["Rechnungsbeträge_weighted"] = year_data["Rechnungsbeträge_weighted"] * (4/3)
+                year_data["Refundierungen_weighted"] = year_data["Refundierungen_weighted"] * (4/3)
+                if "Personal_loss" in year_data.columns:
+                    year_data["Personal_loss"] = year_data["Personal_loss"] * (4/3)
             if not year_data.empty:
                 if plot_type == "betraege":
                     # Get the values for billing amounts plot
@@ -162,7 +215,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
                             bar_width,
                             color=rechnungsbetraege_color,
                             alpha=0.7,
-                            label=f"Rechnungsbeträge {year}" if i == 0 else "",
+                            label=f"Rechnungsbeträge {year if year != '2024Q1-Q3' else '2024Q1-Q3 × 4/3'}" if i == 0 else "",
                         )
                     )
                     # Plot Refundierungen with lighter shade of original color
@@ -176,7 +229,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
                             refundierung,
                             bar_width,
                             color=refund_color,
-                            label=f"Refundierungen {year}" if i == 0 else "",
+                            label=f"Refundierungen {year if year != '2024Q1-Q3' else '2024Q1-Q3 × 4/3'}" if i == 0 else "",
                         )
                     )
                 else:  # personal_loss
@@ -190,7 +243,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
                                 bar_width,
                                 color=plt.cm.viridis(0.2 + 0.6 * (j / len(years))),
                                 alpha=1,
-                                label=f"{year}" if i == 0 else "",
+                                label=f"{year if year != '2024Q1-Q3' else '2024Q1-Q3 × 4/3'}" if i == 0 else "",
                             )
                         )
 
@@ -228,23 +281,27 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
 
     # Format y-axis with thousands separator, € symbol, and 10€ steps
     def format_yticks(x, p):
-        value = int(x / INSURED_POPULATION["Gesamt"])
+        year = df["Year"].iloc[0]
+        value = int(x / get_population_for_year(year)["Gesamt"])
         return f"{value:,} €"
 
     ax.yaxis.set_major_formatter(plt.FuncFormatter(format_yticks))
 
     # Set y-axis ticks in 10€ steps
     ymin, ymax = ax.get_ylim()
+    year = df["Year"].iloc[0]
+    gesamt = get_population_for_year(year)["Gesamt"]
+    
     if plot_type == "personal_loss":
         # For personal loss, we need to handle negative values
         # Round to nearest 10 for cleaner tick marks
-        ymin_rounded = np.floor(ymin / (10 * INSURED_POPULATION["Gesamt"])) * (10 * INSURED_POPULATION["Gesamt"])
-        ymax_rounded = np.ceil(ymax / (10 * INSURED_POPULATION["Gesamt"])) * (10 * INSURED_POPULATION["Gesamt"])
-        yticks = np.arange(ymin_rounded, ymax_rounded + (10 * INSURED_POPULATION["Gesamt"]), 10 * INSURED_POPULATION["Gesamt"])
+        ymin_rounded = np.floor(ymin / (10 * gesamt)) * (10 * gesamt)
+        ymax_rounded = np.ceil(ymax / (10 * gesamt)) * (10 * gesamt)
+        yticks = np.arange(ymin_rounded, ymax_rounded + (10 * gesamt), 10 * gesamt)
     else:
         # For regular betraege plot, only positive values
-        ymax_rounded = np.ceil(ymax / (10 * INSURED_POPULATION["Gesamt"])) * (10 * INSURED_POPULATION["Gesamt"])
-        yticks = np.arange(0, ymax_rounded + (10 * INSURED_POPULATION["Gesamt"]), 10 * INSURED_POPULATION["Gesamt"])
+        ymax_rounded = np.ceil(ymax / (10 * gesamt)) * (10 * gesamt)
+        yticks = np.arange(0, ymax_rounded + (10 * gesamt), 10 * gesamt)
     ax.set_yticks(yticks)
 
     # Add grid with appropriate opacity for each mode
