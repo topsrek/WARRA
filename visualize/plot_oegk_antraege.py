@@ -817,6 +817,21 @@ def create_categorized_plot(df, dark_mode=True, show_icons=True):
     
     # Setup axes with increased font size
     ax.tick_params(axis='both', which='major', labelsize=12)  # Increased from default
+    ax.tick_params(axis='both', which='minor', labelsize=8)  # Add minor tick labels
+    
+    # Enable only horizontal grid lines
+    ax.grid(True, axis='y', which='major', linestyle='--', alpha=grid_alpha, color=text_color)
+    ax.grid(True, axis='y', which='minor', linestyle=':', alpha=grid_alpha*0.5, color=text_color)
+    
+    # Add minor ticks only for y-axis and set their opacity
+    ax.minorticks_on()
+    ax.tick_params(axis='x', which='minor', bottom=False)  # Disable minor ticks on x-axis
+    
+    # Set minor tick label opacity
+    for label in ax.get_yticklabels(minor=True):
+        label.set_alpha(0.5)
+    
+    # Setup axes
     setup_plot_axes(ax, dates, text_color, grid_alpha)
     
     # Set axis limits
