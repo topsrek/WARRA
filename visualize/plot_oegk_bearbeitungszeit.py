@@ -27,16 +27,34 @@ def translate_to_german_date(date):
 
 def setup_plot_style(dark_mode=True):
     """Setup the plot style based on dark/light mode."""
+    plt.style.use('seaborn-v0_8')  # Use seaborn style as base
+    
     if dark_mode:
-        plt.style.use('dark_background')
-        text_color = 'white'
-        bg_color = '#1a1a1a'
-        grid_alpha = 0.2
+        text_color = '#E8E8E8'  # Softer white
+        bg_color = '#1E1E1E'    # Richer dark background
+        grid_alpha = 0.15
+        plt.rcParams['figure.facecolor'] = bg_color
+        plt.rcParams['axes.facecolor'] = '#252525'  # Slightly lighter than background
     else:
-        plt.style.use('default')
-        text_color = 'black'
-        bg_color = 'white'
-        grid_alpha = 0.7
+        text_color = '#2F2F2F'  # Softer black
+        bg_color = '#FFFFFF'
+        grid_alpha = 0.2
+        plt.rcParams['figure.facecolor'] = bg_color
+        plt.rcParams['axes.facecolor'] = '#F8F8F8'  # Very light gray
+    
+    # Set global font settings
+    plt.rcParams['font.family'] = 'sans-serif'
+    plt.rcParams['font.sans-serif'] = ['Helvetica', 'Arial', 'DejaVu Sans']
+    plt.rcParams['axes.titlesize'] = 14
+    plt.rcParams['axes.labelsize'] = 12
+    plt.rcParams['xtick.labelsize'] = 10
+    plt.rcParams['ytick.labelsize'] = 10
+    
+    # Set line styling
+    plt.rcParams['axes.linewidth'] = 1.2
+    plt.rcParams['grid.linewidth'] = 0.8
+    plt.rcParams['lines.linewidth'] = 2.0
+    plt.rcParams['lines.markersize'] = 6
     
     return text_color, bg_color, grid_alpha
 
@@ -351,19 +369,14 @@ def create_grid_processing_time_plot(df_2023, df_historical, dark_mode=True):
     ]).sort_values(["Date", "Bundesland_pretty"])
 
     # Create figure with subplots
-    fig, axes = plt.subplots(3, 3, figsize=(24, 18))  # Reduced height
-    fig.subplots_adjust(hspace=0.5, wspace=0.2)  # Adjusted spacing between subplots
+    fig = plt.figure(figsize=(24, 16))  # Slightly reduced height
+    gs = fig.add_gridspec(3, 3, hspace=0.35, wspace=0.15, bottom=0.05)  # Added bottom margin control
+    axes = gs.subplots()
 
     # Setup style
     text_color, bg_color, grid_alpha = setup_plot_style(dark_mode)
     fig.patch.set_facecolor(bg_color)
 
-    # Define colors for light mode
-    if not dark_mode:
-        subplot_bg_color = '#f5f5f5'  # Light gray background
-        border_color = '#cccccc'  # Medium gray border
-        alt_bg_color = '#ffffff'  # White background for alternating pattern
-    
     # Get dates for x-axis
     dates = df_combined["Date"].unique()
     german_dates = [translate_to_german_date(d) for d in dates]
@@ -371,7 +384,7 @@ def create_grid_processing_time_plot(df_2023, df_historical, dark_mode=True):
     # Create labels for every third month
     date_labels = []
     for i, date in enumerate(german_dates):
-        if i % 3 == 0:  # Show only every third month
+        if i % 3 == 0:
             date_labels.append(date)
         else:
             date_labels.append("")
@@ -379,17 +392,20 @@ def create_grid_processing_time_plot(df_2023, df_historical, dark_mode=True):
     # Get unique Bundesländer
     bundeslaender = sorted(df_combined["Bundesland_pretty"].unique())
 
-    # Setup colors for the three types
-    base_colors = create_base_colors()[0]  # Use first color set for all plots
-    postal_color = base_colors[0]
-    online_color = base_colors[1]
-    online_new_color = base_colors[2]
+    # Setup modern color palette
+    if dark_mode:
+        postal_color = '#00A6FB'      # Bright blue
+        online_color = '#51D88A'      # Bright green
+        online_new_color = '#FB6107'  # Bright orange
+    else:
+        postal_color = '#1E88E5'      # Material blue
+        online_color = '#43A047'      # Material green
+        online_new_color = '#E65100'  # Material orange
 
     # Calculate global y-axis limits
     y_min = float('inf')
     y_max = float('-inf')
     
-    # First pass to calculate global y limits
     for bundesland in bundeslaender:
         bl_data = df_combined[df_combined["Bundesland_pretty"] == bundesland].sort_values("Date")
         bl_data_aligned = pd.DataFrame(index=dates)
@@ -401,126 +417,109 @@ def create_grid_processing_time_plot(df_2023, df_historical, dark_mode=True):
         y_min = min(y_min, current_min)
         y_max = max(y_max, current_max)
     
-    # Add padding to y limits
     y_min = y_min * 0.95
     y_max = y_max * 1.05
 
-    # Create plots for each Bundesland
     for idx, bundesland in enumerate(bundeslaender):
         row = idx // 3
         col = idx % 3
         ax = axes[row, col]
         
-        # Set background color and border for light mode
-        if not dark_mode:
-            # Add border
-            for spine in ax.spines.values():
-                spine.set_edgecolor(border_color)
-                spine.set_linewidth(1.5)
-        ax.set_facecolor(bg_color)
-
-        # Filter data for this Bundesland
-        bl_data = df_combined[df_combined["Bundesland_pretty"] == bundesland].sort_values("Date")
+        # Set background and style
+        ax.set_facecolor(plt.rcParams['axes.facecolor'])
         
-        # Ensure data is properly aligned with dates
+        # Add subtle box around plot
+        for spine in ax.spines.values():
+            if dark_mode:
+                spine.set_color(text_color)
+                spine.set_alpha(0.2)
+            else:
+                spine.set_color('#CCCCCC')
+            spine.set_linewidth(0.8)
+
+        # Filter and align data
+        bl_data = df_combined[df_combined["Bundesland_pretty"] == bundesland].sort_values("Date")
         bl_data_aligned = pd.DataFrame(index=dates)
         bl_data_aligned = bl_data_aligned.join(bl_data.set_index("Date"))
         
-        # Plot Postal (solid line)
+        # Plot lines with enhanced styling
         ax.plot(range(len(dates)), bl_data_aligned["Postal"], 
-                color=postal_color, marker='o', markersize=3, 
-                label="Postal", linewidth=2.5, linestyle='-')
+                color=postal_color, marker='o', markersize=4, 
+                label="Postal", linewidth=2, linestyle='-',
+                alpha=0.9)
 
-        # Plot Online MeineÖGK (dashed line)
         ax.plot(range(len(dates)), bl_data_aligned["OnlineMeine"], 
-                color=online_color, marker='o', markersize=3, 
-                label="MeineÖGK", linewidth=2.5, linestyle='--')
+                color=online_color, marker='o', markersize=4, 
+                label="MeineÖGK", linewidth=2, linestyle='--',
+                alpha=0.9)
 
-        # Plot Online WAH (dotted line) - only after May 2023
         mask_new_online = ~bl_data_aligned["OnlineWAH"].isna()
         if mask_new_online.any():
             dates_idx = np.where(mask_new_online)[0]
             ax.plot(dates_idx, bl_data_aligned[mask_new_online]["OnlineWAH"], 
-                    color=online_new_color, marker='o', markersize=3, 
-                    label="WAH", linewidth=2.5, linestyle=':')
+                    color=online_new_color, marker='o', markersize=4, 
+                    label="WAH", linewidth=2, linestyle=':',
+                    alpha=0.9)
 
-        # Customize subplot
-        ax.set_title(bundesland, fontsize=14, pad=10, color=text_color)
+        # Enhanced title and labels
+        ax.set_title(bundesland, fontsize=14, pad=15, color=text_color, fontweight='bold')
         
-        # Show x-label for all subplots
-        #ax.set_xlabel("Monat", fontsize=10, color=text_color, labelpad=10)
-        
-        # Only show y-label for first column
         if col == 0:
-            ax.set_ylabel("Bearbeitungszeit (Tage)", fontsize=10, color=text_color, labelpad=10)
+            ax.set_ylabel("Bearbeitungszeit (Tage)", fontsize=12, color=text_color, labelpad=10)
 
-        # Set x-axis labels with rotation for all subplots
+        # Improved x-axis styling
         ax.set_xticks(range(len(dates)))
-        ax.set_xticklabels(date_labels, rotation=45, ha='right', color=text_color, fontsize=8)
+        ax.set_xticklabels(date_labels, rotation=45, ha='right', color=text_color, fontsize=9)
         
-        # Set y-axis color and font size
-        ax.tick_params(colors=text_color, labelsize=8)
-        
-        # Add grid with emphasized lines for every third month
+        # Enhanced grid
         ax.grid(True, axis='y', linestyle="--", alpha=grid_alpha, color=text_color)
         
-        # Add vertical grid lines with different styles
         for i in range(len(dates)):
             if i % 3 == 0:
-                # Emphasized line for every third month
-                ax.axvline(x=i, color=text_color, linestyle='-', alpha=grid_alpha, linewidth=1.5)
+                ax.axvline(x=i, color=text_color, linestyle='-', alpha=grid_alpha*1.2, linewidth=1.0)
             else:
-                # Normal line for other months
-                ax.axvline(x=i, color=text_color, linestyle='--', alpha=grid_alpha * 0.5, linewidth=0.5)
+                ax.axvline(x=i, color=text_color, linestyle='--', alpha=grid_alpha*0.6, linewidth=0.5)
 
-        # Set common y-axis limits
         ax.set_ylim(y_min, y_max)
 
-        # Make every third x-label bold
+        # Enhanced tick labels
         for label in ax.get_xticklabels():
             pos = int(label.get_position()[0])
             if pos % 3 == 0:
                 label.set_fontweight('bold')
             else:
-                label.set_visible(False)  # Hide non-third labels
+                label.set_visible(False)
 
-    # Add a single legend for all subplots at the bottom
+    # Enhanced legend
     legend_kwargs = {
         "ncol": 3,
         "loc": "center",
-        "bbox_to_anchor": (0.5, -0.02),
-        "fontsize": 13,
+        "bbox_to_anchor": (0.5, -0.02),  # Moved legend much closer to plots
+        "fontsize": 12,
         "handlelength": 2,
         "borderaxespad": 0,
+        "frameon": True,
+        "edgecolor": 'none',
+        "facecolor": plt.rcParams['axes.facecolor'],
+        "labelcolor": text_color,
+        "columnspacing": 2.0,
+        "handletextpad": 0.8,
     }
     
-    if dark_mode:
-        legend_kwargs.update({
-            "facecolor": bg_color,
-            "edgecolor": "white",
-            "labelcolor": "white"
-        })
-    else:
-        legend_kwargs.update({
-            "facecolor": "white",
-            "edgecolor": border_color,
-            "labelcolor": "black"
-        })
-    
-    # Create legend using the last subplot's lines
     fig.legend(*ax.get_legend_handles_labels(), **legend_kwargs)
 
-    # Add overall title
+    # Enhanced main title
     fig.suptitle(
         "ÖGK Durchschnittliche Bearbeitungszeit pro Monat - Alle Bundesländer",
-        fontsize=16,
+        fontsize=18,
         color=text_color,
-        y=1
+        y=0.98,  # Adjusted title position
+        fontweight='bold'
     )
 
-    # Save plot with tighter layout
+    # Save plot with enhanced layout
     output_filename = os.path.join(output_dir, "oegk_bearbeitungszeit_grid_dark.png" if dark_mode else "oegk_bearbeitungszeit_grid.png")
-    plt.tight_layout()  # Apply tight layout before saving
+    plt.tight_layout(rect=[0, 0.02, 1, 0.98])  # Adjusted layout to leave space for legend and title
     save_plot(fig, output_filename, dark_mode, bg_color)
 
 def main():
