@@ -96,8 +96,20 @@ INSURED_POPULATION = {
         "ÖGK-V": 335023,
         "Gesamt": 7484358,
     },
-    "2024": lambda: {k: int(v * 1.008) for k, v in INSURED_POPULATION["2023"].items()},  # 0.8% growth from 2023
-    "2024Q1-Q3": lambda: {k: int(v * 1.008) for k, v in INSURED_POPULATION["2023"].items()},  # same growth as we extrapolate the whole year
+    "2024": {
+        "ÖGK-W": 1825483,
+        "ÖGK-N": 1276395,
+        "ÖGK-B": 223412,
+        "ÖGK-O": 1292343,
+        "ÖGK-ST": 1021741,
+        "ÖGK-K": 442232,
+        "ÖGK-S": 479094,
+        "ÖGK-T": 611390,
+        "ÖGK-V": 334669,
+        "Gesamt": 7506759, # Die Summe wurde errechnet aus Konsistenzgründen
+
+    },
+    "2024Q1-Q3": lambda: {k: int(v) for k, v in INSURED_POPULATION["2024"].items()},  # Daten übernommen, weil Extrapolation
     "2025": lambda: {k: int(v * 1.008) for k, v in INSURED_POPULATION["2024"]().items()},  # 0.8% growth from 2024
 }
 
@@ -309,9 +321,9 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
 
     # Add legend
     handles, labels = ax.get_legend_handles_labels()
-    # Remove duplicate labels
-    by_label = dict(zip(labels, handles))
-    ax.legend(by_label.values(), by_label.keys(), title="Jahr", loc="upper left")
+    # Remove duplicate labels and sort lexicographically
+    by_label = dict(sorted(zip(labels, handles)))
+    ax.legend(by_label.values(), by_label.keys(), loc="upper left")
 
     # Add note about missing data for original dataset
     if not is_updated:
