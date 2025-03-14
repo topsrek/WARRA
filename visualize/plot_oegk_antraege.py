@@ -704,12 +704,12 @@ def get_fachrichtung_category(fachrichtung):
 def get_category_icon(category):
     """Get a Unicode icon for a medical category."""
     icons = {
-        "Primärversorgung": "🏥",  # Hospital
+        "Primärversorgung": "🩺",  # Stethoscope
         "Chirurgische Fächer": "🔪",  # Scalpel
         "Frauenheilkunde": "♀",  # Female sign
         "Psychiatrie & Neurologie": "🧠",  # Brain
         "Anästhesie & Intensivmedizin": "💉",  # Syringe
-        "Fachärzte für spezifische Organe": "👁",  # Eye (without skin tone modifier)
+        "Fachärzte für spezifische Organe": "⚕",  # Medical cross
         "Diagnostische Fächer": "🔬",  # Microscope
     }
     return icons.get(category, "🏥")  # Default hospital emoji
@@ -736,8 +736,8 @@ def create_categorized_plot(df, dark_mode=True, show_icons=True):
     category_totals = grouped_data.groupby("Category")["Gesamt"].sum().sort_values(ascending=False)
     sorted_categories = category_totals.index.tolist()
     
-    # Create figure
-    fig, ax = plt.subplots(figsize=(20, 15))
+    # Create figure with extra space at bottom for legend
+    fig, ax = plt.subplots(figsize=(14, 15))
     
     # Setup style
     text_color, bg_color, grid_alpha = setup_plot_style(dark_mode)
@@ -792,39 +792,48 @@ def create_categorized_plot(df, dark_mode=True, show_icons=True):
                 # Add icon for large categories if enabled
                 if show_icons and total > 10000:
                     icon = get_category_icon(category)
-                    # Use a larger font size and a font that supports emojis
                     ax.text(
                         j,
                         bottom[j] + total / 2,
                         icon,
                         ha="center",
                         va="center",
-                        fontsize=24,  # Increased font size
+                        fontsize=28,  # Increased font size
                         color=text_color,
-                        fontfamily='Segoe UI Emoji'  # Use a font that supports emojis
+                        fontfamily='Segoe UI Emoji'
                     )
         
         bottom += total_values
     
-    # Customize plot
+    # Customize plot with increased font sizes
     plt.title(
         "ÖGK Wahlarztkostenrückerstattung Anträge nach Kategorien pro Monat 2023 (Postal/Online Split)",
-        fontsize=16,
+        fontsize=20,  # Increased from 16
         pad=30,
         color=text_color
     )
-    plt.xlabel("Monat", fontsize=12, color=text_color, labelpad=15)
-    plt.ylabel("Anzahl der Anträge", fontsize=12, labelpad=15, color=text_color)
+    plt.xlabel("Monat", fontsize=14, color=text_color, labelpad=15)  # Increased from 12
+    plt.ylabel("Anzahl der Anträge", fontsize=14, labelpad=15, color=text_color)  # Increased from 12
     
-    # Setup axes
+    # Setup axes with increased font size
+    ax.tick_params(axis='both', which='major', labelsize=12)  # Increased from default
     setup_plot_axes(ax, dates, text_color, grid_alpha)
     
     # Set axis limits
     ax.set_xlim(-0.5, len(dates) - 0.5)
     ax.set_ylim(0, bottom.max() * 1.05)
     
-    # Add legend
-    setup_legend(ax, dark_mode, bg_color, text_color)
+    # Add legend below the plot with increased font size
+    legend = ax.legend(
+        bbox_to_anchor=(0.5, -0.25),  # Position lower below the plot
+        loc='center',
+        ncol=2,  # Two columns for better layout
+        fontsize=12,  # Increased from 8
+        borderaxespad=0.0
+    )
+    
+    # Adjust layout to accommodate the legend
+    plt.tight_layout(rect=[0, 0, 1, 0.85])  # Leave more space at bottom
     
     # Save plot
     output_filename = os.path.join(OUTPUT_DIR, "oegk_antraege_categories_dark.png" if dark_mode else "oegk_antraege_categories.png")
