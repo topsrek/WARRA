@@ -805,13 +805,6 @@ def create_categorized_plot(df, dark_mode=True, show_icons=True):
         
         bottom += total_values
     
-    # Customize plot with increased font sizes
-    plt.title(
-        "ÖGK Wahlarztkostenrückerstattung Anträge nach Kategorien pro Monat 2023 (Postal/Online Split)",
-        fontsize=20,  # Increased from 16
-        pad=30,
-        color=text_color
-    )
     plt.xlabel("Monat", fontsize=14, color=text_color, labelpad=15)  # Increased from 12
     plt.ylabel("Anzahl der Anträge", fontsize=14, labelpad=15, color=text_color)  # Increased from 12
     
@@ -837,6 +830,14 @@ def create_categorized_plot(df, dark_mode=True, show_icons=True):
     # Set axis limits
     ax.set_xlim(-0.5, len(dates) - 0.5)
     ax.set_ylim(0, bottom.max() * 1.05)
+    
+    # Customize plot with increased font sizes
+    plt.title(
+        "ÖGK Wahlarztkostenrückerstattung Anträge nach Kategorien je Monat 2023 (Postal/Online Split)",
+        fontsize=20,  # Increased from 16
+        pad=30,
+        color=text_color
+    )
     
     # Add legend below the plot with increased font size
     legend = ax.legend(
