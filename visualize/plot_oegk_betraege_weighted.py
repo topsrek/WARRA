@@ -180,7 +180,8 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
 
     # Create x-axis positions
     x = np.arange(len(states))
-    bar_width = 0.85 / len(years)  # Adjust bar width based on number of years
+    bar_width = 1 / len(years)  # Adjust bar width based on number of years
+    group_spacing = 0.2  # Add spacing between groups of bars
 
     # Add special grid line at 0 for personal loss plot before plotting bars
     # Set grid alpha to 0.2 for dark mode and 0.7 for light mode
@@ -222,7 +223,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
                     # Plot Rechnungsbeträge with modified color
                     bars.append(
                         ax.bar(
-                            i + (j - 1) * bar_width,
+                            i + (j - 1) * bar_width + i * group_spacing,
                             rechnungsbetrag,
                             bar_width,
                             color=rechnungsbetraege_color,
@@ -237,7 +238,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
 
                     bars.append(
                         ax.bar(
-                            i + (j - 1) * bar_width,
+                            i + (j - 1) * bar_width + i * group_spacing,
                             refundierung,
                             bar_width,
                             color=refund_color,
@@ -250,7 +251,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
                         personal_loss = year_data["Personal_loss"].iloc[0]
                         bars.append(
                             ax.bar(
-                                i + (j - 1) * bar_width,
+                                i + (j - 1) * bar_width + i * group_spacing,
                                 personal_loss,
                                 bar_width,
                                 color=plt.cm.viridis(0.2 + 0.6 * (j / len(years))),
@@ -274,8 +275,6 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
         )
         ylabel = "nicht erstattete Kosten pro Versicherter (in 2024 Euro)"
 
-    if is_updated:
-        title_prefix += " (Aktualisiert 2025)"
     plt.title(
         title_prefix,
         fontsize=16,
@@ -285,10 +284,16 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
     plt.xlabel("Bundesland", fontsize=12, color=text_color)
     plt.ylabel(ylabel, fontsize=12, labelpad=10, color=text_color)
 
-    xticks = x + (len(years) - 3) * bar_width / 2
-    plt.xticks(
-        xticks, map(prettify_LST.get, states), rotation=0, ha="center", color=text_color
-    )
+    # Set x-axis labels with special formatting for Gesamt
+    xticks = x + (len(years) - 3) * bar_width / 2 + x * group_spacing
+    xlabels = []
+    for state in states:
+        if state == "Gesamt":
+            xlabels.append(r"$\mathbf{Gesamt}$")  # Bold Gesamt using LaTeX
+        else:
+            xlabels.append(prettify_LST.get(state, state))
+    
+    plt.xticks(xticks, xlabels, rotation=0, ha="center", color=text_color)
     plt.yticks(color=text_color)
 
     # Format y-axis with thousands separator, € symbol, and 10€ steps
@@ -343,7 +348,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
                 bbox=dict(facecolor='none', edgecolor=text_color, alpha=0.5, pad=5))
 
     # Set the axis limits
-    ax.set_xlim(-0.6, len(states) - 0.1)
+    ax.set_xlim(-0.5, len(states) - 0.2 + (len(states) - 1) * group_spacing)
     # Let matplotlib automatically determine the y-axis limit based on the data
 
     # Adjust layout to prevent label cutoff
