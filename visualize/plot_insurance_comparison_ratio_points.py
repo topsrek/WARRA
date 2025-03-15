@@ -84,7 +84,7 @@ def create_plot(bvaeb_file, oegk_file, svs_file, dark_mode=True):
 
     # Get unique years and sort them
     all_years = combined_df["Year"].unique()
-    years = sorted(all_years, key=year_sort_key, reverse=True)
+    years = sorted(all_years, key=year_sort_key, reverse=False)
 
     # Reorder insurances to put BVAEB in the middle
     insurances = ["ÖGK", "BVAEB", "SVS"]
