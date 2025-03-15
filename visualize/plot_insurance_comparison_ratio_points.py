@@ -144,7 +144,7 @@ def create_plot(bvaeb_file, oegk_file, svs_file, dark_mode=True):
 
                 # Add text label with percentage in a box
                 label_text = f"{ratio:.1%}"
-                text_x = ratio + 0.02 if i != 1 else ratio - 0.02
+                text_x = ratio + 0.02 #if i != 1 else ratio - 0.02
 
                 # Create text object to get its dimensions
                 text = ax.text(
@@ -208,7 +208,7 @@ def create_plot(bvaeb_file, oegk_file, svs_file, dark_mode=True):
     # Configure x-axis (ratio values)
     # Find min and max values to set appropriate range
     min_ratio = combined_df["Ratio"].min() * 0.95  # Add 5% padding
-    max_ratio = combined_df["Ratio"].max() * 1.05  # Add 5% padding
+    max_ratio = combined_df["Ratio"].max() * 1.1  # Add 5% padding
 
     # Round to nice values
     # min_ratio = np.floor(min_ratio * 20) / 20  # Round down to nearest 0.05
@@ -216,7 +216,7 @@ def create_plot(bvaeb_file, oegk_file, svs_file, dark_mode=True):
 
     ax.set_ylim(-0.5, total_positions - 0.5)
     # ax.set_xlim(min_ratio, max_ratio)
-    ax.set_xlim(0.33, 0.56)
+    ax.set_xlim(0.33, 0.60)
 
     # Create nice tick spacing
     x_ticks = np.arange(min_ratio, max_ratio, 0.04)
@@ -233,15 +233,33 @@ def create_plot(bvaeb_file, oegk_file, svs_file, dark_mode=True):
     for i in range(len(insurances)):
         y_pos = insurance_positions[i]
         label = insurance_labels[i]
+        # Split the label into name and "Bundesweit"
+        name = label.split("-")[0]
+        # Calculate x position in the middle of the data range
+        x_pos = (min_ratio + max_ratio) / 2
+        # Add the name
         ax.text(
-            min_ratio - 0.08,  # Moved further left from -0.05
+            x_pos,  # Center horizontally in the data range
             y_pos,
-            label,
-            fontsize=16,
+            name,
+            fontsize=48,  # Increased font size further
             fontweight="bold",
             color=text_color,
+            alpha=0.7,  # Add transparency
             verticalalignment="center",
-            horizontalalignment="left",
+            horizontalalignment="center",
+            zorder=1,
+        )
+        # Add "Bundesweit" underneath
+        ax.text(
+            x_pos,  # Center horizontally in the data range
+            y_pos + 0.8,  # Move down more to be below the insurance name (positive value since y-axis is inverted)
+            "Bundesweit",
+            fontsize=24,  # Reduced font size
+            color=text_color,
+            alpha=0.7,  # Add transparency
+            verticalalignment="center",
+            horizontalalignment="center",
             zorder=1,
         )
 
@@ -357,3 +375,4 @@ def main():
 
 if __name__ == "__main__":
     main() 
+
