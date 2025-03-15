@@ -205,7 +205,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False):
             [0],
             marker="D",
             color="w",
-            markerfacecolor="blue",
+            markerfacecolor="black",
             markersize=14,
             label="Wert",
         ),
