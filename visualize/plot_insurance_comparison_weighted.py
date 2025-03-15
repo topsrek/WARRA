@@ -26,202 +26,74 @@ VPI_DATA = {
     "2025": 136.8,
 }
 
+# All data from the respective Jahresergebnisse__.xlsx files.
 # Insured population data for each insurance provider
 INSURED_POPULATION = {
     "BVAEB": {
         "2020": {
-            "Wien": 174141,
-            "NÖ": 295949,
-            "Bgld": 49829,
-            "OÖ": 88499,
-            "Stmk": 198221,
-            "Ktn": 89240,
-            "Sbg": 87638,
-            "Tirol": 126532,
-            "Vbg": 54439,
-            "Gesamt": 1171842,
+            "Gesamt": 1091751,
         },
         "2021": {
-            "Wien": 174141,
-            "NÖ": 295949,
-            "Bgld": 49829,
-            "OÖ": 88499,
-            "Stmk": 198221,
-            "Ktn": 89240,
-            "Sbg": 87638,
-            "Tirol": 126532,
-            "Vbg": 54439,
-            "Gesamt": 1171842,
+            "Gesamt": 1109636,
         },
         "2022": {
-            "Wien": 174141,
-            "NÖ": 295949,
-            "Bgld": 49829,
-            "OÖ": 88499,
-            "Stmk": 198221,
-            "Ktn": 89240,
-            "Sbg": 87638,
-            "Tirol": 126532,
-            "Vbg": 54439,
-            "Gesamt": 1171842,
+            "Gesamt": 1128466,
         },
         "2023": {
-            "Wien": 174141,
-            "NÖ": 295949,
-            "Bgld": 49829,
-            "OÖ": 88499,
-            "Stmk": 198221,
-            "Ktn": 89240,
-            "Sbg": 87638,
-            "Tirol": 126532,
-            "Vbg": 54439,
-            "Gesamt": 1171842,
+            "Gesamt": 1150006,
         },
         "2024": {
-            "Wien": 174141,
-            "NÖ": 295949,
-            "Bgld": 49829,
-            "OÖ": 88499,
-            "Stmk": 198221,
-            "Ktn": 89240,
-            "Sbg": 87638,
-            "Tirol": 126532,
-            "Vbg": 54439,
-            "Gesamt": 1171842,
+            "Gesamt": 1177976,
         },
-        "2024Q1-Q3": lambda: {k: int(v) for k, v in INSURED_POPULATION["BVAEB"]["2024"].items()},
+        "2024Q1-Q3": lambda: {
+            k: int(v) for k, v in INSURED_POPULATION["BVAEB"]["2024"].items()
+        },
         "2025": lambda: {
             k: int(v * 1.008) for k, v in INSURED_POPULATION["BVAEB"]["2024"]().items()
         },
     },
     "ÖGK": {
         "2020": {
-            "Wien": 1733348,
-            "NÖ": 1245744,
-            "Bgld": 214327,
-            "OÖ": 1261102,
-            "Stmk": 997453,
-            "Ktn": 435932,
-            "Sbg": 466544,
-            "Tirol": 594466,
-            "Vbg": 329658,
             "Gesamt": 7278574,
         },
         "2021": {
-            "Wien": 1743335,
-            "NÖ": 1253590,
-            "Bgld": 217175,
-            "OÖ": 1269008,
-            "Stmk": 1002900,
-            "Ktn": 438725,
-            "Sbg": 466215,
-            "Tirol": 593720,
-            "Vbg": 329767,
             "Gesamt": 7314435,
         },
         "2022": {
-            "Wien": 1771026,
-            "NÖ": 1273182,
-            "Bgld": 221330,
-            "OÖ": 1284447,
-            "Stmk": 1015347,
-            "Ktn": 441801,
-            "Sbg": 474520,
-            "Tirol": 604751,
-            "Vbg": 333178,
             "Gesamt": 7419582,
         },
         "2023": {
-            "Wien": 1802340,
-            "NÖ": 1278271,
-            "Bgld": 223529,
-            "OÖ": 1292594,
-            "Stmk": 1020869,
-            "Ktn": 443213,
-            "Sbg": 478351,
-            "Tirol": 610168,
-            "Vbg": 335023,
             "Gesamt": 7484358,
         },
         "2024": {
-            "Wien": 1825483,
-            "NÖ": 1276395,
-            "Bgld": 223412,
-            "OÖ": 1292343,
-            "Stmk": 1021741,
-            "Ktn": 442232,
-            "Sbg": 479094,
-            "Tirol": 611390,
-            "Vbg": 334669,
             "Gesamt": 7506759,
         },
-        "2024Q1-Q3": lambda: {k: int(v) for k, v in INSURED_POPULATION["ÖGK"]["2024"].items()},
+        "2024Q1-Q3": lambda: {
+            k: int(v) for k, v in INSURED_POPULATION["ÖGK"]["2024"].items()
+        },
         "2025": lambda: {
             k: int(v * 1.008) for k, v in INSURED_POPULATION["ÖGK"]["2024"]().items()
         },
     },
     "SVS": {
         "2020": {
-            "Wien": 174141,
-            "NÖ": 295949,
-            "Bgld": 49829,
-            "OÖ": 88499,
-            "Stmk": 198221,
-            "Ktn": 89240,
-            "Sbg": 87638,
-            "Tirol": 126532,
-            "Vbg": 54439,
-            "Gesamt": 1171842,
+            "Gesamt": 1193401,
         },
         "2021": {
-            "Wien": 174141,
-            "NÖ": 295949,
-            "Bgld": 49829,
-            "OÖ": 88499,
-            "Stmk": 198221,
-            "Ktn": 89240,
-            "Sbg": 87638,
-            "Tirol": 126532,
-            "Vbg": 54439,
-            "Gesamt": 1171842,
+            "Gesamt": 1216431,
         },
         "2022": {
-            "Wien": 174141,
-            "NÖ": 295949,
-            "Bgld": 49829,
-            "OÖ": 88499,
-            "Stmk": 198221,
-            "Ktn": 89240,
-            "Sbg": 87638,
-            "Tirol": 126532,
-            "Vbg": 54439,
-            "Gesamt": 1171842,
+            "Gesamt": 1233186,
         },
         "2023": {
-            "Wien": 174141,
-            "NÖ": 295949,
-            "Bgld": 49829,
-            "OÖ": 88499,
-            "Stmk": 198221,
-            "Ktn": 89240,
-            "Sbg": 87638,
-            "Tirol": 126532,
-            "Vbg": 54439,
-            "Gesamt": 1171842,
+            "Gesamt": 1247231,
         },
         "2024": {
-            "Wien": 174141,
-            "NÖ": 295949,
-            "Bgld": 49829,
-            "OÖ": 88499,
-            "Stmk": 198221,
-            "Ktn": 89240,
-            "Sbg": 87638,
-            "Tirol": 126532,
-            "Vbg": 54439,
-            "Gesamt": 1171842,
+            "Gesamt": 1260118,
         },
-        "2024Q1-Q3": lambda: {k: int(v) for k, v in INSURED_POPULATION["SVS"]["2024"].items()},
+        "2024Q1-Q3": lambda: {
+            k: int(v) for k, v in INSURED_POPULATION["SVS"]["2024"].items()
+        },
         "2025": lambda: {
             k: int(v * 1.008) for k, v in INSURED_POPULATION["SVS"]["2024"]().items()
         },
@@ -285,7 +157,7 @@ def create_plot(bvaeb_file, oegk_file, svs_file, dark_mode=True, is_updated=Fals
 
     # Weight by insured population
     combined_df["Weight"] = combined_df.apply(
-        lambda row: get_population_for_year(row["Year"], row["Insurance"])["Gesamt"] / get_population_for_year(row["Year"], row["Insurance"])["Gesamt"], 
+        lambda row: get_population_for_year(row["Year"], row["Insurance"])["Gesamt"], 
         axis=1
     )
     combined_df["Rechnungsbeträge_weighted"] = combined_df["Rechnungsbeträge_adj"] / combined_df["Weight"]
@@ -300,7 +172,7 @@ def create_plot(bvaeb_file, oegk_file, svs_file, dark_mode=True, is_updated=Fals
         )
 
     # Create figure with smaller size
-    fig, ax = plt.subplots(figsize=(12, 8))
+    fig, ax = plt.subplots(figsize=(11, 11))
 
     # Set dark mode if enabled
     if dark_mode:
@@ -412,8 +284,6 @@ def create_plot(bvaeb_file, oegk_file, svs_file, dark_mode=True, is_updated=Fals
         )
         ylabel = "nicht erstattete Kosten pro Versicherter (in 2024 Euro)"
 
-    if is_updated:
-        title_prefix += " (Aktualisiert 2025)"
     plt.title(
         title_prefix,
         fontsize=16,
@@ -442,25 +312,27 @@ def create_plot(bvaeb_file, oegk_file, svs_file, dark_mode=True, is_updated=Fals
         ax.yaxis.set_major_locator(plt.AutoLocator())
     else:
         # For regular betraege plot, only positive values
-        ax.yaxis.set_major_locator(plt.MaxNLocator(steps=[10]))
+         ax.yaxis.set_major_locator(plt.MaxNLocator(steps=[1, 2, 5, 10], integer=True))
 
     # Add grid with appropriate opacity for each mode
     ax.grid(True, axis="y", linestyle="--", alpha=grid_alpha, color=text_color, zorder=1)
 
     # Add watermark
-    watermark_text = "NOCH FALSCHE DATEN"
-    watermark_color = "red" if dark_mode else "darkred"
-    watermark_alpha = 0.3
-    ax.text(0.5, 0.5, watermark_text, 
-            transform=ax.transAxes,
-            fontsize=72,
-            color=watermark_color,
-            alpha=watermark_alpha,
-            ha='center',
-            va='center',
-            rotation=45,
-            fontweight='bold',
-            zorder=2)
+    print_watermark = False
+    if print_watermark:
+        watermark_text = "NOCH FALSCHE DATEN"
+        watermark_color = "red" if dark_mode else "darkred"
+        watermark_alpha = 0.3
+        ax.text(0.5, 0.5, watermark_text, 
+                transform=ax.transAxes,
+                fontsize=72,
+                color=watermark_color,
+                alpha=watermark_alpha,
+                ha='center',
+                va='center',
+                rotation=45,
+                fontweight='bold',
+                zorder=2)
 
     # Add legend
     handles, labels = ax.get_legend_handles_labels()
