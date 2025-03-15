@@ -169,13 +169,13 @@ def create_plot(input_file, dark_mode=True, is_updated=False):
     ax.set_xlim(0.40, 0.80)
     x_ticks = np.arange(0.40, 0.80, 0.05)
     ax.set_xticks(x_ticks)
-    ax.set_xticklabels([f"{x:.1%}" for x in x_ticks], color=text_color, fontsize=14)
+    ax.set_xticklabels([f"{x:.0%}" for x in x_ticks], color=text_color, fontsize=14)
 
     # Add duplicate x-axis at the top for better readability
     ax2 = ax.twiny()
     ax2.set_xlim(ax.get_xlim())
     ax2.set_xticks(x_ticks)
-    ax2.set_xticklabels([f"{x:.1%}" for x in x_ticks], color=text_color, fontsize=14)
+    ax2.set_xticklabels([f"{x:.0%}" for x in x_ticks], color=text_color, fontsize=14)
 
     # Add state labels
     for i in range(len(states)):
