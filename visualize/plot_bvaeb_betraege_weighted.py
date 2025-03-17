@@ -3,9 +3,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 import colorsys
+import glob
 
 # Global settings
 OUTPUT_DIR = "../figures/BVAEB/Betraege"  # Output directory for the plot
+SV_DATA_DIR = "../data/extras/SV_Jahresberichte"  # Directory containing SV Excel files
 
 prettify_LST = {
     "Wien": "Wien",
@@ -20,6 +22,52 @@ prettify_LST = {
     "Gesamt": "Gesamt",
 }
 
+def read_insured_population_from_excel():
+    """
+    Read insured population data from Excel files in SV_Veroeffentlichungen directory.
+    Returns a dictionary with years as keys and population data as values.
+    """
+    population_data = {}
+    
+    # Get all Excel files
+    excel_files = glob.glob(os.path.join(SV_DATA_DIR, "Jahresergebnisse_*.xlsx"))
+    # Filter out files from years 2018 and 2019
+    excel_files = [file for file in excel_files 
+                  if not os.path.basename(file).endswith(('_18.xlsx', '_19.xlsx'))]
+    
+    for file_path in excel_files:
+        try:
+            # Extract year from filename
+            year = f"20{file_path.split('_')[-1].split('.')[0]}"
+            
+            # Read the Excel file
+            df = pd.read_excel(file_path, sheet_name="Tab4", header=None)
+            
+            # Get the row with insured population (B12 to K12)
+            row_data = df.iloc[11, 1:11].values
+            
+            # Create dictionary for this year
+            year_data = {
+                "Gesamt": int(row_data[0]),
+                "Wien": int(row_data[1]),
+                "NÖ": int(row_data[2]),
+                "Bgld": int(row_data[3]),
+                "OÖ": int(row_data[4]),
+                "Stmk": int(row_data[5]),
+                "Ktn": int(row_data[6]),
+                "Sbg": int(row_data[7]),
+                "Tirol": int(row_data[8]),
+                "Vbg": int(row_data[9])
+            }
+            
+            population_data[year] = year_data
+            
+        except Exception as e:
+            print(f"Error reading {file_path}: {str(e)}")
+            continue
+    
+    return population_data
+
 # VPI data (from /data/extras/VPI/VPI...ods). Average per time period
 VPI_DATA = {
     "2019": 106.7,
@@ -32,75 +80,11 @@ VPI_DATA = {
     "2025": 136.8,
 }
 
-# Insured population data (from /data/extras/Handbuch/Tabellen_Statistisches_Handbuch_2024/Kapitel 2_24.xlsx)
-# Historical data 2019-2023 from Tabelle 2.02
-# Future values calculated with lambda functions
-INSURED_POPULATION = {
-    "2020": {
-        "Wien": 174141,
-        "NÖ": 295949,
-        "Bgld": 49829,
-        "OÖ": 88499,
-        "Stmk": 198221,
-        "Ktn": 89240,
-        "Sbg": 87638,
-        "Tirol": 126532,
-        "Vbg": 54439,
-        "Gesamt": 1171842,
-    },
-    "2021": {
-        "Wien": 174141,
-        "NÖ": 295949,
-        "Bgld": 49829,
-        "OÖ": 88499,
-        "Stmk": 198221,
-        "Ktn": 89240,
-        "Sbg": 87638,
-        "Tirol": 126532,
-        "Vbg": 54439,
-        "Gesamt": 1171842,
-    },
-    "2022": {
-        "Wien": 174141,
-        "NÖ": 295949,
-        "Bgld": 49829,
-        "OÖ": 88499,
-        "Stmk": 198221,
-        "Ktn": 89240,
-        "Sbg": 87638,
-        "Tirol": 126532,
-        "Vbg": 54439,
-        "Gesamt": 1171842,
-    },
-    "2023": {
-        "Wien": 174141,
-        "NÖ": 295949,
-        "Bgld": 49829,
-        "OÖ": 88499,
-        "Stmk": 198221,
-        "Ktn": 89240,
-        "Sbg": 87638,
-        "Tirol": 126532,
-        "Vbg": 54439,
-        "Gesamt": 1171842,
-    },
-    "2024": {
-        "Wien": 174141,
-        "NÖ": 295949,
-        "Bgld": 49829,
-        "OÖ": 88499,
-        "Stmk": 198221,
-        "Ktn": 89240,
-        "Sbg": 87638,
-        "Tirol": 126532,
-        "Vbg": 54439,
-        "Gesamt": 1171842,
-    },
-    "2024Q1-Q3": lambda: {k: int(v) for k, v in INSURED_POPULATION["2024"].items()},
-    "2025": lambda: {
-        k: int(v * 1.008) for k, v in INSURED_POPULATION["2024"]().items()
-    },
-}
+# Read insured population data from Excel files
+INSURED_POPULATION = read_insured_population_from_excel()
+
+# Add 2024Q1-Q3 data as a lambda function
+INSURED_POPULATION["2024Q1-Q3"] = lambda: {k: int(v) for k, v in INSURED_POPULATION["2024"].items()}
 
 def get_population_for_year(year):
     """Get the population data for a specific year"""
@@ -322,7 +306,11 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
     handles, labels = ax.get_legend_handles_labels()
     # Remove duplicate labels and sort lexicographically
     by_label = dict(sorted(zip(labels, handles)))
-    ax.legend(by_label.values(), by_label.keys(), loc="upper left")
+    ax.legend(by_label.values(), by_label.keys(), loc="center", bbox_to_anchor=(0.5, -0.19), ncol=2)
+
+    # Add note about 2020 data
+    note_text = "Für das Jahr 2020 stehen ausschließlich Daten aus dem Rechenkreis \"Öffentlich Bedienstete\" zur Verfügung"
+    plt.figtext(0.53, -0.0, note_text, ha='center', color=text_color, fontsize=10)
 
     # Set the axis limits
     ax.set_xlim(-0.5, len(states) - 0.2 + (len(states) - 1) * group_spacing)
