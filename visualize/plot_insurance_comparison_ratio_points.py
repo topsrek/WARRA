@@ -163,7 +163,7 @@ def create_plot(bvaeb_file, oegk_file, svs_file, dark_mode=True):
                 bbox = bbox.transformed(ax.transData.inverted())
 
                 # Create a fixed-size box with proper proportions
-                box_width = 0.012  # Fixed width
+                box_width = 0.015  # Fixed width
                 box_height = 0.5  # Fixed height
 
                 # Center the box on the text
