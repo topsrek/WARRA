@@ -292,7 +292,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
             xlabels.append(r"$\mathbf{Gesamt}$")  # Bold Gesamt using LaTeX
         else:
             xlabels.append(prettify_LST.get(state, state))
-    
+
     plt.xticks(xticks, xlabels, rotation=0, ha="center", color=text_color)
     plt.yticks(color=text_color)
 
@@ -308,7 +308,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
     ymin, ymax = ax.get_ylim()
     year = df["Year"].iloc[0]
     gesamt = get_population_for_year(year)["Gesamt"]
-    
+
     if plot_type == "personal_loss":
         # For personal loss, we need to handle negative values
         # Round to nearest 10 for cleaner tick marks
@@ -378,7 +378,28 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
     plt.close()
 
 
+def check_population_consistency():
+    """Check if the Gesamt values match the sum of all other regions for each year."""
+    for year in INSURED_POPULATION:
+        if year in ["2024Q1-Q3", "2025"]:  # Skip lambda functions
+            continue
+
+        data = INSURED_POPULATION[year]
+        regions = [k for k in data.keys() if k != "Gesamt"]
+        sum_regions = sum(data[region] for region in regions)
+        gesamt = data["Gesamt"]
+
+        if sum_regions != gesamt:
+            print(f"Inconsistency found in {year}:")
+            print(f"Sum of regions: {sum_regions:,}")
+            print(f"Gesamt value: {gesamt:,}")
+            print(f"Difference: {abs(sum_regions - gesamt):,}")
+            print()
+
+
 def main():
+    # Check population data consistency
+    check_population_consistency()
     # Original data
     create_plot(
         "../data/csv/manually_extracted/OEGK_Betraege.csv",
