@@ -95,11 +95,11 @@ ax_top.axis('off')
 ax.axis('off')
 
 # Add title
-plt.title('ÖGK Refundierungsraten und\nDurchschnittlicher Rechnungsbetrag je Fachrichtung 2023', 
+plt.title('ÖGK Refundierungsquoten und\nDurchschnittlicher Rechnungsbetrag je Fachrichtung 2023', 
           pad=25, fontsize=18, fontweight='bold', y=1.02)
 
 # Column headers with adjusted positions
-headers = ["Fachrichtung", "Refundierungsrate (%)", "Ø Rechnungsbetrag (€)"]
+headers = ["Fachrichtung", "Refundierungsquote (%)", "Ø Rechnungsbetrag (€)"]
 positions = [COL_FACHRICHTUNG, COL_REFUND, COL_BETRAG]
 for i, (header, pos) in enumerate(zip(headers, positions)):
     ax_top.text(pos, TOP_MARGIN+0.5, header, ha='left' if i == 0 else 'center', 
