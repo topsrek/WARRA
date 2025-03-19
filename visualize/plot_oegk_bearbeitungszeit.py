@@ -157,6 +157,9 @@ def create_processing_time_plot(df_2023, df_historical, df_beilage6, bundesland,
     output_dir = get_bundesland_output_dir(bundesland)
     os.makedirs(output_dir, exist_ok=True)
 
+    # Create safe filename from Bundesland name
+    safe_bundesland = bundesland.replace(" ", "_").replace("ö", "oe").replace("ä", "ae").replace("ü", "ue")
+
     # Filter data for the specific Bundesland
     df_2023_bl = df_2023[df_2023["Bundesland_pretty"] == bundesland].copy()
     df_hist_bl = df_historical[df_historical["Bundesland_pretty"] == bundesland].copy()
@@ -288,7 +291,7 @@ def create_processing_time_plot(df_2023, df_historical, df_beilage6, bundesland,
     ax.legend(**legend_kwargs)
 
     # Save plot with enhanced layout
-    output_filename = os.path.join(output_dir, "oegk_bearbeitungszeit_dark.png" if dark_mode else "oegk_bearbeitungszeit.png")
+    output_filename = os.path.join(output_dir, f"oegk_bearbeitungszeit_{safe_bundesland}_dark.png" if dark_mode else f"oegk_bearbeitungszeit_{safe_bundesland}.png")
     plt.tight_layout(rect=[0, 0, 0.85, 1])  # Adjusted layout to leave space for legend on the right
     save_plot(fig, output_filename, dark_mode, bg_color)
 
