@@ -314,7 +314,7 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
     ax.legend(by_label.values(), by_label.keys(), loc="center", bbox_to_anchor=(0.5, -0.19), ncol=2)
 
     # Add note about 2020 data
-    note_text = "Für das Jahr 2020 stehen ausschließlich Daten aus dem Rechenkreis \"Öffentlich Bedienstete\" zur Verfügung"
+    note_text = "Für das Jahr 2020 wurden ausschließlich Daten aus dem Rechenkreis \"Öffentlich Bedienstete\" verwendet"
     plt.figtext(0.53, -0.0, note_text, ha='center', color=text_color, fontsize=10)
 
     # Set the axis limits
