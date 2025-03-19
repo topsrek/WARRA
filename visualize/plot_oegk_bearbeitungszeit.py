@@ -25,6 +25,22 @@ def translate_to_german_date(date):
         .replace("Dec", "Dez")
     )
 
+def prettify_bundesland(bundesland):
+    """Prettify the Bundesland name."""
+    LST_to_bundesland = {
+        "B": "Burgenland",
+        "K": "Kärnten",
+        "N": "Niederösterreich",
+        "NÖ": "Niederösterreich",
+        "OÖ": "Oberösterreich",
+        "S": "Salzburg",
+        "ST": "Steiermark",
+        "T": "Tirol",
+        "V": "Vorarlberg",
+        "W": "Wien"
+    }
+    return LST_to_bundesland[bundesland]
+
 def setup_plot_style(dark_mode=True):
     """Setup the plot style based on dark/light mode."""
     plt.style.use('seaborn-v0_8')  # Use seaborn style as base
@@ -135,7 +151,7 @@ def create_base_colors():
     ]
     return base_colors
 
-def create_processing_time_plot(df_2023, df_historical, bundesland, dark_mode=True):
+def create_processing_time_plot(df_2023, df_historical, df_beilage6, bundesland, dark_mode=True):
     """Create a line plot showing processing times for postal and online submissions."""
     # Get output directory for this Bundesland
     output_dir = get_bundesland_output_dir(bundesland)
@@ -144,10 +160,12 @@ def create_processing_time_plot(df_2023, df_historical, bundesland, dark_mode=Tr
     # Filter data for the specific Bundesland
     df_2023_bl = df_2023[df_2023["Bundesland_pretty"] == bundesland].copy()
     df_hist_bl = df_historical[df_historical["Bundesland_pretty"] == bundesland].copy()
+    df_beilage6_bl = df_beilage6[df_beilage6["Bundesland_pretty"] == bundesland].copy()
 
     # Merge the dataframes
     df_2023_bl["Date"] = pd.to_datetime(df_2023_bl["Date"])
     df_hist_bl["Date"] = pd.to_datetime(df_hist_bl["Date"])
+    df_beilage6_bl["Date"] = pd.to_datetime(df_beilage6_bl["Date"])
 
     # Verify that overlapping data matches
     overlap_start = df_2023_bl["Date"].min()
@@ -168,11 +186,12 @@ def create_processing_time_plot(df_2023, df_historical, bundesland, dark_mode=Tr
     # Combine the data
     df_combined = pd.concat([
         df_hist_bl[df_hist_bl["Date"] < overlap_start],
-        df_2023_bl
+        df_2023_bl,
+        df_beilage6_bl[df_beilage6_bl["Date"] > df_2023_bl["Date"].max()]
     ]).sort_values("Date")
 
-    # Create figure
-    fig, ax = plt.subplots(figsize=(15, 8))
+    # Create figure with smaller size
+    fig, ax = plt.subplots(figsize=(10, 6))
 
     # Setup style
     text_color, bg_color, grid_alpha = setup_plot_style(dark_mode)
@@ -181,23 +200,36 @@ def create_processing_time_plot(df_2023, df_historical, bundesland, dark_mode=Tr
 
     # Get dates for x-axis
     dates = df_combined["Date"].unique()
+    german_dates = [translate_to_german_date(d) for d in dates]
+    
+    # Create labels for every third month
+    date_labels = []
+    for i, date in enumerate(german_dates):
+        if i % 3 == 0:
+            date_labels.append(date)
+        else:
+            date_labels.append("")
 
-    # Setup colors
-    base_colors = create_base_colors()[0]  # Use first color set
-    postal_color = base_colors[0]
-    online_color = base_colors[1]
-    online_new_color = base_colors[2]
+    # Setup modern color palette
+    if dark_mode:
+        postal_color = '#00A6FB'      # Bright blue
+        online_color = '#51D88A'      # Bright green
+        online_new_color = '#FB6107'  # Bright orange
+    else:
+        postal_color = '#1E88E5'      # Material blue
+        online_color = '#43A047'      # Material green
+        online_new_color = '#E65100'  # Material orange
 
-    # Plot lines with dots
-    # Postal
+    # Plot lines with enhanced styling
     ax.plot(range(len(dates)), df_combined["Postal"], 
             color=postal_color, marker='o', markersize=4, 
-            label="Postal", linewidth=2, linestyle='-')
+            label="Postal", linewidth=2, linestyle='-',
+            alpha=0.9)
 
-    # Online (MeineÖGK)
     ax.plot(range(len(dates)), df_combined["OnlineMeine"], 
             color=online_color, marker='o', markersize=4, 
-            label="Online (MeineÖGK)", linewidth=2, linestyle='--')
+            label="MeineÖGK", linewidth=2, linestyle='--',
+            alpha=0.9)
 
     # Online (WAH) - only after May 2023
     mask_new_online = ~df_combined["OnlineWAH"].isna()
@@ -205,34 +237,62 @@ def create_processing_time_plot(df_2023, df_historical, bundesland, dark_mode=Tr
         dates_idx = np.where(mask_new_online)[0]
         ax.plot(dates_idx, df_combined[mask_new_online]["OnlineWAH"], 
                 color=online_new_color, marker='o', markersize=4, 
-                label="Online (WAH)", linewidth=2, linestyle=':')
+                label="WAH", linewidth=2, linestyle=':',
+                alpha=0.9)
 
     # Customize plot
     plt.title(
         f"ÖGK Durchschnittliche Bearbeitungszeit pro Monat - {bundesland}",
-        fontsize=16,
-        pad=30,
-        color=text_color
+        fontsize=14,
+        pad=20,
+        color=text_color,
+        fontweight='bold'
     )
-    plt.xlabel("Monat", fontsize=12, color=text_color, labelpad=15)
-    plt.ylabel("Durchschnittliche Bearbeitungszeit (Tage)", fontsize=12, labelpad=15, color=text_color)
+    plt.xlabel("Monat", fontsize=12, color=text_color, labelpad=10)
+    plt.ylabel("Durchschnittliche Bearbeitungszeit (Kalendertage)", fontsize=12, labelpad=10, color=text_color)
 
-    # Setup axes
-    setup_plot_axes(ax, dates, text_color, grid_alpha)
+    # Setup axes with every third month
+    ax.set_xticks(range(len(dates)))
+    ax.set_xticklabels(date_labels, rotation=45, ha='right', color=text_color, fontsize=9)
+    
+    # Enhanced grid
+    ax.grid(True, axis='y', linestyle="--", alpha=grid_alpha, color=text_color)
+    
+    for i in range(len(dates)):
+        if i % 3 == 0:
+            ax.axvline(x=i, color=text_color, linestyle='-', alpha=grid_alpha*1.2, linewidth=1.0)
+        else:
+            ax.axvline(x=i, color=text_color, linestyle='--', alpha=grid_alpha*0.6, linewidth=0.5)
 
     # Set y-axis limits with some padding
     y_min = min(df_combined[["Postal", "OnlineMeine", "OnlineWAH"]].min().min(), 0)
     y_max = df_combined[["Postal", "OnlineMeine", "OnlineWAH"]].max().max()
     ax.set_ylim(y_min * 0.95, y_max * 1.05)
 
-    # Add legend
-    setup_legend(ax, dark_mode, bg_color, text_color)
+    # Enhanced legend
+    legend_kwargs = {
+        "ncol": 1,
+        "loc": "upper right",
+        "bbox_to_anchor": (1.02, 1),
+        "fontsize": 10,
+        "handlelength": 2,
+        "borderaxespad": 0,
+        "frameon": True,
+        "edgecolor": 'none',
+        "facecolor": plt.rcParams['axes.facecolor'],
+        "labelcolor": text_color,
+        "columnspacing": 2.0,
+        "handletextpad": 0.8,
+    }
+    
+    ax.legend(**legend_kwargs)
 
-    # Save plot
+    # Save plot with enhanced layout
     output_filename = os.path.join(output_dir, "oegk_bearbeitungszeit_dark.png" if dark_mode else "oegk_bearbeitungszeit.png")
+    plt.tight_layout(rect=[0, 0, 0.85, 1])  # Adjusted layout to leave space for legend on the right
     save_plot(fig, output_filename, dark_mode, bg_color)
 
-def create_combined_processing_time_plot(df_2023, df_historical, dark_mode=True):
+def create_combined_processing_time_plot(df_2023, df_historical, df_beilage6, dark_mode=True):
     """Create a line plot showing processing times for all Bundesländer together."""
     # Create output directory
     output_dir = BASE_OUTPUT_DIR
@@ -241,12 +301,14 @@ def create_combined_processing_time_plot(df_2023, df_historical, dark_mode=True)
     # Prepare data
     df_2023["Date"] = pd.to_datetime(df_2023["Date"])
     df_historical["Date"] = pd.to_datetime(df_historical["Date"])
+    df_beilage6["Date"] = pd.to_datetime(df_beilage6["Date"])
 
     # Combine the data
     overlap_start = df_2023["Date"].min()
     df_combined = pd.concat([
         df_historical[df_historical["Date"] < overlap_start],
-        df_2023
+        df_2023,
+        df_beilage6[df_beilage6["Date"] > df_2023["Date"].max()]
     ]).sort_values(["Date", "Bundesland_pretty"])
 
     # Create figure with adjusted size for legend
@@ -351,7 +413,7 @@ def create_combined_processing_time_plot(df_2023, df_historical, dark_mode=True)
     output_filename = os.path.join(output_dir, "oegk_bearbeitungszeit_combined_dark.png" if dark_mode else "oegk_bearbeitungszeit_combined.png")
     save_plot(fig, output_filename, dark_mode, bg_color)
 
-def create_grid_processing_time_plot(df_2023, df_historical, dark_mode=True):
+def create_grid_processing_time_plot(df_2023, df_historical, df_beilage6, dark_mode=True):
     """Create a 3x3 grid of subplots showing processing times for all Bundesländer."""
     # Create output directory
     output_dir = BASE_OUTPUT_DIR
@@ -360,12 +422,14 @@ def create_grid_processing_time_plot(df_2023, df_historical, dark_mode=True):
     # Prepare data
     df_2023["Date"] = pd.to_datetime(df_2023["Date"])
     df_historical["Date"] = pd.to_datetime(df_historical["Date"])
+    df_beilage6["Date"] = pd.to_datetime(df_beilage6["Date"])
 
     # Combine the data
     overlap_start = df_2023["Date"].min()
     df_combined = pd.concat([
         df_historical[df_historical["Date"] < overlap_start],
-        df_2023
+        df_2023,
+        df_beilage6[df_beilage6["Date"] > df_2023["Date"].max()]
     ]).sort_values(["Date", "Bundesland_pretty"])
 
     # Create figure with subplots
@@ -525,36 +589,161 @@ def create_grid_processing_time_plot(df_2023, df_historical, dark_mode=True):
 def main():
     # Read the CSV files with absolute paths
     df_2023 = pd.read_csv(
-        "D:/DEV/WU/WARRA/data/csv/07_OEGK_Durchschnittliche_Bearbeitungszeit_pro_Monat_2023_postal_online_online_pro_Bundesland.csv"
+        "../data/csv/07_OEGK_Durchschnittliche_Bearbeitungszeit_pro_Monat_2023_postal_online_online_pro_Bundesland.csv"
     )
     df_historical = pd.read_csv(
-        "D:/DEV/WU/WARRA/data/csv/07a_OEGK_Durchschnittliche_Bearbeitungszeit_pro_Monat_2021_bis_Mai_2023_postal_online_online_pro_Bundesland.csv"
+        "../data/csv/07a_OEGK_Durchschnittliche_Bearbeitungszeit_pro_Monat_2021_bis_Mai_2023_postal_online_online_pro_Bundesland.csv"
     )
-    
+    # Read Beilage_5 and Beilage_6 data
+    # Process Excel files by skipping first column and first 5 rows,
+    # then taking 14 rows (including header), then skipping 5 rows, etc.
+    def process_excel_file(file_path, sheet_name=0):
+        # Read all data first
+        df_raw = pd.read_excel(file_path, sheet_name=sheet_name, header=None)
+
+        # Drop the first column
+        df_raw = df_raw.iloc[:, 1:]
+
+        # Initialize empty list to store chunks
+        chunks = []
+
+        # Start from row 5 (skipping first 5 rows)
+        row_idx = 6
+
+        # Process in chunks: take 14 rows, skip 5 rows
+        while row_idx < len(df_raw):
+            # Check if we have enough rows left
+            end_idx = min(row_idx + 13, len(df_raw))
+
+            # Extract chunk with header in first row
+            chunk = df_raw.iloc[row_idx:end_idx].copy()
+
+            # Set the first row as header
+            header = chunk.iloc[0]
+            chunk = chunk.iloc[1:]
+            # Convert rows that end with "KT" to integers
+            for i in range(len(chunk)):
+                for col in chunk.columns:
+                    if isinstance(chunk.iloc[i, chunk.columns.get_loc(col)], str) and chunk.iloc[i, chunk.columns.get_loc(col)].endswith(" KT"):
+                        # Extract the numeric part and convert to int
+                        value_str = chunk.iloc[i, chunk.columns.get_loc(col)].rstrip(" KT").strip()
+                        try:
+                            chunk.iloc[i, chunk.columns.get_loc(col)] = int(value_str)
+                        except ValueError:
+                            # If conversion fails, keep the original value
+                            pass
+            chunk.columns = header
+
+            # Add to chunks list
+            chunks.append(chunk)
+
+            # Move to next chunk (skip 5 rows after the 14 we just processed)
+            row_idx = end_idx + 7
+
+        # Combine all chunks
+        if chunks:
+            df = pd.concat(chunks, ignore_index=True)
+            # Convert numeric columns to numeric type
+            numeric_columns = ["postalische KE", "online KE\nMeineÖGK", "online KE\nWAHonline"]
+            for col in numeric_columns:
+                if col in df.columns:
+                    df[col] = pd.to_numeric(df[col].replace("-", pd.NA), errors='coerce')
+            return df
+        else:
+            return pd.DataFrame()
+
+    # Process the Excel files
+    df_beilage5 = process_excel_file("../raw_data/2025_Anfrage/Beilage_5.xlsx")
+    df_beilage6 = process_excel_file("../raw_data/2025_Anfrage/Beilage_6.xlsx", sheet_name="F3_2024")
+
     # Print column names to debug
     print("2023 columns:", df_2023.columns.tolist())
     print("Historical columns:", df_historical.columns.tolist())
-    
+    print("Beilage 5 columns:", df_beilage5.columns.tolist())
+    print("Beilage 6 columns:", df_beilage6.columns.tolist())
+
+    # Verify data consistency between Beilage_5 and existing data
+    # First, convert dates to datetime for comparison
+    df_2023["Date"] = pd.to_datetime(df_2023["Date"])
+    df_historical["Date"] = pd.to_datetime(df_historical["Date"])
+
+    # Convert dates in processed files
+    df_beilage5["Date"] = pd.to_datetime(df_beilage5["Monat"])
+    df_beilage6["Date"] = pd.to_datetime(df_beilage6["Monat"])
+
+    df_beilage5 = df_beilage5.rename(
+        columns={
+            "postalische KE": "Postal",
+            "online KE\nMeineÖGK": "OnlineMeine",
+            "online KE\nWAHonline": "OnlineWAH",
+        }
+    )
+    df_beilage6 = df_beilage6.rename(
+        columns={
+            "postalische KE": "Postal",
+            "online KE\nMeineÖGK": "OnlineMeine",
+            "online KE\nWAHonline": "OnlineWAH"
+        }
+    )
+
+    df_beilage5["Bundesland_pretty"] = df_beilage5["ÖGK-LS"].apply(prettify_bundesland)
+    df_beilage6["Bundesland_pretty"] = df_beilage6["ÖGK-LS"].apply(prettify_bundesland)
+
+    # Ensure numeric columns are numeric type
+    numeric_columns = ["Postal", "OnlineMeine", "OnlineWAH"]
+    for df in [df_2023, df_historical, df_beilage5, df_beilage6]:
+        for col in numeric_columns:
+            if col in df.columns:
+                df[col] = pd.to_numeric(df[col].replace("-", pd.NA), errors='coerce')
+
+    # Find overlapping dates between Beilage_5 and existing data
+    overlap_start = df_2023["Date"].min()
+    overlap_end = df_2023["Date"].max()
+
+    # Filter overlapping data
+    df_2023_overlap = df_2023[(df_2023["Date"] >= overlap_start) & (df_2023["Date"] <= overlap_end)]
+    df_beilage5_overlap = df_beilage5[(df_beilage5["Date"] >= overlap_start) & (df_beilage5["Date"] <= overlap_end)]
+
+    # Compare values for overlapping dates
+    for date in df_2023_overlap["Date"].unique():
+        df_2023_date = df_2023_overlap[df_2023_overlap["Date"] == date]
+        df_beilage5_date = df_beilage5_overlap[df_beilage5_overlap["Date"] == date]
+
+        # Compare postal and online values
+        postal_2023 = df_2023_date["Postal"].sum()
+        online_2023 = df_2023_date["OnlineMeine"].sum()
+        online_2023_wah = df_2023_date["OnlineWAH"].sum()
+        postal_5 = df_beilage5_date["Postal"].sum()
+        online_5 = df_beilage5_date["OnlineMeine"].sum()
+        online_5_wah = df_beilage5_date["OnlineWAH"].sum()
+
+        # Assert values match
+        assert abs(postal_2023 - postal_5) < 1e-10, f"Postal values don't match for date {date}"
+        assert abs(online_2023 - online_5) < 1e-10, f"Online values don't match for date {date}"
+        assert abs(online_2023_wah - online_5_wah) < 1e-10, f"Online WAH values don't match for date {date}"
+
+    print("Data consistency check passed: Beilage_5 matches existing data")
+
     # Create grid plots first
     print("Creating grid plots...")
-    create_grid_processing_time_plot(df_2023, df_historical, dark_mode=True)
-    create_grid_processing_time_plot(df_2023, df_historical, dark_mode=False)
-    
+    create_grid_processing_time_plot(df_2023, df_historical, df_beilage6, dark_mode=True)
+    create_grid_processing_time_plot(df_2023, df_historical, df_beilage6, dark_mode=False)
+
     # Create combined plots
     print("Creating combined plots...")
-    create_combined_processing_time_plot(df_2023, df_historical, dark_mode=True)
-    create_combined_processing_time_plot(df_2023, df_historical, dark_mode=False)
-    
+    create_combined_processing_time_plot(df_2023, df_historical, df_beilage6, dark_mode=True)
+    create_combined_processing_time_plot(df_2023, df_historical, df_beilage6, dark_mode=False)
+
     # Get unique Bundesländer
     bundeslaender = df_2023["Bundesland_pretty"].unique()
-    
+
     # Create individual plots for each Bundesland
     for bundesland in bundeslaender:
         print(f"Creating plots for {bundesland}...")
-        
+
         # Create plots in both dark and light mode
-        create_processing_time_plot(df_2023, df_historical, bundesland, dark_mode=True)
-        create_processing_time_plot(df_2023, df_historical, bundesland, dark_mode=False)
+        create_processing_time_plot(df_2023, df_historical, df_beilage6, bundesland, dark_mode=True)
+        create_processing_time_plot(df_2023, df_historical, df_beilage6, bundesland, dark_mode=False)
 
 if __name__ == "__main__":
     main() 
