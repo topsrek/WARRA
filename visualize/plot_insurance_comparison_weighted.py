@@ -3,9 +3,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 import colorsys
+import glob
 
 # Global settings
 OUTPUT_DIR = "../figures/Insurance_Comparison"  # Output directory for the plot
+SV_DATA_DIR = "../data/extras/SV_Jahresberichte"  # Directory containing SV Excel files
 
 # Dictionary to prettify insurance provider names
 prettify_insurance = {
@@ -13,6 +15,47 @@ prettify_insurance = {
     "ÖGK": "ÖGK-Bundesweit",
     "SVS": "SVS-Bundesweit",
 }
+
+def read_insured_population_from_excel():
+    """
+    Read insured population data from Excel files in SV_Veroeffentlichungen directory.
+    Returns a dictionary with insurance providers as keys, containing years and population data.
+    """
+    population_data = {
+        "BVAEB": {},
+        "ÖGK": {},
+        "SVS": {}
+    }
+    
+    # Get all Excel files
+    excel_files = glob.glob(os.path.join(SV_DATA_DIR, "Jahresergebnisse_*.xlsx"))
+    # Filter out files from years 2018 and 2019
+    excel_files = [file for file in excel_files 
+                  if not os.path.basename(file).endswith(('_18.xlsx', '_19.xlsx'))]
+    
+    for file_path in excel_files:
+        try:
+            # Extract year from filename
+            year = f"20{file_path.split('_')[-1].split('.')[0]}"
+            
+            # Read the Excel file
+            df = pd.read_excel(file_path, sheet_name="Tab4", header=None)
+            
+            # Get the row with insured population (B11 for ÖGK, B12 for BVAEB, B13 for SVS)
+            oegk_data = int(df.iloc[10, 1])  # B11
+            bvaeb_data = int(df.iloc[11, 1])  # B12
+            svs_data = int(df.iloc[12, 1])  # B13
+            
+            # Store data for each insurance provider
+            population_data["ÖGK"][year] = {"Gesamt": oegk_data}
+            population_data["BVAEB"][year] = {"Gesamt": bvaeb_data}
+            population_data["SVS"][year] = {"Gesamt": svs_data}
+            
+        except Exception as e:
+            print(f"Error reading {file_path}: {str(e)}")
+            continue
+    
+    return population_data
 
 # VPI data (from /data/extras/VPI/VPI...ods). Average per time period
 VPI_DATA = {
@@ -23,82 +66,14 @@ VPI_DATA = {
     "2023": 130.1,
     "2024Q1-Q3": 133.7, # Average of Q1-Q3 2024
     "2024": 134.0,
-    "2025": 136.8,
 }
 
-# All data from the respective Jahresergebnisse__.xlsx files.
-# Insured population data for each insurance provider
-INSURED_POPULATION = {
-    "BVAEB": {
-        "2020": {
-            "Gesamt": 1091751,
-        },
-        "2021": {
-            "Gesamt": 1109636,
-        },
-        "2022": {
-            "Gesamt": 1128466,
-        },
-        "2023": {
-            "Gesamt": 1150006,
-        },
-        "2024": {
-            "Gesamt": 1177976,
-        },
-        "2024Q1-Q3": lambda: {
-            k: int(v) for k, v in INSURED_POPULATION["BVAEB"]["2024"].items()
-        },
-        "2025": lambda: {
-            k: int(v * 1.008) for k, v in INSURED_POPULATION["BVAEB"]["2024"]().items()
-        },
-    },
-    "ÖGK": {
-        "2020": {
-            "Gesamt": 7278574,
-        },
-        "2021": {
-            "Gesamt": 7314435,
-        },
-        "2022": {
-            "Gesamt": 7419582,
-        },
-        "2023": {
-            "Gesamt": 7484358,
-        },
-        "2024": {
-            "Gesamt": 7506759,
-        },
-        "2024Q1-Q3": lambda: {
-            k: int(v) for k, v in INSURED_POPULATION["ÖGK"]["2024"].items()
-        },
-        "2025": lambda: {
-            k: int(v * 1.008) for k, v in INSURED_POPULATION["ÖGK"]["2024"]().items()
-        },
-    },
-    "SVS": {
-        "2020": {
-            "Gesamt": 1193401,
-        },
-        "2021": {
-            "Gesamt": 1216431,
-        },
-        "2022": {
-            "Gesamt": 1233186,
-        },
-        "2023": {
-            "Gesamt": 1247231,
-        },
-        "2024": {
-            "Gesamt": 1260118,
-        },
-        "2024Q1-Q3": lambda: {
-            k: int(v) for k, v in INSURED_POPULATION["SVS"]["2024"].items()
-        },
-        "2025": lambda: {
-            k: int(v * 1.008) for k, v in INSURED_POPULATION["SVS"]["2024"]().items()
-        },
-    },
-}
+# Read insured population data from Excel files
+INSURED_POPULATION = read_insured_population_from_excel()
+
+# Add 2024Q1-Q3 data using 2024 data directly
+for insurance in ["BVAEB", "ÖGK", "SVS"]:
+    INSURED_POPULATION[insurance]["2024Q1-Q3"] = INSURED_POPULATION[insurance]["2024"]
 
 def get_population_for_year(year, insurance):
     """Get the population data for a specific year and insurance provider"""
