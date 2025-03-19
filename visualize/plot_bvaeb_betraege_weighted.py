@@ -43,8 +43,13 @@ def read_insured_population_from_excel():
             # Read the Excel file
             df = pd.read_excel(file_path, sheet_name="Tab4", header=None)
             
-            # Get the row with insured population (B12 to K12)
-            row_data = df.iloc[11, 1:11].values
+            # Determine which row to use based on filename
+            row_index = 24 if os.path.basename(file_path) == "Jahresergebnisse_20.xlsx" else 11
+            
+            # Get the row with insured population (B12 to K12 or B25 to K25)
+            row_data = df.iloc[row_index, 1:11].values
+
+            #print(year, row_data)
             
             # Create dictionary for this year
             year_data = {
