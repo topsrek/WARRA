@@ -250,14 +250,14 @@ def create_plot(bvaeb_file, oegk_file, svs_file, dark_mode=True, is_updated=Fals
     # Set title and labels based on plot type
     if plot_type == "betraege":
         title_prefix = (
-            "Inflationsbereinigte Wahlarzt Honorarnoten und Refundierungen pro Versicherter im Vergleich"
+            "Inflationsbereinigte Wahlarzthonorarnoten und Refundierungen pro Versichertem im Vergleich"
         )
-        ylabel = "Beträge pro Versicherter (in 2024 Euro)"
+        ylabel = "Beträge pro Versichertem (in 2024 Euro)"
     else:
         title_prefix = (
-            "Inflationsbereinigte, durchschnittliche, nicht erstattete Wahlarzt-Kosten pro Versicherter im Vergleich"
+            "Inflationsbereinigte, durchschnittliche, nicht erstattete Wahlarzt-Kosten pro Versichertem im Vergleich"
         )
-        ylabel = "nicht erstattete Kosten pro Versicherter (in 2024 Euro)"
+        ylabel = "nicht erstattete Kosten pro Versichertem (in 2024 Euro)"
 
     plt.title(
         title_prefix,

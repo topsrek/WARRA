@@ -247,14 +247,14 @@ def create_plot(input_file, dark_mode=True, is_updated=False, plot_type="betraeg
     # Set title and labels based on plot type
     if plot_type == "betraege":
         title_prefix = (
-            "BVAEB - Inflationsbereinigte Wahlarzt Honorarnoten und Refundierungen pro Versicherter"
+            "BVAEB - Inflationsbereinigte Wahlarzthonorarnoten und Refundierungen pro Versichertem"
         )
-        ylabel = "Beträge pro Versicherter (in 2024 Euro)"
+        ylabel = "Beträge pro Versichertem (in 2024 Euro)"
     else:
         title_prefix = (
-            "BVAEB - Inflationsbereinigte, durchschnittliche, nicht erstattete Wahlarzt-Kosten pro Versicherter"
+            "BVAEB - Inflationsbereinigte, durchschnittliche, nicht erstattete Wahlarzt-Kosten pro Versichertem"
         )
-        ylabel = "nicht erstattete Kosten pro Versicherter (in 2024 Euro)"
+        ylabel = "nicht erstattete Kosten pro Versichertem (in 2024 Euro)"
 
     if is_updated:
         title_prefix += " (Aktualisiert 2025)"
